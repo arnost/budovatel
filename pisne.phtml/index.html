@@ -1,0 +1,19 @@
+---
+layout: default
+---
+
+        <h2 class="section__title">Tituly na skladě</h2>
+        <table border="0" cellpadding="10" cellspacing="2" width="600">
+            <thead>
+            <tr>
+                <th>Název</th>
+                <th>Hudba</th>
+                <th>Text</th>
+                <th>Překlad</th>
+            </tr>
+            </thead>
+            {% assign pisne = site.pisne | sort  %}
+            {% for pisen in pisne %}
+                {% include pisen_preview.html %}
+            {% endfor %}
+        </table>

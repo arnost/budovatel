@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<b>{{ page.title }}</b><br>
+{% if page.autor %}
+autor: {{ page.autor }}<br>
+{% endif %}
+{% if page.vydal %}
+vydal: {{ page.vydal }}<br>
+{% endif %}
+
+<br>
+<table width="600">
+    <tr>
+        <td>
+            {{ content }}
+        </td>
+        <td valign="top">
+            {% include media.html %}
+
+        </td>
+    </tr>
+</table>
+{% if page.youtube %}
+{% include youtube.html %}
+{% endif page.youtube %}
+{% include navigation.html %}

@@ -1,0 +1,39 @@
+{% assign image_files = site.static_files | where: "image", true %}
+{% assign page_gif = page.id | append: '.gif' %}
+{% for myimage in image_files %}
+{% if page_gif contains myimage.name %}
+<a href="{{ myimage.path }}">Obrázek gif</a><br/>
+{% endif %}
+{% endfor %}
+
+{% assign image_files = site.static_files | where: "midi", true %}
+{% assign page_gif = page.id | append: '.midi' %}
+{% for myimage in image_files %}
+{% if page_gif contains myimage.name  %}
+<a href="{{ myimage.path }}">Midi</a><br/>
+{% endif %}
+{% endfor %}
+
+{% assign image_files = site.static_files | where: "mp3", true %}
+{% assign page_gif = page.id | append: '.mp3' %}
+{% for myimage in image_files %}
+{% if page_gif contains myimage.name  %}
+<a href="{{ myimage.path }}">mp3</a><br/>
+{% endif %}
+{% endfor %}
+
+{% assign image_files = site.static_files | where: "ps", true %}
+{% assign page_gif = page.id | append: '.ps' %}
+{% for myimage in image_files %}
+{% if page_gif contains myimage.name  %}
+<a href="{{ myimage.path }}">PostScript</a><br/>
+{% endif %}
+{% endfor %}
+
+{% assign image_files = site.static_files | where: "lylipond", true %}
+{% assign page_gif = page.id | append: '.ly' %}
+{% for myimage in image_files %}
+{% if page_gif contains myimage.name  %}
+<a href="{{ myimage.path }}">Lylipond</a>
+{% endif %}
+{% endfor %}

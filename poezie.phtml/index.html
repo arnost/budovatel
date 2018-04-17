@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+        <h2 class="section__title">Tituly na skladě</h2>
+        <table border="0" cellpadding="10" cellspacing="2" width="600">
+            <thead>
+            <tr>
+                <th>Název</th>
+                <th>Autor</th>
+                <th>vydalo</th>
+            </tr>
+            </thead>
+            {% assign poezie = site.poezie | sort  %}
+            {% for poezie in poezie %}
+                {% include poezie_preview.html %}
+            {% endfor %}
+        </table>

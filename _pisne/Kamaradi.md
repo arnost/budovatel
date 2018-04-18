@@ -39,6 +39,9 @@ za srpy a kladiva.
 
 Písničku ovšem krásně nazpíval Olympic se souborem Víta Nejedlého. [mp3](/noty/mp3/Olympik_kamaradi.mp3)
 
+Další úpravy se dočkala při vydáni z roku 2006 na [CD-Pionýrské a budovatelské písně](http://www.levneknihkupectvi.cz/zbozi/cd-pionyrske-a-budovatelske-pisne/)
+[mp3](/noty/mp3/Kamaradi_2006.mp3)
+
 **Originální text:**
 
 

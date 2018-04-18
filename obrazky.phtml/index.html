@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+        <h2>Tituly na skladě</h2>
+        <table border="0" cellpadding="10" cellspacing="2" width="600">
+            {% assign obrazky = site.obrazky | sort  %}
+            {% for obrazek in obrazky %}
+                {% include obrazek_preview.html %}
+            {% endfor %}
+        </table>

@@ -35,8 +35,16 @@ collections:
       output: true
     state:
       output: true
+    obrazky:
+      output: true
 
 defaults:
+  - scope:
+      path: ""
+      type: "obrazky"
+    values:
+      layout: "obrazek"
+      permalink: /obrazky.phtml/:title
   - scope:
       path: ""
       type: "pisne"
@@ -75,6 +83,10 @@ defaults:
       path: "noty/ps"
     values:
       ps: true
+  - scope:
+      path: "img"
+    values:
+      obrazek: true
 
 
 # Exclude from processing.

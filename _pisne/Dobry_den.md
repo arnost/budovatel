@@ -1,7 +1,7 @@
 ---
 title: Dobrý den
 music: Ludvík Podéšt
-text: JRudolf Franz
+text:  Rudolf Franz
 youtube: uuaQJthbpx4
 ---
 

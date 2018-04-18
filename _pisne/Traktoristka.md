@@ -51,3 +51,5 @@ Tys má traktoristka,
 údernice z Pardubic!
 
 nalezeno [zde](http://moucha.bublaba.com/index.php?text=31-traktoristka)
+
+Vzpomínka Vladimíra Vondráčka na tuto píseň z filmu Skandál v obrázárně [zde](http://www.seniortip.cz/?module=article&id_article=4632)

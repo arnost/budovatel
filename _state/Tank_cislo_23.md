@@ -14,4 +14,6 @@ Teprve později jsem se dověděl, že v tomto boji v prvých dnech míru padl i
 
 Zůstal jsem se svým velitelem a s našimi padlými navždy ve vaší zlaté Praze. Postavili jste mě na vysoký žulový podstavec. Jsem zvláštní pomník, a já to vím. Lidé mě mají rádi. Mým hrdinům nosí květiny, ukazují mě dětem a vyprávějí o květnových dnech. Jako před lety rozkvéta kolem mne zjara šeřík, město je stále krásnější, i mír je stále krásnějši a dražší, mír, který jsem přivezl Praze i já, uralský tank č. 23.
 
+Skutečný příběh slavného tanku k poslechu na [ČR: Příběh tanku č. 23](http://www.rozhlas.cz/hrdina/70/_zprava/pribeh-tanku-c-23--1484007)
+
  

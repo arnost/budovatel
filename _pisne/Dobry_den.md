@@ -1,7 +1,8 @@
 ---
 title: Dobrý den
-music: Bedrich Kolihac
-text: Josef Pludik
+music: Ludvík Podéšt
+text: JRudolf Franz
+youtube: uuaQJthbpx4
 ---
 
 1. sloka:

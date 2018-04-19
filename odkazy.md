@@ -20,5 +20,7 @@ Pětidílný cyklus Pavla Klusáka nazvaný Vášeň a zrada: Budovatelská pís
 
 [Podivný showbyznys: Propaganda, agitace a absurdita v české pop-music 70. a 80. let](https://vltava.rozhlas.cz/podivny-showbyznys-propaganda-agitace-a-absurdita-v-ceske-pop-music-70-a-80-let-6951623)
 Pětidílný seriál Pavla Klusáka
+
+[padesatky.info](http://padesatky.ffa.vutbr.cz/) Obsáhlý server věnovaný vizuální kultuře padesátých let.
    
 

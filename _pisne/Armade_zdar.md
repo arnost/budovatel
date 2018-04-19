@@ -2,6 +2,7 @@
 title: Armádě zdar
 music: Radim Drejsl
 text: M. Zachata
+youtube: lr8jiTjUb_s
 ---
 
   

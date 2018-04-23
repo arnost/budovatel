@@ -1,0 +1,16 @@
+---
+title: Provolání vlády k boji proti mandelince bramborové
+---
+
+Naši pracující rolníci a s nimi celý národ denně a s radostnou nadějí a starostlivostí opatrného hospodáře přehlížejí, jak zraje obilí a jaká bude úroda okopanin a pícnin a připravují se společně za účasti našeho lidu k druhým žním pětiletky. A právě ve chvíli radostných příprav k zahájení sklizně celoroční budovatelské práce malých a středních rolníků přicházejí ze západu a jihozápadu republiky zprávy o vážném ohrožení letošní úrody brambor mandelinkou bramborovou.Tento nebezpečný škůdce bramborových kultur objevil se u nás v nevelikém počtu obcí i v minulých letech. Soustředěnému úsilí rolníků, mládeže, občanů a lidové správy postižených obcí a úsilí výzkumníků se podařilo za vydatného použití bohatých sovětských zkušeností a za ochotné, bratrské a několikaleté účasti sovětských znalců postupně nebezpečného škůdce lokalizovat a nakonec i likvidovat. Již loni bylo ohrožení mandelinkou prakticky zdoláno.Letos byly pojednou během několika dnů zachváceny mandelinkou bramborovou hromadně a současně všechny západní a jihozápadní oblasti republiky hraničící s okupačními pásmy západního Německa a mandelinka se z nich šíří i do ostatních oblastí státu. V západních oblastech se mandelinka neobjevila jenom na polích, ale i na náměstích, ulicích a domovských dvorech měst a v řadě okresů vyskytuje se převážně okolo cest a silnic. Byly také nalezeny krabičky a lahvičky naplněné tímto broukem. To všechno je nezvratným důkazem, že nynější mandelinkové nebezpečí nemohlo vzniknout přirozeným a obvyklým způsobem, ale že nebezpečný škůdce byl k nám dopraven uměle, záměrně a hromadně pomocí mraků a větrů západními imperialisty, jakož i pomocí jejich záškodnických agentů k nám vyslaných.Tento bezpříkladný útok na existenci našich rolníků a všeho našeho mírumilovného lidu je otřásající obžalobou imperialistů ohrožujících svět atomovou pumou a používajících v míru stejně podlých a zločinných zbraní, jakých použili nacističtí útočníci ve válce, v otravných plynech a japonští fašisté v epidemických bakteriích. Je to zločinný pokus kapitalistických vykořisťovatelů snižujících systematicky životní úroveň svého pracujícího lidu ohrozit proces zvyšování blahobytu pracujícího lidu Československa.
+
+Nás pracující lid odmítne s odporem a hnusem tento zločinný pokus o zničení úrody a přibije jej před celým kulturním světem na pranýř. Postará se, aby úplně ztroskotal, a odpoví na něj velkým a hromadným bojem proti mandelince, zločinně k nám dopravované, a odhalí pravou tvář imperialistů a válečných štváčů a jejich zrůdných agentů.
+
+Není pochyb o tom, že náš lid co nejrychlejším a nejpečlivějším splněním tohoto vlasteneckého úkolu zachrání beze ztrát důležitou plodinu pro naši národní výživu a nepostradatelné krmivo pro živočišnou výrobu, a tím, že upevní republiku, přesvědčí nepřátele o marnosti snah znemožnit nám budovatelské úspěchy a přispěje k posílení mohutné fronty míru vedené velkým Sovětským svazem.
+
+
+Obsáhlou studii k tématu vydal ÚSTR
+[Kampaň proti „americkému brouku“  a její politické souvislosti](https://www.ustrcr.cz/data/pdf/pamet-dejiny/0801-22-38.pdf)
+
+Krásná studie k tématu též k nalezení zde:
+[Bramborouci v Čechách](http://padesatky.ffa.vutbr.cz/19491950/45-bramborouci-v-cechach)

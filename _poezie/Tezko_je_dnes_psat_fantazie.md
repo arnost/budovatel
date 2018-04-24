@@ -35,4 +35,4 @@ ten žvejkat gumu nebude.
 
 ![Dikobraz 1959/38](/img/poezie/dikobraz_1959_38.jpg)
 
-Více o dobývání měsíce viz [Autogram na rubu Měsíce](http://padesatky.ffa.vutbr.cz/19591960/49-autogram-na-rubu-mesice)
+Více o mírovém dobývání Měsíce viz [Autogram na rubu Měsíce](http://padesatky.ffa.vutbr.cz/19591960/49-autogram-na-rubu-mesice)

@@ -20,7 +20,7 @@ jsem jako vy, úderníci.
 
 Když měšťák cpal se vepřovou,  
 po mně prsk leda slinou   
-- nebyla mu dost fajnovou   
+\- nebyla mu dost fajnovou   
 ženská vonící dřinou,
 
 

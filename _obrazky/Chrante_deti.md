@@ -1,5 +1,6 @@
 ---
 name: Chraňte děti!
+galery: true
 ---
 
 Sbírka zápalkových nálepek s bezpečnostní tématikou.

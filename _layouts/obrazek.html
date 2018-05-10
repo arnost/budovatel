@@ -3,28 +3,31 @@ layout: default
 ---
 
 <b>{{ page.name }}</b><br>
-
+{% if page.autor %}
+autor: {{ page.autor }}<br>
+{% endif %}
 
 <br>
 {{ content }}
 
+{% if page.galery %}
+    <div id="gallery" style="display:none;">
+    {% assign image_files = site.static_files | where: "obrazek", true %}
+        {% for myimage in image_files %}
+            {% if myimage.path contains page.title %}
+                <img src="{{ myimage.path }}" data-image="{{ myimage.path }}" data-description="">
+            {% endif %}
+        {% endfor %}
+    </div>
 
-<div id="gallery" style="display:none;">
-{% assign image_files = site.static_files | where: "obrazek", true %}
-{% for myimage in image_files %}
-{% if myimage.path contains page.title %}
-    <img src="{{ myimage.path }}" data-image="{{ myimage.path }}" data-description="">
+    <script type="text/javascript">
+
+        jQuery(document).ready(function(){
+            jQuery("#gallery").unitegallery();
+        });
+
+    </script>
 {% endif %}
-{% endfor %}
-</div>
-
-<script type="text/javascript">
-
-    jQuery(document).ready(function(){
-        jQuery("#gallery").unitegallery();
-    });
-
-</script>
 
 
 {% include navigation.html %}

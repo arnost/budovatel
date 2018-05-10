@@ -1,6 +1,6 @@
 ---
 title: Mám chuť žít
-autor: Olympic
+music: Olympic
 youtube: SbUTU0QfL7U
 ---
 

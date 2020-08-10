@@ -1,5 +1,5 @@
 ---
-title: přehrada Vír: A člověk nový zvítězil.
+title: přehrada Vír, A člověk nový zvítězil.
 autor:  Č. V.
 vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce, 1954
 ---

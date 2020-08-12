@@ -30,6 +30,14 @@
 {% endif %}
 {% endfor %}
 
+{% assign image_files = site.static_files | where: "pdf", true %}
+{% assign page_gif = page.id | append: '.pdf' %}
+{% for myimage in image_files %}
+{% if page_gif contains myimage.name  %}
+<a href="{{ myimage.path }}">PDF</a><br/>
+{% endif %}
+{% endfor %}
+
 {% assign image_files = site.static_files | where: "lylipond", true %}
 {% assign page_gif = page.id | append: '.ly' %}
 {% for myimage in image_files %}

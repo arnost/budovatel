@@ -1,64 +1,63 @@
+\version "2.20.0"
 \header {
-        title = "JacÌ jsou ti Ëeπi";
-        composer = "Jan Tausinger";
-	poet = "Miloπ Povondra";
+        title = "Jac√≠ jsou ti ƒçe≈°i"
+        composer = "Jan Tausinger"
+	poet = "Milo≈° Povondra"
 }
 
-melody = \notes \relative c' {        
-\time 2/4;\key a \major;
+melody =  \relative c' { \clef treble         
+\time 2/4
+\key a \major
 \repeat volta 2{
 e8 a4. | b4 d | cis a | e8 a4. | b4 d |
 cis8 e4. | d8 d cis b | a8 e4. | d'8 d cis e |
-a,8 () cis e4 | fis e | d8 cis b4 | a2 |
- <b8 d> <b d> <a8 cis> <gis b> | a8 e4. |  <b'8 d> <b d> <a8 cis> <gis b> 
-a ( < )g a cis> <fis4 ais e'> | <b, d b' fis'> <cis a' e'> | 
-<d8 fis d'> <dis fis cis'> <e4 gis b> | a2 |
+a,8 ( cis ) e4 | fis e | d8 cis b4 | a2 |
+ <b d>8 <b d> <a cis> <gis b> | a8 e4. |  <b' d>8 <b d> <a cis> <gis b> 
+a ( < g a cis> ) <fis ais e'>4 | <b, d b' fis'> <cis a' e'> | 
+<d fis d'>8 <dis fis cis'> <e gis b>4 | a2 |
 }
-e8 <cis4. e a> | <e4 gis b> <e gis d>|  <e a cis> a | 
+e8 <cis e a>4. | <e gis b>4 <e gis d>|  <e a cis> a | 
 e8 a4. | b4 d |
 cis8 e4. | d8 d cis b | a8 e4. | d'8 d cis e |
-a,8 () cis e4 | fis e | d8 cis b4 | a2 |
-<b8 d> <b d> <a8 cis> <gis b> | a4 e |  <b'8 d> <b d> <a8 cis> <gis b> |
-a ( < )g a cis> <fis4 ais e'> | <b, d b' fis'> <cis a' e'> | 
-<d8 fis d'> <dis a' b fis'> <e4 b' d gis> | <a2 ( cis ( e ( a ( > |
-<)a8 )cis )e )a > r r4 
+a,8 ( cis ) e4 | fis e | d8 cis b4 | a2 |
+<b d>8 <b d> <a cis> <gis b> | a4 e |  <b' d>8 <b d> <a cis> <gis b> |
+a ( < g a cis> ) <fis ais e'>4 | <b, d b' fis'> <cis a' e'> | 
+<d fis d'>8 <dis a' b fis'> <e b' d gis>4 | <a  cis  e  a  >2 ~ |
+<a cis e a >8 r r4 
 }
 
-text = \lyrics {
-Ja -- cÌ jsou ti »e -- πi, ja -- cÌ jsou to li -- dÈ, kdy -- bys vπe
--- chny po -- bil, vædy -- cky je -- den zbu -- de, vædy -- cky je --
+text = \lyricmode {
+Ja -- c√≠ jsou ti ƒçe -- ≈°i, ja -- c√≠ jsou to li -- d√©, kdy -- bys v≈°e
+-- chny po -- bil, v≈ædy -- cky je -- den zbu -- de, v≈ædy -- cky je --
 den zbu -- de.
-Kdy -- bys vπe -- chny po -- bil, vædy -- cky je -- den zbu -- de, vædy -- cky je --
+Kdy -- bys v≈°e -- chny po -- bil, v≈ædy -- cky je -- den zbu -- de, v≈ædy -- cky je --
 den zbu -- de.
-Æe uæ ne -- nÌ bÌ --da, æe n·m slun -- ce svÌ -- tÌ, ne -- choÔ -- te
-k~n·m p· -- ni, bu -- de -- te tu bi -- ti, bu -- de -- te tu bi --
+≈Ωe u≈æ ne -- n√≠ b√≠ -- da, ≈æe n√°m slun -- ce sv√≠ -- t√≠, ne -- choƒè -- te
+k~n√°m p√° -- ni, bu -- de -- te tu bi -- ti, bu -- de -- te tu bi --
 ti!
-Ne -- choÔ -- te k~n·m p· -- ni, bu -- de -- te tu bi -- ti, bu -- de
--- te tu bi -- ti!__
+Ne -- choƒè -- te k~n√°m p√° -- ni, bu -- de -- te tu bi -- ti, bu -- de
+-- te tu bi -- ti!~
 }
 
-accompaniment =\chords {
-a2. e4:7 a1 e2:7 a d4 a:7 a2 d4 e:7 a fis:7 b:min a:6 d8 b:7 e4:7 a2
-e a e a4:7 fis:7 b:min a b8:min b:7 e4:7 a2
-a2 e a a e:7 a d4 e:7 a2 d4 e:7 a fis:7 b:min a:6 d8 b:7 e4:7 a2
-e2 a e a4:7 fis:7 b:min a b8:min b:7 e4:7 a2
+accompaniment =\chordmode {
+a2. e4:7 a1 e2:7 a d4 a:7 a2 d4 e:7 a fis:7 b:m a:6 d8 b:7 e4:7 a2
+e a e a4:7 fis:7 b:m a b8:m b:7 e4:7 a2
+a2 e a a e:7 a d4 e:7 a2 d4 e:7 a fis:7 b:m a:6 d8 b:7 e4:7 a2
+e2 a e a4:7 fis:7 b:m a b8:m b:7 e4:7 a2
 		}
 
-                       \score {
-                               \simultaneous {
-                       %         \accompaniment
-                                 \context ChordNames \accompaniment
+\score {
+       <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
+            }
 
-                                 \addlyrics
-                                   \context Staff = mel {
-                                     \property Staff.noAutoBeaming = ##t
-                                     \property Staff.automaticMelismata = ##t
-                                     \melody
-                                   }
-                                   \context Lyrics \text
-                               }
-                               \midi  { \tempo 4=170;}
-                               \paper { linewidth = 20.0\cm; }
-                       }
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+       \midi  { \tempo 4=170}
+       \layout { linewidth = 20.0\cm }
+}
 
 

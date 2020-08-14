@@ -2,7 +2,7 @@
 title: V boj když táhle hrdina Čapajev
 ---
 
-V boj kdž táhle hrdina Čapájev,  
+V boj když táhle hrdina Čapájev,  
 býval zvyklý v čele jít.
 
 Rázně řídil partyzánů boje   

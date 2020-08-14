@@ -1,7 +1,7 @@
 ---
 title: Zítra
-Hudba: Z. Petr
-Slova: V. Dvořák
+music: Z. Petr
+text: V. Dvořák
 ---
 
 Dneska zpívá všecko novou píseň,    

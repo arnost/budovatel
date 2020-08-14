@@ -1,6 +1,7 @@
 \version "2.20.0"
 \header {
-        title = "Ruská lidová partyzánská"
+        title = "V boj když táhle hrdina Čapajev"
+        composer="Ruská lidová partyzánska"
         
 }
 

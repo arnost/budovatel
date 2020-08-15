@@ -1,56 +1,56 @@
+\version "2.20.0"
 \header {
-        title = "Radost zemìdìlce";
-        composer = "";
-	poet = "J. Hilèr";
+        title = "Radost zemÄ›dÄ›lce"
+        composer = "" 
+	poet = "J. HilÄr" 
 }
 
-melody = \notes \relative c'' {        
-\time 4/4;\key es \major;
+melody =  \relative c'' {        
+\clef treble
+\time 4/4 
+\key es \major 
 \repeat volta 2 {
-bes4 c bes as | g2 ( ) bes4 bes | es d bes g8 ( ) f | es2 es4 r |
-bes' c bes as | g2 ( ) bes4 bes | es d bes f8 () g | es2 es4 r | 
+bes4 c bes as | g2 (  bes4 ) bes | es d bes g8 (  f ) | es2 es4 r |
+bes' c bes as | g2 (  bes4 ) bes | es d bes f8 ( g ) | es2 es4 r | 
 <c' as es as,> <c as es as,>  <c as es as,> <bes g es bes>
-<g2 ( e c ( > <)bes4 )g> <bes g e> | 
-<as f><bes g><g es><f d> | <es2 ( es (>  <)g4 )es > <bes g es> |
+<g  e c >2 ( <bes g>4 ) <bes g e> | 
+<as f><bes g><g es><f d> | <es  es >2 ( <g es >4 ) <bes g es> |
 <c as es as,> <c as es as,>  <c as es as,> <bes g es bes>
-<g2 ( e c (> <)bes4 g )cis,> <bes g e> | 
+<g  e c >2 ( <bes g cis,>4 ) <bes g e> | 
 }
 \alternative{{<as f>< bes g es > <g es bes> <f d bes> es2 es4 r
-}{<as4. f> <bes8 g es> <c4 g es bes> <f4 f, d bes> <es2 g, es> <es4
-g, es> r}}
-        \bar "|.";
+}{<as f>4. <bes g es>8 <c g es bes>4 <f f, d bes>4 <es g, es>2 <es
+g, es>4 r}}
+        \bar "|." 
 }
 
-text = \lyrics {
-Po -- mo -- hl jsem p¹en -- ce, a -- by pro mír zrá -- la,
-vy -- ¹el me -- zi ¾en -- ce do ú -- rod -- nıch dá -- lav.
-Vy -- ¹el me -- zi ¾en -- ce do ú -- rod -- nıch dá -- lav.
-Vy -- ¹el me -- zi ¾en -- ce do ú -- rod -- nıch dá -- lav.
-or -- li pøe -- vy -- so -- ko.
+text = \lyricmode {
+Po -- mo -- hl jsem pÅ¡en -- ce, a -- by pro mÃ­r zrÃ¡ -- la,
+vy -- Å¡el me -- zi Å¾en -- ce do Ãº -- rod -- nÃ½ch dÃ¡ -- lav.
+Vy -- Å¡el me -- zi Å¾en -- ce do Ãº -- rod -- nÃ½ch dÃ¡ -- lav.
+Vy -- Å¡el me -- zi Å¾en -- ce do Ãº -- rod -- nÃ½ch dÃ¡ -- lav.
+or -- li pÅ™e -- vy -- so -- ko.
 }
 
-accompaniment =\chords {
-es2. bes4:7 es1 c4:min g:min es bes:7 es2. bes4:7
-es2. bes4:7 es1 c4:min g:min es bes:7 es2. es4:7 as2. es4
-c2 c:7 f4:min es2 bes4:7 es2. es4:7 as2. es4 c2. c4:7
-f4:min es2 bes4:7 es1 f4:min es2 bes4:7 es1
+accompaniment =\chordmode {
+es2. bes4:7 es1 c4:m g:m es bes:7 es2. bes4:7
+es2. bes4:7 es1 c4:m g:m es bes:7 es2. es4:7 as2. es4
+c2 c:7 f4:m es2 bes4:7 es2. es4:7 as2. es4 c2. c4:7
+f4:m es2 bes4:7 es1 f4:m es2 bes4:7 es1
 		}
 
-                       \score {
-                               \simultaneous {
-                       %         \accompaniment
-                                 \context ChordNames \accompaniment
+\score {
+       <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
+            }
 
-                                 \addlyrics
-                                   \context Staff = mel {
-                                     \property Staff.noAutoBeaming = ##t
-                                     \property Staff.automaticMelismata = ##t
-                                     \melody
-                                   }
-                                   \context Lyrics \text
-                               }
-                               \midi  { \tempo 4=180;}
-                               \paper { linewidth = 20.0\cm; }
-                       }
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+       \midi  { \tempo 4=180 }
+       \layout { linewidth = 20.0\cm  }
+}
 
 

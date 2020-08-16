@@ -34,4 +34,6 @@ nestaví domy, staví mír!
 Náš zedník cihlu k cihle klade,  
 píská si při tom "Komandír"...
 
-otištěno v časopise Ukazovatel našich úspěchů a nedostatků, list pracujících národního podniku Vodní stavby, Sezimovo Ústí, 1954
+*otištěno v časopise Ukazovatel našich úspěchů a nedostatků, list pracujících národního podniku Vodní stavby, Sezimovo Ústí, 1954*
+
+"Komandíra", kterou si zedník píská je píseň [V boj když táhle hrdina Čapajev](/pisen.phtml/v_boj_kdyz_tahl_hrdina_capajev)

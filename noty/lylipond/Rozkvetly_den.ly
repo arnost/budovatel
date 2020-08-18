@@ -1,64 +1,62 @@
+\version "2.20.0"
 \header {
-        title = "Rozkvetlı den";
-        composer = "Radim Drejsl";
-	poet = "Miloslav Zachata";
+        title = "RozkvetlÃ½ den" 
+        composer = "Radim Drejsl" 
+	poet = "Miloslav Zachata" 
 }
 
-melody = \notes \relative c'' {        
-\time 4/4;\key es \major;
+melody =  \relative c'' { 
+\clef treble       
+\time 4/4 
+\key es \major 
 c8. es16 c8 r r2 | bes8. c16 bes2. |
 as8 g f g as4 bes | g2. r4 |
 as8 g f g as4 bes | g2 es4 r | es8 d c d es4 f | d2. r4 |
 c'8. es16 c8 r r2 | bes8. c16 bes2. |
 as8 g f g as4 bes | g2. r4 |
 as8 g f g as4 bes | g2 es4 r | es8 d c d es4 f | d1 |
-\key c\major;
+\key c\major 
 e2 d4 c | g'2 r8 g a b | c4 g f e | g2 r8 g a b |
 c4 g f e | a g a g | f a g f8 e | d2. r4 | 
-<e2 g > <a4 d,> <a c,> | <g2 b> r8 <g8 b> <a c> <b d> |
-<c4 e> <c g> <a f> <g e> | <g2 b> r8 <g8 b> <a c> <b d> |
-<c4 e> <c g> <a f> <g c,> | <f8 a > <a4 c> <{a8 () a4}{ c8 () c4}> <a
-f> | d, f f b, | d8 c d e g g a b | <c4 e> <c g> <a f> <g c,> | <f8 a > <a4 c> <{a8 () a4}{ c8 () c4}> <a
-f> | d, f f <g d'> | c1 |
-
+<e g >2 <a d,>4 <a c,> | <g b>2 r8 <g b>8 <a c> <b d> |
+<c e>4 <c g> <a f> <g e> | <g b>2 r8 <g b>8 <a c> <b d> |
+<c e>4 <c g> <a f> <g c,> | <f a >8 <a c>4 q8 ( q4 )  <a f> | 
+d, f f b, | d8 c d e g g a b | <c e>4 <c g> <a f> <g c,> | <f a >8 <a c>4 q8 ( q4 ) <a f> | d, f f <g d'> | c1 |
 
 }
 
-text = \lyrics {
-Bez chle -- ba nej -- de jíst a bez vo -- dy nej -- de pít,
-bez o -- èí se ne -- dá dí -- vat,
-bez ra -- do -- sti nej -- de ¾ít.
-A» je tak, ne -- bo tak, ze ¾i -- vo -- ta ví -- ce má,
-je -- nom ten kdo ¾i -- vot ¾i -- je, 
-ne¾ ten, kter -- rı ne -- vní -- má.
-®e ka¾ -- dı den za -- èí -- ná tmou, kon -- èí slun -- cem sta -- èí
-se je -- nom tro -- chu po -- roz -- hléd -- nout, 
-ko -- lik je ko -- lem krás,
-dım z~to -- vá -- ren a hou -- fy dì -- tí nad pís -- kem,
-ti -- sí -- cem vì -- cí ¾i -- vot roz -- kvé -- tá a roz -- ví -- jí
-se, roz -- ví -- jí se v~nás, ti -- sí -- cem vì -- cí ¾i -- vot roz
--- kvé -- tá a roz -- ví -- jí se v~nás.
+text = \lyricmode {
+Bez chle -- ba nej -- de jÃ­st a bez vo -- dy nej -- de pÃ­t,
+bez o -- ÄÃ­ se ne -- dÃ¡ dÃ­ -- vat,
+bez ra -- do -- sti nej -- de Å¾Ã­t.
+AÅ¥ je tak, ne -- bo tak, ze Å¾i -- vo -- ta vÃ­ -- ce mÃ¡,
+je -- nom ten kdo Å¾i -- vot Å¾i -- je, 
+neÅ¾ ten, kter -- rÃ½ ne -- vnÃ­ -- mÃ¡.
+Â®e kaÅ¾ -- dÃ½ den za -- ÄÃ­ -- nÃ¡ tmou, kon -- ÄÃ­ slun -- cem sta -- ÄÃ­
+se je -- nom tro -- chu po -- roz -- hlÃ©d -- nout, 
+ko -- lik je ko -- lem krÃ¡s,
+dÃ½m z~to -- vÃ¡ -- ren a hou -- fy dÃ¬ -- tÃ­ nad pÃ­s -- kem,
+ti -- sÃ­ -- cem vÃ¬ -- cÃ­ Å¾i -- vot roz -- kvÃ© -- tÃ¡ a roz -- vÃ­ -- jÃ­
+se, roz -- vÃ­ -- jÃ­ se v~nÃ¡s, ti -- sÃ­ -- cem vÃ¬ -- cÃ­ Å¾i -- vot roz
+-- kvÃ© -- tÃ¡ a roz -- vÃ­ -- jÃ­ se v~nÃ¡s.
 
 }
 
-accompaniment =\chords {
+accompaniment =\chordmode {
 		}
 
-                       \score {
-                               \simultaneous {
-                       %         \accompaniment
-                                 \context ChordNames \accompaniment
+ \score {
+      <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
+            }
 
-                                 \addlyrics
-                                   \context Staff = mel {
-                                     \property Staff.noAutoBeaming = ##t
-                                     \property Staff.automaticMelismata = ##t
-                                     \melody
-                                   }
-                                   \context Lyrics \text
-                               }
-                               \midi  { \tempo 4=120;}
-                               \paper { linewidth = 20.0\cm; }
-                       }
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+         \midi  { \tempo 4=120 }
+         \layout { linewidth = 20.0\cm  }
+ }
 
 

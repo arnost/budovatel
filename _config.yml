@@ -28,6 +28,14 @@ theme: minima
 plugins:
   - jekyll-feed
 
+feed:
+  collections:
+    - pisne
+    - poezie
+    - state
+    - obrazky
+
+
 collections:
     pisne:
       output: true

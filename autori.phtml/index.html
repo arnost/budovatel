@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+        <h2 class="section__title">Autoři</h2>
+{% assign music = site.pisne | map : "music"   %}
+{% assign text = site.pisne   | map : "text"    %}
+{% assign preklad = site.pisne   | map : "preklad"    %}
+{% assign state = site.state   | map : "autor"    %}
+{% assign poezie = site.poezie   | map : "autor"    %}
+{% assign all = music | concat : text | concat : preklad | concat : state | concat : poezie |  uniq   %}
+
+<ul>
+    {% for autor in all %}
+    {% if autor == null  %}
+    {% else %}
+    <li><a id="{{ autor | url_encode }}">{{ autor }}</a></li>
+    {% assign pisne = site.pisne | sort %}
+    {% assign poezie = site.poezie | sort %}
+    {% assign state = site.state | sort %}
+    <ul>
+        {% for a in pisne %}
+            {% if  a.music  == autor or a.text  == autor or a.preklad  == autor %}
+                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+
+        {% for a in poezie %}
+            {% if  a.autor  == autor %}
+                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+
+        {% for a in state %}
+            {% if  a.autor  == autor %}
+                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+
+    </ul>
+    {% endif %}
+    {% endfor %}
+</ul>
+

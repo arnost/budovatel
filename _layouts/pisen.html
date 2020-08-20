@@ -4,13 +4,13 @@ layout: default
 
 <b>{{ page.title }}</b><br>
 {% if page.music %}
-Hudba: {{ page.music }}<br>
+Hudba: <a href="/autori.phtml#{{ page.music | url_encode }}"> {{ page.music }}</a><br>
 {% endif %}
 {% if page.text %}
-text: {{ page.text }}<br>
+text: <a href="/autori.phtml#{{ page.text | url_encode }}"> {{ page.text }}</a><br>
 {% endif %}
 {% if page.preklad %}
-překlad: {{page.preklad}}<br>
+překlad: <a href="/autori.phtml#{{ page.text | url_encode }}"> {{page.preklad}}</a><br>
 {% endif %}
 <br>
 <table width="600">

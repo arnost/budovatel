@@ -4,7 +4,7 @@ layout: default
 
 <b>{{ page.name }}</b><br>
 {% if page.autor %}
-autor: {{ page.autor }}<br>
+autor:<a href="/autori.phtml#{{ page.autor | url_encode }}"> {{ page.autor }} </a>  <br>
 {% endif %}
 
 <br>

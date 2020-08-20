@@ -1,58 +1,57 @@
+\version "2.20.0"
 \header {
-        title = "";
-        composer = "";
-	poet = "";
+        title = "My" 
+        composer = "V√°clav Dobi√°≈°" 
+	poet = "F. Halas" 
 }
 
-melody = \notes \relative c'' {        
-\time 4/4;\key es \major;
-c4 c bes g | c c bes g | d'8 c bes a bes4 g | c r4 r2|
-c4 c bes g | c c bes g | d'8 c bes a bes4 g | c r4 r8 g g g \bar "||";
-\key c \major;
+melody =  \relative c'' { 
+\clef treble
+\time 4/4 \key es \major 
+c4 c bes g | c c bes g | d'8 c bes as bes4 g | c r4 r2|
+c4 c bes g | c c bes g | d'8 c bes as bes4 g | c r4 r8 g g g \bar "||" 
+\key c \major 
 a4 a g g | a2 r8 g g g a4 a c c | a r r8 c c c |
 d4 d c  c | d2 r8 c c c | d4 d e e |  c r r2 | 
 r2 r8 g g g | a4 a g g |
 a4 r4 r8 g g g | a4 a c c | a r r8 c c c |
 d4 d c c | d2 r8 c c c | d4 d e e c r8 r2 
-        \bar "|.";
+        \bar "|." 
 }
 
-text = \lyrics {
+text = \lyricmode {
 
-Bu -- dou -- ctnost n·m ne -- u -- ste -- le, my si sa -- mi u -- ste
+Bu -- dou -- ctnost n√°m ne -- u -- ste -- le, my si sa -- mi u -- ste
 -- lem,
-roz -- dr -- tÌ -- me ne -- p¯Ì -- te -- le po hu -- sit -- sku, po na
--- πem. 
-Z~n·s ni -- kdo uæ se ne -- po -- d· n·π po -- vel k~bo -- ji; Svo --
+roz -- dr -- t√≠ -- me ne -- p≈ô√≠ -- te -- le po hu -- sit -- sku, po na
+-- ≈°em. 
+Z~n√°s ni -- kdo u≈æ se ne -- po -- d√° n√°≈° po -- vel k~bo -- ji  Svo --
 bo -- da!
-Z~n·s ni -- kdo uæ se ne -- po -- d· n·π po -- vel k~bo -- ji; Svo --
+Z~n√°s ni -- kdo u≈æ se ne -- po -- d√° n√°≈° po -- vel k~bo -- ji  Svo --
 bo -- da!
-Z~n·s ni -- kdo uæ se ne -- po -- d· n·π po -- vel k~bo -- ji; Svo --
+Z~n√°s ni -- kdo u≈æ se ne -- po -- d√° n√°≈° po -- vel k~bo -- ji  Svo --
 bo -- da!
-Z~n·s ni -- kdo uæ se ne -- po -- d· n·π po -- vel k~bo -- ji; Svo --
+Z~n√°s ni -- kdo u≈æ se ne -- po -- d√° n√°≈° po -- vel k~bo -- ji  Svo --
 bo -- da!
 }
 
-accompaniment =\chords {
-c2:min g4:min c:min | c2:min g4:min c:min | g1:min | c:min |
-c2:min g2:min | c2:min g4:min c:min | g1:min | c |
-c | c | c | d:min | d:min | d:min | d2:min g | c1 |
-c | c | c | c | d:min | d:min | d:min |d2:min g | c |
+accompaniment =\chordmode {
+c2:m g4:m c:m | c2:m g4:m c:m | g1:m | c:m |
+c2:m g2:m | c2:m g4:m c:m | g1:m | c |
+c | c | c | d:m | d:m | d:m | d2:m g | c1 |
+c | c | c | c | d:m | d:m | d:m |d2:m g | c1 |
 		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+        <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics \text
-        }
-        \midi  { \tempo 4 =150;}
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+        \midi  { \tempo 4 =150 }
+        \layout { linewidth = 18.0\cm  }
 }

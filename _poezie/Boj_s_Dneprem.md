@@ -1,6 +1,6 @@
 ---
 title: Boj s Dněprem
-autor:  Samuil Maršak
+autor:  J. Samuil Maršak
 vydal: Krásný den (SNDK, Praha, 1956)
 ---
 

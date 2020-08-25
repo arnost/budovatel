@@ -1,11 +1,13 @@
+\version "2.20.0"
 \header {
-        title = "Milion pa¾í";
-        composer = "";
-	poet = "";
+        title = "Milion paÅ¾Ã­" 
+        composer = "" 
+	poet = "" 
 }
 
-melody = \notes \relative c' {        
-\time 4/4;\key f;\partial 2;
+melody =  \relative c' {
+\clef treble        
+\time 4/4 \key f \major \partial 2 
 r8 c f a | c4 c c c | c a r8 f f g |
 a4 c a g | f2 r8 c f a | c4 c c c |
 c a r8 c c d | e4. c8 b4. c8 | a2 r8 a g a |
@@ -20,25 +22,25 @@ f r r f a r r a | c4 r r2 | f c4 a |
 g2 f8 r r c | f r r f a r r a | c4 r r2 |
 f2 c4 a | g2 f4 r |
 
-        \bar "|.";
+        \bar "|." 
 }
 
-text = \lyrics {
+text = \lyricmode {
 
-Mi -- li -- on pa -- ¾í v~tmách se vzpja -- lo, 
-èer -- ve -- nı ko -- hout v~støe -- chy vlít! 
-Oè ti -- síc let nás o -- krá -- da -- lo, 
-my jde -- me so -- bì na zpìt vzít.
-A v~ces -- tu svi», kr -- va -- vé ne -- be! 
-Kdo tr -- pí¹, k~nám se dej ha hoj!
-A o -- høát pojï se, ko -- ho ze -- be,
-svìt ho -- øí v~tmách! Nu¾ v~boj! Nu¾ v~boj!
+Mi -- li -- on pa -- Å¾Ã­ v~tmÃ¡ch se vzpja -- lo, 
+Äer -- ve -- nÃ½ ko -- hout v~stÅ™e -- chy vlÃ­t! 
+OÄ ti -- sÃ­c let nÃ¡s o -- krÃ¡ -- da -- lo, 
+my jde -- me so -- bÄ› na zpÄ›t vzÃ­t.
+A v~ces -- tu sviÅ¥, kr -- va -- vÃ© ne -- be! 
+Kdo tr -- pÃ­Å¡, k~nÃ¡m se dej ha hoj!
+A o -- hÅ™Ã¡t pojÄ se, ko -- ho ze -- be,
+svÄ›t ho -- Å™Ã­ v~tmÃ¡ch! NuÅ¾ v~boj! NuÅ¾ v~boj!
 
-Hoj, dru -- zi v~kra -- ji, v~mì -- stì, 
-svou bí -- du v~pla -- men vne -- ste!
-Èim kdo's byl rab, v¹e -- cko spal.
-Pryè s~ka -- pi -- tá -- lem bur -- ¾o -- a -- si -- í,
-pryè s~o -- tro -- ctvím a ty -- ra -- ni -- í!
+Hoj, dru -- zi v~kra -- ji, v~mÄ› -- stÄ›, 
+svou bÃ­ -- du v~pla -- men vne -- ste!
+Äim kdo's byl rab, vÅ¡e -- cko spal.
+PryÄ s~ka -- pi -- tÃ¡ -- lem bur -- Å¾o -- a -- si -- Ã­,
+pryÄ s~o -- tro -- ctvÃ­m a ty -- ra -- ni -- Ã­!
 A v~boj, a v~boj, a v~boj.
 Za Sov -- de -- pi -- i!
 A v~boj, a v~boj, a v~boj.
@@ -46,22 +48,19 @@ Za Sov -- de -- pi -- i!
 
 }
 
-accompaniment =\chords {
+accompaniment =\chordmode {
 		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+         <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics \text
-        }
-        \midi  { \tempo 4 =150;}
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+        \midi  { \tempo 4 =150 }
+        \layout { linewidth = 18.0\cm  }
 }

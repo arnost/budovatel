@@ -1,54 +1,56 @@
+\version "2.20.0"
 \header {
-        title = "Hymna sovìtského svazu";
-        composer = "A. V. Alexandrov";
-	poet = "S. Michalkov, El-Registan";
+        title = "Hymna sovÄ›tskÃ©ho svazu" 
+        composer = "A. V. Alexandrov" 
+	poet = "S. Michalkov, El-Registan" 
 }
 
-melody = \notes \relative c' {
-        \time 4/4;\key bes;
-	\partial 8;
+melody =  \relative c' {
+        \clef treble
+        \time 4/4 \key bes \major 
+	\partial 8 
 	f8 | 
-	\repeat folder 2 {
+	\repeat volta 2 {
 	bes4 f8. g16 a4 d,8 d | g4 f8. es16 f4 bes,8. bes16 |
 	c4 c8. d16 es4 es8 f | g4 a8. bes16 c4. f,8 | d'4 c8. bes16 c4
         a8 f |  bes4 a8. g16 a4 d,8 d | g4 f8. es16 f4 bes,8. bes16 |
-        bes'4 a8. g16 f2 | d' [ c8 () bes ] [ a () bes ] c4. f,8 f2 | 
-	bes [a8 () g ] [f()g] | a4. d,8 d4 r | bes'4 g8. a16 bes4
-        g8. a16 | bes4 g8. bes16 es2 | es2 [d8 () c] [ bes () c ] |
-	d4. bes8 bes2 | c2 [ bes8 () a] [g ()a ] | bes4. g8 g2 |
+        bes'4 a8. g16 f2 | d'  c8 ( bes )   a ( bes )  c4. f,8 f2 | 
+	bes a8 ( g ) f (g )  | a4. d,8 d4 r | bes'4 g8. a16 bes4
+        g8. a16 | bes4 g8. bes16 es2 | es2 d8 ( c )  bes ( c )  |
+	d4. bes8 bes2 | c2  bes8 ( a ) g ( a )  | bes4. g8 g2 |
 	bes4 a8 g f4 bes,8. bes16 | }
-	\alternative{{ bes'4 a8. g16 f4 r8 f }{f2 g4 a | bes1 (|) bes8 r
+	\alternative{{ bes'4 a8. g16 f4 r8 f }{f2 g4 a | bes1 ~| bes8 r
         r4 r2 }}
-	        \bar "|.";
+	        \bar "|." 
 }
 
-text = \lyrics {
-Kol Ru -- si ve -- li -- ké teï  re -- pu -- blik vol -- nıch zní
-je -- dno -- ty na vì -- ky svo -- bod -- nı hlas, to z~ná -- ro -- dù
-vù -- le je svaz ne -- roz -- bor -- nı. A» ¾i -- je ná¹ mo -- hut --
-nı So -- vìt --  skı Svaz!
-Slá -- va ti ot -- èi -- no, ty na -- ¹e svo -- bod -- ná, v~ní dru¾
--- by ná -- ro -- dù o -- po -- ra tkví! A» pra -- por so -- vì -- tù,
-a» pra -- por li -- do -- vı nás od ví -- tìz -- ství ve -- de k~ví --
-tìz -- ství.
+text = \lyricmode {
+Kol Ru -- si ve -- li -- kÃ© teÄ  re -- pu -- blik vol -- nÃ½ch znÃ­
+je -- dno -- ty na vÄ› -- ky svo -- bod -- nÃ½ hlas, to z~nÃ¡ -- ro -- dÅ¯
+vÅ¯ -- le je svaz ne -- roz -- bor -- nÃ½. AÅ¥ Å¾i -- je nÃ¡Å¡ mo -- hut --
+nÃ½ So -- vÄ›t --  skÃ½ Svaz!
+SlÃ¡ -- va ti ot -- Äi -- no, ty na -- Å¡e svo -- bod -- nÃ¡, v~nÃ­ druÅ¾
+-- by nÃ¡ -- ro -- dÅ¯ o -- po -- ra tkvÃ­! AÅ¥ pra -- por so -- vÄ› -- tÅ¯,
+aÅ¥ pra -- por li -- do -- vÃ½ nÃ¡s od vÃ­ -- tÄ›z -- stvÃ­ ve -- de k~vÃ­ --
+tÄ›z -- stvÃ­.
 }
 
-slovak = \lyrics {
-Oj veè -- né sú pev -- nos» a slo -- bo -- da Svä -- zu, èo na ve -- ky 
-spo -- ji -- la mo -- hut -- ná Rus, vstal z~ná -- ro -- dov vô -- le a tie ho
-aj strá -- ¾ia, nu¾ slá -- va mu slá -- va a v¾dy je -- mu slú¾.
-Slá -- va ti ot -- èi -- na, vlas» na -- ¹a slo -- bo -- dná,
-zá¹ -- ti -- tu ná -- dej -- nú rod v~te -- be má, zás -- ta -- va so
--- viet-- ska, zá -- sta -- va µu -- do -- vá nech nám v¾dy ví -- »a
--- stvá ve -- li -- ké dá!
+slovak = \lyricmode {
+Oj veÄ -- nÃ© sÃº pev -- nosÅ¥ a slo -- bo -- da SvÃ¤ -- zu, Äo na ve -- ky 
+spo -- ji -- la mo -- hut -- nÃ¡ Rus, vstal z~nÃ¡ -- ro -- dov vÃ´ -- le a tie ho
+aj strÃ¡ -- Å¾ia, nuÅ¾ slÃ¡ -- va mu slÃ¡ -- va a vÅ¾dy je -- mu slÃºÅ¾.
+SlÃ¡ -- va ti ot -- Äi -- na, vlasÅ¥ na -- Å¡a slo -- bo -- dnÃ¡,
+zÃ¡Å¡ -- ti -- tu nÃ¡ -- dej -- nÃº rod v~te -- be mÃ¡, zÃ¡s -- ta -- va so
+-- viet-- ska, zÃ¡ -- sta -- va Âµu -- do -- vÃ¡ nech nÃ¡m vÅ¾dy vÃ­ -- Å¥a
+-- stvÃ¡ ve -- li -- kÃ© dÃ¡!
 }
 
-accompaniment =\chords {
-r8 \repeat folder 2 {
- bes2 d-min es bes c-min es c-7 f-7
-bes f g-min d-min es bes c-7 f-7
-bes1  f     g-min  d-min es es
-es    g-min c-min g-min es2 bes
+accompaniment =\chordmode {
+s8 \repeat volta 2 {
+ bes2 d:m es bes c:m es c:7 f:7
+bes f g:m d:m es bes c:7 f:7
+bes1  f     g:m  d:m es es
+es    g:m c:m g:m es2 bes
 }
 \alternative { {es2 f}{
 f2 es4 f bes1.}}  
@@ -56,19 +58,17 @@ f2 es4 f bes1.}}
 		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+        <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics < \text \slovak>
-        }
-        \midi  { \tempo 4 =120; }
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+          \new Lyrics \lyricsto "one" \slovak
+       >>
+        \midi  { \tempo 4 =120  }
+        \layout { linewidth = 18.0\cm  }
 }
 

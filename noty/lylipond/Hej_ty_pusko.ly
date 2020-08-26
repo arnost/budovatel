@@ -1,53 +1,52 @@
+\version "2.20.0"
 \header {
-        title = "Hej ty puπko";
-        composer = "E. Toman";
-	poet = "J. Mareπ";
+        title = "Hej ty pu≈°ko" 
+        composer = "E. Toman" 
+	poet = "J. Mare≈°" 
 }
 
-melody = \notes \relative c'' {
-        \time 2/4;\key d;
+melody = \relative c'' {
+        \clef treble
+        \time 2/4 \key d \major
 a4. g8 | fis4 a | d4. e8 | d4 b | a b |
-a d, | e2 ( | ) a | a4. g8 | fis4 a | d4. e8 | d4 b |
+a d, | e2  ( |  a  ) | a4. g8 | fis4 a | d4. e8 | d4 b |
 a fis | e a | d, r | r2 | e4. g8 | fis4 e |
-fis4. a8 | g4 fis | b4. cis8 | d4 e | fis2 ( | ) fis8 r8 r4 |
+fis4. a8 | g4 fis | b4. cis8 | d4 e | fis2 ~ |  fis8 r8 r4 |
 fis4. e8 | d4 b | a4. b8 | a4 fis | e4. fis8 | g4 b |
-a2 ( | ) a8 r r4 | fis'4. e8 | d4 b | a4. b8 | a4 fis |
+a2 ~ |  a8 r r4 | fis'4. e8 | d4 b | a4. b8 | a4 fis |
 b cis | d e | d8 r r4 
-        \bar "|.";
+        \bar "|." 
 }
 
-text = \lyrics {
-Hej, ty puπ -- ko, puπ -- ko, mo -- je, jak j· 
-tÏ m·m r·d, Ëe -- ka -- jÌ n·s tÏæ -- kÈ bo -- je,
-p˘ -- jdem bo -- jo -- vat.
-Kdyæ uæ p˘ -- jdem ne -- d· -- me  se,
-bu -- dem svor -- nÏ st·t,
-vΩste -- pÌch ho -- r·ch ne -- bo vΩle -- se bu -- de -- me se rv·t.
-vΩste -- pÌch ho -- r·ch ne -- bo vΩle -- se bu -- de -- me se rv·t.
+text = \lyricmode {
+Hej, ty pu≈° -- ko, pu≈° -- ko, mo -- je, jak j√° 
+tƒõ m√°m r√°d, √®e -- ka -- j√≠ n√°s tƒõ≈æ -- k√© bo -- je,
+p≈Ø -- jdem bo -- jo -- vat.
+Kdy≈æ u≈æ p≈Ø -- jdem ne -- d√° -- me  se,
+bu -- dem svor -- nƒõ st√°t,
+v~ste -- p√≠ch ho -- r√°ch ne -- bo v~le -- se bu -- de -- me se rv√°t.
+v~ste -- p√≠ch ho -- r√°ch ne -- bo v~le -- se bu -- de -- me se rv√°t.
 }
 
-accompaniment =\chords {
+accompaniment =\chordmode {
 d1  g  d4 g 
-d2 g a-7 d1 g 
-d2 g4 a-7 d1 a-7
-d g2 e4-min a-7 d1.
-g2 d1 a d1. g2 d1 g2 e4-min a-7 d2
+d2 g a:7 d1 g 
+d2 g4 a:7 d1 a:7
+d g2 e4:m a:7 d1.
+g2 d1 a d1. g2 d1 g2 e4:m a:7 d2
 		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+        <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics \text
-        }
-        \midi  { \tempo 4 =120; }
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+        \midi  { \tempo 4 =120  }
+        \layout { linewidth = 18.0\cm  }
 }
 

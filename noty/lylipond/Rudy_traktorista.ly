@@ -1,61 +1,61 @@
+\version "2.20.0"
 \header {
-        title = "Rud˝ traktorista";
-        composer = "E. F. Burian";
-	poet = "E. F. Burian";
+        title = "Rud√Ω traktorista" 
+        composer = "E. F. Burian" 
+	poet = "E. F. Burian" 
 }
 
-melody = \notes \relative c' {
-        \time 4/4;\key f;
-\repeat folder 2 {d4 f d f | e2 r | d4 f d f | e4 r r2 |
+melody =  \relative c' {
+        \clef treble
+        \time 4/4 \key f \major 
+\repeat volta 2 {d4 f d f | e2 r | d4 f d f | e4 r r2 |
 d4 f d f | g2 bes | }
 \alternative {{a4 g f e | d r r2 }  
 {a'4 a b cis |}}
-d'1 | f | e2 d | 
+d1 | f | e2 d | 
 g,4 a bes r | r bes c d | e1 | d2 c |
 f,4 g a2 | r4 a bes c | d1 | c2 bes | 
 e,4 f g2 | r2 bes | a2 a | b4 a b cis | 
 d4 r r2 | r1 
-        \bar "|.";
+        \bar "|." 
 }
 
-text = \lyrics {
-R· -- no do po -- lÌ ces -- ta pod ko -- ly
-bÏ -- æÌ aæ to pr· -- πÌ p¯es ho -- ry do -- ly.
-jak æ· -- dn· ji -- n·. ZpÌ -- va -- jÌ
-sk¯i -- va -- ni a  trak -- tor tÌm rych -- lej 
-u -- h· -- nÌ a ran -- nÌ slu -- nÌË -- ko zΩo -- bla -- k˘
-se di -- vÌ to -- mu z· -- zra -- ku.
+text = \lyricmode {
+R√° -- no do po -- l√≠ ces -- ta pod ko -- ly
+bƒõ -- ≈æ√≠ a≈æ to pr√° -- ≈°√≠ p≈ôes ho -- ry do -- ly.
+jak ≈æ√° -- dn√° ji -- n√°. Zp√≠ -- va -- j√≠
+sk≈ôi -- va -- ni a  trak -- tor t√≠m rych -- lej 
+u -- h√° -- n√≠ a ran -- n√≠ slu -- n√≠ƒç -- ko z~o -- bla -- k≈Ø
+se di -- v√≠ to -- mu z√° -- zra -- ku.
 }
 
-text_ii = \lyrics {
-Na -- πe ma -- πi -- na, pa -- ne, ta to zn·,
-ta po -- ly -- k· l· -- ny
+text_ii = \lyricmode {
+Na -- ≈°e ma -- ≈°i -- na, pa -- ne, ta to zn√°,
+ta po -- ly -- k√° l√° -- ny
 }
 
-accompaniment =\chords {
-\repeat folder 2 {d1-min a-7 d-min a-7
-d-min g-min}
-\alternative{{ a-7 d-min}
-{a-7}} d-min bes a2-7 d-min
-g1-min g-min c c 
-d-min d-min bes bes a-7
-a-7 a-7 a-7 d-min
+accompaniment =\chordmode {
+\repeat volta 2 {d1:m a:7 d:m a:7
+d:m g:m}
+\alternative{{ a:7 d:m}
+{a:7}} d:m bes a2:7 d:m
+g1:m g:m c c 
+d:m d:m bes bes a:7
+a:7 a:7 a:7 d:m
 		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+         <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics <\text \text_ii >
-        }
-        \midi  { \tempo 4 =200; }
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+          \new Lyrics \lyricsto "one" \text_ii
+       >>
+        \midi  { \tempo 4 =200  }
+        \layout { linewidth = 18.0\cm  }
 }
 

@@ -1,5 +1,5 @@
 ---
-title: Stalin.md
+title: Dříve a nyní
 autor: A. Peterka
 vydal: Valcíř, časopis zaměstnanců n. p. Kovohutě, Břidličná, 1954
 ---

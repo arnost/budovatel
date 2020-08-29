@@ -1,6 +1,6 @@
 ---
 title: Pohřební pochod ruských revolucionářů
-text: V. G. Archangelskij
+text: A. Archangelskij
 preklad: Jan Urban
 ---
 
@@ -40,8 +40,10 @@ každá smrt zmnoží odboj utištěných,
 to vašeho příkladu zásluha jest,  
 za ni zazní vám pozdrav ,,Práci čest!''
 
+
 Píseň má v ruštině mnoho textových variant. Autor hudby je neznámý, o autorovi textu se toho také příliš neví. Viz zajímá stránka (v ruštině) (http://a-pesni.org/starrev/vygertvoju.htm)[http://a-pesni.org/starrev/vygertvoju.htm]
-  
+Jan Urban sice uvádí inicály autora V. G. Archangelskij, ale z ruských zdrojů je jasné, že se jedná o A. Archangelského, což byl pseudonym básníka Antona Aleksandorviče Amosova, viz výše a tež (zde)[https://writers.aonb.ru/amosov-a.a.html], jehož biografie je poměrně chudá.
+
 
 **Вы жертвою пали**
 

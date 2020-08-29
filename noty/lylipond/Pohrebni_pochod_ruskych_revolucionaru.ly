@@ -1,52 +1,50 @@
+\version "2.20.0"
 \header {
-        title = "Pohøební pochod ruskıch revolucionáøù";
-        composer = "";
-	poet = "";
+        title = "PohÅ™ebnÃ­ pochod ruskÃ½ch revolucionÃ¡Å™Å¯" 
+        composer = "" 
+	poet = "" 
 }
 
-melody = \notes \relative c' {        
-\time 4/4;\key g;
-\partial 8;
-e8 | b'4 [ a16 () g ] [ fis ( ) e ] b'4  [a16 () g ] [ fis () e ]
-fis4 fis8. fis16 fis4 r8 fis8 | a4 b8 c [ b () a ] g fis |
-[ e () g ] [ b () g ] e4 r8 e | b'4 [a16 () g ] [fis () e] b'4 [a16 ()
-g ] [fis () e] | fis4 fis8. fis16 fis4 r8 fis8 | a4 c8 a g4 fis8 fis |
-[e8 () g] [b () g ] e4 r8 b' | d4 d8. d16 d4 e8. e16 |
+melody =  \relative c' {        
+\time 4/4 \key g \major
+\partial 8 
+e8 | b'4  a16 ( g )  fis (  e )  b'4  a16 ( g ) fis ( e )
+fis4 fis8. fis16 fis4 r8 fis8 | a4 b8 c  b ( a ) g fis |
+e ( g ) b ( g ) e4 r8 e | b'4 a16 ( g ) fis ( e ) b'4 a16 (
+g ) fis ( e ) | fis4 fis8. fis16 fis4 r8 fis8 | a4 c8 a g4 fis8 fis |
+e8 ( g ) b ( g ) e4 r8 b' | d4 d8. d16 d4 e8. e16 |
 d4 c8. b16 c4 r8 d, | c'4 c8. c16 c4 d8. c16 |
-c4 b8 ais b4 r8 e, | b'4 [a16 ()g ] [ fis () e] b'4 [a16 ()g ] [ fis
-() e] | fis4 fis8. fis16 fis4 r8 fis8 | a4 a8 c8 b a g fis |
-e g b g e4 r8 |
-        \bar "|.";
+c4 b8 ais b4 r8 e, | b'4 a16 ( g ) fis ( e ) b'4 a16 (g ) fis
+( e ) | fis4 fis8. fis16 fis4 r8 fis8 | a4 a8 c8 b a g fis |
+e g b g e4 r |
+        \bar "|." 
 }
 
-text = \lyrics {
-Vy za o -- bì» pad -- li jste v~kru -- tém bo -- ji, za o -- bì» své
-lás -- ky k~v¹em tr -- pí -- cím, 
-vy stá -- li jste za ni -- mi du -- ¹í svo -- jí,
-svou ctí, svo -- bo -- dou svo -- jí, ¾i -- tím svım.
-Po lé -- ta  jste chøad -- li v~¾a -- lá -- øích te -- mnıch, tam kat u --
-ko -- val vás v~¾e -- le -- zech pev -- nıch, tam pou -- ta vám øin -- èe -- la
-v~pøí -- ¹er -- nı kout, tam vy -- økli jste nad ty -- ra -- nem spra
--- ved -- li -- vı soud.
+text = \lyricmode {
+Vy za o -- bÄ›Å¥ pad -- li jste v~kru -- tÃ©m bo -- ji, za o -- bÄ›Å¥ svÃ©
+lÃ¡s -- ky k~vÅ¡em tr -- pÃ­ -- cÃ­m, 
+vy stÃ¡ -- li jste za ni -- mi du -- Å¡Ã­ svo -- jÃ­,
+svou ctÃ­, svo -- bo -- dou svo -- jÃ­, Å¾i -- tÃ­m svÃ½m.
+Po lÃ© -- ta  jste chÅ™ad -- li v~Å¾a -- lÃ¡ -- Å™Ã­ch te -- mnÃ½ch, tam kat u --
+ko -- val vÃ¡s v~Å¾e -- le -- zech pev -- nÃ½ch, tam pou -- ta vÃ¡m Å™in -- Äe -- la
+v~pÅ™Ã­ -- Å¡er -- nÃ½ kout, tam vy -- Å™kli jste nad ty -- ra -- nem spra
+-- ved -- li -- vÃ½ soud.
 }
 
-accompaniment =\chords {
+accompaniment =\chordmode {
 		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+       <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics \text
-        }
-        \midi  { \tempo 4 =100;}
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+        \midi  { \tempo 4 =100 }
+        \layout { linewidth = 18.0\cm  }
 }
 

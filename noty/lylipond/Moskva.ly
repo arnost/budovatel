@@ -1,64 +1,62 @@
+\version "2.20.0"
 \header {
-        title = "Moskva";
-        composer = "Dan. a DM. Pokrass";
-	poet = "V. Lebedìv=Kumaè";
+        title = "Moskva" 
+        composer = "Dan. a DM. Pokrass" 
+	poet = "V. LebedÄ›v-KumaÄ" 
 }
 
-melody = \notes \relative c'' {        
-\time 4/4;\key as;\partial 1/4;
-c8 bes | as4 f2 e8 f | g4 c, ( ) c8 r c' bes |
-as4 f < f'4.des > < es8 c > | < {des2 ( ) des8} {bes2 ( ) bes8} > r8
-es des | c4. as8 des4 c | bes g ( ) g8 r c bes | as4. f8 e4 f | g2 ( )
-g8 r c bes | as4 f2 e8 f | g4 c, () c8 r c' bes | as4 f < f'4. des4. > <
-es8 c > | < {des2 ( ) des8} {bes2 ( ) bes8} > r8
-es des | c4. as8 des4 c | bes g ( ) g8 r c bes | 
-as4. c8 g4 as | f2 ( ) f8 r es4 | c'8. bes16 as4 () as8 r es4 | 
-<des'8. bes8.> <c16 as16 > <{bes4 () bes8 }{ g4 () g8 }> r8 es,4 | 
-g4. bes8 des4 < des f>  | <{es8. des16 c4 () c8 }{ c8. bes16 as4 ()
-as8}> r8 es,4 | 
-c'8. bes16 as4 () as8 r as4 | <{f8. a 16 des4 () des 8 }{des8. es16 f4
-() f8 }> r8 f4 | es8. des16 c8 es8 des4 bes4 | as2 () as8 r 
-        \bar "|.";
+melody =  \relative c'' {        
+\clef treble
+\time 4/4 \key as \major \partial 4 
+c8 bes | as4 f2 e8 f | g4 c, (  c8 ) r c' bes |
+as4 f < f' des >4. < es c >8 | <des bes>2 ( q8 )  r8
+es des | c4. as8 des4 c | bes g (  g8 ) r c bes | as4. f8 e4 f | g2 ( 
+g8  ) r c bes | as4 f2 e8 f | g4 c, ( c8 ) r c' bes | as4 f < f' des >4. <
+es c >8 | <des bes>2 ( q8 )  r8
+es des | c4. as8 des4 c | bes g (  g8 ) r c bes | 
+as4. c8 g4 as | f2 (  f8 ) r es4 | c'8. bes16 as4 ( as8 ) r es4 | 
+<des' bes>8. <c as >16 <bes g>4 ( q8 )  r8 es,4 | 
+g4. bes8 des4 < des f>  | <es c>8. <des bes>16 <c as >4 ( q8)  r8 es,4 | 
+c'8. bes16 as4 ( as8 ) r as4 | <f des>8. <a es>16 <des f>4 ( q 8)  r8 f4 | 
+es8. des16 c8 es8 des4 bes4 | as2 ( as8 ) r 
+        \bar "|." 
 }
 
-text = \lyrics {
+text = \lyricmode {
 
 
-Ji -- tro nì -- ¾né svìt -- lo dá -- vá 
-v~¹e -- ru sta -- rım Kre -- mlu zdem,
-V~chla -- du rá -- na hbi -- tì vstá -- vá
-so -- vìt -- ská teï v¹e -- chna zem.
-Ze bran le -- tí ván -- ky èi -- lé,
-tep -- ny o -- ¾i -- ví ji¾ tvé,
-do -- bré rá -- no mìs -- to mi -- lé, 
-srd -- ce krá -- sné vla -- sti mé.
-Ty lí -- bez -- ná, 
-v¾dy ví -- tìz -- ná, tvou sí -- lu ka¾ -- dı 
-v~svì -- tì zná, ty vla  -- sti má, ty Mos -- kvo má, 
-tys nej -- sil -- nìj -- ¹í lás -- ka má.
+Ji -- tro nÄ› -- Å¾nÃ© svÄ›t -- lo dÃ¡ -- vÃ¡ 
+v~Å¡e -- ru sta -- rÃ½m Kre -- mlu zdem,
+V~chla -- du rÃ¡ -- na hbi -- tÄ› vstÃ¡ -- vÃ¡
+so -- vÄ›t -- skÃ¡ teÄ vÅ¡e -- chna zem.
+Ze bran le -- tÃ­ vÃ¡n -- ky Äi -- lÃ©,
+tep -- ny o -- Å¾i -- vÃ­ jiÅ¾ tvÃ©,
+do -- brÃ© rÃ¡ -- no mÄ›s -- to mi -- lÃ©, 
+srd -- ce krÃ¡ -- snÃ© vla -- sti mÃ©.
+Ty lÃ­ -- bez -- nÃ¡, 
+vÅ¾dy vÃ­ -- tÄ›z -- nÃ¡, tvou sÃ­ -- lu kaÅ¾ -- dÃ½ 
+v~svÄ› -- tÄ› znÃ¡, ty vla  -- sti mÃ¡, ty Mos -- kvo mÃ¡, 
+tys nej -- sil -- nÄ›j -- Å¡Ã­ lÃ¡s -- ka mÃ¡.
 
 }
 
-accompaniment =\chords {
-f4-min f1-min c1-7 | f2-min f2-7 | bes2-min es2-7 | as1 |
-c1-7 |  f1-min.6.4 | c1-7 | f1-min  c-7 | f2-min f-7 |
-bes-min es-7 | as1 | c-7 | f2-min c-7 | f-min es-7 as1 | es-7 es-7 
-as2 es-7 | as1 des as2-6.4 es-7 as2.
+accompaniment =\chordmode {
+f4:m f1:m c1:7 | f2:m f2:7 | bes2:m es2:7 | as1 |
+c1:7 |  f1:m6.4 | c1:7 | f1:m  c:7 | f2:m f:7 |
+bes:m es:7 | as1 | c:7 | f2:m c:7 | f:m es:7 as1 | es:7 es:7 
+as2 es:7 | as1 des as2:6.4 es:7 as2.
 		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+         <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics \text
-        }
-        \midi  { \tempo 4 =150;}
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+        \midi  { \tempo 4 =150 }
+        \layout { linewidth = 18.0\cm  }
 }

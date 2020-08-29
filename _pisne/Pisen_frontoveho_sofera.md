@@ -33,7 +33,7 @@ kam nás vedla cesta frontová.
 
 *refren*
 
-Píseň samotná vznikla až po válce, na společenskou objednávku v roce 1947,viz  (historie písně)[https://song-story.ru/pesenka-frontovogo-shofera/]
+Píseň samotná vznikla až po válce, na společenskou objednávku v roce 1947,viz  [historie písně](https://song-story.ru/pesenka-frontovogo-shofera/)
 
  
 **Песенка фронтового шофёра**

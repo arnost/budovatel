@@ -37,4 +37,4 @@ dojedem zjisté,
 než odkvete bez.
 
   
-(mp3 polske verze)[/noty/mp3/Ctyri_z_tanku_a_pes_pl.mp3]
+[mp3 polske verze](/noty/mp3/Ctyri_z_tanku_a_pes_pl.mp3)

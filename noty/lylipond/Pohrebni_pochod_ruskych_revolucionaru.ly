@@ -1,7 +1,7 @@
 \version "2.20.0"
 \header {
         title = "Pohřební pochod ruských revolucionářů" 
-        composer = "" 
+        composer = "V. G. Archangelskij" 
 	poet = "" 
 }
 

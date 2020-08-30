@@ -7,40 +7,40 @@ youtube: V5TiyshYd0Q
 ---
 
 
-Nás vzbudilo ráno již chladné,  
-sem od řeky vítr jde blíž.  
-Což ty nemáš radosti žádné,  
-když sirény tón uslyšíš? 
-Jen vzbuď se vstávej, dívko má  
-siréna zní,  
+Nás vzbudilo ráno již chladné,    
+sem od řeky vítr jde blíž.    
+Což ty nemáš radosti žádné,     
+když sirény tón uslyšíš?    
+Jen vzbuď se vstávej, dívko má    
+siréna zní,     
+teď země naše jíti má    
+do nových dní.
+
+Vše v kráse a radosti zpívá,    
+vždy s písničkou práci jde vstříc,   
+se smíchem druh na druha kývá,   
+i zář slunce plá stále víc.   
+ta práce divy vykoná,    
+je síla v ní,     
+teď země naše jíti má    
+do nových dní.
+
+Vše v závodě chápe se prací   
+je v tváři všech zřít veselí,   
+i práce svoutíži teď ztrácí,    
+když plán všecky z nás podělí.   
+A každý z nás se obává    
+být poslední,    
 teď země naše jíti má  
 do nových dní.
 
-Vše v kráse a radosti zpívá,  
-vždy s písničkou práci jde vstříc, 
-se smíchem druh na druha kývá, 
-i zář slunce plá stále víc. 
-ta práce divy vykoná,  
-je síla v ní, 
-teď země naše jíti má  
-do nových dní.
-
-Vše v závodě chápe se prací 
-je v tváři všech zřít veselí, 
-i práce svoutíži teď ztrácí, 
-když plán všecky z nás podělí. 
-A každý z nás se obává  
-být poslední, 
-teď země naše jíti má  
-do nových dní.
-
-A se smělou vítěznou písní, 
-se výsledek nám objeví, 
-my přemohli zlou řadu tísní, 
-nám v práci se vždy uleví. 
-Ať pracovní i milostná nám 
-píseň zní  
-teď země naše jíti má  
+A se smělou vítěznou písní,   
+se výsledek nám objeví,    
+my přemohli zlou řadu tísní,   
+nám v práci se vždy uleví.   
+Ať pracovní i milostná nám   
+píseň zní       
+teď země naše jíti má    
 do nových dní.
 
 *Píseň pochází z dobového propagandistického filmu [Встречный](https://www.youtube.com/watch?v=5u4rcg1kM60) (Brigáda), která se stala velmi populární, zejména mezi mládeží.

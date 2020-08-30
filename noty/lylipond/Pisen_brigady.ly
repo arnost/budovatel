@@ -1,47 +1,45 @@
+\version "2.20.0"
 \header {
-        title = "PÌseÚ brig·dy";
-        composer = "Dmitrij ©ostakoviË";
-	poet = "B. Kornilov";
+        title = "P√≠se≈à brig√°dy" 
+        composer = "Dmitrij ≈†ostakoviƒç" 
+	poet = "B. Kornilov" 
 }
 
-melody = \notes \relative c'' {        
-\time 2/4;\key f;
-\partial 8;
-c8 | c4 d8 c | bes4 a8 g | f4 c ( | ) c r8 c |
-f4 g8 a | bes4 a8 g | c2 ( | ) c4 r8 c | c4 d8 c |
+melody =  \relative c'' {        
+\time 2/4 \key f\major 
+\partial 8 
+c8 | c4 d8 c | bes4 a8 g | f4 c ~|  c r8 c |
+f4 g8 a | bes4 a8 g | c2 ~ |  c4 r8 c | c4 d8 c |
 bes4 a8 g f4 c | r r8 f  | bes4 a8 g | c4 a8 g |
 f2 | r4 r8 f | g4. a8 | bes4. d8 | c4. a8 |
 f4 f' |  d2 | bes2 c | r4 r8 f, | f'4. f8 |
 e4. d8 c4. a8 d4 c | bes2 | g | f | r 
-        \bar "|.";
+        \bar "|." 
 }
 
-text = \lyrics {
-N·s vzbu -- di -- lo r· -- no jiæ chla -- dnÈ, 
-sem od ¯e -- ky vÌ -- tr jde blÌæ. Coæ ty ne -- m·π ra -- do -- sti æ·
--- dnÈ, kdyæ si -- rÈ -- ny tÛn u -- sly -- πÌπ?
-Jen vzbuÔ se vst· -- vej, dÌ -- vko m· si -- rÈ -- na znÌ, teÔ ze --
-mÏ na -- πe jÌ -- ti m· do no -- v˝ch dnÌ.
+text = \lyricmode {
+N√°s vzbu -- di -- lo r√° -- no ji≈æ chla -- dn√©, 
+sem od ≈ôe -- ky v√≠ -- tr jde bl√≠≈æ. Co≈æ ty ne -- m√°≈° ra -- do -- sti ≈æ√°
+-- dn√©, kdy≈æ si -- r√© -- ny t√≥n u -- sly -- ≈°√≠≈°?
+Jen vzbuƒè se vst√° -- vej, d√≠ -- vko m√° si -- r√© -- na zn√≠, teƒè ze --
+m√¨ na -- ≈°e j√≠ -- ti m√° do no -- v√Ωch dn√≠.
 }
 
-accompaniment =\chords {
-r8 f2 c-7 f1. c2-7 f1. c2-7 f1 bes2 c2-7
-f1 bes2 c2-7 f1 bes f bes f2 d2-7 g-min c-7 f
+accompaniment =\chordmode {
+r8 f2 c:7 f1. c2:7 f1. c2:7 f1 bes2 c2:7
+f1 bes2 c2:7 f1 bes f bes f2 d2:7 g:m c:7 f
  		}
 
 \score {
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
-
-          \addlyrics
-            \context Staff = mel {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
+        <<
+         \new ChordNames {
+             \set chordChanges = ##t
+              \accompaniment
             }
-            \context Lyrics \text
-        }
-        \midi  { \tempo 4 =150;}
-        \paper { linewidth = 18.0\cm; }
+
+          \new Voice = "one" { \autoBeamOn \melody }
+          \new Lyrics \lyricsto "one" \text
+       >>
+        \midi  { \tempo 4 =150 }
+        \layout { linewidth = 18.0\cm  }
 }

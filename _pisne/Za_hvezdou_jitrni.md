@@ -40,7 +40,7 @@ Schritt  Arbeiterjugend?  Will sie mit?
 
 МОЛОДАЯ ГВАРДИЯ
 
-Слова Александра Безыменского
+Слова [Александра Безыменского](/autori.phtml/#Alexander+Bezyměnskij)
 
 Вперед, заре навстречу,  
 Товарищи в борьбе!     

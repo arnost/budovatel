@@ -58,3 +58,6 @@ Jezevče, kmotříčku,
 stáhni svoji slinu,   
 pojď s námi nebo spi    
 svoji věčnou zimu!
+
+O pozoruhodné osobnosti Anežky Gorlové více zde:
+[Zákruty života Anežky Gorlové](https://www.kulturni-noviny.cz/nezavisle-vydavatelske-a-medialni-druzstvo/archiv/online/2015/12-2015/550d9bdf7be69)

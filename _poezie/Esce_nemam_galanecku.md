@@ -28,3 +28,6 @@ Milý seje husté rádky,
 milá zrno vozila    
 a ten večer pro milého    
 rozmarínek sadila.
+
+O pozoruhodné osobnosti Anežky Gorlové více zde:
+[Zákruty života Anežky Gorlové](https://www.kulturni-noviny.cz/nezavisle-vydavatelske-a-medialni-druzstvo/archiv/online/2015/12-2015/550d9bdf7be69)

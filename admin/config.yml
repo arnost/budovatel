@@ -1,0 +1,47 @@
+backend:
+  name: github
+  repo: arnost/budovatel
+  branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: img
+public_folder: /img
+collections:
+  - name: 'poezie'
+    label: 'poezie'
+    folder: '_poezie'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Vydal', name: 'vydal', widget: 'string' }
+      - { label: 'Youtube', name: 'youtube', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'state'
+    label: 'state'
+    folder: '_state'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Autor', name: 'autor', widget: 'string' }
+      - { label: 'Vydal', name: 'vydal', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'pisne'
+    label: 'pisne'
+    folder: '_pisne'
+    create: true
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Hudba', name: 'music', widget: 'string' }
+      - { label: 'Text', name: 'text', widget: 'string' }
+      - { label: 'Preklad', name: 'preklad', widget: 'string' }
+      - { label: 'Youtube', name: 'youtube', widget: 'string' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }

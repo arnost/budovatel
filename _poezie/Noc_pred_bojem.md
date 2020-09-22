@@ -1,7 +1,7 @@
 ---
 title: Noc před bojem
 autor: Alexander Bezyměnskij
-vydal: Svobodná země: slovanský týdeník, 1950
+vydal: Svobodná země, slovanský týdeník, 1950
 ---
 
 Jde noc. Čekají stroje.  

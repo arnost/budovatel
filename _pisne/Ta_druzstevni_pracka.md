@@ -1,7 +1,6 @@
 ---
 title: Ta družstevní pračka
-music: Radim Drejsl
-text: G. Třísková
+music: G. Třísková
 ---
 
 Ta družstevní pračka dobře pere,   

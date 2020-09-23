@@ -10,7 +10,7 @@ aj nedožere,  aj nedožere.
 
 Do pračke vodička čestá teče,  
 aj čestá teče, aj čestá teče.  
-Odstředivkó točí pěkný děvče,
+Odstředivkó točí pěkný děvče,  
 aj pěkný děvče, aj pěkný děvče.
 
 Pereme pro školko, pro děvčátka,  
@@ -20,5 +20,5 @@ aj pacholátka, aj pacholátka.
 
 Dělale mozeko družstevnice,  
 aj družstevnice, aj družstevnice.
-dale z ni na Korej tře tisice,   
+dale z ni na Korej tře tisice,     
 aj tře tisice, aj tře tisice. 

@@ -20,7 +20,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Autor', name: 'autor', widget: 'string' }
-      - { label: 'Vydal', name: 'vydal', widget: 'string' }
+      - { label: 'Vydal', name: 'vydal', widget: 'string' , required: false  }
       - { label: 'Youtube', name: 'youtube', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'state'
@@ -33,7 +33,7 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Autor', name: 'autor', widget: 'string' }
-      - { label: 'Vydal', name: 'vydal', widget: 'string' }
+      - { label: 'Vydal', name: 'vydal', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'pisne'
     label: 'pisne'
@@ -44,8 +44,8 @@ collections:
       preview: false
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Hudba', name: 'music', widget: 'string' }
-      - { label: 'Text', name: 'text', widget: 'string' }
-      - { label: 'Preklad', name: 'preklad', widget: 'string' }
+      - { label: 'Hudba', name: 'music', widget: 'string' , required: false }
+      - { label: 'Text', name: 'text', widget: 'string' , required: false  }
+      - { label: 'Preklad', name: 'preklad', widget: 'string', required: false  }
       - { label: 'Youtube', name: 'youtube', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown' }

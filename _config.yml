@@ -26,14 +26,6 @@ github_username:  arnost
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-
-feed:
-  collections:
-    - pisne
-    - poezie
-    - state
-    - obrazky
 
 
 collections:

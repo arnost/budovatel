@@ -21,8 +21,8 @@ o práci radostné, o boji -- vítězství ...
 o rodině, kde děti v míru radostně si dovádí  
 s příslibem, že dílo to dál hrdě ponesou.
 
-Tak zpívám já -- 
+Tak zpívám já --   
 -- prostý kopáč jsem z Víru,  
-tobě, přehrado milená,
+tobě, přehrado milená,  
 a v tobě, přehrado má,   
 celému světu zpívám  zpěv míru!

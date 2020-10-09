@@ -6,7 +6,7 @@ vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Ř
 
 Blikala světla nad vodou,  
 v údolí rachot a sten skal ...  
-To dělník s přírodou se tu rval
+To dělník s přírodou se tu rval    
 a okovy bezmocnosti v základ zakopal.
 
 Světla se houpají nad vodou,  
@@ -17,12 +17,12 @@ chystajíc budoucnost všem radostnou.
 
 Světla dnes září nad vodou  
 a vlnky v jezeře tiše si vypráví  
-o práci radostné, o boji -- vítězství ...
+o práci radostné, o boji -- vítězství ...   
 o rodině, kde děti v míru radostně si dovádí  
 s příslibem, že dílo to dál hrdě ponesou.
 
 Tak zpívám já -- 
 -- prostý kopáč jsem z Víru,  
 tobě, přehrado milená,
-a v tobě, přehrado má,
+a v tobě, přehrado má,   
 celému světu zpívám  zpěv míru!

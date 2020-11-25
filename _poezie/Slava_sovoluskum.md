@@ -39,3 +39,4 @@ Tak a už dej pokoj klevetivým svým ústům,
 a až velké skandování budeš slyšet - to je: "Sláva Sovoluskům!"
 
 ![](/img/sovolusky.jpg)
+![](/img/sovolusky2.jpg)

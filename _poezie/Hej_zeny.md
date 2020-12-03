@@ -1,6 +1,6 @@
 ---
 title: Hej, ženy! 
-autor: Borek
+autor: Vlastimil Borek
 vydal: Rozsevačka, 1933
 ---
 
@@ -33,3 +33,5 @@ Vy všechny rudou krev vžeňte si v tvář,
 rudou krev, jíž plane východní žář,   
 rudou krev, jež odstraní strašidlo běd,  
 rudou krev, která zaplaví celičký svět.
+
+o autorovi více [zde](https://ahistorie.451.cz/borek-vlastimil-ing-1886-1952/)

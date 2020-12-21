@@ -1,6 +1,6 @@
 ---
 title: Dívenka z korejského souboru
-autor: Svob. Ivo Štuka
+autor: Ivo Štuka
 vydal: Práce, list Revolučního odborového hnutí, 18. 7. 1953
 ---
 

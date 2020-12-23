@@ -27,12 +27,12 @@ s dýmkou a úsměvem, který nám dával klid.\
 Vzduch povel rozsekl: Do zbraně! Nastoupit!\
 Už stojí mužů neprostupná zeď.\
 Pod modrým nebem modřejší zbraní kov.\
-- Soudruzi, teď, teď na nás nepřítel zalící!\
+— Soudruzi, teď, teď na nás nepřítel zalící!\
 Teď ani jeden nepřejde hranici\
 a nesáhne nám na domov!\
 Ač každý hledí přes slzy,\
 přec muži stojí, neprostupná zeď.\
-- Stalin už, chlapci, nežije...\
+— Stalin už, chlapci, nežije...\
 A přece Stalin s námi je,\
 jde s námi, s námi zvítězí.\
 Soudruzi, za vlast, ZA STALINA - VPŘED!

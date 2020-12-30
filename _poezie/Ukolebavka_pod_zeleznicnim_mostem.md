@@ -1,6 +1,6 @@
 ---
 title: Ukolébavka pod železničním mostem 
-autor: Borek
+autor: Vlastimil Borek
 vydal: Rozsevačka, 1933
 ---
 

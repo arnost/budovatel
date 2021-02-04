@@ -17,13 +17,13 @@ layout: default
     <ul>
 
         {% for a in poezie %}
-            {% if  a.vydal  == vydal %}
+            {% if  a.vydal  == vydal  %}
                 <li><a href="{{ a.url }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 
         {% for a in state %}
-            {% if  a.vydal  == autor %}
+            {% if  a.vydal  == vydal %}
                 <li><a href="{{ a.url }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}

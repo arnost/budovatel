@@ -7,7 +7,7 @@ layout: default
 autor: <a href="/autori.phtml#{{ page.autor | url_encode }}"> {{ page.autor }}</a> <br>
 {% endif %}
 {% if page.vydal %}
-vydal: {{ page.vydal }}<br>
+vydal: <a href="/vydal.phtml#{{ page.vydal | url_encode }}">{{ page.vydal }}</a><br>
 {% endif %}
 
 <br>

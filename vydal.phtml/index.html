@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+        <h2 class="section__title">Vydal</h2>
+{% assign state = site.state   | map : "vydal"    %}
+{% assign poezie = site.poezie   | map : "vydal"    %}
+{% assign all =  state | concat : poezie |  uniq   %}
+
+<ul>
+    {% for vydal in all %}
+    {% if vydal == null  %}
+    {% else %}
+    <li><a id="{{ vydal | url_encode }}">{{ vydal }}</a></li>
+    {% assign poezie = site.poezie | sort %}
+    {% assign state = site.state | sort %}
+    <ul>
+
+        {% for a in poezie %}
+            {% if  a.vydal  == vydal %}
+                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+
+        {% for a in state %}
+            {% if  a.vydal  == autor %}
+                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+            {% endif %}
+        {% endfor %}
+
+    </ul>
+    {% endif %}
+    {% endfor %}
+</ul>
+

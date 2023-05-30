@@ -1,7 +1,7 @@
 ---
 title: Korejská vteřina
 autor:  Pavel Kohout
-vydal: Čas lásky a boje: verše a písně z let 1952-1954, Praha 1954
+vydal: Čas lásky a boje, verše a písně z let 1952-1954, Praha 1954
 ---
 
 

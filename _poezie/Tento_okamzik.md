@@ -1,7 +1,6 @@
 ---
 title: Tento okamžik
 autor: Vladimír Školaudy
-vydal: Čelem k vesnici, sborník materiálu pro soubory lidové tvořivosti, Praha, Orbis, 1953
 ---
 
 

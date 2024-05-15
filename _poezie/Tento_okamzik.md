@@ -1,6 +1,7 @@
 ---
 title: Tento okamžik
 autor: Vladimír Školaudy
+vydal: Práce zpívá, sborník poesie, jež je darem Svazu čsl. spisovatelů k IX. sjezdu KSČ. Československý spisovatel, 1949
 ---
 
 

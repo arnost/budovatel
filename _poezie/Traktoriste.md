@@ -1,7 +1,8 @@
 ---
 title: Traktoristé
 autor: Josef Koukal
-vydal: Traktorista, závodní časopis zaměstnanců STS Mor. Budějovice, 1954
+vydal: Traktorista, závodní časopis zaměstnanců STS Mor. Budějovice
+rok: "1954"
 ---
 
 Po širých lánech traktory jezdí,   

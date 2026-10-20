@@ -1,7 +1,8 @@
 ---
 title: Kružberk, Moravice
 autor:  Antonín Borkovec
-vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce, 1954
+vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce
+rok: "1954"
 ---
 
 Že jsi byla vždycky tvrdá,  

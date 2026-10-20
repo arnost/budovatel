@@ -4,14 +4,13 @@ layout: default
 
 <b>{{ page.title }}</b><br>
 {% if page.music %}
-Hudba: <a href="/autori.phtml#{{ page.music | url_encode }}"> {{ page.music }}</a><br>
+Hudba: {% include jmena.html jmena=page.music %}<br>
 {% endif %}
 {% if page.text %}
-text: <a href="/autori.phtml#{{ page.text | url_encode }}"> {{ page.text }}</a><br>
+text: {% include jmena.html jmena=page.text %}<br>
 {% endif %}
 {% if page.preklad %}
-{% assign prekladatele = page.preklad | join: "|" | split: "|" %}
-překlad:{% for p in prekladatele %} <a href="/autori.phtml#{{ p | url_encode }}">{{ p }}</a>{% unless forloop.last %},{% endunless %}{% endfor %}<br>
+překlad: {% include jmena.html jmena=page.preklad %}<br>
 {% endif %}
 <br>
 <table width="600">

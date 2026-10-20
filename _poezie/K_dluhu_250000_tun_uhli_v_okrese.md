@@ -1,7 +1,8 @@
 ---
 title: K dluhu 250.000 tun uhlí v okrese
 autor:  Antonín Borkovec
-vydal: časopis  Havíř Rosicka  1956
+vydal: Havíř Rosicka
+rok: "1956"
 ---
 
 Bezručův havíř, když kladivo své zved,  

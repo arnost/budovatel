@@ -1,7 +1,8 @@
 ---
 title: Říjnová revoluce
 autor: Milan Holčák
-vydal: Okno, závodní časopis zaměstnanců n. p. Stavovýroba, 1954
+vydal: Okno, závodní časopis zaměstnanců n. p. Stavovýroba
+rok: "1954"
 ---
 
     zámečník provozovny Paskov

@@ -1,7 +1,8 @@
 ---
 title: Dům na Smolenském
 autor:  Semjon Kirsanov
-vydal: časopis Sovětská architektura, cca 1953
+vydal: Sovětská architektura
+rok: "cca 1953"
 ---
 
 Hrot do nebe se zdvih! A s oslnivým leskem    

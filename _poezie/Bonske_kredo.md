@@ -1,7 +1,8 @@
 ---
 title: Bonské krédo
 autor: Rostislav Dostál
-vydal: Krajské nakl. v Plzni 1963
+vydal: Krajské nakl. v Plzni
+rok: "1963"
 ---
 
 *10x10 na revanš*

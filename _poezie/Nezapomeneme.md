@@ -1,7 +1,8 @@
 ---
 title: Nezapomeneme
 autor:  Magda Rubášová
-vydal: časopis Kozak, Kožedělné závody Klatovy n.p., 1954
+vydal: Kozak, Kožedělné závody Klatovy n.p.
+rok: "1954"
 ---
 
 Rok již tomu jest, kdy bolest sevřela nám srdce,  

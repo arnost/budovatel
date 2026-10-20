@@ -1,7 +1,8 @@
 ---
 title: Tobě k svátku…
 autor: Karel Kozub
-vydal: Stachanov, závodní časopis dolu Stachanov, 1955
+vydal: Stachanov, závodní časopis dolu Stachanov
+rok: "1955"
 ---
 
 Sto roků stíral sis ze tváře  

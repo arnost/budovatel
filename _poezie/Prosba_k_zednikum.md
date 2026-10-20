@@ -1,7 +1,8 @@
 ---
 title: Prosba k zedníkům
 autor: A. Vildman
-vydal: Nové budování, čtrnáctideník n. p. Průmstav Plzeň, 1954
+vydal: Nové budování, čtrnáctideník n. p. Průmstav Plzeň
+rok: "1954"
 ---
 
 1. Zedníci, zedníci, co mám dělat,   

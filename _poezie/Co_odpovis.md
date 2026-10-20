@@ -1,7 +1,8 @@
 ---
 title: Co odpovíš?
 autor:  J.H.
-vydal: Olomoucká jiskra, časopis zaměstnanců železničního uzlu v Olomouci, 1959
+vydal: Olomoucká jiskra, časopis zaměstnanců železničního uzlu v Olomouci
+rok: "1959"
 ---
 
 Co odpovíš, až se tě jednou zeptá tvoje dítě,  

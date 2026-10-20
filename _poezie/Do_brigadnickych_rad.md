@@ -1,7 +1,8 @@
 ---
 title: Do brigádnických řad! 
 autor: Josef Minařík
-vydal: Montážník - závodní noviny Prvních brněnských strojíren, závodů Klementa Gottwalda, n. p., 1961
+vydal: Montážník - závodní noviny Prvních brněnských strojíren, závodů Klementa Gottwalda, n. p.
+rok: "1961"
 ---
 
      montér, člen BSP

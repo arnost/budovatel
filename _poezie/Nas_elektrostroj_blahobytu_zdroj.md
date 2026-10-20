@@ -1,7 +1,8 @@
 ---
 title: Náš Elektrostroj - blahobytu zdroj 
 autor: Ján Béreš
-vydal: Elektrostroj, závodní časopis ZO KSČ, ZS ROH, ZS ČSM a vedení n. p. Elektrostroj, Brno, 1954
+vydal: Elektrostroj, závodní časopis ZO KSČ, ZS ROH, ZS ČSM a vedení n. p. Elektrostroj, Brno
+rok: "1954"
 ---
 
 V purpurnom pýre, v závratnom víre   

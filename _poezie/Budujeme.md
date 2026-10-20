@@ -1,7 +1,8 @@
 ---
 title: Budujeme
 autor: J.H.
-vydal: Olomoucká jiskra, 1958
+vydal: Olomoucká jiskra
+rok: "1958"
 ---
 
 Doma, ve škole, v dílně   

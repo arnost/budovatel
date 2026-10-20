@@ -1,7 +1,8 @@
 ---
 title: XI. sjezd KSČ
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1958
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1958"
 ---
 
 Veselou písničku továrna zpívá,  

@@ -1,7 +1,8 @@
 ---
 title: Stavba nového ústavu jaderné fysiky
 autor:  Ant. Kvasnička
-vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce, 1956
+vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce
+rok: "1956"
 ---
 
 Znám jeden krásný koutek české země   

@@ -1,7 +1,8 @@
 ---
 title: Jarní balada
 autor: A. Vildman
-vydal: Nové budování, čtrnáctideník n. p. Průmstav Plzeň, 1954
+vydal: Nové budování, čtrnáctideník n. p. Průmstav Plzeň
+rok: "1954"
 ---
 Přišla zima, sníh poslední slunko taje,   
 krumpáče, lopaty zakously se do země jaré.   

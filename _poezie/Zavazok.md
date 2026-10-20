@@ -1,7 +1,8 @@
 ---
 title: Záväzok
 autor:  Andrej Sarvaš
-vydal: časopis Československý svět, 1950
+vydal: Československý svět
+rok: "1950"
 ---
 
 Odvtedy, ako sum ju zapálil,   

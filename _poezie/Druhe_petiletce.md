@@ -1,7 +1,8 @@
 ---
 title: Druhé pětiletce
 autor: S. Beran
-vydal: Náš boj, závodní časopis zaměstnanců nár. pod. Strojosvit 01 v Krnově, 1955
+vydal: Náš boj, závodní časopis zaměstnanců nár. pod. Strojosvit 01 v Krnově
+rok: "1955"
 ---
 
 Jde Nový rok a pod cvilínskou věží   

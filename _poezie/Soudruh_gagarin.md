@@ -1,7 +1,8 @@
 ---
 title: Soudruh Gagarin
 autor: Fr. Novotný
-vydal: Pletařka, 1961
+vydal: Pletařka
+rok: "1961"
 ---
 
 Měl dvacetsedm let  

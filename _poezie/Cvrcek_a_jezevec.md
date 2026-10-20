@@ -1,7 +1,8 @@
 ---
 title: Cvrček a jezevec
 autor: Anežka Gorlová
-vydal: Mladá vesnice, čtrnáctideník ČSM, 1954
+vydal: Mladá vesnice, čtrnáctideník ČSM
+rok: "1954"
 ---
 
 Ten starý jezevec   

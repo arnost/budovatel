@@ -1,7 +1,8 @@
 ---
 title: Přehrada 
 autor: L. Preisler
-vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav, 1955
+vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav
+rok: "1955"
 ---
 
 Po staletí tekla řeka v dál a jarním přívalem když hučel proud,  

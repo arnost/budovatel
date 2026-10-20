@@ -1,7 +1,8 @@
 ---
 title: Říjen 1917
 autor: Oldřich Adamec
-vydal: Kytice, měsíčník pro literaturu a umění, 1948
+vydal: Kytice, měsíčník pro literaturu a umění
+rok: "1948"
 ---
 Zde Lenin    
 v mém srdci Lenin    

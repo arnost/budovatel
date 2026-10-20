@@ -1,6 +1,9 @@
 ---
 name:  Díkuvzdání Československého lidu generalissimu J.V. Stalinovi
-autor: Jan Čumpelík, Alena Čermáková, Jaromír Schoř
+autor:
+  - Jan Čumpelík
+  - Alena Čermáková
+  - Jaromír Schoř
 galery: false
 ---
 

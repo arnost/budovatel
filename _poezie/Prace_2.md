@@ -1,7 +1,8 @@
 ---
 title: Práce
 autor: Marie Sedláčková
-vydal: Svět kolem nás, závodní časopis lanškrounských Tesláků, 1952
+vydal: Svět kolem nás, závodní časopis lanškrounských Tesláků
+rok: "1952"
 ---
 
 Naše práce - to je naše zbraň!  

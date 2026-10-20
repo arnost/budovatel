@@ -1,7 +1,8 @@
 ---
 title: Hádanky
 autor: Neznámý
-vydal: Kohoutek, časopis proletářských dětí, 1923
+vydal: Kohoutek, časopis proletářských dětí
+rok: "1923"
 ---
 
 *Neuhodneš-li, tatínek ti pomůže*

@@ -9,7 +9,8 @@ layout: default
 {% assign preklad = site.pisne   | map : "preklad"    %}
 {% assign state = site.state   | map : "autor"    %}
 {% assign poezie = site.poezie   | map : "autor"    %}
-{% assign all = music | concat : text | concat : preklad | concat : state | concat : poezie | compact | uniq | ceske_razeni_autoru %}
+{% assign obrazky = site.obrazky   | map : "autor"    %}
+{% assign all = music | concat : text | concat : preklad | concat : state | concat : poezie | concat : obrazky | compact | uniq | ceske_razeni_autoru %}
 
 <ul>
     {% for autor in all %}
@@ -19,22 +20,32 @@ layout: default
     {% assign pisne = site.pisne | sort %}
     {% assign poezie = site.poezie | sort %}
     {% assign state = site.state | sort %}
+    {% assign obrazky = site.obrazky | sort %}
     <ul>
         {% for a in pisne %}
-            {% assign prekladatele = a.preklad | join: "|" | split: "|" %}
-            {% if  a.music  == autor or a.text  == autor or prekladatele contains autor %}
+            {% assign m = a.music | join: "|" %}{% assign t = a.text | join: "|" %}{% assign p = a.preklad | join: "|" %}{% capture j %}{{ m }}|{{ t }}|{{ p }}{% endcapture %}{% assign jmena = j | split: "|" %}
+            {% if jmena contains autor %}
                 <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 
         {% for a in poezie %}
-            {% if  a.autor  == autor %}
+            {% assign jmena = a.autor | join: "|" | split: "|" %}
+            {% if jmena contains autor %}
                 <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 
+        {% for a in obrazky %}
+            {% assign jmena = a.autor | join: "|" | split: "|" %}
+            {% if jmena contains autor %}
+                <li><a href="{{ a.url | downcase }}">{{ a.name }}</a></li>
+            {% endif %}
+        {% endfor %}
+
         {% for a in state %}
-            {% if  a.autor  == autor %}
+            {% assign jmena = a.autor | join: "|" | split: "|" %}
+            {% if jmena contains autor %}
                 <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}

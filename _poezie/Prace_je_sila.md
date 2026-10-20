@@ -1,7 +1,8 @@
 ---
 title: Práce je síla
 autor: Ivan Zábřežský
-vydal: Klíč, časopis zaměstnanců Stavomontáže, n. p., Ostrava, 1954
+vydal: Klíč, časopis zaměstnanců Stavomontáže, n. p., Ostrava
+rok: "1954"
 ---
 
 

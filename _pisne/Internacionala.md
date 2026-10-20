@@ -2,7 +2,9 @@
 title: Internacionála
 music:  P. Degeyter
 text: E. Pottier
-preklad: A. Macek, J. Skalák
+preklad:
+  - A. Macek
+  - J. Skalák
 ---
 
 sloka 1  

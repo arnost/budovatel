@@ -1,7 +1,8 @@
 ---
 title: Traktoristka
 autor:  Jan Pilař
-vydal: Ladovák, závodní časopis zaměstnanců n.p. Lada, Soběslav, 1955
+vydal: Ladovák, závodní časopis zaměstnanců n.p. Lada, Soběslav
+rok: "1955"
 ---
 
 Bouřlivý traktor ztichl ve tvých dlaních  

@@ -1,7 +1,8 @@
 ---
 title: Píseň o přehradě 
 autor: Alois Mlčoch
-vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav, 1954
+vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav
+rok: "1954"
 ---
 
 I.

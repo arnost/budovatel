@@ -1,7 +1,8 @@
 ---
 title: Není to zázrak ani klam
 autor: Neznámý
-vydal: Svítání nad lesy, závodní časopis ZS ROH Správa lesního hospodářství Děčín II., 1952
+vydal: Svítání nad lesy, závodní časopis ZS ROH Správa lesního hospodářství Děčín II.
+rok: "1952"
 ---
 
 Není to zázrak ani klam,  

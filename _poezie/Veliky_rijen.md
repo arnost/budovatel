@@ -1,7 +1,8 @@
 ---
 title: Veliký Říjen
 autor: Josef Husovský
-vydal: Vesnické noviny Rozvoj Židlochovicka, 1959
+vydal: Vesnické noviny Rozvoj Židlochovicka
+rok: "1959"
 ---
 
 Jak je to dávno, přes čtyřicet roků,  

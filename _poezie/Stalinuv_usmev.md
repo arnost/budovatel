@@ -1,7 +1,8 @@
 ---
 title: Stalinův úsměv
 autor: Michal Sedloň
-vydal: Nový život, 1949
+vydal: Nový život
+rok: "1949"
 ---
 
 Na čelné stěně portrét muže visí,  

@@ -1,7 +1,8 @@
 ---
 title: Raketa míru
 autor:  Luděk Adámek
-vydal: Start, závodní časopis zaměstnanců Kolínské rafinérie minerálních olejů, 1959
+vydal: Start, závodní časopis zaměstnanců Kolínské rafinérie minerálních olejů
+rok: "1959"
 ---
 
 Raketa se sovětskou vlajkou již tolik hodin letí,  

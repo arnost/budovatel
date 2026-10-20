@@ -1,7 +1,8 @@
 ---
 title: Pozdrav družby 
 autor: Neznámý
-vydal: časopis Růst olomouckých polygrafů, 1955
+vydal: Růst olomouckých polygrafů
+rok: "1955"
 ---
 
 Vítame vás, súdruhovia, v kraji Bratislavy   

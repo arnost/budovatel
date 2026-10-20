@@ -1,7 +1,8 @@
 ---
 title: Mírová
 autor: Jan Pilař
-vydal: Čelem k vesnici, sborník materiálu pro soubory lidové tvořivosti, Praha, Orbis, 1953
+vydal: Čelem k vesnici, sborník materiálu pro soubory lidové tvořivosti, Praha, Orbis
+rok: "1953"
 ---
 
 Tvář měkkou tiskne k svému dítěti   

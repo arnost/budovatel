@@ -1,5 +1,5 @@
 <tr>
         <td><a href="{{ poezie.url | downcase }}">{{ poezie.title }}</a></td>
-        <td>{{ poezie.autor }}</td>
-        <td> {{ poezie.vydal }}</td>
+        <td>{{ poezie.autor | join: ", " }}</td>
+        <td> {{ poezie.vydal }}{% if poezie.rok %}, {{ poezie.rok }}{% endif %}</td>
 </tr>

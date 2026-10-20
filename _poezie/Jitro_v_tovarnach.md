@@ -1,7 +1,8 @@
 ---
 title: Jitro v továrnách
 autor:  Otakar Hubička
-vydal: Haló - Nedělní noviny, 1950
+vydal: Haló - Nedělní noviny
+rok: "1950"
 ---
 
 Soudruzi, řeknu vám překrásnou novinu   

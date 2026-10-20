@@ -1,7 +1,8 @@
 ---
 title: Jatecká častuška (1956)
 autor: Bohumil Sucharda
-vydal: Pražský jatečník (časopis pracujících Pražských jatek - Praha 7, 1956
+vydal: Pražský jatečník (časopis pracujících Pražských jatek - Praha 7)
+rok: "1956"
 
 ---
 

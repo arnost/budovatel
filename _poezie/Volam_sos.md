@@ -1,7 +1,8 @@
 ---
 title: Volám SOS
 autor: Frázek
-vydal: Krušnohorský keramik, závodní časopis zaměstnanců n. p. Spojené keramické závody, Teplice, 1954
+vydal: Krušnohorský keramik, závodní časopis zaměstnanců n. p. Spojené keramické závody, Teplice
+rok: "1954"
 ---
 
 Strana a vláda chce   

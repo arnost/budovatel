@@ -1,7 +1,8 @@
 ---
 title: Oběť
 autor: Josef Zahradníček
-vydal: časopis Československý voják, 1952
+vydal: Československý voják
+rok: "1952"
 ---
 
 Na Ural   

@@ -1,7 +1,8 @@
 ---
 title: Mír a zbraně 
 autor: Ivo Štuka
-vydal: Obránce vlasti, ústřední orgán svazu pro spolupráci s armádou, 1953
+vydal: Obránce vlasti, ústřední orgán svazu pro spolupráci s armádou
+rok: "1953"
 ---
 
     vzorný minometník      

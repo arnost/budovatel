@@ -1,7 +1,8 @@
 ---
 title: Bez názvu
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1963
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1963"
 ---
 
 Jsem jednou z vás,    

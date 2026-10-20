@@ -1,7 +1,8 @@
 ---
 title: Nezapomenu na vás 
 autor: Josef Minařík
-vydal: Montážník - závodní noviny Prvních brněnských strojíren, závodů Klementa Gottwalda, n. p., 1959
+vydal: Montážník - závodní noviny Prvních brněnských strojíren, závodů Klementa Gottwalda, n. p.
+rok: "1959"
 ---
 
      montér, člen BSP

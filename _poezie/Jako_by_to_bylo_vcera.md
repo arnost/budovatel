@@ -1,7 +1,8 @@
 ---
 title: Jako by to bylo včera...
 autor: D. D.
-vydal: Paprsek Vlnapu, Brno, 1955
+vydal: Paprsek Vlnapu, Brno
+rok: "1955"
 ---
 
 Jak by to bylo právě včera,  

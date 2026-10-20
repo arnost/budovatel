@@ -1,7 +1,8 @@
 ---
 title: U knihy
 autor: Alexander Bezyměnskij
-vydal:  Svobodná země, 1946
+vydal: Svobodná země
+rok: "1946"
 ---
 
 Jenom co okna mi rozevře večer siný    

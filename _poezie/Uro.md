@@ -1,7 +1,8 @@
 ---
 title: ÚRO
 autor: S. K. Neumann
-vydal: Rudé zpěvy, 1946
+vydal: Rudé zpěvy
+rok: "1946"
 ---
 
 *Antonínu Zápotockému*  

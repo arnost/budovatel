@@ -1,7 +1,8 @@
 ---
 title: Svazáci do mírového boje
 autor: L. P.
-vydal: Oslavanský kahan, závodní časopis dolu V. Nosek - Oslavany, 1955
+vydal: Oslavanský kahan, závodní časopis dolu V. Nosek - Oslavany
+rok: "1955"
 ---
 
 Slyšte, svazáci, mírový hlas,   

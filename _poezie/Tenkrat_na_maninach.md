@@ -1,7 +1,8 @@
 ---
 title: Tenkrát na Maninách...
 autor: Ladislav Pospíšil
-vydal: Kladenská záře, 1960
+vydal: Kladenská záře
+rok: "1960"
 ---
 
 S půlnoci hodiny třetí již bijí   

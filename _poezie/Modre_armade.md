@@ -1,7 +1,8 @@
 ---
 title: Modré armádě
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1961
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1961"
 ---
 
 Dnes zdravím tebe, modrá armádo,   

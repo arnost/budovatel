@@ -1,7 +1,8 @@
 ---
 title: List z domova
 autor: Josef Zahradníček
-vydal: časopis Československý voják, 1952
+vydal: Československý voják
+rok: "1952"
 ---
 
 Z dopisů, slétlých do kasáren z různých míst,  

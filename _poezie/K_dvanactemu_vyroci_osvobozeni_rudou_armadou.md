@@ -1,7 +1,8 @@
 ---
 title: K 12. výročí osvobození Rudou armádou
 autor: Bohumil Sucharda
-vydal: Pražský jatečník (časopis pracujících Pražských jatek - Praha 7, 1957
+vydal: Pražský jatečník (časopis pracujících Pražských jatek - Praha 7)
+rok: "1957"
 
 ---
 

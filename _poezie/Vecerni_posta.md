@@ -1,7 +1,8 @@
 ---
 title: Večerní pošta 
 autor: Ivo Štuka
-vydal: Československý voják, 1952
+vydal: Československý voják
+rok: "1952"
 ---
 
 Po schodech dupot, žerty a smích.  

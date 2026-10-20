@@ -1,7 +1,8 @@
 ---
 title: Atomová doba
 autor: V. A. Rur
-vydal: Věrná stráž, týdeník Svazu Čechů z Volyně, 1948
+vydal: Věrná stráž, týdeník Svazu Čechů z Volyně
+rok: "1948"
 ---
 
 Dejte jenom atomy,  

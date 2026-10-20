@@ -1,7 +1,8 @@
 ---
 title: Soudruh Stalin nás učí rozumět písni
 autor: A. V. Alexandrov
-vydal: Pravda, 19. prosince 1939
+vydal: Pravda, 19. prosince
+rok: "1939"
 ---
 
 

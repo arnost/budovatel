@@ -4,10 +4,10 @@ layout: default
 
 <b>{{ page.title }}</b><br>
 {% if page.autor %}
-autor: <a href="/autori.phtml#{{ page.autor | url_encode }}"> {{ page.autor }}</a> <br>
+autor: {% include jmena.html jmena=page.autor %}<br>
 {% endif %}
 {% if page.vydal %}
-vydal: <a href="/vydal.phtml#{{ page.vydal | url_encode }}">{{ page.vydal }}</a><br>
+vydal: <a href="/vydal.phtml#{{ page.vydal | url_encode }}">{{ page.vydal }}</a>{% if page.rok %}, {{ page.rok }}{% endif %}<br>
 {% endif %}
 
 <br>

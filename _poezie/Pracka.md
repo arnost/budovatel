@@ -1,7 +1,8 @@
 ---
 title: Pračka 
 autor: Rajtmajerová
-vydal: Východočeský dutinkář, závodní časopis n. p. Východočeské papírny v Lanškrouně, 1954
+vydal: Východočeský dutinkář, závodní časopis n. p. Východočeské papírny v Lanškrouně
+rok: "1954"
 ---
 
 Každá žena ta jest hloupá,  

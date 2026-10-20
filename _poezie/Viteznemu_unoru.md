@@ -1,7 +1,8 @@
 ---
 title: Vítěznému únoru
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1960
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1960"
 ---
 
 O tobě zpívám, země má rodná,   

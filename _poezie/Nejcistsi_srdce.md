@@ -1,7 +1,8 @@
 ---
 title: Nejčistší srdce 
 autor: Michal Ribak
-vydal: Osvěta SNB - čtrnáctideník Sboru národní bezpečnosti, 1948
+vydal: Osvěta SNB - čtrnáctideník Sboru národní bezpečnosti
+rok: "1948"
 ---
 
 Kluk   

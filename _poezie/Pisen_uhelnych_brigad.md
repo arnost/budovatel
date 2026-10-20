@@ -1,7 +1,8 @@
 ---
 title: Píseň uhelných brigád
 autor: Ilja Bart
-vydal: časopis Lidová kultura, 1947
+vydal: Lidová kultura
+rok: "1947"
 ---
 
 My jsme ti chlapi od brigády -  

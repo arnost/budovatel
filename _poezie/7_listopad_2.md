@@ -1,7 +1,8 @@
 ---
 title: (Čáň) - 7. listopad
 autor: Neznámý
-vydal: Růst olomouckých polygrafů, 1951
+vydal: Růst olomouckých polygrafů
+rok: "1951"
 ---
 
 Ten výstřel tenkrát z děla lodi    

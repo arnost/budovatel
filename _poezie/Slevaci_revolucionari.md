@@ -1,7 +1,8 @@
 ---
 title: Slevači - revolucionáři
 autor: Neznámý
-vydal: Oslavanský kahan, závodní časopis dolu Václav Nosek v Oslavanech, 1955
+vydal: Oslavanský kahan, závodní časopis dolu Václav Nosek v Oslavanech
+rok: "1955"
 ---
 
 Svou rukou smělou dnes my již ne snad bezejmenní   

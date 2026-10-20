@@ -1,7 +1,8 @@
 ---
 title:  Legendy budou o něm složeny
 autor:  Děmjan Bědnyj
-vydal: Rodné armádě, Výbor z veršů, vydalo Naše Vojsko, 1957
+vydal: Rodné armádě, Výbor z veršů, vydalo Naše Vojsko
+rok: "1957"
 ---
 
 On padl, ale žije jeho čest.  

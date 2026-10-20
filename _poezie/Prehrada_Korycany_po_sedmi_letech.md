@@ -1,7 +1,8 @@
 ---
 title: přehrada Koryčany, Po sedmi letech
 autor:  Rudolf Benedik
-vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce, 1958
+vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce
+rok: "1958"
 ---
 
 Přehrada spojila lesnaté stráně,  

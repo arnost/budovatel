@@ -1,7 +1,8 @@
 ---
 title: Splníme
 autor:  Ignác Bogoč
-vydal: Zpravodaj zaměstnanců dolu Žofie, nositelů Řádu práce - Orlová II, 1961
+vydal: Zpravodaj zaměstnanců dolu Žofie, nositelů Řádu práce - Orlová II
+rok: "1961"
 ---
 
 Revír dluží uhlí republice.   

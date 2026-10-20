@@ -1,7 +1,8 @@
 ---
 title: Stavba na Ružině
 autor: Luboš Bozděch
-vydal: Ocelostavař, závodní časopis n.p. Ocelostavby Brno, 1954
+vydal: Ocelostavař, závodní časopis n.p. Ocelostavby Brno
+rok: "1954"
 ---
 
 

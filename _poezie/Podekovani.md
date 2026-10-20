@@ -1,7 +1,8 @@
 ---
 title: Poděkování
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1961
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1961"
 ---
 
 Je ráno, všední ráno,  

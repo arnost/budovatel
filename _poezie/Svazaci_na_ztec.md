@@ -1,7 +1,8 @@
 ---
 title: Svazáci, na zteč! 
 autor: Ivo Štuka
-vydal: Československý voják, 1953
+vydal: Československý voják
+rok: "1953"
 ---
 
 Krtek, jak známo, pod zemí si hlodá,   

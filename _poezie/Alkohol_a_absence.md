@@ -1,7 +1,8 @@
 ---
 title: Alkohol a absence
 autor:  Antonín Borkovec
-vydal: časopis  Havíř Rosicka  1956
+vydal: Havíř Rosicka
+rok: "1956"
 ---
 
 Od šachty k silnici   

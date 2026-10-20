@@ -1,0 +1,1 @@
+{% comment %}Jedno jméno nebo seznam jmen (např. více překladatelů) jako odkazy na stránku autorů.{% endcomment %}{% assign seznam = include.jmena | join: "|" | split: "|" %}{% for j in seznam %}<a href="/autori.phtml#{{ j | url_encode }}">{{ j }}</a>{% unless forloop.last %}, {% endunless %}{% endfor %}

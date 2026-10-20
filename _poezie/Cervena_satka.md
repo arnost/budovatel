@@ -1,7 +1,8 @@
 ---
 title: Červená šatka
 autor:  Ctibor Štítnický
-vydal: Slová z ocele, k oslavám Slovenského národného povstania – Bratislava, Práca, 1948
+vydal: Slová z ocele, k oslavám Slovenského národného povstania – Bratislava, Práca
+rok: "1948"
 ---
 
 

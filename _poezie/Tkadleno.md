@@ -1,7 +1,8 @@
 ---
 title: Tkadleno 
 autor: K. Iliadis
-vydal: Směr, závodní časopis n.p. Karnola, 1963
+vydal: Směr, závodní časopis n.p. Karnola
+rok: "1963"
 ---
 
 Ty tvoje člunky, tkadleno,   

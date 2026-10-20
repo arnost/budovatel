@@ -1,7 +1,8 @@
 ---
 title: Družice
 autor: Zdeněk Koníček
-vydal: Vesnické noviny Rozvoj Židlochovicka, 1959
+vydal: Vesnické noviny Rozvoj Židlochovicka
+rok: "1959"
 ---
 Druhý den nového roku,  
 rozhlas i tisk přinesl novinku:  

@@ -1,7 +1,8 @@
 ---
 title: Nové pražské tunely
 autor: Jiří Kutina
-vydal: časopis Za socialistickou Prahu, 1951?
+vydal: Za socialistickou Prahu
+rok: "1951?"
 ---
 
 Děd i táta kopec obcházeli.   

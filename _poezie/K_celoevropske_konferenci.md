@@ -1,7 +1,8 @@
 ---
 title: K celoevropské konferenci 
 autor: Růžena Lánská
-vydal: Bojovník Mostexu - časopis spolupracovníků socialistického závodu, 1954
+vydal: Bojovník Mostexu - časopis spolupracovníků socialistického závodu
+rok: "1954"
 ---
 
 Všechny ty zbraně - atomy,   

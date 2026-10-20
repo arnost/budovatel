@@ -1,7 +1,8 @@
 ---
 title: Hej, ženy! 
 autor: Vlastimil Borek
-vydal: Rozsevačka, 1933
+vydal: Rozsevačka
+rok: "1933"
 ---
 
 Hej, ženy!   

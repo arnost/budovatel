@@ -1,7 +1,8 @@
 ---
 title: Ke dni horníků
 autor:  Antonín Borkovec
-vydal: časopis  Havíř Rosicka  1956
+vydal: Havíř Rosicka
+rok: "1956"
 ---
 
 Na své jméno hrdý buď,  

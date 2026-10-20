@@ -1,7 +1,8 @@
 ---
 title: Slavná přísaha
 autor:  Marie Kratochvílová
-vydal: časopis Pletařka, závody Boženy Němcové, Teplice v Čechách, 1955
+vydal: Pletařka, závody Boženy Němcové, Teplice v Čechách
+rok: "1955"
 ---
 
 Prapory v mrazném vzduchu vlály,   

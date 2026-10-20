@@ -1,7 +1,8 @@
 ---
 title: Do nového roku
 autor: Lubomír Javorský
-vydal: Červený květ, kulturně politický měsíčník, 1960
+vydal: Červený květ, kulturně politický měsíčník
+rok: "1960"
 ---
 
 Mám napsat novoroční báseň   

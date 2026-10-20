@@ -1,7 +1,8 @@
 ---
 title: Rudá žeň
 autor:  J. Paštěka
-vydal: Mosilana, závodní časopis zaměstnanců n.p. Mosilana v Brně, 1955
+vydal: Mosilana, závodní časopis zaměstnanců n.p. Mosilana v Brně
+rok: "1955"
 ---
 
 Co zbaběle vy chvějete se hrůzou,  

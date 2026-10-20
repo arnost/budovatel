@@ -1,7 +1,8 @@
 ---
 title: Ešče nemám galánečku
 autor: Anežka Gorlová
-vydal: Mladá vesnice, čtrnáctideník ČSM, 1954
+vydal: Mladá vesnice, čtrnáctideník ČSM
+rok: "1954"
 ---
 
 Ešče nemám galánečku   

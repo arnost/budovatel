@@ -1,7 +1,8 @@
 ---
 title: Sbíječka zpívá
 autor:  Antonín Borkovec
-vydal: časopis  Havíř Rosicka  1955
+vydal: Havíř Rosicka
+rok: "1955"
 ---
 
 Nesvítí sluníčko,  

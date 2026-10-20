@@ -1,7 +1,8 @@
 ---
 title: Rudý prapor
 autor: Vladimír Tichopád
-vydal: Okno, závodní časopis zaměstnanců n. p. Stavovýroba, 1954
+vydal: Okno, závodní časopis zaměstnanců n. p. Stavovýroba
+rok: "1954"
 ---
 
     jednatel DR

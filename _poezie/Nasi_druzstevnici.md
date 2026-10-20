@@ -1,7 +1,8 @@
 ---
 title: Naši družstevníci
 autor: Jiřina Frýdová
-vydal: Hedvikovák, závodní časopis zaměstnanců n.p. Kovolis, 1956
+vydal: Hedvikovák, závodní časopis zaměstnanců n.p. Kovolis
+rok: "1956"
 ---
    
 

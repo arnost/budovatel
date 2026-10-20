@@ -1,7 +1,8 @@
 ---
 title: Ještě jedna vzpomínka...
 autor: Jaroslav Pastucha
-vydal: Zpravodaj dolu Žofie, časopis zaměstnanců dolu Žofie Orlová III, 1957?
+vydal: Zpravodaj dolu Žofie, časopis zaměstnanců dolu Žofie Orlová III
+rok: "1957?"
 ---
 
 _O tom, že naši pracující měli rádi s. Antonína Zápotockého svědčí i tato báseň, kterou složil soudruh Jaroslav Pastucha._

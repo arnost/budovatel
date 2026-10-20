@@ -1,7 +1,8 @@
 ---
 title: Vítr - Máj
 autor: Jiří Flíček
-vydal: Červený květ, kulturně politický měsíčník, 1960
+vydal: Červený květ, kulturně politický měsíčník
+rok: "1960"
 ---
 
 Vítr-gramofonová deska,  

@@ -1,7 +1,8 @@
 ---
 title: Červený květ míru
 autor: František Nechvátal
-vydal: Májový list KSČ, 1948
+vydal: Májový list KSČ
+rok: "1948"
 ---
 
 V slunečnou řeku splynout,  

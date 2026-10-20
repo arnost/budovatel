@@ -1,7 +1,8 @@
 ---
 title: Dnes
 autor: Alexander Bezyměnskij
-vydal:  Svobodná země, 1946
+vydal: Svobodná země
+rok: "1946"
 ---
 
 Dnes vyšly zástupy ulicemi měst

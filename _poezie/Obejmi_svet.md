@@ -1,7 +1,8 @@
 ---
 title: Obejmi svět... 
 autor: Ivan Zábřežský
-vydal: Klíč - časopis zaměstnanců n. p. Pozemní stavby Opava, stavomontážní závod Ostrava, 1955
+vydal: Klíč - časopis zaměstnanců n. p. Pozemní stavby Opava, stavomontážní závod Ostrava
+rok: "1955"
 ---
 
 Neplač a nenaříkej.    

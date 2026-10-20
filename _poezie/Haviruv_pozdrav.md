@@ -1,7 +1,8 @@
 ---
 title: Havířův pozdrav
 autor:  Antonín Borkovec
-vydal: časopis  Havíř Rosicka  1956
+vydal: Havíř Rosicka
+rok: "1956"
 ---
 
 Černý pozdrav od havíře  

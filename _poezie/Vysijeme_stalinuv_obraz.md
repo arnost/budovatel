@@ -1,7 +1,8 @@
 ---
 title: Vyšijeme Stalinův obraz
 autor:  Pavlo Tyčyna
-vydal: Československý spisovatel, Praha, 1953
+vydal: Československý spisovatel, Praha
+rok: "1953"
 ---
 
 Na pole jde matka s kloučky:

@@ -1,7 +1,8 @@
 ---
 title: Časopis ABC z roku 1960
 autor: Neznámý
-vydal: ABC, 1960
+vydal: ABC
+rok: "1960"
 ---
 
 Až bude tobě, pionýre, čtenáři, třicet, pětatřicet let, vzbudíš se do světa, který už v mnohém nebude podoben dnešku. Budovatelé komunismu v Sovětském svazu i u nás budou mít k dispozici moderní automatizované závody, zvládnou zemědělské práce průmyslovým způsobem, budou pracovat šest hodin denně. V té době proniknou hluboko do tajů vesmíru. To všechno se promítne do každodenního života: 250 milionů tun oceli ročně, hojnost všech prostředků, městská doprava zdarma, bezplatné stravování ve školních a závodních jídelnách, bydlení v prostorných bytech bez nájemného, levné nebo bezplatné turistické základny atd.

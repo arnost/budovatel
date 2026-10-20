@@ -1,7 +1,8 @@
 ---
 title: Jdem v jednom šiku
 autor: V. H.
-vydal: Uničovský budovatel, závodní časopis zaměstnanců Závodů V. I. Lenina, 1958
+vydal: Uničovský budovatel, závodní časopis zaměstnanců Závodů V. I. Lenina
+rok: "1958"
 ---
 
 My nechcem válku  

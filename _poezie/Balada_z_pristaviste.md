@@ -1,7 +1,8 @@
 ---
 title: Balada z přístaviště 
 autor: Břetislav Kuželka
-vydal: Orlovák - časopis zaměstnanců závodu Orel-01, České překližkárny a dyhárny, Praha, 1951
+vydal: Orlovák - časopis zaměstnanců závodu Orel-01, České překližkárny a dyhárny, Praha
+rok: "1951"
 ---
 
 Znáte náš přístav? Víte kde je asi?   

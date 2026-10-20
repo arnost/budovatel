@@ -1,7 +1,8 @@
 ---
 title: Výzva
 autor:  Julie Podhorská
-vydal: Partex, závodní časopis zaměstnanců n.p. Vlnařské závody partyzána Emra, Nová Včelnice, 1954
+vydal: Partex, závodní časopis zaměstnanců n.p. Vlnařské závody partyzána Emra, Nová Včelnice
+rok: "1954"
 ---
 
 Přešlo jaro, přešlo léto  

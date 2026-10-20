@@ -1,7 +1,8 @@
 ---
 title: Klement Gottwald
 autor:  Antonie Pavlová
-vydal: časopis Pletařka, závody Boženy Němcové, Teplice v Čechách, 1955
+vydal: Pletařka, závody Boženy Němcové, Teplice v Čechách
+rok: "1955"
 ---
 
 Do vzpomínek halí se předjarní čas  

@@ -1,7 +1,8 @@
 ---
 title: Světla nad vodou
 autor: Miloš Janoušek
-vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce, 1957
+vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce
+rok: "1957"
 ---
 
 Blikala světla nad vodou,  

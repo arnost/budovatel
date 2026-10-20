@@ -1,7 +1,8 @@
 ---
 title: Balada o rekordmanovi 
 autor: Miroslav Vlček
-vydal: Tvorba, 1949
+vydal: Tvorba
+rok: "1949"
 ---
 
 Jmenoval se Karel   

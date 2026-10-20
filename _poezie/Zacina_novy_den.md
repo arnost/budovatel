@@ -1,7 +1,8 @@
 ---
 title: Začíná nový den
 autor: Josef Zahradníček
-vydal: časopis Československý voják, 1952
+vydal: Československý voják
+rok: "1952"
 ---
 
 Omyje země svou tvář v rose ranní   

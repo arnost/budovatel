@@ -1,7 +1,8 @@
 ---
 title: A v tempu nepovolím
 autor:  Děmjan Bědnyj
-vydal: Lidová kultura, list pracujícího lidu, 1946
+vydal: Lidová kultura, list pracujícího lidu
+rok: "1946"
 ---
 
 Zazpívám - všichni znát ho musí, každý ať to ví!   

@@ -1,7 +1,8 @@
 ---
 title: Naše víra
 autor: Ant. Dvořák
-vydal: Novoborská cesta, časopis záv. org. KSČ, záv. skup. ROH, ČSM a řed. nár. pod. Novoborské strojírny, 1955
+vydal: Novoborská cesta, časopis záv. org. KSČ, záv. skup. ROH, ČSM a řed. nár. pod. Novoborské strojírny
+rok: "1955"
 ---
 
 Bůh prý stvořil zemi,  

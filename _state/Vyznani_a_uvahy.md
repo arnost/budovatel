@@ -1,7 +1,8 @@
 ---
 title: Vyznání a úvahy
 autor: Marie Pujmanová
-vydal: Československý spisovatel 1959
+vydal: Československý spisovatel
+rok: "1959"
 ---
 
 

@@ -1,7 +1,8 @@
 ---
 title: Sláva vítězům
 autor: B. Koláček
-vydal: Tvořič, časopis všech pracujících závodu Jitex, Písek, 1954
+vydal: Tvořič, časopis všech pracujících závodu Jitex, Písek
+rok: "1954"
 ---
 
 Ještě pár dnů nám v kalendáři zbývá   

@@ -1,7 +1,8 @@
 ---
 title: Ne – Ne!
 autor: Václav Plecháč
-vydal: Bojovník Mostexu, časopis spolupracovníků socialistického závodu, 1955
+vydal: Bojovník Mostexu, časopis spolupracovníků socialistického závodu
+rok: "1955"
 ---
 
 Jak krásnou strunu ladí Majakovský,  

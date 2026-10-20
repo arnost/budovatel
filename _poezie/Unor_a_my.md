@@ -1,7 +1,8 @@
 ---
 title: Únor a my 
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1962
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1962"
 ---
 
 Maminko, mámo; chlapec mě zavolal,  

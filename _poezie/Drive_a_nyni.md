@@ -1,7 +1,8 @@
 ---
 title: Dříve a nyní
 autor: A. Peterka
-vydal: Valcíř, časopis zaměstnanců n. p. Kovohutě, Břidličná, 1954
+vydal: Valcíř, časopis zaměstnanců n. p. Kovohutě, Břidličná
+rok: "1954"
 ---
 
 V první republice znova a znova   

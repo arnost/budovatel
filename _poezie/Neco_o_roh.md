@@ -1,7 +1,8 @@
 ---
 title: Něco o ROH
 autor: Rudolf Novotný
-vydal: časopis Náš rozvoj, Tesla Vršovice, 1954
+vydal: Náš rozvoj, Tesla Vršovice
+rok: "1954"
 ---
 
 Kdo jsi členem ROH,    

@@ -1,7 +1,8 @@
 ---
 title: Plníme plán
 autor:  Antonín Borkovec
-vydal: časopis  Havíř Rosicka  1956
+vydal: Havíř Rosicka
+rok: "1956"
 ---
 
 Nad Zastávkou hvězdy jas   

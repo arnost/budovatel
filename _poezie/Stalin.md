@@ -1,7 +1,8 @@
 ---
 title: Stalin
 autor: F. Turnovec
-vydal: časopis Svět sovětů, 1950
+vydal: Svět sovětů
+rok: "1950"
 ---
 
 Stalin - nová éra lidstva,   

@@ -1,7 +1,8 @@
 ---
 title: Odevzdávka služby 
 autor: Oldřich Burda
-vydal: Děčínský dopravák, 1954
+vydal: Děčínský dopravák
+rok: "1954"
 ---
 
 Celé nádraží   

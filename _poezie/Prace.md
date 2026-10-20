@@ -1,7 +1,8 @@
 ---
 title: Práce
 autor:  Marie Lišková
-vydal: časopis Pletařka, závody Boženy Němcové, Teplice v Čechách, 1955
+vydal: Pletařka, závody Boženy Němcové, Teplice v Čechách
+rok: "1955"
 ---
 
 Když já jsem byla malá  

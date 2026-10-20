@@ -1,7 +1,8 @@
 ---
 title:  Vzpomínáme
 autor:  Anežka Gottsteinová
-vydal: Paprsek Vlnapu, časopis zaměstnanců Vlnapu, 1955
+vydal: Paprsek Vlnapu, časopis zaměstnanců Vlnapu
+rok: "1955"
 ---
 
 Nadešla opět ta smutná chvíle,  

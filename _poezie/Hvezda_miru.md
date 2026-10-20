@@ -1,7 +1,8 @@
 ---
 title: Hvězda míru
 autor:  J. Fajtová
-vydal: Partex, závodní časopis zaměstnanců n.p. Vlnařské závody partyzána Emra, Nová Včelnice, 1955
+vydal: Partex, závodní časopis zaměstnanců n.p. Vlnařské závody partyzána Emra, Nová Včelnice
+rok: "1955"
 ---
 
 jako velká síla pravdy, jež se ve tmách zrodila.  

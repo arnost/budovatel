@@ -1,7 +1,8 @@
 ---
 title: Žně 
 autor: Sláva Weisgrábová
-vydal: Svět v obrazech, 1949
+vydal: Svět v obrazech
+rok: "1949"
 ---
 
 Hospodář ráno kosu zved' a kráčel k lesu,  

@@ -1,7 +1,8 @@
 ---
 title: Proč jsou hvězdy pěticípé
 autor: Lubomír Javorský
-vydal: Červený květ, kulturně politický měsíčník, 1960
+vydal: Červený květ, kulturně politický měsíčník
+rok: "1960"
 ---
 
 Na rampouch hlídek vítr hrál   

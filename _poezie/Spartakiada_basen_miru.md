@@ -1,7 +1,8 @@
 ---
 title: Spartakiáda - báseň míru 
 autor: Josef Oktábec
-vydal: Sportovní sláva - světové a české události ve sportu, duben-červen 1955
+vydal: Sportovní sláva - světové a české události ve sportu, duben-červen
+rok: "1955"
 ---
 
 Zpívejte, slova sladké mateřstiny,  

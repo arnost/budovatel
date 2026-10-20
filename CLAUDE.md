@@ -38,11 +38,14 @@ Nearly all work is adding content files; commits are typically just a new `.md` 
 | Folder | Layout | URL | Front matter |
 |---|---|---|---|
 | `_pisne` (songs) | `pisen` | `/pisen.phtml/:title` | `title`, `music`, `text`, `preklad`, `youtube` |
-| `_poezie` (poems) | `poezie` | `/poezie.phtml/:title` | `title`, `autor`, `vydal`, `youtube` |
-| `_state` (articles) | `poezie` | `/state.phtml/:title` | `title`, `autor`, `vydal` |
+| `_poezie` (poems) | `poezie` | `/poezie.phtml/:title` | `title`, `autor`, `vydal`, `rok`, `youtube` |
+| `_state` (articles) | `poezie` | `/state.phtml/:title` | `title`, `autor`, `vydal`, `rok` |
 | `_obrazky` (pictures) | `obrazek` | `/obrazky.phtml/:title` | `name`, `autor`, `galery: true` |
 
-- `preklad` may be a YAML list when there are several translators; templates normalize it with `join: "|" | split: "|"`.
+- Every person field (`music`, `text`, `preklad`, `autor`) may be a YAML list when there are several people; templates normalize it with `join: "|" | split: "|"` and `_includes/jmena.html` renders the linked names.
+- `vydal` is the publication title only (no year, no leading "časopis"), the year goes to `rok` (a quoted string, may be `"cca 1953"` or `"1957?"`), so all issues of one magazine group together on `vydal.phtml`.
+- Links to collection pages are emitted lowercased (`| downcase`) because Netlify 301-redirects mixed-case URLs to lowercase.
+- `_plugins/ceske_razeni.rb` provides the Czech-alphabet sort filters used by `autori.phtml` and `vydal.phtml`; `hledat.html` searches `search.json` client-side; `sitemap.xml` and `robots.txt` are Liquid templates.
 - `youtube` is just the video ID (rendered by `_includes/youtube.html`).
 - Filenames are ASCII with accents stripped and spaces as `_` (e.g. `Armade_zdar.md`); some older entries are `.html`.
 - Song/poem bodies are Markdown where each verse line ends with two trailing spaces to force a line break — preserve them.

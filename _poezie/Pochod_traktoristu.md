@@ -1,7 +1,8 @@
 ---
 title: Pochod traktoristů 
 autor: František Julius
-vydal: Plzeňské pivovary - závodní časopis KSČ, ROH, ČSM a vedení podniku, 1955
+vydal: Plzeňské pivovary - závodní časopis KSČ, ROH, ČSM a vedení podniku
+rok: "1955"
 ---
 
 Ej, vy koně, koně z ocele   

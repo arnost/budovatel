@@ -1,7 +1,8 @@
 ---
 title: Řád práce dolu Žofie
 autor: Jaroslav Pastucha
-vydal: Zpravodaj dolu Žofie, časopis zaměstnanců dolu Žofie Orlová III, 1957?
+vydal: Zpravodaj dolu Žofie, časopis zaměstnanců dolu Žofie Orlová III
+rok: "1957?"
 ---
 
 Za tu poctivou práci,  

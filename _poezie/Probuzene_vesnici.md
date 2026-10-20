@@ -1,7 +1,8 @@
 ---
 title: Probuzené vesnici
 autor: Helena Sedláčková
-vydal: Čelem k vesnici, sborník materiálu pro soubory lidové tvořivosti, Praha, Orbis, 1953
+vydal: Čelem k vesnici, sborník materiálu pro soubory lidové tvořivosti, Praha, Orbis
+rok: "1953"
 ---
 
 Mateřídouška už zase dýchla    

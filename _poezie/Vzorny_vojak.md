@@ -1,7 +1,8 @@
 ---
 title: Vzorný voják
 autor: Josef Zahradníček
-vydal: časopis Československý voják, 1952
+vydal: Československý voják
+rok: "1952"
 ---
 
 Jdi vpřed, ať mrzne sebevíc, ať bláto stříká,  

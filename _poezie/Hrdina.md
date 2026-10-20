@@ -1,7 +1,8 @@
 ---
 title: Hrdina 
 autor: Jarmila Rozsypalová
-vydal: Směna, kulturní čtrnáctideník mládeže, 1952
+vydal: Směna, kulturní čtrnáctideník mládeže
+rok: "1952"
 ---
 
 Voněly sady… Zblízka - ode břehu -   

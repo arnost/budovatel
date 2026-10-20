@@ -1,7 +1,8 @@
 ---
 title: Chceme mír! 
 autor: Jiří Fischer
-vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav, 1955
+vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav
+rok: "1955"
 ---
 
     přehrada Žermanice  

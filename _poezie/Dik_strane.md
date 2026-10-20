@@ -1,7 +1,8 @@
 ---
 title: Dík straně 
 autor: Věra Procházková
-vydal: Bojovník Mostexu - časopis spolupracovníků socialistického závodu, 1954
+vydal: Bojovník Mostexu - časopis spolupracovníků socialistického závodu
+rok: "1954"
 ---
 
 (Neumím krásné verše psát,  

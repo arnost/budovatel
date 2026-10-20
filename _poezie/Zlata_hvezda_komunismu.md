@@ -1,7 +1,8 @@
 ---
 title: Zlatá hvězda komunismu
 autor: Marie Majerová
-vydal: Spartakiádní zpravodaj, 1960
+vydal: Spartakiádní zpravodaj
+rok: "1960"
 ---
 
     Báseň nár. umělkyně k II. celostátní spartakiádě

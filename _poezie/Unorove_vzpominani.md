@@ -1,7 +1,8 @@
 ---
 title: Únorové vzpomínání
 autor:  Josef Husovský
-vydal: Vesnické noviny Rozvoj Židlochovicka, 1959
+vydal: Vesnické noviny Rozvoj Židlochovicka
+rok: "1959"
 ---
 
 Jak tažný pták přes moře azurové   

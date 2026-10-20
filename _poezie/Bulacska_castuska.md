@@ -1,7 +1,8 @@
 ---
 title: Bulačská častuška
 autor:  Erich Sojka
-vydal: Hlas Doubravy, závodní časopis zaměstnanců Dolu Doubrava v Doubravě, 1956
+vydal: Hlas Doubravy, závodní časopis zaměstnanců Dolu Doubrava v Doubravě
+rok: "1956"
 ---
 
 Ostravaci, Karviňoci,  

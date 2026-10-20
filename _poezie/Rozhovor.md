@@ -1,7 +1,8 @@
 ---
 title: Rozhovor
 autor: František Sedláček
-vydal: Lidová tvořivost, časopis pro soubory lidové umělecké tvořivosti, 1953
+vydal: Lidová tvořivost, časopis pro soubory lidové umělecké tvořivosti
+rok: "1953"
 ---
 
 Jednou, možná za dvě generace   

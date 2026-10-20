@@ -1,7 +1,8 @@
 ---
 title: Do nového roku
 autor: František Vymazal
-vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce, 1954
+vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce
+rok: "1954"
 ---
 
 A do nového roku slibme si,   

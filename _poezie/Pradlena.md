@@ -1,7 +1,8 @@
 ---
 title: Přadlena
 autor:  Kopřivová
-vydal: Přást, závodní časopis bavlnářských závodů Korda - Litvínov I., 1954
+vydal: Přást, závodní časopis bavlnářských závodů Korda - Litvínov I.
+rok: "1954"
 ---
 
 Předu - předu tenké nitky, 

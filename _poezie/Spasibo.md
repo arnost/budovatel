@@ -1,7 +1,8 @@
 ---
 title: Spasibo
 autor: Lubomír Javorský
-vydal: Červený květ, kulturně politický měsíčník, 1960
+vydal: Červený květ, kulturně politický měsíčník
+rok: "1960"
 ---
 
 Jak otisk pneumatik na silnici omývané deštěm   

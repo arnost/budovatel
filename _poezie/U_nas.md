@@ -1,7 +1,8 @@
 ---
 title: U nás
 autor: Vladimír Dymáček
-vydal: Chotěbořský plamen, 1957
+vydal: Chotěbořský plamen
+rok: "1957"
 ---
 
 Jak je to milé žít a dýchat,   

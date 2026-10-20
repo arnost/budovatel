@@ -1,7 +1,8 @@
 ---
 title: O čem hovořilo mlčení 
 autor: Alexander Bezyměnskij
-vydal: Na stráži zítřka, Verše, písně, pásma, tance, sborník pro kulturní práci v armádě a pro vojenská kola STM; Naše vojsko, Praha, 1950
+vydal: Na stráži zítřka, Verše, písně, pásma, tance, sborník pro kulturní práci v armádě a pro vojenská kola STM; Naše vojsko, Praha
+rok: "1950"
 ---
 
     přeložil F. Vrba

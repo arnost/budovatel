@@ -1,7 +1,8 @@
 ---
 title: Za člověka
 autor:  K. Mičola
-vydal: časopis Dílo zaměstnanců závodu Jiřího Dimitrova, Orbis 3, 1954
+vydal: Dílo zaměstnanců závodu Jiřího Dimitrova, Orbis 3
+rok: "1954"
 ---
 
 (báseň věnovaná účastníkům školení masově-kulturní práce v Ústí n. O., konaného od 19. září do 2. října t. r.)

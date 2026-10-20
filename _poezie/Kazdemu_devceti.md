@@ -1,7 +1,8 @@
 ---
 title: Každému děvčeti 
 autor: Jiří Flíček
-vydal: Směna, kulturní čtrnáctideník mládeže, 1952
+vydal: Směna, kulturní čtrnáctideník mládeže
+rok: "1952"
 ---
 
 Jsem hrdý, že mohu jeti,  

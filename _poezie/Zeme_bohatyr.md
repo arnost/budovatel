@@ -1,7 +1,8 @@
 ---
 title: Země - bohatýr
 autor:  Ivan Skála
-vydal: Fronta je všude. Praha 1951
+vydal: Fronta je všude. Praha
+rok: "1951"
 ---
 
 

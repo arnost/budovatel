@@ -1,7 +1,8 @@
 ---
 title: Únorová noc
 autor: Ivan Skála
-vydal: Rudé právo, 1958
+vydal: Rudé právo
+rok: "1958"
 ---
 
 Jako by to byl první sníh,  

@@ -1,7 +1,8 @@
 ---
 title: Vzpomínka věnovaná gener. Martirosjanovi 
 autor: M. H.
-vydal: Vřeteno - závodní noviny zaměstnanců TOS Varnsdorf, 1958
+vydal: Vřeteno - závodní noviny zaměstnanců TOS Varnsdorf
+rok: "1958"
 ---
 
 Byla mně sotva čtyři léta...   

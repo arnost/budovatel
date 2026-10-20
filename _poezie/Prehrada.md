@@ -1,7 +1,8 @@
 ---
 title: Přehrada 
 autor: K. Benešová
-vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav, 1955
+vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav
+rok: "1955"
 ---
 
 Měl by to být hymnus, zároveň prostý verš  

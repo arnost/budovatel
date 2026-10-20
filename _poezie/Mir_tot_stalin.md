@@ -1,7 +1,8 @@
 ---
 title: Mír - toť Stalin 
 autor: V. Brouček
-vydal: Paprsek - závodní časopis Vigona 01, Svitavy, 1953
+vydal: Paprsek - závodní časopis Vigona 01, Svitavy
+rok: "1953"
 ---
 
 Mír - to je oráč, jenž ztvrdlou hroudu krájí.  

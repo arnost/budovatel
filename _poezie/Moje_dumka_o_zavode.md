@@ -1,7 +1,8 @@
 ---
 title: Moja dumka o závode
 autor: Rudolf Lazor
-vydal: Norma, závodní časopis zaměstnanců n.p. Normal Stráž n. Nis., 1955
+vydal: Norma, závodní časopis zaměstnanců n.p. Normal Stráž n. Nis.
+rok: "1955"
 ---
 
 Já len jednu dumku mám:   

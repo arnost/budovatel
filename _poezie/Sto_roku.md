@@ -1,7 +1,8 @@
 ---
 title: Sto roků
 autor: Jan Noha
-vydal: Praha, 1948
+vydal: Praha
+rok: "1948"
 ---
 
 1848

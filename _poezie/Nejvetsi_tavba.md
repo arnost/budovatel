@@ -1,7 +1,8 @@
 ---
 title: Největší tavba 
 autor: A. Velebná
-vydal: Tvorba, 1951
+vydal: Tvorba
+rok: "1951"
 ---
 
 Když vidím dneska děti, pionýry,   

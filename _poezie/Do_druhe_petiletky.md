@@ -1,7 +1,8 @@
 ---
 title: Do druhé pětiletky
 autor: Doupal
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1956
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1956"
 ---
 
 Cesta na Vítkov se vine,  

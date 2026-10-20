@@ -1,7 +1,8 @@
 ---
 title: Socha se zavřenýma očima
 autor:  Jana Eliášová
-vydal: Haló - Nedělní noviny, duben 1948
+vydal: Haló - Nedělní noviny, duben
+rok: "1948"
 ---
 
 při vzpomínce na F. D. Roosevelta †12.IV.1945

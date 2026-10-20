@@ -1,7 +1,8 @@
 ---
 title: Děti chudých
 autor: Bedř. Sůvová
-vydal: 1. Máj KSČ, 1929
+vydal: 1. Máj KSČ
+rok: "1929"
 ---
 
 Den s tisícerýma očima   

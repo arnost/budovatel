@@ -1,7 +1,8 @@
 ---
 title: Já bych chtěla vědět 
 autor: Antonie Kebortová
-vydal: Bojovník Mostexu - časopis spolupracovníků socialistického závodu, 1954
+vydal: Bojovník Mostexu - časopis spolupracovníků socialistického závodu
+rok: "1954"
 ---
 
     autorka básně je 66 letá dělnice, nyní v domácnosti

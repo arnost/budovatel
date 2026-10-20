@@ -1,7 +1,8 @@
 ---
 title: Chvála komunismu
 autor: Bertold Brecht
-vydal: Havířská pravda, závodní noviny Dolu Čs. armády, nositele Řádu práce, Karviná 2, 1961
+vydal: Havířská pravda, závodní noviny Dolu Čs. armády, nositele Řádu práce, Karviná 2
+rok: "1961"
 ---
 Co vlastně mluví proti komunismu?    
 Vždyť je rozumný, srozumitelný. A snadný.   

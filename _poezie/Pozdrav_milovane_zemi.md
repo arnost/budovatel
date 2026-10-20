@@ -1,7 +1,8 @@
 ---
 title: Pozdrav milované zemi
 autor: Daniela Stará
-vydal: Čelem k vesnici, sborník materiálu pro soubory lidové tvořivosti, Praha, Orbis, 1953
+vydal: Čelem k vesnici, sborník materiálu pro soubory lidové tvořivosti, Praha, Orbis
+rok: "1953"
 ---
 
 Po široké stepi rychlý koník letí,  

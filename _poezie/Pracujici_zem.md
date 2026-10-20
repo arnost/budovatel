@@ -1,7 +1,8 @@
 ---
 title: Pracující zemi
 autor: František Nechvátal
-vydal: Májový list KSČ, 1947
+vydal: Májový list KSČ
+rok: "1947"
 ---
 
 Těm, kdož vládnou dvouletčinou pákou

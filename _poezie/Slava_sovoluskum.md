@@ -1,7 +1,8 @@
 ---
 title: Sláva Sovoluskům 
 autor: Václav Lichtenberg
-vydal: Hlas průzkumníka - závodní časopis zaměstnanců n. p. Českomoravský rudný průzkum Kutná Hora, 1955
+vydal: Hlas průzkumníka - závodní časopis zaměstnanců n. p. Českomoravský rudný průzkum Kutná Hora
+rok: "1955"
 ---
 
 Po hřebenu Železných hor jdeš-li na úpatí,  

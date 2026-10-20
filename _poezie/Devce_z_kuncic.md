@@ -1,7 +1,8 @@
 ---
 title: Děvče z Kunčic 
 autor: P. Poustka
-vydal: Směna, kulturní čtrnáctideník mládeže, 1952
+vydal: Směna, kulturní čtrnáctideník mládeže
+rok: "1952"
 ---
 
 Nejenom fialinek kytka   

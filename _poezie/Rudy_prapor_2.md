@@ -1,7 +1,8 @@
 ---
 title: Rudý prapor
 autor: František Vymazal
-vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce, 1954
+vydal: Rozběh, závodní časopis zaměstnanců n. p. Ingstav Brno, nositele Řádu práce
+rok: "1954"
 ---
 
 Na stavbách vodních my bojujem,   

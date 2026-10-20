@@ -12,9 +12,9 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 {% case page.collection %}
-{% when "pisne" %}{% capture kdo %}Píseň{% if page.music %}, hudba {{ page.music }}{% endif %}{% if page.text %}, text {{ page.text }}{% endif %}{% if page.preklad %}, překlad {{ page.preklad | join: ", " }}{% endif %}. {% endcapture %}
-{% when "poezie" %}{% capture kdo %}Báseň{% if page.autor %}, {{ page.autor }}{% endif %}{% if page.vydal %} ({{ page.vydal }}){% endif %}. {% endcapture %}
-{% when "state" %}{% capture kdo %}Stať{% if page.autor %}, {{ page.autor }}{% endif %}{% if page.vydal %} ({{ page.vydal }}){% endif %}. {% endcapture %}
+{% when "pisne" %}{% capture kdo %}Píseň{% if page.music %}, hudba {{ page.music | join: ", " }}{% endif %}{% if page.text %}, text {{ page.text | join: ", " }}{% endif %}{% if page.preklad %}, překlad {{ page.preklad | join: ", " }}{% endif %}. {% endcapture %}
+{% when "poezie" %}{% capture kdo %}Báseň{% if page.autor %}, {{ page.autor | join: ", " }}{% endif %}{% if page.vydal %} ({{ page.vydal }}{% if page.rok %}, {{ page.rok }}{% endif %}){% endif %}. {% endcapture %}
+{% when "state" %}{% capture kdo %}Stať{% if page.autor %}, {{ page.autor | join: ", " }}{% endif %}{% if page.vydal %} ({{ page.vydal }}{% if page.rok %}, {{ page.rok }}{% endif %}){% endif %}. {% endcapture %}
 {% else %}{% assign kdo = "" %}{% endcase %}
 {% if page.collection %}{% capture popis %}{{ kdo }}{{ page.content | strip_html | replace: "&nbsp;", " " | replace: "&amp;", "&" }}{% endcapture %}{% else %}{% assign popis = site.description %}{% endif %}
 {% assign popis = popis | normalize_whitespace | truncate: 200 %}

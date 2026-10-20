@@ -1,7 +1,8 @@
 ---
 title: Pojď s námi
 autor: G. Janouch
-vydal: Májový list KSČ, 1932
+vydal: Májový list KSČ
+rok: "1932"
 ---
 
 ty se mýlíš soudruhu  

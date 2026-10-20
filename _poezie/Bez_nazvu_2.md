@@ -1,7 +1,8 @@
 ---
 title: Bez názvu
 autor: Ján Kostra
-vydal: Architektonická bilance KPÚ, 1973
+vydal: Architektonická bilance KPÚ
+rok: "1973"
 ---
 
 Zamával křídlem jako orel - král  

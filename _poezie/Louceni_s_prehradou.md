@@ -1,7 +1,8 @@
 ---
 title: Vír; Loučení s přehradou 
 autor: Josef Vrbka
-vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav, 1956
+vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav
+rok: "1956"
 ---
 
 Léta už jsme pracovali   

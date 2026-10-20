@@ -1,7 +1,8 @@
 ---
 title: Těm, kdo ještě spí
 autor: L. Slíva
-vydal: Mosilana, závodní časopis zaměstnanců n.p. Mosilana v Brně, 1961
+vydal: Mosilana, závodní časopis zaměstnanců n.p. Mosilana v Brně
+rok: "1961"
 ---
 
 Spěte jen sladce, měšťáci,  

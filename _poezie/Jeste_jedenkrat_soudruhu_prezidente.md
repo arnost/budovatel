@@ -1,7 +1,8 @@
 ---
 title: Ještě jedenkrát soudruhu presidente
 autor: Luděk Drábek
-vydal: Zpravodaj Energostroje, čtrnáctideník zaměstnanců Energostroje, 1957
+vydal: Zpravodaj Energostroje, čtrnáctideník zaměstnanců Energostroje
+rok: "1957"
 ---
 
 díky,          

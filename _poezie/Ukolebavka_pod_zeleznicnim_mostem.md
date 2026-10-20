@@ -1,7 +1,8 @@
 ---
 title: Ukolébavka pod železničním mostem 
 autor: Vlastimil Borek
-vydal: Rozsevačka, 1933
+vydal: Rozsevačka
+rok: "1933"
 ---
 
 No, lež pěkně, můj malej hochu   

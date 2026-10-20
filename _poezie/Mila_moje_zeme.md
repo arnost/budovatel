@@ -1,7 +1,8 @@
 ---
 title: Milá moje země...
 autor: Pavla Pokorná
-vydal: Moravia, časopis zaměstnanců národního podniku v Mariánském Údolí, 1955
+vydal: Moravia, časopis zaměstnanců národního podniku v Mariánském Údolí
+rok: "1955"
 ---
 
 Matka země dnes se červenala   

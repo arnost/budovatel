@@ -1,7 +1,8 @@
 ---
 title: Stavíme nový svět! 
 autor: P. G.
-vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav, 1962
+vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav
+rok: "1962"
 ---
 
 Údolí, lesklý stroj na třech nohách,  

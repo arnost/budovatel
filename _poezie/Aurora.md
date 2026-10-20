@@ -1,7 +1,8 @@
 ---
 title: Aurora
 autor: Oldřich Adamec
-vydal: Kytice, měsíčník pro literaturu a umění, 1948
+vydal: Kytice, měsíčník pro literaturu a umění
+rok: "1948"
 ---
 Tam v té černé tmě    
 ukázal Lenin prstem    

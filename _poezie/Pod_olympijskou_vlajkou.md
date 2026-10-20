@@ -1,7 +1,8 @@
 ---
 title: Pod olympijskou vlajkou 
 autor: Josef Oktábec
-vydal: Sportovní sláva - světové a české události ve sportu, leden-březen 1956
+vydal: Sportovní sláva - světové a české události ve sportu, leden-březen
+rok: "1956"
 ---
 
 Překrásná píseň na rtech se mi choulí,   

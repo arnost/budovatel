@@ -1,7 +1,8 @@
 ---
 title: Partyzánům
 autor:  Josef Němeček
-vydal: časopis Osvěta SNB, 1947
+vydal: Osvěta SNB
+rok: "1947"
 ---
 
     Památce divisního generála Ing. Vojtěcha Luži, který padl 2. X. 1944.

@@ -1,7 +1,8 @@
 ---
 title: Leninovo jméno
 autor: Mark Lisjanskij
-vydal: Za socialistickou Prahu, 1954
+vydal: Za socialistickou Prahu
+rok: "1954"
 ---
 
 Dívám se na vás, zelené prostory,  

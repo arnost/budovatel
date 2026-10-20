@@ -1,7 +1,8 @@
 ---
 title: Vám mladí zpívám!
 autor: Josef Husovský
-vydal: Vesnické noviny Rozvoj Židlochovicka, 1959
+vydal: Vesnické noviny Rozvoj Židlochovicka
+rok: "1959"
 ---
 
 Vám, mladí, zpívám prostinkou jen píseň   

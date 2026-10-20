@@ -1,7 +1,8 @@
 ---
 title: Všichni chceme pochopit
 autor:  A. Vaněk, kovář
-vydal: Montáž, závodní časopis n.p. Montáže, Brno, 1954
+vydal: Montáž, závodní časopis n.p. Montáže, Brno
+rok: "1954"
 ---
 
 Stojíme zde před úkolem,  

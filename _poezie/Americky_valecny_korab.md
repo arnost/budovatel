@@ -1,7 +1,8 @@
 ---
 title: Americký válečný koráb
 autor: Oldřich Adamec
-vydal: časopis Svobodná země, 1950
+vydal: Svobodná země
+rok: "1950"
 ---
 
 Připlouvají, aby jako červi nenasytní   

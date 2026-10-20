@@ -1,7 +1,9 @@
 ---
 title: Píseň frontového šoféra
 music: B. Mokrousov
-text:  B. Laskin, N. Labkovskij
+text:
+  - B. Laskin
+  - N. Labkovskij
 preklad: V. Škoda
 ---
 

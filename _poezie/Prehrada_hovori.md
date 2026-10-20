@@ -1,7 +1,8 @@
 ---
 title: Přehrada hovoří... 
 autor: Rudolf Benedik
-vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav, 1954
+vydal: Rozběh, závodní noviny zaměstnanců n. p. Ingstav
+rok: "1954"
 ---
 
 Jsem z cementu, železa, kamene   

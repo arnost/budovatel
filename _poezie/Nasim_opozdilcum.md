@@ -1,7 +1,8 @@
 ---
 title: Našim opozdilcům
 autor: Rudolf Novotný
-vydal: časopis Náš rozvoj, Tesla Vršovice, 1954
+vydal: Náš rozvoj, Tesla Vršovice
+rok: "1954"
 ---
 
 Ten, kdo pozdě chodí,  

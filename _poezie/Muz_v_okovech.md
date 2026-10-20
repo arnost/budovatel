@@ -1,7 +1,8 @@
 ---
 title: Muž v okovech (Ernst Thälmann)
 autor: Franta Němec
-vydal: 1. Máj KSČ, 1935
+vydal: 1. Máj KSČ
+rok: "1935"
 ---
 
 Žaláře starých dnů jdou ze svých vlhkých věží,  

@@ -1,7 +1,8 @@
 ---
 title: Šumava - 5. března 1953
 autor: Ivo Štuka
-vydal: Československý voják, 1953
+vydal: Československý voják
+rok: "1953"
 ---
 Na lukách u hranic traviny z mrtvých vstaly.  
 Tam žije u hranic i strážní útvar malý.  

@@ -1,7 +1,8 @@
 ---
 title: Růže zítřka
 autor: Jan Noha
-vydal: Československý spisovatel, Praha, 1950
+vydal: Československý spisovatel, Praha
+rok: "1950"
 ---
 
 Každý den máte naši práci v ruce,  

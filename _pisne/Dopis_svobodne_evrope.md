@@ -1,7 +1,9 @@
 ---
 title: Dopis Svobodné Evropě
 music: Bohuslav Myslík
-text: Josef Laufer, Bohuslav Myslík
+text:
+  - Josef Laufer
+  - Bohuslav Myslík
 youtube: 8bYHVbgcgdo
 ---
 

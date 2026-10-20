@@ -1,7 +1,8 @@
 ---
 title: Jsem železničář
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1957
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1957"
 ---
 
 Jsem železničář  

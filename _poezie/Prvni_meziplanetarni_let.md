@@ -1,7 +1,8 @@
 ---
 title: První meziplanetární let
 autor: Vlasta Čmugrová
-vydal: Přást, závodní časopis bavlnářských závodů Korda - Litvínov I., 1958
+vydal: Přást, závodní časopis bavlnářských závodů Korda - Litvínov I.
+rok: "1958"
 ---
 Po vánocích znenadání  
 jak, nevíme ani sami,  

@@ -1,7 +1,8 @@
 ---
 title: Slyšíš
 autor: Bern
-vydal: Za socialistickou Prahu, měsíčník zaměstnanců ÚNV hl. města Prahy, 1955
+vydal: Za socialistickou Prahu, měsíčník zaměstnanců ÚNV hl. města Prahy
+rok: "1955"
 ---
 
 I.

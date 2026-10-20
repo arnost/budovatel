@@ -1,7 +1,8 @@
 ---
 title: Radostné světlo
 autor: Jan Noha
-vydal: Československý spisovatel, Praha, 1950
+vydal: Československý spisovatel, Praha
+rok: "1950"
 ---
 
 Kolikrát sazeč, tiskař, grafik věrně  

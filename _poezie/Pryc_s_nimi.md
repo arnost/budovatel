@@ -1,7 +1,8 @@
 ---
 title: Pryč s nimi!
 autor: Václav Plecháč
-vydal: Bojovník Mostexu, časopis spolupracovníků socialistického závodu, 1955
+vydal: Bojovník Mostexu, časopis spolupracovníků socialistického závodu
+rok: "1955"
 ---
 Zas nové světem jdou dumy,  
 zmírající kapitál pro lidstvo chystá pumy,  

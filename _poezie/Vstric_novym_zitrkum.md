@@ -1,7 +1,8 @@
 ---
 title: Vstříc novým zítřkům
 autor: Leona Zembinská
-vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu, 1960
+vydal: Přerovský železničář, závodní časopis zaměstnanců ČSD v Přerovském železničním uzlu
+rok: "1960"
 ---
 
 Vstříc novým zítřkům pohlížím,  

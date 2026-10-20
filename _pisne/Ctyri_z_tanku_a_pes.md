@@ -1,7 +1,9 @@
 ---
 title: Čtyři z tanku a pes
 music: Wojciech Kilar
-text: Agnieszka Osiecka a Wiktor Woroszylski
+text:
+  - Agnieszka Osiecka
+  - Wiktor Woroszylski
 ---
 
   

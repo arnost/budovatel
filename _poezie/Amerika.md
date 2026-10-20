@@ -1,7 +1,8 @@
 ---
 title: Amerika
 autor:  Jan Hostáň
-vydal: Haló - Nedělní noviny, 1950
+vydal: Haló - Nedělní noviny
+rok: "1950"
 ---
 
 Amerika - mocný pán   

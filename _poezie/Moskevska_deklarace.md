@@ -1,7 +1,8 @@
 ---
 title: Moskevská deklarace
 autor: František Prudký
-vydal: Mosilana, závodní časopis zaměstnanců n.p. Mosilana v Brně, 1955
+vydal: Mosilana, závodní časopis zaměstnanců n.p. Mosilana v Brně
+rok: "1955"
 ---
 
 Rostou stromy, kvetou květy,  

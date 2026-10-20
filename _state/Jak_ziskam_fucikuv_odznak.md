@@ -82,6 +82,6 @@ Rádi bychom ti několika slovy poradili, jak máš pracovat nad knihou. Protož
 **Jaká bude zkouška?** 
 První zkoušky se budou konat v dubnu 1950. Nebudou to zkoušky starého typu s přísnými pány profesory, bude to rozhovor o knihách a filmech, které jsi četl a viděl, co na tebe nejvíce zapůsobilo, jak jsi pochopil smysl knihy nebo filmu, co sis odnesl do svého života jako poučení. Při zkoušce svými znalostmi musíš však komisi přesvědčit o tom, že jsi knihu přečetl a pochopil.  V podmínkách jsou určeny dvě knihy odborné. Povíš tedy, jaké odborné knihy jsi prostudoval a jak ti jejich znalost pomáhá v práci. Zkoušky budou zakončeny písní. Komise se zatím krátce poradí a ihned oznámí, kdo podmínky splnil a kdo tedy bude navržen ústřednímu výboru ČSM k vyznamenání Fučíkovým odznakem.  -anonym-
 
-![Fučíkův odznak](/img/fucikuv_odznak.jpg)
+![Fučíkův odznak](/img/state/fucikuv_odznak.jpg)
 
 K tématu Fučíkova odznaku viz též práce [Fučíkův odznak](https://www.ustrcr.cz/data/pdf/projekty/antologie/tema2.pdf)

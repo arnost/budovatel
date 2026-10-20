@@ -26,4 +26,4 @@ nedáme ji spát už ani na chvíli.
 S traktory jí život přivezem -   
 půjdem si k ní pro chléb, obilí.
 
-![](/img/pisnicka.png)
+![](/img/pisne/pisnicka.png)

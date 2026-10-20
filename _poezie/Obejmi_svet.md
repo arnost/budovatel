@@ -27,4 +27,4 @@ Nemysli tolik na sebe, na svůj "prý těžký" úděl!
 Nic ti to nepomůže!  
 Věř: !kdo miluje ostatní - miluje nejvíce sebe!
 
-![](/img/obejmi_svet.jpg)
+![](/img/poezie/obejmi_svet.jpg)

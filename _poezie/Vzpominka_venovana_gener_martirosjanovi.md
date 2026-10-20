@@ -65,4 +65,4 @@ Ta půjde se mnou celým životem,
 Bude se dědit jednou z báby na vnoučata   
 a potom bude patřit dětem všem.
 
-![Vzpomínka věnovaná gener. Martirosjanovi](/img/Vzpominka_venovana_gener_martirosjanovi.jpg)
+![Vzpomínka věnovaná gener. Martirosjanovi](/img/poezie/Vzpominka_venovana_gener_martirosjanovi.jpg)

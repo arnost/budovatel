@@ -59,7 +59,7 @@ Nearly all work is adding content files; commits are typically just a new `.md` 
 Media are linked automatically, not via front matter:
 
 - `_includes/media.html` (used by `pisen`/`poezie` layouts) finds files in `noty/{jpg,midi,mp3,ps,pdf,lylipond}` whose name matches the page id (e.g. `noty/midi/Armade_zdar.midi`, `noty/lylipond/Armade_zdar.ly`). The `_config.yml` defaults tag those folders with flags (`midi: true`, …) that the include filters on. Sheet-music images in `noty/jpg` are `.gif`.
-- The `obrazek` layout with `galery: true` shows every file under `img/` whose path contains the page title, displayed with the bundled `unitegallery` jQuery plugin.
+- `img/` is organised as `vzhled/` (header/navigation graphics, title picture), `galerie/<Page_name>/` (galleries), `obrazky/` (single pictures of `_obrazky` pages) and `pisne/`, `poezie/`, `state/` (illustrations used inside texts). The `obrazek` layout with `galery: true` shows every file in `img/galerie/<page title>/` with the bundled `unitegallery` jQuery plugin. Old image URLs are 301-redirected in `netlify.toml`.
 
 ### Netlify
 

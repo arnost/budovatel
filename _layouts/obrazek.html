@@ -13,8 +13,9 @@ autor: {% include jmena.html jmena=page.autor %}<br>
 {% if page.galery %}
     <div id="gallery" style="display:none;">
     {% assign image_files = site.static_files | where: "obrazek", true %}
+    {% assign slozka = "/img/galerie/" | append: page.title | append: "/" %}
         {% for myimage in image_files %}
-            {% if myimage.path contains page.title %}
+            {% if myimage.path contains slozka %}
                 <img src="{{ myimage.path }}" data-image="{{ myimage.path }}" data-description="">
             {% endif %}
         {% endfor %}

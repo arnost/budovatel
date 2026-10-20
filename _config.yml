@@ -86,7 +86,7 @@ defaults:
     values:
       pdf: true
   - scope:
-      path: "img"
+      path: "img/galerie"
     values:
       obrazek: true
 

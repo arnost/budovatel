@@ -61,4 +61,4 @@ těmi, co dnes stranou stojí,
 je ještě čas, abys našel místo   
 v dnešním boji.
 
-![](/img/strelnym_prachem.jpg)
+![](/img/poezie/strelnym_prachem.jpg)

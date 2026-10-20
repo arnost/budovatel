@@ -14,3 +14,232 @@
 [[redirects]]
   from = "/obrazky.phtml/Dikuvzdani_-ceskoslovenskeho_lidu_generalissimu_j_v_stalinovi.html"
   to = "/obrazky.phtml/Dikuvzdani_ceskoslovenskeho_lidu_generalissimu_j_v_stalinovi"
+
+# Obrázky přesunuté do podadresářů (říjen 2026)
+[[redirects]]
+  from = "/img/Prehlidka_jede/*"
+  to = "/img/poezie/Prehlidka_jede/:splat"
+
+[[redirects]]
+  from = "/img/Vzpominka_venovana_gener_martirosjanovi.jpg"
+  to = "/img/poezie/Vzpominka_venovana_gener_martirosjanovi.jpg"
+
+[[redirects]]
+  from = "/img/armada.jpg"
+  to = "/img/state/armada.jpg"
+
+[[redirects]]
+  from = "/img/armada_nahled.jpg"
+  to = "/img/state/armada_nahled.jpg"
+
+[[redirects]]
+  from = "/img/b10x1a.gif"
+  to = "/img/vzhled/b10x1a.gif"
+
+[[redirects]]
+  from = "/img/b10x1b.gif"
+  to = "/img/vzhled/b10x1b.gif"
+
+[[redirects]]
+  from = "/img/b11x1.jpg"
+  to = "/img/vzhled/b11x1.jpg"
+
+[[redirects]]
+  from = "/img/b1x1.jpg"
+  to = "/img/vzhled/b1x1.jpg"
+
+[[redirects]]
+  from = "/img/b2x1a.gif"
+  to = "/img/vzhled/b2x1a.gif"
+
+[[redirects]]
+  from = "/img/b2x1b.gif"
+  to = "/img/vzhled/b2x1b.gif"
+
+[[redirects]]
+  from = "/img/b3x1a.gif"
+  to = "/img/vzhled/b3x1a.gif"
+
+[[redirects]]
+  from = "/img/b3x1b.gif"
+  to = "/img/vzhled/b3x1b.gif"
+
+[[redirects]]
+  from = "/img/b4x1a.gif"
+  to = "/img/vzhled/b4x1a.gif"
+
+[[redirects]]
+  from = "/img/b4x1b.gif"
+  to = "/img/vzhled/b4x1b.gif"
+
+[[redirects]]
+  from = "/img/b5x1a.gif"
+  to = "/img/vzhled/b5x1a.gif"
+
+[[redirects]]
+  from = "/img/b5x1b.gif"
+  to = "/img/vzhled/b5x1b.gif"
+
+[[redirects]]
+  from = "/img/b6x1a.gif"
+  to = "/img/vzhled/b6x1a.gif"
+
+[[redirects]]
+  from = "/img/b6x1b.gif"
+  to = "/img/vzhled/b6x1b.gif"
+
+[[redirects]]
+  from = "/img/b7x1a.gif"
+  to = "/img/vzhled/b7x1a.gif"
+
+[[redirects]]
+  from = "/img/b7x1b.gif"
+  to = "/img/vzhled/b7x1b.gif"
+
+[[redirects]]
+  from = "/img/b8x1a.gif"
+  to = "/img/vzhled/b8x1a.gif"
+
+[[redirects]]
+  from = "/img/b8x1b.gif"
+  to = "/img/vzhled/b8x1b.gif"
+
+[[redirects]]
+  from = "/img/b9x1a.gif"
+  to = "/img/vzhled/b9x1a.gif"
+
+[[redirects]]
+  from = "/img/b9x1b.gif"
+  to = "/img/vzhled/b9x1b.gif"
+
+[[redirects]]
+  from = "/img/bradac.jpg"
+  to = "/img/poezie/bradac.jpg"
+
+[[redirects]]
+  from = "/img/fucikuv_odznak.jpg"
+  to = "/img/state/fucikuv_odznak.jpg"
+
+[[redirects]]
+  from = "/img/iwan2.jpg"
+  to = "/img/vzhled/iwan2.jpg"
+
+[[redirects]]
+  from = "/img/leninska_pravda.jpg"
+  to = "/img/state/leninska_pravda.jpg"
+
+[[redirects]]
+  from = "/img/leninska_pravda_nahled.jpg"
+  to = "/img/state/leninska_pravda_nahled.jpg"
+
+[[redirects]]
+  from = "/img/mao.jpg"
+  to = "/img/state/mao.jpg"
+
+[[redirects]]
+  from = "/img/mao_nahled.jpg"
+  to = "/img/state/mao_nahled.jpg"
+
+[[redirects]]
+  from = "/img/obejmi_svet.jpg"
+  to = "/img/poezie/obejmi_svet.jpg"
+
+[[redirects]]
+  from = "/img/pisnicka.png"
+  to = "/img/pisne/pisnicka.png"
+
+[[redirects]]
+  from = "/img/rozdil-1.jpg"
+  to = "/img/state/rozdil-1.jpg"
+
+[[redirects]]
+  from = "/img/rozdil.jpg"
+  to = "/img/state/rozdil.jpg"
+
+[[redirects]]
+  from = "/img/sovolusky.jpg"
+  to = "/img/poezie/sovolusky.jpg"
+
+[[redirects]]
+  from = "/img/sovolusky2.jpg"
+  to = "/img/poezie/sovolusky2.jpg"
+
+[[redirects]]
+  from = "/img/strelnym_prachem.jpg"
+  to = "/img/poezie/strelnym_prachem.jpg"
+
+[[redirects]]
+  from = "/img/t1x1.jpg"
+  to = "/img/vzhled/t1x1.jpg"
+
+[[redirects]]
+  from = "/img/t2x1.gif"
+  to = "/img/vzhled/t2x1.gif"
+
+[[redirects]]
+  from = "/img/t3x1.jpg"
+  to = "/img/vzhled/t3x1.jpg"
+
+[[redirects]]
+  from = "/img/youczech.gif"
+  to = "/img/state/youczech.gif"
+
+[[redirects]]
+  from = "/img/youczech.jpg"
+  to = "/img/state/youczech.jpg"
+
+[[redirects]]
+  from = "/img/Za_trvaly_mir/*"
+  to = "/img/galerie/Za_trvaly_mir/:splat"
+
+[[redirects]]
+  from = "/img/K_udalostem_v_ceskoslovensku/*"
+  to = "/img/galerie/K_udalostem_v_ceskoslovensku/:splat"
+
+[[redirects]]
+  from = "/img/Jak_se_uhli_pohnevalo/*"
+  to = "/img/galerie/Jak_se_uhli_pohnevalo/:splat"
+
+[[redirects]]
+  from = "/img/Revoluce/*"
+  to = "/img/galerie/Revoluce/:splat"
+
+[[redirects]]
+  from = "/img/Nezarazeno/*"
+  to = "/img/galerie/Nezarazeno/:splat"
+
+[[redirects]]
+  from = "/img/Detjam_o_leninie/*"
+  to = "/img/galerie/Detjam_o_leninie/:splat"
+
+[[redirects]]
+  from = "/img/Radost/*"
+  to = "/img/galerie/Radost/:splat"
+
+[[redirects]]
+  from = "/img/Otcove_zakladatele/*"
+  to = "/img/galerie/Otcove_zakladatele/:splat"
+
+[[redirects]]
+  from = "/img/Volby/*"
+  to = "/img/galerie/Volby/:splat"
+
+[[redirects]]
+  from = "/img/Chrante_deti/*"
+  to = "/img/galerie/Chrante_deti/:splat"
+
+[[redirects]]
+  from = "/img/Bezpecnost_prace/*"
+  to = "/img/galerie/Bezpecnost_prace/:splat"
+
+[[redirects]]
+  from = "/img/Prace_a_mir/*"
+  to = "/img/galerie/Prace_a_mir/:splat"
+
+[[redirects]]
+  from = "/img/D%C3%ADkuvzd%C3%A1n%C3%AD%20%C4%8Deskoslovensk%C3%A9ho%20lidu%20generalissimu%20Stalinovi.jpg"
+  to = "/img/obrazky/Dikuvzdani_ceskoslovenskeho_lidu_generalissimu_Stalinovi.jpg"
+
+[[redirects]]
+  from = "/img/Soudruh%20Rajtora%20vypravuje%20o%20sv%C3%A9m%20z%C3%A1jezdu%20do%20Sov%C4%9Btsk%C3%A9ho%20svazu.jpg"
+  to = "/img/obrazky/Soudruh_Rajtora_vypravuje_o_svem_zajezdu_do_Sovetskeho_svazu.jpg"

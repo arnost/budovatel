@@ -4,7 +4,7 @@ autor: Alena Čermáková
 galery: false
 ---
 
-![Soudruh Rajtora vypravuje o svém zájezdu do Sovětského svazu](/img/Soudruh%20Rajtora%20vypravuje%20o%20svém%20zájezdu%20do%20Sovětského%20svazu.jpg)
+![Soudruh Rajtora vypravuje o svém zájezdu do Sovětského svazu](/img/obrazky/Soudruh_Rajtora_vypravuje_o_svem_zajezdu_do_Sovetskeho_svazu.jpg)
 
 Malířka Alena Čermáková pozorovala zemědělce a jejich ţivot na
 jednotlivých zemědělských druţstvech a nejvíce ji zaujal výjev, kterému byla kdysi

@@ -9,7 +9,7 @@ galery: false
 
 
 
-![Díkuvzdání Československého lidu generalissimu J.V. Stalinovi](/img/Díkuvzdání%20československého%20lidu%20generalissimu%20Stalinovi.jpg)
+![Díkuvzdání Československého lidu generalissimu J.V. Stalinovi](/img/obrazky/Dikuvzdani_ceskoslovenskeho_lidu_generalissimu_Stalinovi.jpg)
 
 V roce 1950 byla zadána zakázka od Ministerstva zemědělství na obraz, který by
 reprezentoval Československou republiku na připravované Zemědělské výstavě v Moskvě

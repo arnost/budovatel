@@ -48,17 +48,18 @@
     .hledani input[type=submit] { background: #4a6588; color: #fff; cursor: pointer; margin-left: 4px; }
     .hledani input[type=submit]:hover { background: #3f5878; }
     /* noty a přehrávače pod písní – v barvách stránky, na šířku hlavičky */
-    .noty-pisne { width: 680px; max-width: 100%; margin-top: 16px; }
-    .noty-pisne p { margin: 12px 0 4px; }
-    .noty-papir { background: #e6e0cf; border: 1px solid #3f5878; padding: 8px 10px; }
+    .noty-pisne { width: 680px; max-width: 100%; margin: 36px 0 28px; padding-top: 6px; border-top: 1px solid #3f5878; }
+    .noty-pisne p { margin: 26px 0 8px; }
+    .noty-papir { background: #e6e0cf; border: 1px solid #3f5878; padding: 14px 16px; }
     .noty-papir img { display: block; width: 100%; mix-blend-mode: multiply; }  /* bílý papír not dostane barvu starého papíru */
-    .noty-pisne midi-player::part(control-panel) { background: #7590b2; border: 1px solid #3f5878; border-radius: 0; }
+    .noty-pisne midi-player::part(control-panel) { background: #7590b2; border: 1px solid #3f5878; border-radius: 0; padding: 4px 6px; }
     .noty-pisne midi-player::part(play-button) { background: #4a6588; color: #fff; border-radius: 0; }
     .noty-pisne midi-player::part(time) { color: #000; }
     .noty-pisne midi-player::part(seek-bar) { accent-color: #3f5878; }
-    .noty-pisne midi-player { display: block; width: 100%; margin: 0 0 4px; }
-    .zvuk { display: flex; align-items: center; gap: 10px; background: #7590b2; border: 1px solid #3f5878; padding: 8px 10px; }
+    .noty-pisne midi-player { display: block; width: 100%; margin: 0; }
+    .zvuk { display: flex; align-items: center; gap: 14px; background: #7590b2; border: 1px solid #3f5878; padding: 14px; }
     .zvuk button { width: 30px; height: 30px; border: 0; background: #4a6588; color: #fff; cursor: pointer; font-size: 12px; }
     .zvuk .cas { font: 14px sans-serif; white-space: nowrap; }
     .zvuk input { flex: 1; accent-color: #3f5878; }
+    iframe[src*="youtube"] { display: block; margin: 10px 0 28px; }
 </style>

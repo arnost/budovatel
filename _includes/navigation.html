@@ -1,6 +1,6 @@
 {% if page.next %}<br/>
-Dále v řadě: <a href="{{ page.next.url | downcase }}">{{ page.next.title }}</a>
+Dále v řadě: <a href="{{ page.next.url | downcase }}">{% if page.next.collection == "obrazky" %}{{ page.next.name }}{% else %}{{ page.next.title }}{% endif %}</a>
 {% endif %}
 {% if page.previous %}<br/>
-Předchozí hit: <a href="{{ page.previous.url | downcase }}">{{ page.previous.title }}</a>
+Předchozí hit: <a href="{{ page.previous.url | downcase }}">{% if page.previous.collection == "obrazky" %}{{ page.previous.name }}{% else %}{{ page.previous.title }}{% endif %}</a>
 {% endif %}

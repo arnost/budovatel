@@ -1,7 +1,7 @@
 ---
 name: K událostem v Československu (Bílá kniha, 1968)
 autor: Tisková skupina sovětských novinářů
-galery: false
+galery: true
 ---
 
 Sovětská propagandistická brožura, kterou po srpnové okupaci roku 1968 vydala Moskva, aby invazi vojsk
@@ -26,7 +26,4 @@ Proti tomu stojí obrázky klidu: sovětští vojáci hasí zapálený tank a po
 se přátelsky baví s vojáky a Praha se prý vrací do běžného života. Příloha vyvrací zprávu ilegálního
 rozhlasu, že Praha 26. srpna hoří, snímky z téhož dne a končí pohledem na Zlatou Prahu na konci srpna 1968.
 
-*Sken obálky, tiráže a 17 stran obrazové přílohy německého vydání (Erste Folge) i s původními popisky
-vložil Jíha do klubu Agitprop 27. 7. 2021:
-[obrázky](https://www.okoun.cz/boards/agitprop?contextId=1071117511#article-1071117511),
-[popisky](https://www.okoun.cz/boards/agitprop?contextId=1071117515#article-1071117515).*
+*Sken obálky, tiráže a 17 stran obrazové přílohy německého vydání (Erste Folge) vložil Jíha do klubu Agitprop dne 27. 7. 2021 ([příspěvek](https://www.okoun.cz/boards/agitprop?contextId=1071117511#article-1071117511), [původní popisky](https://www.okoun.cz/boards/agitprop?contextId=1071117515#article-1071117515)).*

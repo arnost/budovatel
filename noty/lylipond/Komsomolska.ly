@@ -7,7 +7,7 @@
 
 
 PrvniHlas =  \context Voice = "prvni" {
-\stemUp\slurUp\tieUp
+\voiceOne
 c8. c16 c8 des | c4 c8 des | c bes as g |  f[ ( g  as)  ] bes |
 c8. c16 c8 des |  es[ (  des) ] c bes | as bes as g |  f[ ( g  as)  ] bes |
 es4 es8 fes | es4 es8 fes | es8 r fes r | es r f4 |
@@ -15,7 +15,7 @@ c8. c16 c8 des |  es[ (  des) ] c bes | as bes as g | f r r4 |
 }
 
 DruhyHlas =  \context Voice = druhy{
-\stemDown\slurDown\tieDown
+\voiceTwo
 as8. as16 as8 bes | as4 as8 bes | as g as g |  f[ ( g  as)  ] g |
 as8. as16 as8 bes |  c[ ( bes) ] as g | as bes as g |  f[ ( g  as)  ] g |
 c4 c8 b | c4 c8 b | c8 r b r | c8 r des4 |

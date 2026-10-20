@@ -41,7 +41,7 @@ spo -- ji -- la mo -- hut -- ná Rus, vstal z~ná -- ro -- dov vô -- le a tie h
 aj strá -- žia, nuž slá -- va mu slá -- va a vždy je -- mu slúž.
 Slá -- va ti ot -- či -- na, vlasť na -- ša slo -- bo -- dná,
 záš -- ti -- tu ná -- dej -- nú rod v~te -- be má, zás -- ta -- va so
--- viet-- ska, zá -- sta -- va µu -- do -- vá nech nám vždy ví -- ťa
+-- viet-- ska, zá -- sta -- va ľu -- do -- vá nech nám vždy ví -- ťa
 -- stvá ve -- li -- ké dá!
 }
 

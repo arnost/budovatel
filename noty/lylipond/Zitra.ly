@@ -21,7 +21,7 @@ c2 a4 b ~ |  b r d2 | c a4 b ~ |  b r g2 | e4 r r2 | r dis4 e | g2 f
 
 text = \lyricmode {
 Dnes -- ka zpí -- vá vše -- cko no -- vou pí -- seň, 
-pa -- ni -- ká -- řùm do -- šel při ní dech.
+pa -- ni -- ká -- řům do -- šel při ní dech.
 Pí -- seň po -- má -- há, je v~ní od -- va -- ha
 do -- být zí -- tra no -- vý břeh.
 Slo -- vo zí -- tra ne -- ní pro nás práz -- dné,

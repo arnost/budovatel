@@ -30,9 +30,9 @@ text = \lyricmode {
 Mly -- nář me -- le, až se tře -- se, 
 vo -- děn -- ka mu štěs -- tí ne -- se.
 Jed -- ním be -- re, dru -- hým dá -- vá,
-Pán Bùh mu to po -- žeh -- ná -- vá,
+Pán Bůh mu to po -- žeh -- ná -- vá,
 jed -- ním be -- re, dru -- hým dá -- vá,
-Pán Bùh mu to po -- žeh -- ná -- vá.
+Pán Bůh mu to po -- žeh -- ná -- vá.
 
 Za lí -- mec jsme je však chyt -- li,
 teď jsou o -- ba v~jed -- nom pyt -- li,

@@ -6,7 +6,7 @@
 }
 
 PrvniHlas =  \context Voice = "prvni" {
-\stemUp\slurUp\tieUp
+\voiceOne
 \key a \major
 e8. e16 e8. e16 e8. e16 a8. b16 |
 cis2. cis8. d16 | b2. b8. cis16 
@@ -20,7 +20,7 @@ a2. r4 |
 }
 
 DruhyHlas =   \context Voice = "druhy" { 
-\stemDown\slurDown\tieDown
+\voiceTwo
 \key a \major
 
 e8. e16 e8. e16 e8. e16 c8. e16 | a2. fis8. fis16 |

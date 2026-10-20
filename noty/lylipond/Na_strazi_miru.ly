@@ -6,7 +6,7 @@
 }
 
 PrvniHlas =  \context Voice = "prvni" {
-\stemUp\slurUp\tieUp
+\voiceOne
 cis4 cis r8. e16 cis8. b16 | a4 a r8. e16 a8. gis16 | fis4(
 fis8.) gis16 a4 b | cis2 r8 cis8 cis8. cis16 | d4 fis,8. fis16 cis'4(
 cis8.) b16 | b4 a r8 a8 gis fis | e4 a8. e16 cis'4 b | a4 r r2 |
@@ -14,7 +14,7 @@ cis8.) b16 | b4 a r8 a8 gis fis | e4 a8. e16 cis'4 b | a4 r r2 |
 }
 
 DruhyHlas =   \context Voice = "druhy" {
-\stemDown\slurDown\tieDown
+\voiceTwo
 a4 a r8. e16 a8. e16 | cis4 cis r8. e16 cis8. e16 | fis4(
 fis8.) fis16 fis4 d |
 cis2 r8 cis'8 cis8. cis16 | b4 fis8. fis16 eis4 ( eis8.) cis16 | fis4

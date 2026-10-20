@@ -29,7 +29,7 @@ Dnes vše -- chno mlá -- dí s~ná -- mi jde, jež vzne -- še -- ný si na
 -- šlo cíl: chcem a -- by člo -- věk lé -- pe žil, své sí -- ly k~to
 -- mu sje -- dnoť -- me 
 Jdem zni -- čit bí -- du bo -- jem svým, ú -- směv zas dá -- me ne --
-šťa -- stným a pí -- seò.
+šťa -- stným a pí -- seň.
 
 K~cí -- li blíž se mlá -- dež bi -- je. Zří před se -- bou no -- vý
 den. Ná -- rod v~prá -- ci tam šťa -- stně ži -- je, ka -- ždý člo --

@@ -2,7 +2,7 @@
 \header {
         title = "Častuška do svědomí"
         composer = "Ludvík Podéšť"
-	poet = "Vlastimil Pantùček"
+	poet = "Vlastimil Pantůček"
 }
 
 melody =  \relative c'' { 
@@ -25,7 +25,7 @@ text = \lyricmode {
 Mi -- lí sou -- dru -- zi a roz -- mi lé sou -- druž -- ky,
 je to dři --na, po -- řád vy -- mýš -- let Čas -- tuš -- ky!
 Ko -- mu snad ješ -- tě sta -- čí 
-svùj ži -- vot pro -- laj -- da -- čit,
+svůj ži -- vot pro -- laj -- da -- čit,
 tak to -- mu na jis -- to my 
 sáh -- ne -- me do svě -- do -- mí.
 la la la, la la la, la la la, la la la la la,

@@ -24,8 +24,8 @@ f,4 r r2 |
 text = \lyricmode {
 Že jsme ná -- rod mu -- zi -- kan -- tů
 za -- hra -- je -- me z~ve -- se -- la,
-kaž -- dé -- mu z~tìch kal -- ku -- lan -- tů,
-co sá -- ze -- jí na dì -- la.
+kaž -- dé -- mu z~těch kal -- ku -- lan -- tů,
+co sá -- ze -- jí na dě -- la.
 Za -- hra -- jem jim od po -- dla -- hy,
 bez hou -- slí u na -- ších vrat,
 au -- to -- ma -- ty bez ná -- ma -- hy 

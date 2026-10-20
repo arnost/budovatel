@@ -61,7 +61,7 @@ b8 c b g | fis e d e |
 trubka =   \relative c'' {
         \time 2/4\key d \major
 a8 a16 a \tuplet 3/2 { a8 f a } | d4 a |  b8 b16 b \tuplet 3/2 {b8 g b}
-         | e4 b | g8 fis'16 fis e4 (  d) | a8 fis'16 fis e4 (  d) | a'8. a,16
+         | e4 b | g8 fis'16 fis e4 (  | d2) | a8 fis'16 fis e4 (  | d2) | a'8. a,16
         \tuplet 3/2 { a8 a a }| a4 r |
 }
 
@@ -94,7 +94,7 @@ accompaniment =\chordmode {
 
 \score {
 <<
-\new ChordNames \with { noChordSymbol = "" } { \AkordyTrubka \accompaniment \AkordyRefren }
+\new ChordNames \with { noChordSymbol = "" } { \AkordyTrubka s2*2 \accompaniment \AkordyRefren }
 \new Staff = "mel" \with { \autoBeamOff } {
   \new Voice = "trubka" \trubka
   \new Voice = "one" \melody
@@ -106,7 +106,7 @@ accompaniment =\chordmode {
 \new Lyrics \lyricsto "one" \text
 \new Lyrics \lyricsto "prvni" \refren
 >>
-        
+
   \midi {
     \tempo 4 = 150
     }

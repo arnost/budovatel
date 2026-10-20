@@ -20,7 +20,7 @@ b cis | d e | d8 r r4
 
 text = \lyricmode {
 Hej, ty puš -- ko, puš -- ko, mo -- je, jak já 
-tě mám rád, èe -- ka -- jí nás těž -- ké bo -- je,
+tě mám rád, če -- ka -- jí nás těž -- ké bo -- je,
 pů -- jdem bo -- jo -- vat.
 Když už pů -- jdem ne -- dá -- me  se,
 bu -- dem svor -- ně stát,

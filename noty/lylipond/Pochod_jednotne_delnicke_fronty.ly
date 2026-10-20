@@ -18,7 +18,7 @@ c c d r | a c8 bes g4 a | bes4  d, d es | f8 f r4 g g | a a bes r |
 
 text = \lyricmode {
 Chcem vzbu -- dit stro --  je, kte -- ré dří -- mou. chcem zap -- nout
-je na veè -- ný spěch, a s~ni -- mi v~tem -- pu prá -- ce zpí -- vat
+je na več -- ný spěch, a s~ni -- mi v~tem -- pu prá -- ce zpí -- vat
 děl -- ní -- ci kon -- ti -- nen -- tů všech!
 Hoj, dru -- zi mo -- ji, na -- stu -- pu -- jem,
 za na -- še prá -- va zní náš zpěv, my kaž -- dou o -- běť, při -- ne

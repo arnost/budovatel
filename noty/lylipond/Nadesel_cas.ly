@@ -17,7 +17,7 @@ c,4 c8 e g8. a16 g8 fis | g2 e'4 r | d4 c8 a b4 d | c4 r r2 |
 
 text = \lyricmode {
 Na --  de -- šel čas, kdy tře -- ba ří -- ci, čí že je ta -- to zem.
-Na -- de -- šel čas, teď prù -- ko -- pní -- ci ži -- vot si ro -- hod
+Na -- de -- šel čas, teď prů -- ko -- pní -- ci ži -- vot si ro -- hod
 -- dnem.
 Jde o bu -- dou -- cnost re -- pu -- bli -- ky, o ště -- stí jde nám
 všem.

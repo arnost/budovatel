@@ -19,7 +19,7 @@ f d bes g | c2 c | f,2. r4 |
 
 text = \lyricmode  {
 Vzhů -- ru teď a vpřed ram -- pa už je při -- pra -- ve -- na! Vos --
-tok už se chvě -- je. Vzhů -- ru teď a vpřed! A» jsi ho -- den své --
+tok už se chvě -- je. Vzhů -- ru teď a vpřed! Ať jsi ho -- den své --
 ho jmé -- na, lid ti ú -- spěch pře -- je! To ko -- smo -- nau -- ti
 jsou!
 A ža -- sne o -- ko -- lí, ko -- smo -- nau -- ti jdou moc -- ná or

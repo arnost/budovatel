@@ -23,8 +23,8 @@ f8 r16 g a4 r a | d4 r r2 |
 
 melody =\relative c' {        
 \time 4/4 \key f\major 
-<< \PrvniHlas
-\DruhyHlas
+<< { \voiceOne \PrvniHlas }
+\new Voice { \voiceTwo \DruhyHlas }
 >>
         \bar "|." 
 }
@@ -33,7 +33,7 @@ text = \lyricmode {
 
 Pod pra -- po -- ry re -- pu -- bli -- ky, 
 po -- zor! vle -- vo hleď -- te ši -- ky!
-při -- pra -- ve -- nì vždy -- cky k~bo -- ji,
+při -- pra -- ve -- ně vždy -- cky k~bo -- ji,
 Tá -- bor, Ži -- žka při nás sto -- jí.
 S~ne -- přá -- te -- li za -- to -- čí -- me, 
 na prá -- zdno my ne -- stří -- lí -- me.

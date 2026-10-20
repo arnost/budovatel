@@ -32,12 +32,12 @@ bez ra -- do -- sti nej -- de žít.
 Ať je tak, ne -- bo tak, ze ži -- vo -- ta ví -- ce má,
 je -- nom ten kdo ži -- vot ži -- je, 
 než ten, kter -- rý ne -- vní -- má.
-®e kaž -- dý den za -- čí -- ná tmou, kon -- čí slun -- cem sta -- čí
+Že kaž -- dý den za -- čí -- ná tmou, kon -- čí slun -- cem sta -- čí
 se je -- nom tro -- chu po -- roz -- hléd -- nout, 
 ko -- lik je ko -- lem krás,
-dým z~to -- vá -- ren a hou -- fy dì -- tí nad pís -- kem,
-ti -- sí -- cem vì -- cí ži -- vot roz -- kvé -- tá a roz -- ví -- jí
-se, roz -- ví -- jí se v~nás, ti -- sí -- cem vì -- cí ži -- vot roz
+dým z~to -- vá -- ren a hou -- fy dě -- tí nad pís -- kem,
+ti -- sí -- cem vě -- cí ži -- vot roz -- kvé -- tá a roz -- ví -- jí
+se, roz -- ví -- jí se v~nás, ti -- sí -- cem vě -- cí ži -- vot roz
 -- kvé -- tá a roz -- ví -- jí se v~nás.
 
 }

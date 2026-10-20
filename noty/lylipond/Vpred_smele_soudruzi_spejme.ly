@@ -47,7 +47,7 @@ text = \lyricmode {
 Vpřed smě -- le sou -- dru -- zi spě -- jme,
 ro -- zní -- til boj sí -- lu v~nás,
 svo -- bo -- dou ce -- stou se de -- jme,
-v~boj za ni pù -- jde -- me v~ráz.
+v~boj za ni pů -- jde -- me v~ráz.
 }
 
 accompaniment =\chordmode {

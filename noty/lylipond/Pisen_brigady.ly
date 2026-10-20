@@ -22,7 +22,7 @@ Nás vzbu -- di -- lo rá -- no již chla -- dné,
 sem od ře -- ky ví -- tr jde blíž. Což ty ne -- máš ra -- do -- sti žá
 -- dné, když si -- ré -- ny tón u -- sly -- šíš?
 Jen vzbuď se vstá -- vej, dí -- vko má si -- ré -- na zní, teď ze --
-mì na -- še jí -- ti má do no -- vých dní.
+mě na -- še jí -- ti má do no -- vých dní.
 }
 
 accompaniment =\chordmode {

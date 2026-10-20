@@ -29,7 +29,7 @@ ví -- tě -- zná mlá -- dne o -- pět ze -- mě má!
 Na -- še ze -- mě je dnes krá -- sná, a -- le zí -- tra bu -- de ješ -- tě
 krá -- sněj -- ší, bu -- de bo -- ha -- tá a šťas -- tná, na -- vždy
 za -- hna -- li jsme bí -- du vče -- rej -- ší.
-Vše -- chny sí -- ly své -- ho mlá -- dí, i svùj mla -- dý smě -- lý sen 
+Vše -- chny sí -- ly své -- ho mlá -- dí, i svůj mla -- dý smě -- lý sen 
 dá -- me dra -- hé vlas -- ti rá -- di, ať vzkvé -- tá kaž -- dý den!
 }
 

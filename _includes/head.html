@@ -7,7 +7,8 @@
     gtag('config', 'UA-4011684-4');
 </script>
 <meta charset="utf-8">
-<title>{{ site.title }}</title>
+{% assign nazev = page.title %}{% if page.collection == "obrazky" %}{% assign nazev = page.name %}{% endif %}
+<title>{% if nazev %}{{ nazev }} – {% endif %}{{ site.title }}</title>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -16,7 +17,7 @@
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
 <meta name="description" content="{{ site.description }}">
-<script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
 <script type='text/javascript' src='/unitegallery/js/unitegallery.min.js'></script>
 
 <link rel='stylesheet' href='/unitegallery/css/unite-gallery.css' type='text/css' />

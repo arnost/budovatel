@@ -38,6 +38,8 @@
     \epsfile #X #75 "iwan2.eps"
     \vspace #4
     \fontsize #2 "@POCET@ písní s notami, akordy a texty"
+    \vspace #0.5
+    \fontsize #2 "a @BEZNOT@ dalších písní s texty"
     \vspace #6
     \fontsize #1 "budovatel.cz"
   }

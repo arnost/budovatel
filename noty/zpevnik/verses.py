@@ -24,6 +24,7 @@ def page_text(path):
     s = open(path, encoding='utf-8').read()
     s = re.sub(r'^---.*?\n---\s*\n', '', s, flags=re.S)
     if path.endswith('.html'):
+        s = re.sub(r'(?i)[ \t]*\n[ \t]*(<br\s*/?>)', r'\1', s)  # "verse\n<br>next" is one line break
         s = re.sub(r'(?i)<br\s*/?>[ \t]*\n?', '\n', s)
         s = re.sub(r'(?i)</?p[^>]*>', '\n\n', s)
         s = re.sub(r'(?i)<(i|em)>(.*?)</\1>', r'*\2*', s, flags=re.S)
@@ -47,11 +48,11 @@ def stanzas(text):
     for b in blocks:
         joined = ' '.join(b)
         prose = any(len(l) > 95 for l in b) or re.search(r'[\u0400-\u04ff]', joined) \
-            or re.search(r'\]\(|https?://|\*\*', joined)
-        if prose or (len(b) == 1 and re.search(r'\btext\b', b[0], re.I)):
+            or re.search(r'\]\(|https?://', joined)
+        if prose or (len(b) == 1 and (re.search(r'\btext\b', b[0], re.I) or re.fullmatch(r'\*\*.+\*\*:?', b[0]))):
             break  # lyrics end where commentary / original-language text starts
-        if len(b) == 1 and re.fullmatch(r'\*[^*]+\*', b[0]) and not MARKER.match(b[0]):
-            continue  # italic subtitle like *Revoluční tradicionál*
+        if re.fullmatch(r'\*[^*].*[^*]\*', joined) and not MARKER.match(b[0]):
+            continue  # italic subtitle or note like *Revoluční tradicionál*
         out.append(b)
     return out
 
@@ -61,12 +62,16 @@ def clean_line(l):
     return l
 
 def song(name):
-    ly = open(f'{REPO}/noty/lylipond/{name}.ly', encoding='utf-8').read()
+    ly_path = f'{REPO}/noty/lylipond/{name}.ly'
+    ly = open(ly_path, encoding='utf-8').read() if os.path.exists(ly_path) else ''
     page = (glob.glob(f'{REPO}/_pisne/{name}.md') + glob.glob(f'{REPO}/_pisne/{name}.html'))[0]
     sw = set(score_words(ly))
     result = []
     seen_first = False
     for b in stanzas(page_text(page)):
+        bold = re.fullmatch(r'\*\*(.+?)\*\*', b[0])
+        if bold and len(b) > 1 and not re.fullmatch(r'\d+\.', bold.group(1)):
+            b = [bold.group(1) + ':'] + b[1:]  # bold heading (song name) becomes the stanza label
         lines = [clean_line(l) for l in b]
         lines = [l for l in lines if l]
         if not lines: continue

@@ -119,22 +119,23 @@ def verses_markup(name):
     return out, widest
 
 
-def stanza_columns(verses):
-    """Stanzas in rows of two fixed-width columns (one when lines are long); rows may break across pages."""
+def stanza_rows(verses):
+    """Stanzas as rows of two fixed-width columns (one when lines are long); rows may break across pages."""
     blocks, widest = verses
-    if not blocks:
-        return ''
-    col = lambda b: r"\with-dimension #X #'(0 . 47) " + b
-    rows = []
+    box = lambda b, w: r"\with-dimension #X #'(0 . " + str(w) + ') ' + b
     if widest > 40:
-        rows = [r'\line { \hspace #8 ' + b + ' }' for b in blocks]
+        rows = [box(b, 90) for b in blocks]
     else:
+        rows = []
         for k in range(0, len(blocks), 2):
-            pair = blocks[k:k + 2]
-            rows.append(r'\line { ' + ' '.join(col(b) for b in pair) + (' ' + col(r'\null') if len(pair) == 1 else '') + ' }')
-    out = [r'\markup { \vspace #1 }']
-    out += [r'\markup { \fill-line { ' + r + ' } }' for r in rows]
-    return '\n'.join(out)
+            pair = blocks[k:k + 2] + ([r'\null'] if len(blocks[k:k + 2]) == 1 else [])
+            rows.append(' '.join(box(b, 47) for b in pair))
+    return [r'\markup { \fill-line { \line { ' + r + ' } } }' for r in rows]
+
+
+def stanza_columns(verses):
+    rows = stanza_rows(verses)
+    return '\n'.join([r'\markup { \vspace #1 }'] + rows) if rows else ''
 
 
 CZ = 'aábcčdďeéěfghiíjklmnňoópqrřsštťuúůvwxyýzž'
@@ -146,6 +147,41 @@ def cz_key(t):
     return [order.get(c, 100 + ord(c)) for c in prim], t
 
 
+def front_matter(path):
+    """Simple reader for the song front matter (title, music, text, preklad; preklad may be a list)."""
+    fm = re.match(r'---\n(.*?)\n---', open(path, encoding='utf-8').read(), re.S).group(1)
+    data, key = {}, None
+    for line in fm.split('\n'):
+        m = re.match(r'(\w+):\s*(.*)', line)
+        if m:
+            key, val = m.groups()
+            data[key] = val.strip() if val.strip() else []
+        elif key and re.match(r'\s*-\s+', line):
+            data[key].append(re.sub(r'\s*-\s+', '', line).strip())
+    return data
+
+
+def lyrics_only():
+    """Songs on the website that have no LilyPond notes: (title, name, authors line)."""
+    out = []
+    for f in glob.glob(f'{REPO}/_pisne/*'):
+        name = os.path.basename(f).rsplit('.', 1)[0]
+        if os.path.exists(f'{REPO}/noty/lylipond/{name}.ly'):
+            continue
+        blocks = verses_markup(name)
+        if not blocks[0]:
+            continue  # no lyrics on the page (e.g. an instrumental theme)
+        fm = front_matter(f)
+        who = []
+        for key, label in (('music', 'hudba'), ('text', 'text'), ('preklad', 'překlad')):
+            v = fm.get(key)
+            if v:
+                who.append(f'{label}: ' + (', '.join(v) if isinstance(v, list) else v))
+        out.append((fm.get('title') or name.replace('_', ' '), name, ', '.join(who), blocks))
+    out.sort(key=lambda x: cz_key(x[0]))
+    return out
+
+
 def main():
     songs = []
     for f in glob.glob(f'{REPO}/noty/lylipond/*.ly'):
@@ -153,9 +189,11 @@ def main():
         title, defs, score = convert(name)
         songs.append((title, name, defs, score))
     songs.sort(key=lambda x: cz_key(x[0]))
+    texts = lyrics_only()
 
     manifest = open(os.path.join(HERE, 'predmluva.ly'), encoding='utf-8').read()
-    head = open(os.path.join(HERE, 'head.ly'), encoding='utf-8').read().replace('@POCET@', str(len(songs)))
+    head = open(os.path.join(HERE, 'head.ly'), encoding='utf-8').read()
+    head = head.replace('@POCET@', str(len(songs))).replace('@BEZNOT@', str(len(texts)))
     parts = [head, manifest,
              r'\markuplist \table-of-contents', r'\pageBreak']
     for title, name, defs, score in songs:
@@ -165,11 +203,27 @@ def main():
         parts.append(score)
         parts.append(stanza_columns(verses_markup(name)))
         parts.append(r'\pageBreak')
-    parts.pop()  # no page break after the last song
+    # second chapter: songs that have only lyrics, several to a page
+    parts.append(r'\tocItem \markup \bold "Písně bez not"')
+    parts.append(r'\markup \fill-line { \center-column { \vspace #2 \fontsize #6 \bold "Písně bez not" \vspace #1 '
+                 r'\italic "Písně, ke kterým zatím nemáme noty – jen texty." \vspace #1 } }')
+    for title, name, who, blocks in texts:
+        parts.append(f'% ===== {name}')
+        parts.append(r'\tocItem \markup ' + esc(title))
+        head = r'\fill-line { \fontsize #3 \bold ' + esc(title) + ' }'
+        if who:
+            head += r' \fill-line { \italic ' + esc(who) + ' }'
+        parts.append(r'\markup \column { \vspace #2.5 ' + head + r' \vspace #0.5 }')
+        rows = stanza_rows(blocks)
+        parts.append(r'\noPageBreak')
+        parts.append(rows[0])  # the title never stays alone at the bottom of a page
+        parts.extend(rows[1:])
     os.makedirs(OUT, exist_ok=True)
     open(os.path.join(OUT, 'zpevnik.ly'), 'w', encoding='utf-8').write('\n\n'.join(parts) + '\n')
-    json.dump([[name, title] for title, name, _, _ in songs], open(os.path.join(OUT, 'songs.json'), 'w'), ensure_ascii=False)
-    print(len(songs), 'songs')
+    json.dump({'noty': [[name, title] for title, name, _, _ in songs],
+               'texty': [[name, title] for title, name, _, _ in texts]},
+              open(os.path.join(OUT, 'songs.json'), 'w'), ensure_ascii=False)
+    print(len(songs), 'písní s notami,', len(texts), 'bez not')
 
 
 if __name__ == '__main__':

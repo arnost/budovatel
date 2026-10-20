@@ -1,0 +1,25 @@
+---
+layout: default
+title: Nově znárodněno
+---
+
+        <h2 class="section__title">Nově znárodněno</h2>
+        <p>Písně, básně, stati a obrázky v pořadí, v jakém přibyly na sklad – nejnovější nahoře.</p>
+{% assign mesice = "leden,únor,březen,duben,květen,červen,červenec,srpen,září,říjen,listopad,prosinec" | split: "," %}
+{% assign vse = site.pisne | concat: site.poezie | concat: site.state | concat: site.obrazky | sort: "pridano" | reverse %}
+{% assign posledni = "" %}
+<table border="0" cellpadding="3" cellspacing="0" width="640">
+{% for a in vse %}
+    {% assign mesic = a.pridano | date: "%Y-%m" %}
+    {% if mesic != posledni %}
+        {% assign posledni = mesic %}
+        {% assign m = a.pridano | date: "%-m" | minus: 1 %}
+    <tr><td colspan="3"><br><b>{{ mesice[m] | capitalize }} {{ a.pridano | date: "%Y" }}</b></td></tr>
+    {% endif %}
+    <tr>
+        <td width="70" valign="top">{{ a.pridano | date: "%-d. %-m." }}</td>
+        <td width="60" valign="top"><i>{% case a.collection %}{% when "pisne" %}píseň{% when "poezie" %}báseň{% when "state" %}stať{% else %}obrázek{% endcase %}</i></td>
+        <td><a href="{{ a.url | downcase }}">{% if a.collection == "obrazky" %}{{ a.name }}{% else %}{{ a.title }}{% endif %}</a>{% assign kdo = a.autor | default: a.text | default: a.music %}{% if kdo %} – {{ kdo | join: ", " }}{% endif %}</td>
+    </tr>
+{% endfor %}
+</table>

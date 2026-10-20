@@ -2,6 +2,6 @@
 layout: null
 ---
 {% assign docs = site.pisne | concat: site.poezie | concat: site.state | concat: site.obrazky %}[
-{% for d in docs %}{% capture kdo %}{{ d.music | join: ", " }} {{ d.text | join: ", " }} {{ d.preklad | join: ", " }} {{ d.autor | join: ", " }}{% endcapture %}{"t":{{ d.title | default: d.name | jsonify }},"u":{{ d.url | downcase | jsonify }},"k":{{ d.collection | jsonify }},"a":{{ kdo | normalize_whitespace | jsonify }},"v":{% capture zdroj %}{{ d.vydal }}{% if d.rok %}, {{ d.rok }}{% endif %}{% endcapture %}{{ zdroj | jsonify }},"x":{{ d.content | strip_html | replace: "&nbsp;", " " | replace: "&amp;", "&" | replace: '&quot;', '"' | normalize_whitespace | jsonify }}}{% unless forloop.last %},
+{% for d in docs %}{% capture kdo %}{{ d.music | join: ", " }} {{ d.text | join: ", " }} {{ d.preklad | join: ", " }} {{ d.autor | join: ", " }}{% endcapture %}{"t":{% if d.collection == "obrazky" %}{{ d.name | jsonify }}{% else %}{{ d.title | jsonify }}{% endif %},"u":{{ d.url | downcase | jsonify }},"k":{{ d.collection | jsonify }},"a":{{ kdo | normalize_whitespace | jsonify }},"v":{% capture zdroj %}{{ d.vydal }}{% if d.rok %}, {{ d.rok }}{% endif %}{% endcapture %}{{ zdroj | jsonify }},"x":{{ d.content | strip_html | replace: "&nbsp;", " " | replace: "&amp;", "&" | replace: '&quot;', '"' | normalize_whitespace | jsonify }}}{% unless forloop.last %},
 {% endunless %}{% endfor %}
 ]

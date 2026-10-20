@@ -19,6 +19,12 @@ pomáhal budovat rozvinutou socialistickou společnost.
 i dalšími slokami si můžete <a href="/noty/pdf/Budovatel_zpevnik.pdf">stáhnout v PDF</a>
 a vytisknout pro potřeby schůzí, výletů i zábav.</p>
 {% include hledani.html %}
+<p><b>Nově znárodněno:</b></p>
+{% assign nove = site.pisne | concat: site.poezie | concat: site.state | concat: site.obrazky | sort: "pridano" | reverse %}
+<ul>
+{% for a in nove limit: 5 %}    <li><a href="{{ a.url | downcase }}">{% if a.collection == "obrazky" %}{{ a.name }}{% else %}{{ a.title }}{% endif %}</a></li>
+{% endfor %}</ul>
+<p><a href="/znarodneno.phtml/">Všechny přírůstky podle data</a></p>
 </td>
 <td width="340" valign="top">
 To že se dílo

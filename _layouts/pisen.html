@@ -13,19 +13,6 @@ text: {% include jmena.html jmena=page.text %}<br>
 překlad: {% include jmena.html jmena=page.preklad %}<br>
 {% endif %}
 <br>
-{% include soubory.html %}
-{% if noty_obrazek %}
-<p><img class="noty" src="{{ noty_obrazek }}" alt="Noty: {{ page.title | escape }}"></p>
-{% endif %}
-{% if noty_midi %}
-<small><i>Melodie z not (MIDI):</i></small>
-<midi-player class="prehravac" src="{{ noty_midi }}"></midi-player>
-<script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0" defer></script>
-{% endif %}
-{% if noty_mp3 %}
-<small><i>Nahrávka (MP3):</i></small>
-<audio class="prehravac" controls preload="none" src="{{ noty_mp3 }}"></audio>
-{% endif %}
 <table width="600">
     <tr>
         <td>
@@ -41,6 +28,38 @@ překlad: {% include jmena.html jmena=page.preklad %}<br>
         </td>
     </tr>
 </table>
+{% include soubory.html %}
+{% if noty_obrazek or noty_midi or noty_mp3 %}
+<div class="noty-pisne">
+{% if noty_obrazek %}
+<p><b>Noty</b> {% if noty_pdf %}(také <a href="{{ noty_pdf }}">v PDF</a> k vytištění){% endif %}</p>
+<div class="noty-papir"><img src="{{ noty_obrazek }}" alt="Noty: {{ page.title | escape }}"></div>
+{% endif %}
+{% if noty_midi %}
+<p><b>Melodie</b> zahraná z not:</p>
+<midi-player src="{{ noty_midi }}"></midi-player>
+<script src="https://cdn.jsdelivr.net/combine/npm/tone@14.7.58,npm/@magenta/music@1.23.1/es6/core.js,npm/focus-visible@5,npm/html-midi-player@1.5.0" defer></script>
+{% endif %}
+{% if noty_mp3 %}
+<p><b>Nahrávka</b>:</p>
+<div class="zvuk" data-src="{{ noty_mp3 }}"><button type="button" aria-label="Přehrát">&#9654;</button><span class="cas">0:00</span><input type="range" min="0" max="1000" value="0" aria-label="Posun"></div>
+<script>
+// jednoduchý přehrávač MP3 ve stejném vzhledu jako přehrávač melodie
+document.querySelectorAll('.zvuk').forEach(function (z) {
+    var a = new Audio(z.dataset.src), b = z.querySelector('button'), cas = z.querySelector('.cas'), r = z.querySelector('input');
+    a.preload = 'none';
+    function mmss(t) { t = Math.floor(t || 0); return Math.floor(t / 60) + ':' + ('0' + t % 60).slice(-2); }
+    function ukaz() { cas.textContent = mmss(a.currentTime) + ' / ' + mmss(a.duration); if (a.duration) r.value = 1000 * a.currentTime / a.duration; }
+    b.onclick = function () { a.paused ? a.play() : a.pause(); };
+    a.onplay = function () { b.innerHTML = '&#10074;&#10074;'; };
+    a.onpause = a.onended = function () { b.innerHTML = '&#9654;'; };
+    a.ontimeupdate = a.onloadedmetadata = ukaz;
+    r.oninput = function () { if (a.duration) a.currentTime = a.duration * r.value / 1000; };
+});
+</script>
+{% endif %}
+</div>
+{% endif %}
 {% if page.youtube %}
 {% include youtube.html %}
 {% endif page.youtube %}

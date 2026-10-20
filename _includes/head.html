@@ -47,7 +47,18 @@
     .hledani input[type=search]::placeholder { color: #2f4766; }
     .hledani input[type=submit] { background: #4a6588; color: #fff; cursor: pointer; margin-left: 4px; }
     .hledani input[type=submit]:hover { background: #3f5878; }
-    /* noty a přehrávač na stránce písně */
-    img.noty { max-width: 100%; background: #fff; padding: 6px 10px; box-sizing: border-box; }
-    .prehravac { display: block; width: 600px; max-width: 100%; margin: 6px 0 12px; }
+    /* noty a přehrávače pod písní – v barvách stránky, na šířku hlavičky */
+    .noty-pisne { width: 680px; max-width: 100%; margin-top: 16px; }
+    .noty-pisne p { margin: 12px 0 4px; }
+    .noty-papir { background: #e6e0cf; border: 1px solid #3f5878; padding: 8px 10px; }
+    .noty-papir img { display: block; width: 100%; mix-blend-mode: multiply; }  /* bílý papír not dostane barvu starého papíru */
+    .noty-pisne midi-player::part(control-panel) { background: #7590b2; border: 1px solid #3f5878; border-radius: 0; }
+    .noty-pisne midi-player::part(play-button) { background: #4a6588; color: #fff; border-radius: 0; }
+    .noty-pisne midi-player::part(time) { color: #000; }
+    .noty-pisne midi-player::part(seek-bar) { accent-color: #3f5878; }
+    .noty-pisne midi-player { display: block; width: 100%; margin: 0 0 4px; }
+    .zvuk { display: flex; align-items: center; gap: 10px; background: #7590b2; border: 1px solid #3f5878; padding: 8px 10px; }
+    .zvuk button { width: 30px; height: 30px; border: 0; background: #4a6588; color: #fff; cursor: pointer; font-size: 12px; }
+    .zvuk .cas { font: 14px sans-serif; white-space: nowrap; }
+    .zvuk input { flex: 1; accent-color: #3f5878; }
 </style>

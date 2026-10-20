@@ -1,7 +1,7 @@
 ---
 title: Píseň mladých brigádníků
 music:  Miroslav Barvík
-text: Ladislav K.M. Walló
+text: K. M. Walló
 youtube: h7e7ltLyrts
 ---
 

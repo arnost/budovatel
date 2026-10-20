@@ -1,4 +1,4 @@
-\version "2.20.0"
+\version "2.24.0"
 \header {
         title = ""
         composer = ""
@@ -29,7 +29,7 @@ accompaniment =\chordmode {
           \new Lyrics \lyricsto "one" \text
        >>
        \midi  { \tempo 4=170}
-       \layout { linewidth = 20.0\cm }
+       \layout { line-width = 20.0\cm }
 }
 
 

@@ -1,73 +1,74 @@
+\version "2.24.0"
 \header {
-        title = "";
-        composer = "";
-	poet = "";
+        title = ""
+        composer = ""
+	poet = ""
 }
 
 
-PrvniHlas = \notes \context Voice = prvni {
-\property Voice.verticalDirection = \up
-c8. c16 c8 des | c4 c8 des | c bes as g | [ f ( g ) as  ] bes |
-c8. c16 c8 des | [ es ( ) des ] c bes | as bes as g | [ f ( g ) as  ] bes |
+PrvniHlas =  \context Voice = "prvni" {
+\stemUp\slurUp\tieUp
+c8. c16 c8 des | c4 c8 des | c bes as g |  f[ ( g  as)  ] bes |
+c8. c16 c8 des |  es[ (  des) ] c bes | as bes as g |  f[ ( g  as)  ] bes |
 es4 es8 fes | es4 es8 fes | es8 r fes r | es r f4 |
-c8. c16 c8 des | [ es ( ) des ] c bes | as bes as g | f r r4 |
+c8. c16 c8 des |  es[ (  des) ] c bes | as bes as g | f r r4 |
 }
 
-DruhyHlas = \notes \context Voice = druhy{
-\property Voice.verticalDirection = \down
-as8. as16 as8 bes | as4 as8 bes | as g as g | [ f ( g ) as  ] g |
-as8. as16 as8 bes | [ c () bes ] as g | as bes as g | [ f ( g ) as  ] g |
+DruhyHlas =  \context Voice = druhy{
+\stemDown\slurDown\tieDown
+as8. as16 as8 bes | as4 as8 bes | as g as g |  f[ ( g  as)  ] g |
+as8. as16 as8 bes |  c[ ( bes) ] as g | as bes as g |  f[ ( g  as)  ] g |
 c4 c8 b | c4 c8 b | c8 r b r | c8 r des4 |
-as8. as16 as8 bes | [ c () bes ] as g | as bes as g | f8 r r4 |
+as8. as16 as8 bes |  c[ ( bes) ] as g | as bes as g | f8 r r4 |
 }
 
-TretiHlas = \notes \context Voice = treti{
-\time 2/4;\key as;
+TretiHlas =  \context Voice = treti{
+\time 2/4\key as \major
 f8. f16 f8 c8 | f4 f8 c | f f f c | f4. es8 |
 f8. f16 f8 c | f4 f8 c | f f f c | f4. es8 |
 as4 as8 < as fes > | as4 as8 < as fes > | as8 r < as fes > r |
- as8 r < as4 d > | f8. f16 f8 bes | [ c ( ) bes ] as g | f c des es |
+ as8 r < as d >4 | f8. f16 f8 bes |  c[ (  bes) ] as g | f c des es |
 f r r4 |
-\property Voice.verticalDirection = \down
+\stemDown\slurDown\tieDown
 }
 
 
-melody = \notes \relative c'' {        
-<
-\time 2/4;\key as;
-\PrvniHlas
-\DruhyHlas
-\context Staff = bottom { 
-\TretiHlas }
->
-        \bar "|.";
+melody =  \relative c'' {
+<<
+\new Staff = "top" <<
+  { \time 2/4\key as \major s2*16 \bar "|." }
+  \PrvniHlas
+  \DruhyHlas
+>>
+\new Staff = "bottom" \TretiHlas
+>>
 }
 
-text = \lyrics {
-Vzne -- ste se a vzlÈ -- tnÏ -- te py -- πnÏ, ne -- po -- daj -- nÏ
-mla -- do gvar -- dÏj -- skÈ ru -- dÈ pra -- po -- ry a vlaj -- ky!
-Bou -- ¯e i s~mra -- Ëny jen pryË se stroj! hej!
-vh˘ -- ru za vlast svou, mla -- do -- gvar -- dÏj -- ci jdem v~boj.
+text = \lyricmode {
+Vzne -- ste se a vzl√© -- tnƒõ -- te py -- ≈°nƒõ, ne -- po -- daj -- nƒõ
+mla -- do gvar -- dƒõj -- sk√© ru -- d√© pra -- po -- ry a vlaj -- ky!
+Bou -- ≈ôe i s~mra -- ƒçny jen pryƒç se stroj! hej!
+vh≈Ø -- ru za vlast svou, mla -- do -- gvar -- dƒõj -- ci jdem v~boj.
 }
 
-accompaniment =\chords {
+accompaniment =\chordmode {
 		}
 
-\score { 
-        \simultaneous {
-%         \accompaniment
-          \context ChordNames \accompaniment
+\score {
+        <<
+          \new PianoStaff \with { \autoBeamOff } \melody
+          \new Lyrics \with { alignAboveContext = "bottom" } \lyricsto "prvni" \text
+        >>
+        
+  \midi {
+    \tempo 4 = 150
+    }
 
-          \addlyrics
 
-            \context PianoStaff {
-              \property Staff.noAutoBeaming = "1"
-              \property Staff.automaticMelismata = "1"
-              \melody
-            }
-            \context Lyrics \text
+        \layout {
+          line-width = 18.0\cm
+          % rucni tramce netvori melisma (jako v LilyPond 1.x)
+          \context { \Score melismaBusyProperties = #'(melismaBusy slurMelismaBusy tieMelismaBusy completionBusy) }
         }
-        \midi  { \tempo 4 =150;}
-        \paper { linewidth = 18.0\cm; }
 }
 

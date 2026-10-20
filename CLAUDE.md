@@ -20,6 +20,13 @@ The system Ruby on the maintainer's Mac is too old; build in Docker instead:
 docker run --rm -v "$PWD":/srv -w /srv ruby:3.4.8 bash -c 'bundle config set --local path vendor/bundle && bundle install && bundle exec jekyll build'
 ```
 
+Sheet music sources are LilyPond files in `noty/lylipond/` (all compile cleanly with LilyPond 2.24; outputs in `noty/{jpg,midi,pdf,ps}` are pre-rendered and committed). To compile one:
+
+```sh
+printf 'FROM debian:bookworm-slim\nRUN apt-get update && apt-get install -y --no-install-recommends lilypond\n' | docker build -t budovatel-lilypond -
+mkdir -p /tmp/ly && docker run --rm -v "$PWD/noty/lylipond":/w:ro -v /tmp/ly:/out budovatel-lilypond lilypond -o /out/Nazev /w/Nazev.ly   # absolute paths: -o changes cwd
+```
+
 ## Architecture
 
 Nearly all work is adding content files; commits are typically just a new `.md` named after the piece.

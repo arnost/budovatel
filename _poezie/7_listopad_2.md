@@ -1,6 +1,6 @@
 ---
 title: (Čáň) - 7. listopad
-autor: neznámý
+autor: Neznámý
 vydal: Růst olomouckých polygrafů, 1951
 ---
 

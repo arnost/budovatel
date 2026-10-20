@@ -1,0 +1,16 @@
+# Stare adresy prejmenovanych souboru (mezera v nazvu)
+[[redirects]]
+  from = "/poezie.phtml/Zacina_novy-den"
+  to = "/poezie.phtml/Zacina_novy_den"
+
+[[redirects]]
+  from = "/obrazky.phtml/Dikuvzdani_-ceskoslovenskeho_lidu_generalissimu_j_v_stalinovi"
+  to = "/obrazky.phtml/Dikuvzdani_ceskoslovenskeho_lidu_generalissimu_j_v_stalinovi"
+
+[[redirects]]
+  from = "/poezie.phtml/Zacina_novy-den.html"
+  to = "/poezie.phtml/Zacina_novy_den"
+
+[[redirects]]
+  from = "/obrazky.phtml/Dikuvzdani_-ceskoslovenskeho_lidu_generalissimu_j_v_stalinovi.html"
+  to = "/obrazky.phtml/Dikuvzdani_ceskoslovenskeho_lidu_generalissimu_j_v_stalinovi"

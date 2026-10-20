@@ -1,6 +1,6 @@
 ---
 title: Raketou do vesmíru...
-autor: Josef  Husovský
+autor: Josef Husovský
 vydal: Vesnické noviny Rozvoj Židlochovicka, 1959
 ---
 Zvedněme všichni vína plné číše  

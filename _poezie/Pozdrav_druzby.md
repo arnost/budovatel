@@ -1,6 +1,6 @@
 ---
 title: Pozdrav družby 
-autor: neznámý
+autor: Neznámý
 vydal: časopis Růst olomouckých polygrafů, 1955
 ---
 

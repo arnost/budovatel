@@ -39,4 +39,11 @@
     .tlacitko:hover img + img { display: inline; }
     /* odkaz na kotvu (#autor) nesmí skončit pod pevnou hlavičkou */
     html { scroll-padding-top: 50px; }
+    /* hledací políčko laděné do barev stránky, aby nebilo do očí */
+    .hledani { margin: 4px 0 12px; white-space: nowrap; }
+    .hledani input { font: inherit; font-size: 14px; color: #000; background: #7590b2;
+                     border: 1px solid #3f5878; padding: 2px 5px; vertical-align: middle; }
+    .hledani input[type=search]::placeholder { color: #2f4766; }
+    .hledani input[type=submit] { background: #4a6588; color: #fff; cursor: pointer; margin-left: 4px; }
+    .hledani input[type=submit]:hover { background: #3f5878; }
 </style>

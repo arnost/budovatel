@@ -18,13 +18,6 @@ pomáhal budovat rozvinutou socialistickou společnost.
 <p><b>Zpěvník</b> se všemi {{ site.data.zpevnik | size }} písněmi, notami, akordy
 i dalšími slokami si můžete <a href="/noty/pdf/Budovatel_zpevnik.pdf">stáhnout v PDF</a>
 a vytisknout pro potřeby schůzí, výletů i zábav.</p>
-{% include hledani.html %}
-<p><b>Nově znárodněno:</b></p>
-{% assign nove = site.pisne | concat: site.poezie | concat: site.state | concat: site.obrazky | sort: "pridano" | reverse %}
-<ul>
-{% for a in nove limit: 5 %}    <li><a href="{{ a.url | downcase }}">{% if a.collection == "obrazky" %}{{ a.name }}{% else %}{{ a.title }}{% endif %}</a></li>
-{% endfor %}</ul>
-<p><a href="/znarodneno.phtml/">Všechny přírůstky podle data</a></p>
 </td>
 <td width="340" valign="top">
 To že se dílo
@@ -34,8 +27,11 @@ href="http://lilypond.org/">Lilipond</a>,
 který ač výtvor veskrze imperialistický posloužil znamenitě věci
 dělnické třidy, což lze brát pouze jako potvrzení faktu, že buržoazie si plodí vlastní hrobaře.</p>
 <p><b>Návrhy</b>, pochvaly i soudružskou kritiku posílejte na adresu
-<a href="mailto:{{ site.email }}">{{ site.email }}</a>.
-<p>
+<a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
+{% assign nove = site.pisne | concat: site.poezie | concat: site.state | concat: site.obrazky | sort: "pridano" | reverse %}
+<p><b>Nově znárodněno:</b> {% for a in nove limit: 3 %}<a href="{{ a.url | downcase }}">{% if a.collection == "obrazky" %}{{ a.name }}{% else %}{{ a.title }}{% endif %}</a>, {% endfor %}<a href="/znarodneno.phtml/">a další přírůstky</a>.</p>
+<p><b>Hledání</b> v písních, básních a statích:</p>
+{% include hledani.html %}
 </td>
 </tr>
 <tr><td colspan=2 align="center">

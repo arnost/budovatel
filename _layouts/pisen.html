@@ -21,6 +21,10 @@ překlad:{% for p in prekladatele %} <a href="/autori.phtml#{{ p | url_encode }}
         </td>
         <td valign="top">
             {% include media.html %}
+            {% assign zpevnik_id = page.id | split: "/" | last %}
+            {% if site.data.zpevnik[zpevnik_id] %}
+            <br/><a href="/noty/pdf/Budovatel_zpevnik.pdf#page={{ site.data.zpevnik[zpevnik_id] }}">Ve zpěvníku</a> (str. {{ site.data.zpevnik[zpevnik_id] }})
+            {% endif %}
 
         </td>
     </tr>

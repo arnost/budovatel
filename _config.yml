@@ -98,6 +98,7 @@ defaults:
 exclude:
   - README.md
   - CLAUDE.md
+  - noty/zpevnik
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

@@ -6,3 +6,5 @@ _site
 .jekyll-cache
 vendor
 .bundle
+noty/zpevnik/build
+__pycache__

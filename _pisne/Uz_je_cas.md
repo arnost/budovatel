@@ -2,7 +2,7 @@
 title: Už je čas
 music: Petr Janda
 text: Václav Fischer
-youtube: rjFSHY7Px2E
+youtube: ZbpXRx3Gwg4
 ---
 
 

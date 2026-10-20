@@ -3,7 +3,7 @@ title: Píseň brigády
 music: Dmitrij Šostakovič
 text:  B. Kornilov
 preklad: Josef Urban
-youtube: V5TiyshYd0Q
+youtube: Mb05sdgmzNk
 ---
 
 

@@ -3,6 +3,7 @@ layout: default
 ---
 
         <h2 class="section__title">Autoři</h2>
+        {% include hledani.html %}
 {% assign music = site.pisne | map : "music"   %}
 {% assign text = site.pisne   | map : "text"    %}
 {% assign preklad = site.pisne   | map : "preklad"    %}
@@ -22,19 +23,19 @@ layout: default
         {% for a in pisne %}
             {% assign prekladatele = a.preklad | join: "|" | split: "|" %}
             {% if  a.music  == autor or a.text  == autor or prekladatele contains autor %}
-                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+                <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 
         {% for a in poezie %}
             {% if  a.autor  == autor %}
-                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+                <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 
         {% for a in state %}
             {% if  a.autor  == autor %}
-                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+                <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 

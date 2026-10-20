@@ -1,5 +1,5 @@
 <tr>
-        <td><a href="{{ pisen.url }}">{{ pisen.title }}</a></td>
+        <td><a href="{{ pisen.url | downcase }}">{{ pisen.title }}</a></td>
         <td>{{ pisen.music }}</td>
         <td> {{ pisen.text }}</td>
         <td> {{ pisen.preklad | join: ", " }}</td>

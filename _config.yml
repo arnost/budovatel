@@ -18,7 +18,7 @@ email: arnost@budovatel.cz
 description: >- # this means to ignore newlines until "baseurl:"
   Vítejte v začínajícím skladišti budovatelských písní, básní a odborných statí, které vzalo počátek díky klubu Agitprop serveru Průvodce. Nadále by se zde měly zjevovat budovatelské a jim podobné písně v pořadí, jak budou znovunalézány a přepisovány. Zvuková podoba písní bude zpočátku reprezentována v notách, midi, posléze i ve formátu mp3.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://budovatel.cz" # the base hostname & protocol for your site
 twitter_username: budovatel
 github_username:  arnost
 

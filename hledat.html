@@ -1,0 +1,52 @@
+---
+layout: default
+title: Hledání
+---
+
+<h2 class="section__title">Hledání</h2>
+<form id="hledani" action="/hledat.html" method="get">
+    <input type="search" name="q" id="dotaz" size="50" placeholder="název, autor nebo slova z textu" autofocus>
+    <input type="submit" value="Hledat">
+</form>
+<p id="stav"></p>
+<table border="0" cellpadding="6" cellspacing="0" width="640" id="vysledky"></table>
+
+<script>
+(function () {
+    var DRUH = {pisne: 'Píseň', poezie: 'Báseň', state: 'Stať', obrazky: 'Obrázek'};
+    // bez diakritiky a malými písmeny, aby "cervany" našlo i "červený"
+    function bez(s) { return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); }
+    function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]; }); }
+
+    var q = new URLSearchParams(location.search).get('q') || '';
+    document.getElementById('dotaz').value = q;
+    var slova = bez(q).split(/\s+/).filter(Boolean);
+    if (!slova.length) return;
+    var stav = document.getElementById('stav');
+    stav.textContent = 'Hledám…';
+
+    fetch('/search.json').then(function (r) { return r.json(); }).then(function (docs) {
+        var nalezeno = [];
+        docs.forEach(function (d) {
+            var nazev = bez(d.t), kdo = bez(d.a + ' ' + (d.v || '')), text = bez(d.x);
+            var vse = nazev + ' ' + kdo + ' ' + text;
+            if (!slova.every(function (w) { return vse.indexOf(w) >= 0; })) return;
+            var skore = slova.reduce(function (s, w) { return s + (nazev.indexOf(w) >= 0 ? 10 : 0) + (kdo.indexOf(w) >= 0 ? 5 : 0); }, 0);
+            nalezeno.push({d: d, skore: skore, text: text});
+        });
+        nalezeno.sort(function (a, b) { return b.skore - a.skore || a.d.t.localeCompare(b.d.t, 'cs'); });
+        stav.textContent = nalezeno.length ? 'Nalezeno: ' + nalezeno.length : 'Nic nenalezeno.';
+        document.getElementById('vysledky').innerHTML = nalezeno.slice(0, 200).map(function (n) {
+            var d = n.d, i = n.text.indexOf(slova[0]), ukazka = '';
+            if (i >= 0) {
+                ukazka = d.x.substr(Math.max(0, i - 60), 160);
+                ukazka = (i > 60 ? '…' : '') + esc(ukazka) + '…';
+            } else if (d.v) {
+                ukazka = 'Vydal: ' + esc(d.v);
+            }
+            return '<tr><td valign="top" width="70"><i>' + DRUH[d.k] + '</i></td><td><a href="' + esc(d.u) + '"><b>' + esc(d.t) + '</b></a>' +
+                (d.a.trim() ? ' – ' + esc(d.a.trim()) : '') + (ukazka ? '<br><small>' + ukazka + '</small>' : '') + '</td></tr>';
+        }).join('');
+    }).catch(function () { stav.textContent = 'Hledání se nepodařilo načíst.'; });
+})();
+</script>

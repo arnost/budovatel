@@ -3,6 +3,7 @@ layout: default
 ---
 
         <h2 class="section__title">Vydal</h2>
+        {% include hledani.html %}
 {% assign state = site.state   | map : "vydal"    %}
 {% assign poezie = site.poezie   | map : "vydal"    %}
 {% assign all =  state | concat : poezie | compact | uniq | ceske_razeni %}
@@ -18,13 +19,13 @@ layout: default
 
         {% for a in poezie %}
             {% if  a.vydal  == vydal  %}
-                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+                <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 
         {% for a in state %}
             {% if  a.vydal  == vydal %}
-                <li><a href="{{ a.url }}">{{ a.title }}</a></li>
+                <li><a href="{{ a.url | downcase }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}
 

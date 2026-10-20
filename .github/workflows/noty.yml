@@ -1,0 +1,48 @@
+# Po změně not nebo textů písní znovu vygeneruje noty na web a zpěvník v PDF
+# a výsledek commitne zpátky do masteru (Netlify pak web nasadí).
+name: Noty a zpěvník
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'noty/lylipond/**'
+      - 'noty/zpevnik/**'
+      - 'noty/*.sh'
+      - 'noty/bez_paticky.ly'
+      - '_pisne/**'
+      - '.github/workflows/noty.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: noty
+  cancel-in-progress: false
+
+jobs:
+  noty:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: LilyPond
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends lilypond
+          lilypond --version | head -1
+      - name: Noty písní
+        run: noty/build_noty.sh
+      - name: Zpěvník
+        run: noty/zpevnik/build.sh
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noty _data
+          if git diff --cached --quiet; then
+            echo "Žádné změny."
+          else
+            git commit -m "Noty a zpěvník přegenerovány automaticky"
+            git push
+          fi

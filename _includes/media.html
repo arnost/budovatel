@@ -1,47 +1,7 @@
-{% assign image_files = site.static_files | where: "image", true %}
-{% assign page_gif = page.id | append: '.gif' %}
-{% for myimage in image_files %}
-{% if page_gif contains myimage.name %}
-<a href="{{ myimage.path }}">Obrázek gif</a><br/>
-{% endif %}
-{% endfor %}
-
-{% assign image_files = site.static_files | where: "midi", true %}
-{% assign page_gif = page.id | append: '.midi' %}
-{% for myimage in image_files %}
-{% if page_gif contains myimage.name  %}
-<a href="{{ myimage.path }}">Midi</a><br/>
-{% endif %}
-{% endfor %}
-
-{% assign image_files = site.static_files | where: "mp3", true %}
-{% assign page_gif = page.id | append: '.mp3' %}
-{% for myimage in image_files %}
-{% if page_gif contains myimage.name  %}
-<a href="{{ myimage.path }}">mp3</a><br/>
-{% endif %}
-{% endfor %}
-
-{% assign image_files = site.static_files | where: "ps", true %}
-{% assign page_gif = page.id | append: '.ps' %}
-{% for myimage in image_files %}
-{% if page_gif contains myimage.name  %}
-<a href="{{ myimage.path }}">PostScript</a><br/>
-{% endif %}
-{% endfor %}
-
-{% assign image_files = site.static_files | where: "pdf", true %}
-{% assign page_gif = page.id | append: '.pdf' %}
-{% for myimage in image_files %}
-{% if page_gif contains myimage.name  %}
-<a href="{{ myimage.path }}">PDF</a><br/>
-{% endif %}
-{% endfor %}
-
-{% assign image_files = site.static_files | where: "lylipond", true %}
-{% assign page_gif = page.id | append: '.ly' %}
-{% for myimage in image_files %}
-{% if page_gif contains myimage.name  %}
-<a href="{{ myimage.path }}">Lylipond</a>
-{% endif %}
-{% endfor %}
+{% include soubory.html %}
+{% if noty_obrazek %}<a href="{{ noty_obrazek }}">Noty (obrázek)</a><br/>{% endif %}
+{% if noty_midi %}<a href="{{ noty_midi }}">MIDI</a><br/>{% endif %}
+{% if noty_mp3 %}<a href="{{ noty_mp3 }}">MP3</a><br/>{% endif %}
+{% if noty_ps %}<a href="{{ noty_ps }}">PostScript</a><br/>{% endif %}
+{% if noty_pdf %}<a href="{{ noty_pdf }}">PDF</a><br/>{% endif %}
+{% if noty_ly %}<a href="{{ noty_ly }}">LilyPond</a><br/>{% endif %}

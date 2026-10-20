@@ -1,0 +1,13 @@
+{% comment %}Najde k písni soubory se stejným jménem v noty/ (obrázek not, MIDI, MP3, PDF, PostScript, LilyPond).{% endcomment %}
+{% assign jmeno = page.id | split: "/" | last %}
+{% assign soubory = site.static_files | where: "basename", jmeno %}
+{% assign noty_obrazek = nil %}{% assign noty_midi = nil %}{% assign noty_mp3 = nil %}{% assign noty_pdf = nil %}{% assign noty_ps = nil %}{% assign noty_ly = nil %}
+{% for f in soubory %}
+  {% if f.path contains "/noty/jpg/" %}{% assign noty_obrazek = f.path %}
+  {% elsif f.path contains "/noty/midi/" %}{% assign noty_midi = f.path %}
+  {% elsif f.path contains "/noty/mp3/" %}{% assign noty_mp3 = f.path %}
+  {% elsif f.path contains "/noty/pdf/" %}{% assign noty_pdf = f.path %}
+  {% elsif f.path contains "/noty/ps/" %}{% assign noty_ps = f.path %}
+  {% elsif f.path contains "/noty/lylipond/" %}{% assign noty_ly = f.path %}
+  {% endif %}
+{% endfor %}

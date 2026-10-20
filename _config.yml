@@ -25,7 +25,6 @@ github_username:  arnost
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
 
 
 collections:
@@ -96,7 +95,9 @@ defaults:
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
-# exclude:
+exclude:
+  - README.md
+  - CLAUDE.md
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

@@ -3,3 +3,6 @@ _site
 .jekyll-metadata
 .idea
 /budovatel.iml
+.jekyll-cache
+vendor
+.bundle

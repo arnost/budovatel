@@ -20,4 +20,4 @@ v našich řadách síla aby stále byla, boj vyhrajem! :|
 
 1947 část 1 PP SNB byla v rámci akce „B" velena na Slovensko
 pochod SNB složil štábní Kapitán p Eška
-[Zdroj](https://hranicari.eu/2-uncategorised/348-pochod-snb.html)
+Zdroj: stránky OSH Hraničáři (už nejsou dostupné)

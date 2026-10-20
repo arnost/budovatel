@@ -51,4 +51,4 @@ Zbity pluky atamanů,
 až tam blízko oceánu  
 partyzán jak vítěz stál. :|
 
-[Zdroj:Revoluční písně ](http://revolucnipisne.blog.cz/0908/po-dolinam-i-po-vzgorjam-partyzanska)
+[Zdroj:Revoluční písně ](https://web.archive.org/web/20200817012047/http://revolucnipisne.blog.cz/0908/po-dolinam-i-po-vzgorjam-partyzanska)

@@ -17,4 +17,4 @@ kolik dívek u nás doma tráví noci při pláči
 Neplač milá, setři tváře, slyš písničku od hranic  
 //:vzpomeň na nás hraničáře, my ti jdeme něco říct://
 
-zdroj [KVH Hraničář](http://kvhhranicar.goneo.cz/vycvik/psm/pisne-pohranicni-straze.html)
+zdroj [KVH Hraničář](https://web.archive.org/web/20170629025150/http://kvhhranicar.goneo.cz:80/vycvik/psm/pisne-pohranicni-straze.html)

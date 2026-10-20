@@ -34,7 +34,7 @@ jak veletok, jenž proudí prudce,
 [musíme cíle dostihnout].  
 Dále jen ... atd.  
 
-Francouzký text lze najít na stánce [Revoluční písně](http://revolucnipisne.blog.cz/0909/rudy-prapor)
+Francouzký text lze najít na stánce [Revoluční písně](https://web.archive.org/web/20181209204114/http://revolucnipisne.blog.cz:80/0909/rudy-prapor)
 
 Ke konci 19. století sloužila jako  neoficiální hymna "Omladinářů", tedy  českých vlastenců bojujících proti rakousko-uherskému útlaku. 
 

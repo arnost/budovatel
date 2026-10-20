@@ -23,4 +23,4 @@ od východu k západu!
 
 *Písnička mladých budovatelů. Praha: SNKLHU, 1955.*
 
-*Text se podařilo dohledat přes [Ptejte se knihovny](http://www.ptejteseknihovny.cz/uloziste/aba001/2007-2009/autor-nazev-pisne-kde-najit-cely-text), zdroj: [ročenka](http://mrzimor.hogwarts.cz/skrin/rocenky/b4/03.02.pdf).*
+*Text se podařilo dohledat přes [Ptejte se knihovny](https://www.ptejteseknihovny.cz/dotazy/autor-nazev-pisne-kde-najit-cely-text), zdroj: ročenka na mrzimor.hogwarts.cz (už není dostupná).*

@@ -35,4 +35,4 @@ rudou krev, jíž plane východní žář,
 rudou krev, jež odstraní strašidlo běd,  
 rudou krev, která zaplaví celičký svět.
 
-o autorovi více [zde](https://ahistorie.451.cz/borek-vlastimil-ing-1886-1952/)
+o autorovi více [zde](https://web.archive.org/web/20211026115518/https://ahistorie.451.cz/borek-vlastimil-ing-1886-1952/)

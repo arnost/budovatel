@@ -4,7 +4,7 @@ music: Zdeňek Liška
 ---
 
 Zde najdete pouze úvodní znělku a seznam realizovaných i
-nerealizovaných dílů. Mnohem hlouběji si mužete slavného majora nastudovat [zde](http://www.majorzeman.eu/)
+nerealizovaných dílů. Mnohem hlouběji si mužete slavného majora nastudovat [zde](https://majorzeman.eu/)
 
 Smrt u jezera (1945)  
 Vyznavači ohně (1946)  

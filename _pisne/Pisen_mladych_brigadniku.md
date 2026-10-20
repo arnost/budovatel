@@ -25,4 +25,4 @@ socialismus to jsme my.
 
 refrain
 
-Vyšlo i v roce 2007 na kompilaci Supraphonu: [zde](https://www.supraphon.cz/archiv/3282-budovatelske-pisne)
+Vyšlo i v roce 2007 na kompilaci Supraphonu: [zde](https://web.archive.org/web/20190819054038/https://www.supraphon.cz/archiv/3282-budovatelske-pisne)

@@ -22,4 +22,4 @@ Jejich krok tu burácí, děvčata z to ho jančí
 Jednotko, kdo jste?  
 My jsme Hraničáři!
 
-zdroj: [OSH Hraničáři](https://hranicari.eu/2-uncategorised/348-pochod-snb.html)
+zdroj: stránky OSH Hraničáři (už nejsou dostupné)

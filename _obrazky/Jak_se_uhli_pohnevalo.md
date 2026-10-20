@@ -6,5 +6,5 @@ galery: true
 
 
 Existuje i formou  
-[divadelní hry](https://vufind.mzk.cz/Record/MZK01-000592403)
+[divadelní hry](https://vufind.mzk.cz/Record/mzk.MZK01-000592403)
 

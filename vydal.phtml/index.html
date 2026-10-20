@@ -5,7 +5,7 @@ layout: default
         <h2 class="section__title">Vydal</h2>
 {% assign state = site.state   | map : "vydal"    %}
 {% assign poezie = site.poezie   | map : "vydal"    %}
-{% assign all =  state | concat : poezie |  uniq   %}
+{% assign all =  state | concat : poezie | compact | uniq | ceske_razeni %}
 
 <ul>
     {% for vydal in all %}

@@ -8,7 +8,7 @@ layout: default
 {% assign preklad = site.pisne   | map : "preklad"    %}
 {% assign state = site.state   | map : "autor"    %}
 {% assign poezie = site.poezie   | map : "autor"    %}
-{% assign all = music | concat : text | concat : preklad | concat : state | concat : poezie |  uniq   %}
+{% assign all = music | concat : text | concat : preklad | concat : state | concat : poezie | compact | uniq | ceske_razeni_autoru %}
 
 <ul>
     {% for autor in all %}

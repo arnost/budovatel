@@ -8,3 +8,4 @@ vendor
 .bundle
 noty/zpevnik/build
 __pycache__
+noty/build

@@ -33,6 +33,7 @@ Nearly all work is adding content files; commits are typically just a new `.md` 
 | `_state` (articles) | `poezie` | `/state.phtml/:title` | `title`, `autor`, `vydal` |
 | `_obrazky` (pictures) | `obrazek` | `/obrazky.phtml/:title` | `name`, `autor`, `galery: true` |
 
+- `preklad` may be a YAML list when there are several translators; templates normalize it with `join: "|" | split: "|"`.
 - `youtube` is just the video ID (rendered by `_includes/youtube.html`).
 - Filenames are ASCII with accents stripped and spaces as `_` (e.g. `Armade_zdar.md`); some older entries are `.html`.
 - Song/poem bodies are Markdown where each verse line ends with two trailing spaces to force a line break — preserve them.

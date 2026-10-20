@@ -20,7 +20,8 @@ layout: default
     {% assign state = site.state | sort %}
     <ul>
         {% for a in pisne %}
-            {% if  a.music  == autor or a.text  == autor or a.preklad  == autor %}
+            {% assign prekladatele = a.preklad | join: "|" | split: "|" %}
+            {% if  a.music  == autor or a.text  == autor or prekladatele contains autor %}
                 <li><a href="{{ a.url }}">{{ a.title }}</a></li>
             {% endif %}
         {% endfor %}

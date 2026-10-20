@@ -10,7 +10,8 @@ Hudba: <a href="/autori.phtml#{{ page.music | url_encode }}"> {{ page.music }}</
 text: <a href="/autori.phtml#{{ page.text | url_encode }}"> {{ page.text }}</a><br>
 {% endif %}
 {% if page.preklad %}
-překlad: <a href="/autori.phtml#{{ page.preklad | url_encode }}"> {{page.preklad}}</a><br>
+{% assign prekladatele = page.preklad | join: "|" | split: "|" %}
+překlad:{% for p in prekladatele %} <a href="/autori.phtml#{{ p | url_encode }}">{{ p }}</a>{% unless forloop.last %},{% endunless %}{% endfor %}<br>
 {% endif %}
 <br>
 <table width="600">

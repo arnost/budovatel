@@ -3,5 +3,9 @@ layout: null
 ---
 User-agent: *
 Allow: /
+Disallow: /noty/midi/
+Disallow: /noty/ps/
+Disallow: /noty/mp3/
+Disallow: /noty/lylipond/
 
 Sitemap: {{ "/sitemap.xml" | absolute_url }}

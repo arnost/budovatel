@@ -6,13 +6,13 @@ galery: false
 
 ![Soudruh Rajtora vypravuje o svém zájezdu do Sovětského svazu](/img/obrazky/Soudruh_Rajtora_vypravuje_o_svem_zajezdu_do_Sovetskeho_svazu.jpg)
 
-Malířka Alena Čermáková pozorovala zemědělce a jejich ţivot na
-jednotlivých zemědělských druţstvech a nejvíce ji zaujal výjev, kterému byla kdysi
+Malířka Alena Čermáková pozorovala zemědělce a jejich život na
+jednotlivých zemědělských družstvech a nejvíce ji zaujal výjev, kterému byla kdysi
 přítomna. Zemědělec soudruh Rajtora, který se právě vrátil s delegací z SSSR, vyprávěl
-našim druţstevníkům o tom, co v Sovětském svazu viděl a proţil. Jednoho dne se rozhodla
+našim družstevníkům o tom, co v Sovětském svazu viděl a prožil. Jednoho dne se rozhodla
 z tohoto výjevu vytvořiti obraz.“
 
-Obraz se dochoval pouze v černobílé fotografii, a není tedy moţné více studovat
+Obraz se dochoval pouze v černobílé fotografii, a není tedy možné více studovat
 barevnost a štětcový rukopis.
 
 Převzato z práce -- 

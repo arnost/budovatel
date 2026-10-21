@@ -14,6 +14,7 @@ asi 2 000 příspěvků na ~100 stránkách po 20, starší stránky jsou na odk
   K XV. sjezdu KSČ, Železná častuška, Vojenská píseň, Suliko, Chlapci a děvčata vpřed, Jednou nebudeme malí,
   Kupředu zpátky ni krok, Všem kdo Tě střeží, Písně boje korejské mládeže, Časopis ABC z roku 1960.
 - 20. 10. 2026 – obrázky: Bílá kniha 1968 (ID 1071117511, popisky 1071117515) → `_obrazky/K_udalostem_v_ceskoslovensku.md`.
+- 21. 10. 2026 – obrázky: Nepřítel vesnice – kulak Jiří Čermák (ID 1070280992) → `_obrazky/Nepritel_vesnice.md`.
 - Všechny textové příspěvky delší než 300 znaků a krátké básně jsou prověřené (stav k 20. 10. 2026).
 
 ## Obrázky – nejzajímavější kandidáti na galerie
@@ -24,7 +25,6 @@ nebo z novější doby (Dikobraz 1981/1985) je obsah chráněný.
 | Datum | Kdo | Obr. | Co | ID |
 |---|---|---|---|---|
 | 25. 1. 2019 | Jíha | 15 | (bez popisu, i.nahraj.to – ověřit, zda obrázky ještě existují) | 1069088390 |
-| 17. 8. 2020 | Jíha | 7 | Nepřítel vesnice – kulak Jiří Čermák z Jesenice před lidovým soudem (Vesnické noviny okresu Praha-východ) | 1070280992 |
 | 7. 5. 2026 | w_o_o_d_y | 3+4+3 | Dar republice: Brněnský kraj k IX. sjezdu KSČ (1949) | 1074558646, 1074558650, 1074558655 |
 | 15. 1. 2015 | Guyver | 5 | Lenin, přítel dítek | 1066280345 |
 | 1. 9. 2021 | Jíha | 4 | Mateřídouška 10/1969, Tvorba 31. 10. 1969, Rudé právo 1. 11. a 4. 12. 1969 | 1071182118 |

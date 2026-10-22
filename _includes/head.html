@@ -1,7 +1,7 @@
 <meta charset="utf-8">
 <!-- Cloudflare Web Analytics -->
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "aac68be489c44bb0ac71769a5bc0547b"}'></script>
-<meta name="viewport" content="width=720">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="seznam-wmt" content="KbJWvnG4qJhhN7iUkaJSr1mHNf6rlTEk" />
 <meta name="google-site-verification" content="LaIv9sXxtLbrZG-XOceBTBUdbHyb5ctSqDRl0L3o3tk" />
 {% assign nazev = page.title %}{% if page.collection == "obrazky" %}{% assign nazev = page.name %}{% endif %}
@@ -18,7 +18,7 @@
 {% when "poezie" %}{% capture kdo %}Báseň{% if page.autor %}, {{ page.autor | join: ", " }}{% endif %}{% if page.vydal %} ({{ page.vydal }}{% if page.rok %}, {{ page.rok }}{% endif %}){% endif %}. {% endcapture %}
 {% when "state" %}{% capture kdo %}Stať{% if page.autor %}, {{ page.autor | join: ", " }}{% endif %}{% if page.vydal %} ({{ page.vydal }}{% if page.rok %}, {{ page.rok }}{% endif %}){% endif %}. {% endcapture %}
 {% else %}{% assign kdo = "" %}{% endcase %}
-{% if page.collection %}{% capture popis %}{{ kdo }}{{ page.content | strip_html | replace: "&nbsp;", " " | replace: "&amp;", "&" }}{% endcapture %}{% else %}{% assign popis = site.description %}{% endif %}
+{% if page.collection %}{% capture popis %}{{ kdo }}{{ page.content | strip_html | replace: "&nbsp;", " " | replace: "&amp;", "&" }}{% endcapture %}{% else %}{% assign popis = page.description | default: site.description %}{% endif %}
 {% assign popis = popis | normalize_whitespace | truncate: 200 %}
 <meta name="description" content="{{ popis | escape }}">
 <link rel="canonical" href="{{ page.url | downcase | absolute_url }}">
@@ -67,5 +67,19 @@
     .zvuk button { width: 30px; height: 30px; border: 0; background: #4a6588; color: #fff; cursor: pointer; font-size: 12px; }
     .zvuk .cas { font: 14px sans-serif; white-space: nowrap; }
     .zvuk input { flex: 1; accent-color: #3f5878; }
-    iframe[src*="youtube"] { display: block; margin: 10px 0 28px; }
+    iframe[src*="youtube"] { display: block; margin: 10px 0 28px; max-width: 100%; height: auto; aspect-ratio: 16 / 9; }
+    .galerie { max-width: 900px; }
+    /* na mobilu stejný vzhled, jen se hlavička a navigace zmenší na šířku displeje a sloupce jdou pod sebe */
+    @media (max-width: 719px) {
+        .hlavicka table, .navigace table { width: 100%; }
+        .hlavicka img, .navigace img { width: 100%; height: auto; vertical-align: top; }
+        .obsah { padding: calc(100vw * 33 / 680 + 10px) 10px calc(100vw * 33 / 680 + 20px) !important; overflow-wrap: break-word; }
+        .obsah table { width: 100%; }
+        .obsah th, .obsah td { padding: 4px 3px; }
+        .obsah table:not(.sloupce) { font-size: 13px; }
+        .obsah h2 { font-size: 1.3em; }
+        .obsah img { max-width: 100%; height: auto; }
+        table.sloupce, table.sloupce tbody, table.sloupce tr, table.sloupce td { display: block; width: auto; }
+        table.sloupce td { padding-left: 0; padding-right: 0; }
+    }
 </style>

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<table border="0" cellpadding="10" cellspacing="0" width="680">
+<table class="sloupce" border="0" cellpadding="10" cellspacing="0" width="680">
 <tr>
 <td width="340" valign="top"><b>Vítejte</b> v začínajícím skladišti
 budovatelských písní, básní a odborných statí, které vzalo počátek
@@ -30,6 +30,7 @@ dělnické třidy, což lze brát pouze jako potvrzení faktu, že buržoazie si
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>.</p>
 {% assign nove = site.pisne | concat: site.poezie | concat: site.state | concat: site.obrazky | sort: "pridano" | reverse %}
 <p><b>Nově znárodněno:</b> {% for a in nove limit: 3 %}<a href="{{ a.url | downcase }}">{% if a.collection == "obrazky" %}{{ a.name }}{% else %}{{ a.title }}{% endif %}</a>, {% endfor %}<a href="/znarodneno.phtml/">a další přírůstky</a>.</p>
+<p><b>Pátráme</b> po písních, které hledají čtenáři. <a href="/patrame.html">Neznáte je?</a></p>
 <p><b>Hledání</b> v písních, básních a statích:</p>
 {% include hledani.html %}
 </td>

@@ -1,5 +1,6 @@
 ---
 title: Kamarádi
+youtube: EXnPkZk70ps
 ---
      
 Kamarádi, je to mládí,  

@@ -2,6 +2,7 @@
 title: Kupředu, zpátky ni krok
 music: Jan Seidl
 text: Bedřich Bobek
+youtube: mEpS6VfBwXo
 ---
 
 Už rozvil čas a voní nadějemi  

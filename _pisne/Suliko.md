@@ -1,6 +1,7 @@
 ---
 title: Suliko (Dušička)
 preklad: L. Kubišta
+youtube: Lw8Lwl1Qsow
 ---
 
 Když jsem hledal hrob Suličin,  

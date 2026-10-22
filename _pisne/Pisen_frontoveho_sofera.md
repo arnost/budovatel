@@ -5,6 +5,7 @@ text:
   - B. Laskin
   - N. Labkovskij
 preklad: V. Škoda
+youtube: jEi7O5UakcU
 ---
 
 Přes řeky, horami dolinami,    

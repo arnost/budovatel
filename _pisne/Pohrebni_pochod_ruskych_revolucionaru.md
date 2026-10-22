@@ -2,6 +2,7 @@
 title: Pohřební pochod ruských revolucionářů
 text: A. Archangelskij
 preklad: Jan Urban
+youtube: FDzh9PyAqPI
 ---
 
 Vy za oběť padli jste v krutém boji,  

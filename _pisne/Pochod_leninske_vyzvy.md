@@ -1,5 +1,6 @@
 ---
 title: Pochod Leninské výzvy
+youtube: nIfaWm3KTP4
 ---
 
 My dělníci k slávě kladiva a srpu  

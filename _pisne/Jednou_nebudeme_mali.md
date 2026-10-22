@@ -2,6 +2,7 @@
 title: Jednou nebudeme malí
 music: Svatopluk Havelka
 text: Josef Brukner
+youtube: kataXaJRDRA
 ---
 
 **1.**  

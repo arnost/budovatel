@@ -9,3 +9,4 @@ vendor
 noty/zpevnik/build
 __pycache__
 noty/build
+.DS_Store

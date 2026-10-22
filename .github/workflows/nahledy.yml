@@ -1,0 +1,40 @@
+# Po přidání nebo změně obrázků v galeriích vytvoří jejich náhledy (img/nahledy)
+# a commitne je zpátky do masteru.
+name: Náhledy galerií
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'img/galerie/**'
+      - 'img/nahledy.py'
+      - '.github/workflows/nahledy.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: nahledy
+  cancel-in-progress: false
+
+jobs:
+  nahledy:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Pillow
+        run: pip install pillow
+      - name: Náhledy
+        run: python3 img/nahledy.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A img/nahledy
+          if git diff --cached --quiet; then
+            echo "Žádné změny."
+          else
+            git commit -m "Náhledy galerií přegenerovány automaticky"
+            git push
+          fi

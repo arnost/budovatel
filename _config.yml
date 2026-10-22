@@ -99,6 +99,7 @@ exclude:
   - CLAUDE.md
   - noty/zpevnik
   - docs
+  - img/nahledy.py
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules

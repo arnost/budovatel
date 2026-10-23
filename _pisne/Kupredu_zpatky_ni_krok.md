@@ -34,3 +34,19 @@ a píseň lidu ať se dotkne hvězd!
 proti nepřátelům ocelovou pěst :|  
 
 *Refrén*
+
+*3. sloka:*  
+Už dozrál čas a voní nadějemi,  
+svobody píseň zpívá pták i květ,  
+|: vpřed, soudruzi, k té zaslíbené zemi,  
+kterou nám svět celý bude závidět! :|  
+Dost dlouho už jsme ve tmě živořili  
+a našim chlebem byl jen sen a hlad,  
+|: hoj! proč bychom se spolu netěšili,  
+pojďte s námi všichni zpívat, tancovat. :|  
+
+*Refrén*
+
+*Závěr refrénu se stal znělkou rozhlasových novin Československého rozhlasu a Jan Seidel za píseň dostal v roce 1951 státní cenu.*
+
+*Noty a 3. sloka podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

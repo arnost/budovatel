@@ -26,3 +26,7 @@ socialismus to jsme my.
 refrain
 
 Vyšlo i v roce 2007 na kompilaci Supraphonu: [zde](https://web.archive.org/web/20190819054038/https://www.supraphon.cz/archiv/3282-budovatelske-pisne)
+
+*Píseň zazněla ve filmu Veliká příležitost a Barvík ji složil jako dárek k IX. sjezdu KSČ (1949). Zpěvník ji uvádí pod názvem Pochod mladých brigádníků.*
+
+*Noty podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

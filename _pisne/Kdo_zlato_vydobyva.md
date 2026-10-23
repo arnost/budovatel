@@ -1,0 +1,45 @@
+---
+title: Kdo zlato vydobývá?
+text: J. Most
+preklad: J. B. Pecka
+---
+
+Kdo zlato vydobývá,  
+kdo tesá kámen, kov?  
+Kdo tká sukna a hedváb,  
+kdo staví zdě a krov?  
+Kdo chléb boháčům snášet zná  
+a přitom sám jen bídu má?  
+|: To jsou mužové práce,  
+to je náš proletář! :|
+
+Kdo od časného jitra  
+se plahočí až v noc?  
+Kdo jiným tvoří jmění,  
+rozkoše, krásu, moc?  
+Kdo kolo žene světové  
+a při tom nulou v státě je?  
+|: To jsou mužové práce,  
+to náš je proletář! :|
+
+Své pozvedněte paže  
+a s rudou vlajkou v řad.  
+Mužně za volnost drahou  
+a za chléb bojovat.  
+Urychlit všech despotů pád,  
+a zemi mír a blaho dát.  
+|: Ve boj mužové práce,  
+ve boj náš proletář! :|
+
+My mocnost máme v rukou  
+tož svorně stůjme vpřed.  
+Jen sjednocenost schází  
+a svobodni jsme hned.  
+Jen odhodlaně ve spor dál,  
+byť nepřítel i u děl stál!  
+|: Jen tak, mužové práce,  
+zvítězí proletář! :|
+
+*Českou podobu německé socialistické písně Johanna Mosta vytvořil J. B. Pecka; píseň v dělnickém hnutí zlidověla a v 90. letech 19. století ji mnozí zpívali jako dělnickou hymnu.*
+
+*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

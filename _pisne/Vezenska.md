@@ -12,6 +12,13 @@ třeba v žaláři byli spoutaní!
 nemá žalář vadit tobě  
 i kdyby tě trápili. :|
 
+Pohleď, jak lid hladem kvílí,  
+kapitál vydírá s pílí,  
+co syn práce vytvořil (mozoly).  
+|: Na tom nemá ještě dosti,  
+vyssaje tě až do kosti,  
+aniž by ses protivil. :|
+
 Hola hoši na palubu  
 třeba pluli jsme v záhubu  
 prapor náš neutone, nikdy ne!  
@@ -39,4 +46,4 @@ Uvádí se, že píseň zkomponoval Andreas Leonhardt, další verzi upravil v r
 
 zdroj [Sv. Sidonie](https://drobnostisv-sidonie.webnode.cz/news/budovatelske-pisne-meho-mladi/)
 
-
+*Noty a 2. sloka podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953), podle něhož píseň složil Norbert Zoula koncem roku 1881 ve vězení pro povzbuzení spoluvězňů, na nápěv lidové vojenské písně „Alou, páni muzikanti“.*

@@ -1,6 +1,6 @@
 \version "2.24.0"
 \header {
-        title = "Ze zpěvem a smíchem"
+        title = "Se zpěvem a smíchem"
         composer = "J. Stanislav"
 	poet = "O. Rambousková"
 }
@@ -30,7 +30,7 @@ accompaniment =\chordmode {
 r4 f2 g4:m c4:7 f2. c4:7 f2 g4:m c4:7
 f1 bes2. d4:m g2:m c2:7 f2 g2:7 
 c1 f2 d2 g2:m c2 f2 d g2:m c2 bes2 c2:7 f1 bes2 c2 
-f2 d2:7 g2:m c2:7 f2.
+f2. d4:7 g2:m c2:7 f2.
 
 		}
 

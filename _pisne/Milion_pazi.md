@@ -101,3 +101,5 @@ A v boj, a v boj, a v boj.
 Za Sovdepii!  
 A v boj, a v boj, a v boj.  
 Za Sovdepii!
+
+*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*

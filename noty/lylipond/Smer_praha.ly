@@ -1,4 +1,4 @@
-\version "2.20.0"
+\version "2.24.0"
 \header {
         title = "Směr Praha" 
         composer = "E. Toman" 
@@ -7,18 +7,18 @@
 
 PrvniHlas=  {
 g4. as | a4. bes | c2. | bes | es4. ( es4 )  d8 | f4 r8 r4 es8 |
-d2.| c | es,4. f | g as | d2. | c | bes4. f | c'4. d |
+d2.| c | e,4. f | g as | d2. | c | bes4. f | c'4. d |
 c2. | bes4 r8 r4. | g4. as | a bes | c2. | bes | 
 g'4. ( g4 )  f8 | es4. ( es4 ) d8 | d2. | 
 }
 DruhyHlas =  {
 es,4. f | fis g | fis2. | g |
 g4. ( g4 ) g8 | g4 r8 r4 g8 |
-a2. a | cis,4. d | e f | bes2. | a |
+as2. as | cis,4. d | e f | bes2. | as |
 d,4. d | as'4. bes |
 fis2. | g4 r8 r4. |
 es4. f | fis g | fis2.|  g | bes4. ( bes4 ) bes8 |
-bes4. ( bes4 ) bes8 | as2. |
+b4. ( b4 ) bes8 | as2. |
 }
 
 melody =  \relative c' { 
@@ -32,10 +32,10 @@ f8 r f g4 a8 | bes4. a | g4 f8 es4 d8 | d4. c ~ |
  c8 r c b4 c8 | a'4. g | f8 r c b4 c8 | d4. r |
 r8 r f g4 a8 | bes4. a | c4 bes8 d4 bes8 | a4. g ~ |
  g8 r g a4 bes8 | <d f>4. ( q4 ) d8 |
-bes4 f8 d'4 c8 bes8 r r r4. \bar "||" 
+bes4 f8 d'4 c8 bes8 r r r4. | R2. \bar "||" 
 \key es \major
 << \PrvniHlas \DruhyHlas >>
-< c as > 8 r c bes4 c8 | <es a, >8 r r r4 r8 |
+< c as > 8 r c b4 c8 | <es a, >8 r r r4 r8 |
 r4 es8 d4 es8 | <g bes, >8 r8 r r4 r8 | r4 r8 bes,8 a bes | c4. < as
 f'>8 r8 r | r4 r8 <d bes >4 < as bes >8 | <g es'>4 r8 r4. 
         \bar "|." 
@@ -60,13 +60,13 @@ my uhá -- jí -- me věč -- ný mír.
 
 accompaniment =\chordmode {
 bes2. bes bes es f f f 
-bes bes bes bes f:4
-f:4 f:4 c:7 f bes bes es 
-es f:7 f:7 bes bes bes bes es
-es bes:4 bes4. f:7 bes2.
+bes bes bes bes f/c
+f/c f/c c:7 f bes bes c:m 
+c:m f:7 f:7 bes bes bes bes es
+es bes:9^7 bes4. f:7 bes2. s2.
 es es es es es es 
 as as bes bes bes:7 bes:7 bes:7 bes:7
-es es es es es es es es as as f:7 f:7 es:4 es:4 bes:7 bes:7 es
+es es es es es es es es as as f:7 f:7 es/bes es/bes as bes:7 es
 		}
 
 \score {
@@ -80,5 +80,5 @@ es es es es es es es es as as f:7 f:7 es:4 es:4 bes:7 bes:7 es
           \new Lyrics \lyricsto "one" \text
        >>
         \midi  { \tempo 4 =150 }
-        \layout { linewidth = 18.0\cm  }
+        \layout { line-width = 18.0\cm  }
 }

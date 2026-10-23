@@ -1,6 +1,7 @@
 ---
 title: Kto za pravdu horí
 obdobi: obrozeni
+wikipedie: "Kdo za pravdu hoří"
 text: Karol Kuzmány
 ---
 

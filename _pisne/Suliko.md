@@ -1,6 +1,7 @@
 ---
 title: Suliko (Dušička)
 obdobi: budovatelske
+wikipedie: "Suliko"
 preklad: L. Kubišta
 youtube: Lw8Lwl1Qsow
 ---

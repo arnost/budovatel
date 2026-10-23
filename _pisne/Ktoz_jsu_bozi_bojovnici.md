@@ -1,6 +1,7 @@
 ---
 title: Ktož jsú boží bojovníci
 obdobi: nejstarsi
+wikipedie: "Ktož jsú boží bojovníci"
 ---
 
 Ktož jsú boží bojovníci  

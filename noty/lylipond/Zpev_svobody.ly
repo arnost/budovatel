@@ -1,7 +1,7 @@
 \version "2.20.0"
 \header {
         title = "Zpěv Svobody" 
-        composer = "J. Seidel"
+        composer = "Jan Seidel"
         poet = "Josef Hora" 
 }
 melody =  \relative c' {

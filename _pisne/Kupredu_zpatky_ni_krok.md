@@ -1,7 +1,8 @@
 ---
 title: Kupředu, zpátky ni krok
 obdobi: budovatelske
-music: Jan Seidl
+wikipedie: "Kupředu, zpátky ni krok!"
+music: Jan Seidel
 text: Bedřich Bobek
 youtube: mEpS6VfBwXo
 ---

@@ -1,6 +1,7 @@
 ---
 title: Povstaň, povstaň, veliké město Pražské
 obdobi: nejstarsi
+wikipedie: "Povstaň, povstaň veliké město pražské"
 ---
 
 Povstaň, povstaň, veliké město Pražské,  

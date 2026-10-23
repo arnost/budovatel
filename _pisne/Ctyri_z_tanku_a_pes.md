@@ -1,6 +1,7 @@
 ---
 title: Čtyři z tanku a pes
 obdobi: sedesata
+wikipedie: "Čtyři z tanku a pes (seriál)"
 music: Wojciech Kilar
 text:
   - Agnieszka Osiecka

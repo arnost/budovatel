@@ -1,6 +1,7 @@
 ---
 title: Rudý prapor
 obdobi: delnicke
+wikipedie: "Rudý prapor"
 text: Boleslav Czerwienski
 preklad: Běla Raichlová
 youtube: fYyQJ_CG7sc

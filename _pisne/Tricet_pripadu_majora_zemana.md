@@ -1,6 +1,7 @@
 ---
 title: Třicet případů majora Zemana
 obdobi: normalizacni
+wikipedie: "30 případů majora Zemana"
 music: Zdeňek Liška
 youtube: fAjxA3uwxYQ
 ---

@@ -1,6 +1,7 @@
 ---
 title: Hej, Slované
 obdobi: obrozeni
+wikipedie: "Hej, Slované"
 text: Samo Tomášik
 ---
 

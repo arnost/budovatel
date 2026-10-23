@@ -1,6 +1,7 @@
 ---
 title: Hospodine, pomiluj ny
 obdobi: nejstarsi
+wikipedie: "Hospodine, pomiluj ny"
 ---
 
 Hospodine, pomiluj ny,  

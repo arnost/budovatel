@@ -1,6 +1,7 @@
 ---
 title: Svatý Václave
 obdobi: nejstarsi
+wikipedie: "Svatováclavský chorál"
 ---
 
 Svatý Václave,  

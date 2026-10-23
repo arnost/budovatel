@@ -50,6 +50,7 @@ Nearly all work is adding content files; commits are typically just a new `.md` 
 - `_plugins/pridano.rb` sets `page.pridano` (date the file first appeared in git history, renames keep the date) for all four collections; `znarodneno.phtml` ("Nově znárodněno") and the homepage list items by it, newest first.
 - `_plugins/ceske_razeni.rb` provides the Czech-alphabet sort filters used by `autori.phtml` and `vydal.phtml`; `hledat.html` searches `search.json` client-side; `sitemap.xml` and `robots.txt` are Liquid templates.
 - `obdobi` is a period id from `_data/obdobi.yml` (nejstarsi … normalizacni); the song list `pisne.phtml` shows it as a column of its click-sortable table (sorted in that order; `#<id>` in the URL sorts by period and jumps there) and the song page links to it. Every song should have one.
+- `_data/wikipedie_autori.yml` maps an author name (exactly as spelled in front matter) to a Wikipedia article; `autori.phtml` links it next to the name.
 - `wikipedie` is the title of a cs.wikipedia.org article about the song (or the film/series it comes from), shown as a link on the song page.
 - `youtube` is just the video ID (rendered by `_includes/youtube.html`).
 - Filenames are ASCII with accents stripped and spaces as `_` (e.g. `Armade_zdar.md`); some older entries are `.html`.

@@ -16,7 +16,7 @@ layout: default
     {% for autor in all %}
     {% if autor == null  %}
     {% else %}
-    <li><a id="{{ autor | url_encode }}">{{ autor }}</a></li>
+    <li><a id="{{ autor | url_encode }}">{{ autor }}</a>{% assign w = site.data.wikipedie_autori[autor] %}{% if w %}{% assign wj = "cs" %}{% assign wc = w %}{% if w contains ":" %}{% assign wp = w | split: ":" %}{% assign wj = wp[0] %}{% assign wc = wp[1] %}{% endif %} (<a href="https://{{ wj }}.wikipedia.org/wiki/{{ wc | replace: " ", "_" | uri_escape }}">Wikipedie</a>){% endif %}</li>
     {% assign pisne = site.pisne | sort %}
     {% assign poezie = site.poezie | sort %}
     {% assign state = site.state | sort %}

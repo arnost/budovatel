@@ -1,5 +1,6 @@
 <tr>
         <td><a href="{{ state.url | downcase }}">{{ state.title }}</a></td>
         <td>{{ state.autor | join: ", " }}</td>
-        <td> {{ state.vydal }}{% if state.rok %}, {{ state.rok }}{% endif %}</td>
+        <td>{{ state.vydal }}</td>
+        <td data-razeni="{{ state.rok | remove: "cca " }}">{{ state.rok }}</td>
 </tr>

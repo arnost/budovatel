@@ -12,7 +12,7 @@ layout: default
             <thead>
             <tr>
                 <th aria-sort="ascending">Název</th>
-                <th>Období</th>
+                <th data-skupina>Období</th>
                 <th>Hudba</th>
                 <th>Text</th>
                 <th>Překlad</th>
@@ -24,32 +24,4 @@ layout: default
             {% endfor %}
             </tbody>
         </table>
-        <script>
-        // Řazení seznamu kliknutím na záhlaví sloupce (znovu = obráceně); #obdobi v adrese seřadí podle období a skočí na ně.
-        (function () {
-            var tabulka = document.querySelector('table.raditelna'), telo = tabulka.tBodies[0];
-            var zahlavi = tabulka.tHead.rows[0].cells, cesky = new Intl.Collator('cs');
-            function hodnota(radek, i) {
-                var b = radek.cells[i];
-                return b.hasAttribute('data-razeni') ? b.getAttribute('data-razeni').padStart(3, '0') : b.textContent.trim();
-            }
-            function serad(i, sestupne) {
-                var radky = Array.prototype.slice.call(telo.rows);
-                radky.sort(function (a, b) {
-                    var x = hodnota(a, i), y = hodnota(b, i);
-                    if (!x !== !y) return x ? -1 : 1;          // prázdné buňky vždy na konec
-                    return (sestupne ? -1 : 1) * cesky.compare(x, y) || cesky.compare(hodnota(a, 0), hodnota(b, 0));
-                });
-                radky.forEach(function (r) { telo.appendChild(r); });
-                for (var j = 0; j < zahlavi.length; j++) zahlavi[j].removeAttribute('aria-sort');
-                zahlavi[i].setAttribute('aria-sort', sestupne ? 'descending' : 'ascending');
-            }
-            Array.prototype.forEach.call(zahlavi, function (th, i) {
-                th.addEventListener('click', function () { serad(i, th.getAttribute('aria-sort') === 'ascending'); });
-            });
-            serad(0, false);
-            var obdobi = decodeURIComponent(location.hash.slice(1));
-            var prvni = obdobi && telo.querySelector('tr[data-obdobi="' + obdobi + '"]');
-            if (prvni) { serad(1, false); prvni.scrollIntoView(); }
-        })();
-        </script>
+        {% include raditelna.html %}

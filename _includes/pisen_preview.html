@@ -1,6 +1,6 @@
 {% assign o = site.data.obdobi | where: "id", pisen.obdobi | first %}
 {% assign poradi = 99 %}{% for x in site.data.obdobi %}{% if x.id == pisen.obdobi %}{% assign poradi = forloop.index %}{% endif %}{% endfor %}
-<tr data-obdobi="{{ pisen.obdobi }}">
+<tr data-skupina="{{ pisen.obdobi }}">
         <td><a href="{{ pisen.url | downcase }}">{{ pisen.title }}</a></td>
         <td data-razeni="{{ poradi }}">{{ o.kratce }}</td>
         <td>{{ pisen.music | join: ", " }}</td>

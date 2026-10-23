@@ -65,7 +65,7 @@ Media are linked automatically, not via front matter:
 
 ### Layout and mobile
 
-The retro look is fixed-width tables (680 px header/navigation image strips). Below 720 px (`@media` block in `_includes/head.html`) the header and navigation images scale to the screen width and two-column layout tables marked `class="sloupce"` stack vertically; keep that class on new layout tables. `patrame.html` lists songs readers are looking for. Every page ends with the copyright notice `_includes/autorska_prava.html` (included in `_layouts/default.html`).
+The retro look is fixed-width tables (680 px header/navigation image strips). Below 720 px (`@media` block in `_includes/head.html`) the header and navigation images scale to the screen width and two-column layout tables marked `class="sloupce"` stack vertically; keep that class on new layout tables. `patrame.html` lists songs readers are looking for. The listing tables (`pisne`, `poezie`, `state`, `obrazky`) have `class="raditelna"` and `{% include raditelna.html %}`: click-to-sort columns with Czech collation, a cell's `data-razeni` overrides its sort key. Every page ends with the copyright notice `_includes/autorska_prava.html` (included in `_layouts/default.html`).
 
 ### Netlify
 

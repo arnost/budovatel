@@ -4,16 +4,20 @@ layout: default
 
         <h2 class="section__title">Tituly na skladě</h2>
         {% include hledani.html %}
-        <table border="0" cellpadding="10" cellspacing="2" width="100%">
+        <table class="raditelna" border="0" cellpadding="10" cellspacing="2" width="100%">
             <thead>
             <tr>
                 <th>Název</th>
                 <th>Autor</th>
-                <th>vydalo</th>
+                <th>Vydalo</th>
+                <th>Rok</th>
             </tr>
             </thead>
+            <tbody>
             {% assign state = site.state | sort  %}
             {% for state in state %}
                 {% include state_preview.html %}
             {% endfor %}
+            </tbody>
         </table>
+        {% include raditelna.html %}

@@ -3,9 +3,18 @@ layout: default
 ---
 
         <h2>Tituly na skladě</h2>
-        <table border="0" cellpadding="10" cellspacing="2" width="100%">
+        <table class="raditelna" border="0" cellpadding="10" cellspacing="2" width="100%">
+            <thead>
+            <tr>
+                <th>Název</th>
+                <th>Autor</th>
+            </tr>
+            </thead>
+            <tbody>
             {% assign obrazky = site.obrazky | sort  %}
             {% for obrazek in obrazky %}
                 {% include obrazek_preview.html %}
             {% endfor %}
+            </tbody>
         </table>
+        {% include raditelna.html %}

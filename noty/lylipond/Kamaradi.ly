@@ -7,7 +7,7 @@ melody = \relative c' {
 \time 4/4 \key f \major
 \partial 4 
 c8 f | a4 a r c,8 f | a4 a r c,8 f |
-a4 a bes a | g2 r4 g8 f | e4 c r g'8 f |
+a4. a8 bes4 a | g2 r4 g8 f | e4 c r g'8 f |
 e4 c r g'8 f | e4 c bes' a \bar "||" 
 \time 2/4 
 g8 c, f g | a4 a | r8 a g f | a4 a | r8 c, f g |
@@ -20,7 +20,7 @@ f2 c4 a8 bes | a4 g | bes a | f2 | r
 
 text = \lyricmode {
 Ka -- ma -- rá -- di, je to mlá -- dí,
-kte -- ré mus dnes pa -- tří svět, vzduch se či -- stí, již fa -- šis
+kte -- ré mu dnes pa -- tří svět, vzduch se či -- stí, již fa -- šis
 -- ti ne -- bu -- dou nám po -- rou -- čet. Je ko -- nec bí -- dy, je
 ko -- nec hla -- du, je ko -- nec zlo -- děj -- ských svě -- ta -- řá
 -- dů, ka -- ma -- rá -- di je to mlá -- dí, kte -- ré -- mu dnes pa
@@ -48,5 +48,5 @@ f c:dim | c1:7 f2
           \new Lyrics \lyricsto "one" \text
        >>
         \midi  { \tempo 4 =150 }
-        \layout { linewidth = 18.0\cm  }
+        \layout { line-width = 18.0\cm  }
 }

@@ -19,7 +19,7 @@ g2. fis8 g | fis4 g a e |fis d'2 cis8 d |
 cis4 d e b | c e2 c8 d | e4 d c b |
 a c2 a4 | g bes a g | a,2 d4 a' | a g r a8 g |
 fis4 d cis e | }
-\alternative {{d4 r r2 | r1 }{d4 e f g | a1}}
+\alternative {{d4 r r2 | r1 }{d4 e f g | a1 ~ | a4 r r2 }}
         \bar "|." 
 }
 
@@ -49,9 +49,9 @@ a1:7 d2:m a2:7 d2:m g:m
 d:m g:m a1:7 d |
 d1 g d2 a:7 d1
 d1 g2 s4 g:m b1:m a:7 
-e:m7 a:7 b:m
+e:m a:7 b:m
 b2:m e c1 a:m f es2 a:7 d1 g d2 a:7 }
-\alternative {{d4:m s2. s1 }{ d4 c bes g d1}}
+\alternative {{d4:m s2. s1 }{ d4 c bes:m g d1 s1 }}
 		}
 
 \score {
@@ -65,6 +65,6 @@ b2:m e c1 a:m f es2 a:7 d1 g d2 a:7 }
           \new Lyrics \lyricsto "one" \text
        >>
         \midi  { \tempo 4 =120  }
-        \layout { linewidth = 18.0\cm  }
+        \layout { line-width = 18.0\cm  }
 }
 

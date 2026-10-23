@@ -1,14 +1,15 @@
 \version "2.20.0"
 \header {
         title = "Zpěv Svobody" 
-        composer = "J. Seidel" 
+        composer = "J. Seidel"
+        poet = "Josef Hora" 
 }
 melody =  \relative c' {
         \time 4/4 \key f \major 
 c4 c f2 | g8 a bes g a4 f | a8 bes c d c4 a |
 g2. r4 | d4 d g2 | g8 a bes c d4 f |
 c8 d c bes a4 g | f2 r4 f8 f |  f'2 ( f8 )  d bes d |
-c4 a2. | g8 d' c bes a4 b | c2 r4 f,8 f |
+c4 a2. | g8 d' c bes a4 bes | c2 r4 f,8 f |
 f'2 (  f8 )  d bes d | c4 a2.  | g8 d' c bes a4 g | f2. r4 |
         \bar "|." 
 }
@@ -44,7 +45,7 @@ accompaniment =\chordmode {
           \new Lyrics \lyricsto "one" \text
        >>
        \midi  { \tempo 4=160}
-       \layout { linewidth = 20.0\cm }
+       \layout { line-width = 20.0\cm }
 }
 
 

@@ -2,7 +2,7 @@
 \header {
         title = "Armádě zdar"
         composer = "R. Drejsl"
-        poet = "J. Hora"
+        poet = "Miloslav Zachata"
 }
 
 melody =  \relative c' {
@@ -18,7 +18,7 @@ fis8 e4 d8 a'4 g | fis8. g16 a4 r b | d4 a g8 fis e4 |
 d2 ~ d8 r8 r4 | fis8 e4 d8 a'4 g | fis8 g a4 r b | 
 cis b8 a b4 a8 gis|  a2 ~ a4 r4 | b a g b | 
 a fis r fis | e fis g fis | d2 ~ d4 r |
-f8 e4 d8 b'4 r | fis e8 d b'4 r |
+fis8 e4 d8 b'4 r | fis e8 d b'4 r |
 a d2 <  e a,>4
 	
 }
@@ -38,10 +38,11 @@ svět, ar -- má -- dě zdar! zdar, zdar, zdar.
 }
 
 harmonies =\chordmode {
-d2:m a2:7 d2:m s g2:m d:7 g s  f2 f2 c:7 c:7
-f e a4:7 s2.  d2 a d b:m d a:7
+d2:m a2:7 d2:m s g2:m d:7 g:m s  f2 f2 c:7 c:7
+f e a4:7 s2.
 \repeat volta 2 {
-d s d a d b:m a e:7 a2. s4
+d2 a d b:m d2 g4 a
+d2 s d a d b:m a e a2. s4
 a2:7 a2:7 d d fis:7 fis:7 b:m b:m d b:m d b:m d4 g2 a4:7 
 }
 \alternative { { d4 s2.} { d4 s d s }}
@@ -58,7 +59,7 @@ a2:7 a2:7 d d fis:7 fis:7 b:m b:m d b:m d b:m d4 g2 a4:7
           \new Lyrics \lyricsto "one" \text
         >>
         \midi  { \tempo 4 =120 }
-        \layout { linewidth = 18.0\cm }
+        \layout { line-width = 18.0\cm }
 }
 
 

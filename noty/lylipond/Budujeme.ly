@@ -1,7 +1,7 @@
 \version "2.20.0"
 \header {
    title = "Budujeme" 
-   composer = "Václav Dobiaš" 
+   composer = "Václav Dobiáš" 
    poet = "František Halas" 
          }
 
@@ -46,7 +46,7 @@ Ma -- kat dej!
    }
 
 accompaniment =\chordmode {
-s1 | g | e:m | b2. fis4:7 | b1 | g |e:m
+s1 | g | e:m | fis1:7 | b2.:m d4:7 | g1 |e:m
 |d2. a4:7 | d2 s4 a | d1:7 | g | d:7 | g |
 c | a:m | d:7 | g | d:7 | g | d:7 | g | c |
 a:m| d:7 | g | g |
@@ -63,7 +63,7 @@ a:m| d:7 | g | g |
           \new Lyrics \lyricsto "one" \text
        >>
            \midi  { \tempo 4=120 }
-           \layout { linewidth = 20.0\cm  }
+           \layout { line-width = 20.0\cm  }
    }
 
 

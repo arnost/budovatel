@@ -25,7 +25,9 @@ armádě zdar! zdar, zdar, zdar.
 sloka 2:  
 V pěstích unesem  
 celou naši zem.  
-My necouvnem pře prací,  
+My necouvnem před prací,  
 ani před bojem.  
 
 *refren*  
+
+*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*

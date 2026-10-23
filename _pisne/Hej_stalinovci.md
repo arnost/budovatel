@@ -34,6 +34,9 @@ do rachoty zvesela. (jen zvesela)
 2. sloka   
 My o všech světových plánech víme,   
 jimž by válka přišla vhod.    
-My bez bázně na ně odpovím e
+My bez bázně na ně odpovíme
 prací pro život.    
 
+
+
+*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*

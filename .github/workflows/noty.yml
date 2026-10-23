@@ -44,5 +44,6 @@ jobs:
             echo "Žádné změny."
           else
             git commit -m "Noty a zpěvník přegenerovány automaticky"
-            git push
+            # když mezitím přibyl novější push, noty commitne jeho běh (ten generuje vše znovu)
+            git push || echo "::warning::Master se mezitím změnil, výsledek commitne následující běh."
           fi

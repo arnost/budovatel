@@ -8,7 +8,7 @@ title: Nově znárodněno
 {% assign mesice = "leden,únor,březen,duben,květen,červen,červenec,srpen,září,říjen,listopad,prosinec" | split: "," %}
 {% assign vse = site.pisne | concat: site.poezie | concat: site.state | concat: site.obrazky | sort: "pridano" | reverse %}
 {% assign posledni = "" %}
-<table border="0" cellpadding="3" cellspacing="0" width="640">
+<table border="0" cellpadding="3" cellspacing="0" width="100%">
 {% for a in vse %}
     {% assign mesic = a.pridano | date: "%Y-%m" %}
     {% if mesic != posledni %}

@@ -10,7 +10,7 @@ layout: default
         <p><b>Podle období:</b>
         {% for o in site.data.obdobi %}<a href="#{{ o.id }}">{{ o.nazev | remove: " písně" }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
         {% assign pisne = site.pisne | sort  %}
-        <table border="0" cellpadding="10" cellspacing="2" width="600">
+        <table border="0" cellpadding="10" cellspacing="2" width="100%">
             <thead>
             <tr>
                 <th>Název</th>

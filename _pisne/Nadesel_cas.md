@@ -1,5 +1,6 @@
 ---
 title: Nadešel čas
+obdobi: budovatelske
 music: Ludvík Podéšť
 text:  S. K. Neumann
 ---

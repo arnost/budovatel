@@ -1,5 +1,6 @@
 ---
 title: Sněženky už rostú
+obdobi: budovatelske
 music: Jiřina Mikulenková
 text: Jiřina Mikulenková
 ---

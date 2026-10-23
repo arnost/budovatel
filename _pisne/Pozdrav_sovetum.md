@@ -1,5 +1,6 @@
 ---
 title: Pozdrav Sovětům
+obdobi: budovatelske
 music: Jan Kapr
 text: Miloslav Zachata
 ---

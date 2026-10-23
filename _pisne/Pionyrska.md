@@ -1,5 +1,6 @@
 ---
 title: Pionýrská
+obdobi: budovatelske
 music: Jiří Strniště
 text: Jan Trefulka
 ---

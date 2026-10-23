@@ -1,5 +1,6 @@
 ---
 title: Vojín Štístko
+obdobi: normalizacni
 music: Karel Černoch
 youtube: dqsHkgCS7Qo
 ---

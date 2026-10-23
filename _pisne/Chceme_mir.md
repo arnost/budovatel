@@ -1,5 +1,6 @@
 ---
 title: Chceme mír!
+obdobi: budovatelske
 music: Karel Macourek
 text: Karel Šiktanc
 ---

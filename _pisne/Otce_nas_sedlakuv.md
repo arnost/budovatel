@@ -1,5 +1,6 @@
 ---
 title: Otče náš sedlákův
+obdobi: selske
 ---
 
 *aneb Volání k císařské milosti o zbavení robot a ouzkosti*

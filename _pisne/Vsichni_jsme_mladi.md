@@ -1,5 +1,6 @@
 ---
 title: Všichni jsme mladí
+obdobi: budovatelske
 music: Ludvík Podéšť
 text: Vítězslav Nezval
 ---

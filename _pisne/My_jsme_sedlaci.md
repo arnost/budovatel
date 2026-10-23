@@ -1,5 +1,6 @@
 ---
 title: My jsme sedláci
+obdobi: selske
 ---
 
 My jsme sedláci  

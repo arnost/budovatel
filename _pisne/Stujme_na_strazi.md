@@ -1,5 +1,6 @@
 ---
 title: Stůjme na stráži
+obdobi: budovatelske
 music: Karel Reiner
 text: Jaroslav Pokorný
 ---

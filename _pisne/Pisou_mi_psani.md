@@ -1,5 +1,6 @@
 ---
 title: Píšou mi psaní
+obdobi: delnicke
 text: Fráňa Šrámek
 ---
 

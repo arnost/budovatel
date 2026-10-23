@@ -1,5 +1,6 @@
 ---
 title: Píseň o pětiletém plánu
+obdobi: mezivalecne
 music: Alois Hába
 ---
 

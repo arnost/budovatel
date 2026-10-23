@@ -1,5 +1,6 @@
 ---
 title: Rozkvetlý den
+obdobi: budovatelske
 music: Radim Drejsl
 text: Miloslav Zachata
 youtube: ziqK55Wbr34

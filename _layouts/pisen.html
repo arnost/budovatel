@@ -12,6 +12,10 @@ text: {% include jmena.html jmena=page.text %}<br>
 {% if page.preklad %}
 překlad: {% include jmena.html jmena=page.preklad %}<br>
 {% endif %}
+{% assign obdobi = site.data.obdobi | where: "id", page.obdobi | first %}
+{% if obdobi %}
+období: <a href="/pisne.phtml/#{{ obdobi.id }}">{{ obdobi.nazev }}</a> ({{ obdobi.roky }})<br>
+{% endif %}
 <br>
 <table class="sloupce" width="600">
     <tr>

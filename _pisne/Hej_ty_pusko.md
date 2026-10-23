@@ -1,5 +1,6 @@
 ---
 title: Hej ty puško
+obdobi: mezivalecne
 music: E. Toman
 text: J. Mareš
 ---

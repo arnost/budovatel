@@ -1,5 +1,6 @@
 ---
 title: Rudý prapor jsme vztyčili
+obdobi: delnicke
 ---
 
 Rudý prapor jsme vztyčili,  

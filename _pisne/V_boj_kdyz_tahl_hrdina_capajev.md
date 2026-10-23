@@ -1,5 +1,6 @@
 ---
 title: V boj když táhle hrdina Čapajev
+obdobi: mezivalecne
 ---
 
 V boj když táhle hrdina Čapájev,  

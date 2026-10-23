@@ -1,5 +1,6 @@
 ---
 title: Čtyři z tanku a pes
+obdobi: sedesata
 music: Wojciech Kilar
 text:
   - Agnieszka Osiecka

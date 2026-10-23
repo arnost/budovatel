@@ -1,5 +1,6 @@
 ---
 title: Gottwaldova pětiletka
+obdobi: budovatelske
 music: Boleslav Vomáčka
 text: M. Záhejská
 ---

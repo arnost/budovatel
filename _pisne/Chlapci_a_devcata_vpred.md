@@ -1,5 +1,6 @@
 ---
 title: Chlapci a děvčata, vpřed
+obdobi: budovatelske
 music: Alois Palouček
 text: Václav Čtvrtek
 ---

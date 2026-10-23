@@ -1,5 +1,6 @@
 ---
 title: Krajem letí naše dělnická píseň
+obdobi: mezivalecne
 music: Isaak Dunajevskij
 ---
 

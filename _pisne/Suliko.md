@@ -1,5 +1,6 @@
 ---
 title: Suliko (Dušička)
+obdobi: budovatelske
 preklad: L. Kubišta
 youtube: Lw8Lwl1Qsow
 ---

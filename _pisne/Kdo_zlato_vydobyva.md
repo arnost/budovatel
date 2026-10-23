@@ -1,5 +1,6 @@
 ---
 title: Kdo zlato vydobývá?
+obdobi: delnicke
 text: J. Most
 preklad: J. B. Pecka
 ---

@@ -1,5 +1,6 @@
 ---
 title: Píseň brigády
+obdobi: mezivalecne
 music: Dmitrij Šostakovič
 text:  B. Kornilov
 preklad: Josef Urban

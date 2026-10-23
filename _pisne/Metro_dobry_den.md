@@ -1,5 +1,6 @@
 ---
 title: Metro, dobrý den
+obdobi: normalizacni
 music: Jiří Schelinger
 text: František Ringo Čech
 youtube: xXgNmmVzLBI

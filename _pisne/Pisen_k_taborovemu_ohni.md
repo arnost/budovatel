@@ -1,5 +1,6 @@
 ---
 title: Píseň k táborovému ohni
+obdobi: mezivalecne
 music: E. F. Burian
 text: E. F. Burian
 ---

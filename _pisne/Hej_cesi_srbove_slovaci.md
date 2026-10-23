@@ -1,5 +1,6 @@
 ---
 title: Hej, Češi, Srbové, Slováci
+obdobi: obrozeni
 ---
 
 *Zpívá se na nápěv písně [Ve jarmu, co tak dlouho hyne](/pisen.phtml/ve_jarmu_co_tak_dlouho_hyne).*

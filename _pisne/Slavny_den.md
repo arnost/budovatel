@@ -1,5 +1,6 @@
 ---
 title: Slavný den
+obdobi: budovatelske
 music: Ludvík Podéšť
 text: Vlastimil Pantůček
 ---

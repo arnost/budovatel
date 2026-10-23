@@ -1,5 +1,6 @@
 ---
 title: Rozletěla se strojů kola
+obdobi: mezivalecne
 ---
 
 1. Rozletěla se strojů kola  

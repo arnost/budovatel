@@ -1,5 +1,6 @@
 ---
 title: Když se národ přestal bát své vlády
+obdobi: delnicke
 text: Jindřich Štemberka
 ---
 

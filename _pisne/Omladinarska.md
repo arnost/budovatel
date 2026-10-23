@@ -1,5 +1,6 @@
 ---
 title: Omladinářská
+obdobi: delnicke
 ---
 
 Vzhůru, bratři, spojme hlasy  

@@ -1,5 +1,6 @@
 ---
 title: Ta družstevní pračka
+obdobi: budovatelske
 music: G. Třísková
 ---
 Ta družstevní pračka dobře pere,  

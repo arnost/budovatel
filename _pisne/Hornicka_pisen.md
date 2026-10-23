@@ -1,5 +1,6 @@
 ---
 title: Hornická píseň
+obdobi: mezivalecne
 music: Jaroslav Teklý
 text: Modrá
 ---

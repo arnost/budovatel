@@ -1,5 +1,6 @@
 ---
 title: Za hvězdou jitřní
+obdobi: delnicke
 music:  Leopold Knebelsberger
 text: Heinrich A. Eildermann
 preklad: Vilém Závada

@@ -1,5 +1,6 @@
 ---
 title: Sloužíme straně
+obdobi: budovatelske
 ---
 
 1. sloka:  

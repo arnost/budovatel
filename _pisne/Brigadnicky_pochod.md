@@ -1,5 +1,6 @@
 ---
 title: Brigádnický pochod
+obdobi: budovatelske
 music: E. Székely
 text: I. Raics
 preklad: Josef Urban

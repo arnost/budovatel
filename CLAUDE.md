@@ -39,7 +39,7 @@ Nearly all work is adding content files; commits are typically just a new `.md` 
 
 | Folder | Layout | URL | Front matter |
 |---|---|---|---|
-| `_pisne` (songs) | `pisen` | `/pisen.phtml/:title` | `title`, `music`, `text`, `preklad`, `youtube` |
+| `_pisne` (songs) | `pisen` | `/pisen.phtml/:title` | `title`, `obdobi`, `music`, `text`, `preklad`, `youtube` |
 | `_poezie` (poems) | `poezie` | `/poezie.phtml/:title` | `title`, `autor`, `vydal`, `rok`, `youtube` |
 | `_state` (articles) | `poezie` | `/state.phtml/:title` | `title`, `autor`, `vydal`, `rok` |
 | `_obrazky` (pictures) | `obrazek` | `/obrazky.phtml/:title` | `name`, `autor`, `galery: true` |
@@ -49,6 +49,7 @@ Nearly all work is adding content files; commits are typically just a new `.md` 
 - Links to collection pages are emitted lowercased (`| downcase`) because Netlify 301-redirects mixed-case URLs to lowercase.
 - `_plugins/pridano.rb` sets `page.pridano` (date the file first appeared in git history, renames keep the date) for all four collections; `znarodneno.phtml` ("Nově znárodněno") and the homepage list items by it, newest first.
 - `_plugins/ceske_razeni.rb` provides the Czech-alphabet sort filters used by `autori.phtml` and `vydal.phtml`; `hledat.html` searches `search.json` client-side; `sitemap.xml` and `robots.txt` are Liquid templates.
+- `obdobi` is a period id from `_data/obdobi.yml` (nejstarsi … normalizacni); the song list `pisne.phtml` groups songs by it in that order and the song page links to its section. Every song should have one.
 - `youtube` is just the video ID (rendered by `_includes/youtube.html`).
 - Filenames are ASCII with accents stripped and spaces as `_` (e.g. `Armade_zdar.md`); some older entries are `.html`.
 - Song/poem bodies are Markdown where each verse line ends with two trailing spaces to force a line break — preserve them.
@@ -63,7 +64,7 @@ Media are linked automatically, not via front matter:
 
 ### Layout and mobile
 
-The retro look is fixed-width tables (680 px header/navigation image strips). Below 720 px (`@media` block in `_includes/head.html`) the header and navigation images scale to the screen width and two-column layout tables marked `class="sloupce"` stack vertically; keep that class on new layout tables. `patrame.html` lists songs readers are looking for.
+The retro look is fixed-width tables (680 px header/navigation image strips). Below 720 px (`@media` block in `_includes/head.html`) the header and navigation images scale to the screen width and two-column layout tables marked `class="sloupce"` stack vertically; keep that class on new layout tables. `patrame.html` lists songs readers are looking for. Every page ends with the copyright notice `_includes/autorska_prava.html` (included in `_layouts/default.html`).
 
 ### Netlify
 

@@ -1,5 +1,6 @@
 ---
 title: Pochod Leninské výzvy
+obdobi: mezivalecne
 youtube: nIfaWm3KTP4
 ---
 

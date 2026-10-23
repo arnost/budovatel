@@ -1,5 +1,6 @@
 ---
 title: Píseň zemědělské brigády
+obdobi: budovatelske
 music: J. Stanislav
 text: František Kubr
 ---

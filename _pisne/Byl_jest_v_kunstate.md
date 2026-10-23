@@ -1,5 +1,6 @@
 ---
 title: Byl jest v Kunštátě
+obdobi: selske
 ---
 
 Noviny této  

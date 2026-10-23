@@ -1,5 +1,6 @@
 ---
 title: Věrni sobě
+obdobi: budovatelske
 music:
   - Hana Reinerová
   - Karel Reiner

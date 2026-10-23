@@ -1,5 +1,6 @@
 ---
 title: Dobrý den
+obdobi: budovatelske
 music: Ludvík Podéšť
 text:  Rudolf Franz
 youtube: uuaQJthbpx4

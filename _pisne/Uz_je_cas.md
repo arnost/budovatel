@@ -1,5 +1,6 @@
 ---
 title: Už je čas
+obdobi: normalizacni
 music: Petr Janda
 text: Václav Fischer
 youtube: ZbpXRx3Gwg4

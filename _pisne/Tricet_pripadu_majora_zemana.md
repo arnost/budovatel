@@ -1,5 +1,6 @@
 ---
 title: Třicet případů majora Zemana
+obdobi: normalizacni
 music: Zdeňek Liška
 youtube: fAjxA3uwxYQ
 ---

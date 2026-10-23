@@ -1,5 +1,6 @@
 ---
 title: Nenecháme zahálet tu zem
+obdobi: budovatelske
 music: Miloš Konvalinka
 text: Richard Böhnel
 ---

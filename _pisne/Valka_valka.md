@@ -1,5 +1,6 @@
 ---
 title: Válka! Válka!
+obdobi: obrozeni
 music: Bedřich Smetana
 text: J. J. Kolár
 ---

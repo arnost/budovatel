@@ -1,5 +1,6 @@
 ---
 title: Traktoristka (Traktoristko vzorná)
+obdobi: budovatelske
 youtube: B1HDKPdaH8s
 ---
 

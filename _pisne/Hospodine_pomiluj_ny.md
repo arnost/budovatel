@@ -1,5 +1,6 @@
 ---
 title: Hospodine, pomiluj ny
+obdobi: nejstarsi
 ---
 
 Hospodine, pomiluj ny,  

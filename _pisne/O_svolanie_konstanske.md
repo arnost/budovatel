@@ -1,5 +1,6 @@
 ---
 title: O svolánie Konstanské
+obdobi: nejstarsi
 ---
 
 Ó svolánie Konstanské,  

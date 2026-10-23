@@ -1,5 +1,6 @@
 ---
 title: Zdvihni se, zdvihni
+obdobi: obrozeni
 text: Karel Havlíček Borovský
 ---
 

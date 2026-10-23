@@ -1,5 +1,6 @@
 ---
 title: Zednická
+obdobi: budovatelske
 text: Karel Biňovec
 ---
 

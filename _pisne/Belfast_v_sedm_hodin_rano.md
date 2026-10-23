@@ -1,5 +1,6 @@
 ---
 title: Belfast v sedm hodin ráno
+obdobi: normalizacni
 music: P. Hannig
 text: J. Krůta
 youtube: aVCvaOCJ01w

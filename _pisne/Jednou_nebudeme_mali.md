@@ -1,5 +1,6 @@
 ---
 title: Jednou nebudeme malí
+obdobi: budovatelske
 music: Svatopluk Havelka
 text: Josef Brukner
 youtube: kataXaJRDRA

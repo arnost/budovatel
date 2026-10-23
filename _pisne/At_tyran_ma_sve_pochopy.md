@@ -1,5 +1,6 @@
 ---
 title: Ať tyran má své pochopy
+obdobi: delnicke
 ---
 
 Ať tyran má své pochopy,  

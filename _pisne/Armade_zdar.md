@@ -1,5 +1,6 @@
 ---
 title: Armádě zdar
+obdobi: budovatelske
 music: Radim Drejsl
 text: Miloslav Zachata
 youtube: lr8jiTjUb_s

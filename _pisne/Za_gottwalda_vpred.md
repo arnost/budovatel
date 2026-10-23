@@ -1,5 +1,6 @@
 ---
 title: Za Gottwalda vpřed!
+obdobi: budovatelske
 music: Radim Drejsl
 text: Miloslav Zachata
 ---

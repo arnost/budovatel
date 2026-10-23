@@ -1,5 +1,6 @@
 ---
 title: Na Lhoteckém panství
+obdobi: selske
 ---
 
 Na Lhoteckém panství chleba nemají,  

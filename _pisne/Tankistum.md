@@ -1,5 +1,6 @@
 ---
 title: Tankistům
+obdobi: budovatelske
 music: Radim Drejsl
 text: Miroslav Kroh
 ---

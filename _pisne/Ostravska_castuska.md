@@ -1,5 +1,6 @@
 ---
 title: Ostravská častuška
+obdobi: budovatelske
 music: Ivan Růžička
 text: Erich Sojka
 ---

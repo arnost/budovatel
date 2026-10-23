@@ -1,5 +1,6 @@
 ---
 title: My to vždycky vyhrávali
+obdobi: mezivalecne
 ---
 
 My to vždycky vyhrávali,  

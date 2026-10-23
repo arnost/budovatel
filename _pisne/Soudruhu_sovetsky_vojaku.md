@@ -1,5 +1,6 @@
 ---
 title: Soudruhu sovětský vojáku
+obdobi: normalizacni
 music: Pavel Brunát
 ---
 

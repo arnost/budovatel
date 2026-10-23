@@ -1,5 +1,6 @@
 ---
 title: Kupředu, zpátky ni krok
+obdobi: budovatelske
 music: Jan Seidl
 text: Bedřich Bobek
 youtube: mEpS6VfBwXo

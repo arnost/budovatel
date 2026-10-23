@@ -1,5 +1,6 @@
 ---
 title: Ti sedláci ubozí
+obdobi: selske
 ---
 
 Ti sedláci ubozí,  

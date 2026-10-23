@@ -1,5 +1,6 @@
 ---
 title: Nová píseň
+obdobi: obrozeni
 music: J. Vorel
 ---
 

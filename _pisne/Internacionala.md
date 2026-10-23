@@ -1,5 +1,6 @@
 ---
 title: Internacionála
+obdobi: delnicke
 music:  P. Degeyter
 text: E. Pottier
 preklad:

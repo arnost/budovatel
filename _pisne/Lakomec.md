@@ -1,5 +1,6 @@
 ---
 title: Lakomec
+obdobi: mezivalecne
 music: Jan Urban
 text: Jan Hostáň
 ---

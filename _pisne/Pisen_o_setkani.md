@@ -1,5 +1,6 @@
 ---
 title: Píseň o setkání
+obdobi: budovatelske
 text: Pavel Kohout
 ---
 

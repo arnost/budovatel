@@ -1,0 +1,25 @@
+# Období písní (pole `obdobi` ve front matter _pisne), v tomto pořadí je ukazuje seznam písní.
+- id: nejstarsi
+  nazev: Nejstarší a husitské písně
+  roky: do 15. století
+- id: selske
+  nazev: Selské protipanské písně
+  roky: 16.–18. století
+- id: obrozeni
+  nazev: Písně národního obrození
+  roky: 1800–1870
+- id: delnicke
+  nazev: Dělnické a revoluční písně
+  roky: 1870–1918
+- id: mezivalecne
+  nazev: Meziválečné a válečné písně
+  roky: 1918–1945
+- id: budovatelske
+  nazev: Budovatelské písně
+  roky: 1945–1960
+- id: sedesata
+  nazev: Písně šedesátých let
+  roky: 1960–1968
+- id: normalizacni
+  nazev: Normalizační písně
+  roky: 1969–1989

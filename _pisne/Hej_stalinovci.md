@@ -1,5 +1,6 @@
 ---
 title: Hej stalinovci
+obdobi: budovatelske
 music: Vladimír Sommer
 text: Miloslav Zachata
 ---

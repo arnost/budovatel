@@ -1,5 +1,6 @@
 ---
 title: Pojďte s námi na brigádu!
+obdobi: budovatelske
 music: Václav Dobiáš
 text: V. Hofman
 ---

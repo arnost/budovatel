@@ -1,5 +1,6 @@
 ---
 title: Vpřed směle soudruzi spějme
+obdobi: delnicke
 music: L. P. Radin
 text: Josef Urban
 ---

@@ -1,5 +1,6 @@
 ---
 title: Ruky preč od Kóreje
+obdobi: budovatelske
 music: Miroslav Barvík
 text: Fero Citovský
 ---

@@ -1,5 +1,6 @@
 ---
 title: Pozdrav z SSSR
+obdobi: mezivalecne
 music: J. Stanislav
 text: L. Führenberg
 ---

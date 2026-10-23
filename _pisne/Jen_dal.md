@@ -1,5 +1,6 @@
 ---
 title: Jen dál!
+obdobi: mezivalecne
 music: Otakar Jeremiáš
 text: Jan Neruda
 ---

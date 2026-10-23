@@ -1,5 +1,6 @@
 ---
 title: Pohřební pochod ruských revolucionářů
+obdobi: delnicke
 text: A. Archangelskij
 preklad: Jan Urban
 youtube: FDzh9PyAqPI

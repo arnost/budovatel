@@ -1,5 +1,6 @@
 ---
 title: Železná častuška
+obdobi: budovatelske
 music: Rudolf Kubín
 text: Erich Sojka
 ---

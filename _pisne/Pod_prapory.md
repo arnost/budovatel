@@ -1,5 +1,6 @@
 ---
 title: Pod prapory
+obdobi: budovatelske
 music: Václav Dobiáš
 text: František Halas
 ---

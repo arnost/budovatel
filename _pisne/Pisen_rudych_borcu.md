@@ -1,5 +1,6 @@
 ---
 title: Píseň rudých borců
+obdobi: mezivalecne
 music: Jan Urban
 text: S. K. Neumann
 ---

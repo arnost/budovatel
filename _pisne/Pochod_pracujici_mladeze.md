@@ -1,5 +1,6 @@
 ---
 title: Pochod pracující mládeže
+obdobi: budovatelske
 music: Jan Kapr
 text: Miroslav Kroh
 ---

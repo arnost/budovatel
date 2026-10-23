@@ -1,5 +1,6 @@
 ---
 title: Píseň českých sedláků
+obdobi: selske
 ---
 
 Žádný neví, co je nouze, kdo ji nezkusil.  

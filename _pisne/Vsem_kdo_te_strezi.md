@@ -1,5 +1,6 @@
 ---
 title: Všem, kdo Tě střeží
+obdobi: normalizacni
 music: Jaroslav Uhlíř
 text: Miroslav Černý
 ---

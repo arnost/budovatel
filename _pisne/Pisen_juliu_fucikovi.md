@@ -1,5 +1,6 @@
 ---
 title: Píseň Juliu Fučíkovi
+obdobi: budovatelske
 music: Alois Palouček
 text: Pavel Kohout
 ---

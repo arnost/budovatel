@@ -1,5 +1,6 @@
 ---
 title: Pochod havířů
+obdobi: budovatelske
 music: Zbyněk Přecechtěl
 text: Jan Šmolka
 ---

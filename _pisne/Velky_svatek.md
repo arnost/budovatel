@@ -1,5 +1,6 @@
 ---
 title: Velký svátek
+obdobi: budovatelske
 music: Rudolf Kubín
 text: Josef Sýkora
 ---

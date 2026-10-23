@@ -1,5 +1,6 @@
 ---
 title: Kto za pravdu horí
+obdobi: obrozeni
 text: Karol Kuzmány
 ---
 

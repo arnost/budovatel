@@ -1,5 +1,6 @@
 ---
 title: Píseň komunistické straně
+obdobi: budovatelske
 music: Václav Dobiáš
 text: Vítězslav Nezval
 ---

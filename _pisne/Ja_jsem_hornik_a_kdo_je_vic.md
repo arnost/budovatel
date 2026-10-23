@@ -1,5 +1,6 @@
 ---
 title: Já jsem horník a kdo je víc
+obdobi: budovatelske
 music: Rudolf Kubín
 text: Bedřich Bičiště
 ---

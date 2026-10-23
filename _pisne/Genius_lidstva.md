@@ -1,5 +1,6 @@
 ---
 title: Genius lidstva
+obdobi: delnicke
 music: A. V. Žitek
 text: Leopold Kochmann
 ---

@@ -1,5 +1,6 @@
 ---
 title: Stavíme nový svět
+obdobi: budovatelske
 music: Jiří Pauer
 text: Jiří Pauer
 ---

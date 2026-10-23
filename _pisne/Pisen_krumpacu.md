@@ -1,5 +1,6 @@
 ---
 title: Píseň krumpáčů
+obdobi: budovatelske
 music: Jaroslav Vaďura
 text: Jaroslav Rouček
 ---

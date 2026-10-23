@@ -1,5 +1,6 @@
 ---
 title: Na Královej holi
+obdobi: selske
 ---
 
 Na Kráľovej holi jasná vatra svieti,  

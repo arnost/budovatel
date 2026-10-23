@@ -1,5 +1,6 @@
 ---
 title: Písnička pětiletky
+obdobi: budovatelske
 music: Jan Kapr
 text: František Kožík
 ---

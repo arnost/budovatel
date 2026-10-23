@@ -1,5 +1,6 @@
 ---
 title: My dělníci
+obdobi: delnicke
 ---
 
 My dělníci jsme na světě  

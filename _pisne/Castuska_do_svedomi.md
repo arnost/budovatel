@@ -1,5 +1,6 @@
 ---
 title: Častuška do svědomí
+obdobi: budovatelske
 music: Ludvík Podéšť
 text: Vlastimil Pantůček
 ---

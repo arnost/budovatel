@@ -1,5 +1,6 @@
 ---
 title: V Rusku velká bouře je
+obdobi: delnicke
 ---
 
 V Rusku velká bouře je, (bouře je,)  

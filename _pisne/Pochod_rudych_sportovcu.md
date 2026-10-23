@@ -1,5 +1,6 @@
 ---
 title: Pochod rudých sportovců
+obdobi: mezivalecne
 music: Vít Nejedlý
 text: Jan Dolina
 ---

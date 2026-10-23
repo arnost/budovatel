@@ -1,5 +1,6 @@
 ---
 title: Hej rup!
+obdobi: mezivalecne
 music: Jaroslav Ježek
 text:
   - Jiří Voskovec

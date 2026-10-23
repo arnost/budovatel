@@ -1,5 +1,6 @@
 ---
 title: Nový je den
+obdobi: budovatelske
 music: Jiří Pauer
 text: Jiří Pauer
 ---

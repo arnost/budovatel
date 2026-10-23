@@ -1,5 +1,6 @@
 ---
 title: Dietky, v hromadu se senděme
+obdobi: nejstarsi
 ---
 
 Dietky, v hromadu se senděme,  

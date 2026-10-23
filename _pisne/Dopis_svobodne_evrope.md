@@ -1,5 +1,6 @@
 ---
 title: Dopis Svobodné Evropě
+obdobi: normalizacni
 music: Bohuslav Myslík
 text:
   - Josef Laufer

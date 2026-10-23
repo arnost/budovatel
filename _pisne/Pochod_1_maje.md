@@ -1,5 +1,6 @@
 ---
 title: Pochod 1. máje
+obdobi: mezivalecne
 music: E. F. Burian
 text: E. F. Burian
 ---

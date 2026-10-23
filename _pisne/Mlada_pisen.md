@@ -1,5 +1,6 @@
 ---
 title: Mladá píseň
+obdobi: budovatelske
 music: Jan Kapr
 text: Anna Hostomská
 ---

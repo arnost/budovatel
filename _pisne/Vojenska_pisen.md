@@ -1,5 +1,6 @@
 ---
 title: Vojenská píseň
+obdobi: normalizacni
 text: Jaromír Nohavica
 ---
 

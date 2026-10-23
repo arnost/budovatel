@@ -1,5 +1,6 @@
 ---
 title: Proč jsem sociál
+obdobi: delnicke
 text: Leopold Kochmann
 ---
 

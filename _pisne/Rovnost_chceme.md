@@ -1,5 +1,6 @@
 ---
 title: Rovnost chceme
+obdobi: obrozeni
 ---
 
 Rovnost chceme, to pro všechny lidi,  

@@ -1,5 +1,6 @@
 ---
 title: Mám chuť žít
+obdobi: normalizacni
 music: Olympic
 youtube: SbUTU0QfL7U
 ---

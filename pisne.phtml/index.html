@@ -7,6 +7,9 @@ layout: default
         <p>Všechny písně s notami jsou k dispozici i jako
         <a href="/noty/pdf/Budovatel_zpevnik.pdf"><b>zpěvník v PDF</b></a> k vytištění.</p>
         <p>Nějakou píseň tu postrádáte? Podívejte se, po kterých <a href="/patrame.html">pátráme</a>.</p>
+        <p><b>Podle období:</b>
+        {% for o in site.data.obdobi %}<a href="#{{ o.id }}">{{ o.nazev | remove: " písně" }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
+        {% assign pisne = site.pisne | sort  %}
         <table border="0" cellpadding="10" cellspacing="2" width="600">
             <thead>
             <tr>
@@ -16,8 +19,18 @@ layout: default
                 <th>Překlad</th>
             </tr>
             </thead>
-            {% assign pisne = site.pisne | sort  %}
-            {% for pisen in pisne %}
+            {% for o in site.data.obdobi %}
+            {% assign v_obdobi = pisne | where: "obdobi", o.id %}
+            <tr><th colspan="4" align="left" id="{{ o.id }}"><br>{{ o.nazev }} ({{ o.roky }}, {{ v_obdobi | size }})</th></tr>
+            {% for pisen in v_obdobi %}
                 {% include pisen_preview.html %}
             {% endfor %}
+            {% endfor %}
+            {% assign nezarazene = pisne | where_exp: "p", "p.obdobi == nil" %}
+            {% if nezarazene.size > 0 %}
+            <tr><th colspan="4" align="left" id="nezarazene"><br>Nezařazené</th></tr>
+            {% for pisen in nezarazene %}
+                {% include pisen_preview.html %}
+            {% endfor %}
+            {% endif %}
         </table>

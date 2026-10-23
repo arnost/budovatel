@@ -1,5 +1,6 @@
 ---
 title: Lidé drazí, poslechněte
+obdobi: delnicke
 ---
 
 Lidé drazí, poslechněte,  

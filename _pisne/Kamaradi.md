@@ -1,5 +1,6 @@
 ---
 title: Kamarádi
+obdobi: budovatelske
 youtube: EXnPkZk70ps
 ---
      

@@ -1,5 +1,6 @@
 ---
 title: Nikdy nezemřeme
+obdobi: mezivalecne
 music: Karel Reiner
 text: Jan Noha
 ---

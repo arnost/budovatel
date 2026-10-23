@@ -1,5 +1,6 @@
 ---
 title: Zdvihni se vzhůru
+obdobi: delnicke
 text: Leopold Kochmann
 ---
 

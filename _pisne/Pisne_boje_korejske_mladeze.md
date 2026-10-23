@@ -1,5 +1,6 @@
 ---
 title: Písně boje korejské mládeže
+obdobi: budovatelske
 ---
 
 *Útlý sešitek obsahující písně plné bojů, krve, nadšení a Kim Ir-Sena. (Praha, 1950)*

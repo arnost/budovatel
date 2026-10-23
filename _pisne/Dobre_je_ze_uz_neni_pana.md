@@ -1,5 +1,6 @@
 ---
 title: Dobre je, že už néni pána
+obdobi: budovatelske
 music: O. Horký
 text: Anežka Gorlová
 ---

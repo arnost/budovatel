@@ -1,5 +1,6 @@
 ---
 title: Leninův prapor
+obdobi: budovatelske
 music: Jan Kapr
 text: K. M. Walló
 ---

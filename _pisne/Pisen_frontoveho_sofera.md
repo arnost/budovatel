@@ -1,5 +1,6 @@
 ---
 title: Píseň frontového šoféra
+obdobi: budovatelske
 music: B. Mokrousov
 text:
   - B. Laskin

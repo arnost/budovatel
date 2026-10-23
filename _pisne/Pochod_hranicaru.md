@@ -1,5 +1,6 @@
 ---
 title: Pochod pohraniční stráže
+obdobi: budovatelske
 ---
 
 Po dědech a našich otcích, máme svou vlast na starosti

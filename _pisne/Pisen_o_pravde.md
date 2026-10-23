@@ -1,5 +1,6 @@
 ---
 title: Píseň o pravdě
+obdobi: nejstarsi
 ---
 
 Pravdo milá, tiežem tebe,  

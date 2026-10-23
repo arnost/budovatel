@@ -1,5 +1,6 @@
 ---
 title: Píseň o Stalinovi
+obdobi: budovatelske
 music: Václav Dobiáš
 text: K. Galczynski
 preklad: Jan Pilař

@@ -1,5 +1,6 @@
 ---
 title: Píseň vzbouřených sedláků
+obdobi: mezivalecne
 music: Míla Kraus
 text: Jaroslav Vrchlický
 ---

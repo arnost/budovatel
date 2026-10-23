@@ -1,5 +1,6 @@
 ---
 title: Zapadá slunko
+obdobi: delnicke
 text: Norbert Zoula
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: My jsme proletáři
+obdobi: delnicke
 ---
 
 My jsme proletáři, tichý jako pěna,  

@@ -1,5 +1,6 @@
 ---
 title: Příroda nám káže
+obdobi: delnicke
 text: J. B. Pecka
 ---
 

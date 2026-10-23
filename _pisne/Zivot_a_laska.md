@@ -1,5 +1,6 @@
 ---
 title: Život a láska
+obdobi: mezivalecne
 music: J. Stanislav
 text: Franta Němec
 ---

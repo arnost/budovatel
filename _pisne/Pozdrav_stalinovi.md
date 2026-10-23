@@ -1,5 +1,6 @@
 ---
 title: Pozdrav Stalinovi
+obdobi: budovatelske
 music: Jan Kapr
 text: K. M. Walló
 ---

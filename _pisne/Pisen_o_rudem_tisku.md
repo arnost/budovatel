@@ -1,5 +1,6 @@
 ---
 title: Píseň o rudém tisku
+obdobi: mezivalecne
 music: J. Stanislav
 text: Franta Němec
 ---

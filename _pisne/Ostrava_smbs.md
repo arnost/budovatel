@@ -1,5 +1,6 @@
 ---
 title: Ostrava – SMBS
+obdobi: budovatelske
 music: Jan Tausinger
 text: Bohumír Fron
 ---

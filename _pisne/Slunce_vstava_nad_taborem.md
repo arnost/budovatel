@@ -1,5 +1,6 @@
 ---
 title: Slunce vstává nad Táborem
+obdobi: obrozeni
 text: J. B. Pichl
 ---
 

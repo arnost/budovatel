@@ -1,5 +1,6 @@
 ---
 title: Dyby ta robota
+obdobi: selske
 ---
 
 Dyby ta robota  

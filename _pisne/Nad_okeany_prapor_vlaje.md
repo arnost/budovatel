@@ -1,5 +1,6 @@
 ---
 title: Nad okeány prapor vlaje
+obdobi: mezivalecne
 ---
 
 Nad okeány prapor vlaje,  

@@ -1,5 +1,6 @@
 ---
 title: Zítra
+obdobi: budovatelske
 music: Z. Petr
 text: V. Dvořák
 ---

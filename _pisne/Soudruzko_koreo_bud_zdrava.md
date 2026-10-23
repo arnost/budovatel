@@ -1,5 +1,6 @@
 ---
 title: Soudružko Koreo, buď zdráva!
+obdobi: budovatelske
 music: Karel Reiner
 text: Václav Sýkora
 ---

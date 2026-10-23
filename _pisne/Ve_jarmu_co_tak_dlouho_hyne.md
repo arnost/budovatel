@@ -1,5 +1,6 @@
 ---
 title: Ve jarmu, co tak dlouho hyne
+obdobi: obrozeni
 ---
 
 Ve jarmu, co tak dlouho hyne,  

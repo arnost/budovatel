@@ -1,5 +1,6 @@
 ---
 title: Láska za lásku
+obdobi: budovatelske
 music: Ludvík Podéšť
 text: Stanislav Zvoníček
 ---

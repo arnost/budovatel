@@ -1,5 +1,6 @@
 ---
 title: Stalinův odkaz
+obdobi: budovatelske
 music: Vladimír Růžek
 text: Olga Simová
 ---

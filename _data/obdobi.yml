@@ -1,25 +1,33 @@
-# Období písní (pole `obdobi` ve front matter _pisne), v tomto pořadí je ukazuje seznam písní.
+# Období písní (pole `obdobi` ve front matter _pisne), v tomto pořadí je řadí seznam písní; kratce = text ve sloupci Období.
 - id: nejstarsi
+  kratce: husitské
   nazev: Nejstarší a husitské písně
   roky: do 15. století
 - id: selske
+  kratce: selské
   nazev: Selské protipanské písně
   roky: 16.–18. století
 - id: obrozeni
+  kratce: obrozenecké
   nazev: Písně národního obrození
   roky: 1800–1870
 - id: delnicke
+  kratce: dělnické
   nazev: Dělnické a revoluční písně
   roky: 1870–1918
 - id: mezivalecne
+  kratce: meziválečné
   nazev: Meziválečné a válečné písně
   roky: 1918–1945
 - id: budovatelske
+  kratce: budovatelské
   nazev: Budovatelské písně
   roky: 1945–1960
 - id: sedesata
+  kratce: 60. léta
   nazev: Písně šedesátých let
   roky: 1960–1968
 - id: normalizacni
+  kratce: normalizační
   nazev: Normalizační písně
   roky: 1969–1989

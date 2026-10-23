@@ -7,30 +7,49 @@ layout: default
         <p>Všechny písně s notami jsou k dispozici i jako
         <a href="/noty/pdf/Budovatel_zpevnik.pdf"><b>zpěvník v PDF</b></a> k vytištění.</p>
         <p>Nějakou píseň tu postrádáte? Podívejte se, po kterých <a href="/patrame.html">pátráme</a>.</p>
-        <p><b>Podle období:</b>
-        {% for o in site.data.obdobi %}<a href="#{{ o.id }}">{{ o.nazev | remove: " písně" }}</a>{% unless forloop.last %} · {% endunless %}{% endfor %}</p>
-        {% assign pisne = site.pisne | sort  %}
-        <table border="0" cellpadding="10" cellspacing="2" width="100%">
+        {% assign pisne = site.pisne | sort: "title" %}
+        <table class="raditelna" border="0" cellpadding="10" cellspacing="2" width="100%">
             <thead>
             <tr>
-                <th>Název</th>
+                <th aria-sort="ascending">Název</th>
+                <th>Období</th>
                 <th>Hudba</th>
                 <th>Text</th>
                 <th>Překlad</th>
             </tr>
             </thead>
-            {% for o in site.data.obdobi %}
-            {% assign v_obdobi = pisne | where: "obdobi", o.id %}
-            <tr><th colspan="4" align="left" id="{{ o.id }}"><br>{{ o.nazev }} ({{ o.roky }}, {{ v_obdobi | size }})</th></tr>
-            {% for pisen in v_obdobi %}
+            <tbody>
+            {% for pisen in pisne %}
                 {% include pisen_preview.html %}
             {% endfor %}
-            {% endfor %}
-            {% assign nezarazene = pisne | where_exp: "p", "p.obdobi == nil" %}
-            {% if nezarazene.size > 0 %}
-            <tr><th colspan="4" align="left" id="nezarazene"><br>Nezařazené</th></tr>
-            {% for pisen in nezarazene %}
-                {% include pisen_preview.html %}
-            {% endfor %}
-            {% endif %}
+            </tbody>
         </table>
+        <script>
+        // Řazení seznamu kliknutím na záhlaví sloupce (znovu = obráceně); #obdobi v adrese seřadí podle období a skočí na ně.
+        (function () {
+            var tabulka = document.querySelector('table.raditelna'), telo = tabulka.tBodies[0];
+            var zahlavi = tabulka.tHead.rows[0].cells, cesky = new Intl.Collator('cs');
+            function hodnota(radek, i) {
+                var b = radek.cells[i];
+                return b.hasAttribute('data-razeni') ? b.getAttribute('data-razeni').padStart(3, '0') : b.textContent.trim();
+            }
+            function serad(i, sestupne) {
+                var radky = Array.prototype.slice.call(telo.rows);
+                radky.sort(function (a, b) {
+                    var x = hodnota(a, i), y = hodnota(b, i);
+                    if (!x !== !y) return x ? -1 : 1;          // prázdné buňky vždy na konec
+                    return (sestupne ? -1 : 1) * cesky.compare(x, y) || cesky.compare(hodnota(a, 0), hodnota(b, 0));
+                });
+                radky.forEach(function (r) { telo.appendChild(r); });
+                for (var j = 0; j < zahlavi.length; j++) zahlavi[j].removeAttribute('aria-sort');
+                zahlavi[i].setAttribute('aria-sort', sestupne ? 'descending' : 'ascending');
+            }
+            Array.prototype.forEach.call(zahlavi, function (th, i) {
+                th.addEventListener('click', function () { serad(i, th.getAttribute('aria-sort') === 'ascending'); });
+            });
+            serad(0, false);
+            var obdobi = decodeURIComponent(location.hash.slice(1));
+            var prvni = obdobi && telo.querySelector('tr[data-obdobi="' + obdobi + '"]');
+            if (prvni) { serad(1, false); prvni.scrollIntoView(); }
+        })();
+        </script>

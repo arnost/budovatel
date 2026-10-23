@@ -41,6 +41,10 @@
     .tlacitko:hover img + img { display: inline; }
     /* odkazy ztlumené do tmavé modré místo křiklavé výchozí modré a fialové */
     .autorska-prava { max-width: 600px; margin-top: 3em; font-size: 11px; color: #2f4766; }
+    table.raditelna th { cursor: pointer; white-space: nowrap; text-align: left; }
+    table.raditelna th::after { content: " ↕"; opacity: .4; }
+    table.raditelna th[aria-sort=ascending]::after { content: " ▲"; opacity: 1; }
+    table.raditelna th[aria-sort=descending]::after { content: " ▼"; opacity: 1; }
     a { color: #1b3461; }
     a:visited { color: #382e62; }
     a:hover { color: #fff; }

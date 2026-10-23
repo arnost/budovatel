@@ -1,0 +1,54 @@
+# Jednou měsíčně projde všechny stránky webu (podle sitemap.xml) a ověří odkazy na nich
+# a videa z YouTube. Když něco nefunguje, založí (nebo aktualizuje) issue „Nefunkční odkazy“.
+name: Kontrola odkazů
+
+on:
+  schedule:
+    - cron: '0 5 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  odkazy:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Stránky webu
+        run: curl -sf https://budovatel.cz/sitemap.xml | grep -o '<loc>[^<]*' | cut -c6- > stranky.txt && wc -l stranky.txt
+      - name: Odkazy
+        id: lychee
+        uses: lycheeverse/lychee-action@v2
+        with:
+          lycheeVersion: v0.24.2
+          # 403/429 vracejí weby, které blokují roboty; mailto a vložená videa (kontrolují se zvlášť) se neověřují
+          args: >-
+            --no-progress --max-concurrency 8 --timeout 30 --max-retries 2
+            --accept '200..=299,403,429'
+            --exclude 'youtube\.com/embed' --exclude '^mailto:'
+            --files-from stranky.txt
+          format: markdown
+          output: odkazy.md
+          fail: false
+      - name: YouTube videa
+        run: .github/skripty/kontrola_youtube.sh > youtube.md
+      - name: Issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ "${{ steps.lychee.outputs.exit_code }}" = 0 ] && [ ! -s youtube.md ]; then
+            echo "Všechny odkazy fungují."; exit 0
+          fi
+          {
+            echo "Měsíční kontrola webu našla nefunkční odkazy ($(date +%-d.%-m.%Y))."
+            if [ -s youtube.md ]; then echo; echo "## Videa z YouTube, která už nejdou přehrát"; echo; cat youtube.md; fi
+            if [ "${{ steps.lychee.outputs.exit_code }}" != 0 ]; then echo; cat odkazy.md; fi
+          } | head -c 60000 > issue.md
+          cislo=$(gh issue list --state open --search 'Nefunkční odkazy in:title' --json number --jq '.[0].number')
+          if [ -n "$cislo" ]; then
+            gh issue edit "$cislo" --body-file issue.md
+          else
+            gh issue create --title "Nefunkční odkazy" --body-file issue.md
+          fi

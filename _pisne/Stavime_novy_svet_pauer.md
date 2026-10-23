@@ -3,6 +3,7 @@ title: Stavíme nový svět
 obdobi: budovatelske
 music: Jiří Pauer
 text: Jiří Pauer
+youtube: Vh5Yibo5Bmc
 ---
 
 My stavíme, stavíme nový svět.  

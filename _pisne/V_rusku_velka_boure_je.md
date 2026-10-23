@@ -1,6 +1,7 @@
 ---
 title: V Rusku velká bouře je
 obdobi: delnicke
+youtube: am5KeFL5EJo
 ---
 
 V Rusku velká bouře je, (bouře je,)  

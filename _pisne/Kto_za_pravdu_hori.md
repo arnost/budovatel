@@ -3,6 +3,7 @@ title: Kto za pravdu horí
 obdobi: obrozeni
 wikipedie: "Kdo za pravdu hoří"
 text: Karol Kuzmány
+youtube: MpDE7QLQW9Y
 ---
 
 Kto za pravdu horí v svätej obeti,  

@@ -2,6 +2,7 @@
 title: Zdvihni se vzhůru
 obdobi: delnicke
 text: Leopold Kochmann
+youtube: 87aO-QmlQ9Q
 ---
 
 Zdvihni se vzhůru, utýraný lide!  

@@ -3,6 +3,7 @@ title: Pozdrav z SSSR
 obdobi: mezivalecne
 music: J. Stanislav
 text: L. Führenberg
+youtube: z3BY-RsOGsw
 ---
 
 1. sloka:  

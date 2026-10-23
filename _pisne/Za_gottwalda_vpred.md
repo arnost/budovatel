@@ -3,6 +3,7 @@ title: Za Gottwalda vpřed!
 obdobi: budovatelske
 music: Radim Drejsl
 text: Miloslav Zachata
+youtube: 9v7acHCE3bM
 ---
 
 V rudém moři vlajek svítí  

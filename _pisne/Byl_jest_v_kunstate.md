@@ -1,6 +1,7 @@
 ---
 title: Byl jest v Kunštátě
 obdobi: selske
+youtube: CH_X0hmrU8I
 ---
 
 Noviny této  

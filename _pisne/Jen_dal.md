@@ -3,6 +3,7 @@ title: Jen dál!
 obdobi: mezivalecne
 music: Otakar Jeremiáš
 text: Jan Neruda
+youtube: hFdrL3h6nQU
 ---
 
 Z bouřného času jsme se narodili  

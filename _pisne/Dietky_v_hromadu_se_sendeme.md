@@ -1,6 +1,7 @@
 ---
 title: Dietky, v hromadu se senděme
 obdobi: nejstarsi
+youtube: Um89WSzmzGA
 ---
 
 Dietky, v hromadu se senděme,  

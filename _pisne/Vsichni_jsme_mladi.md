@@ -3,6 +3,7 @@ title: Všichni jsme mladí
 obdobi: budovatelske
 music: Ludvík Podéšť
 text: Vítězslav Nezval
+youtube: r3nqeUOtgpM
 ---
 
 Modré a bílé průvody mužů a žen,  

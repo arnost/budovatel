@@ -1,6 +1,7 @@
 ---
 title: Píseň o arcibiskupu Zbyňkovi
 obdobi: nejstarsi
+youtube: PuVDCJcfR4k
 ---
 
 Slyšte, rytieři boží,  

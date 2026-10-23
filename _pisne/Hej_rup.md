@@ -6,6 +6,7 @@ music: Jaroslav Ježek
 text:
   - Jiří Voskovec
   - Jan Werich
+youtube: AKIiTW4GhX4
 ---
 
 Nemít chleba, nemít práci, živořit jak darebáci,  

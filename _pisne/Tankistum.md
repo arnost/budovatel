@@ -3,6 +3,7 @@ title: Tankistům
 obdobi: budovatelske
 music: Radim Drejsl
 text: Miroslav Kroh
+youtube: h6P0dEpt1Cc
 ---
 
 Naše pásy letí srázy,  

@@ -3,6 +3,7 @@ title: Zemědělská
 obdobi: budovatelske
 music: Jiří Pauer
 text: Jiří Pauer
+youtube: 3f1skfNGKME
 ---
 
 *1. sloka:*  

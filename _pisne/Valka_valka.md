@@ -3,6 +3,7 @@ title: Válka! Válka!
 obdobi: obrozeni
 music: Bedřich Smetana
 text: J. J. Kolár
+youtube: 3FpBZc_KlKQ
 ---
 
 Válka! Válka! Prapor vlaje!  

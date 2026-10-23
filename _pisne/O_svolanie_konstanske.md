@@ -1,6 +1,7 @@
 ---
 title: O svolánie Konstanské
 obdobi: nejstarsi
+youtube: NB2N_dKkdJg
 ---
 
 Ó svolánie Konstanské,  

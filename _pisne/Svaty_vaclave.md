@@ -2,6 +2,7 @@
 title: Svatý Václave
 obdobi: nejstarsi
 wikipedie: "Svatováclavský chorál"
+youtube: MDwHpeJ-7-M
 ---
 
 Svatý Václave,  

@@ -1,6 +1,7 @@
 ---
 title: Píseň o pravdě
 obdobi: nejstarsi
+youtube: -S0enUKWRJg
 ---
 
 Pravdo milá, tiežem tebe,  

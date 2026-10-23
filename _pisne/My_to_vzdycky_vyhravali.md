@@ -1,6 +1,7 @@
 ---
 title: My to vždycky vyhrávali
 obdobi: mezivalecne
+youtube: tqJDe8PdLFw
 ---
 
 My to vždycky vyhrávali,  

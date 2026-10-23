@@ -3,6 +3,7 @@ title: Ostravská častuška
 obdobi: budovatelske
 music: Ivan Růžička
 text: Erich Sojka
+youtube: gWzeOrgqpho
 ---
 
 Soudruh Gottwald do Ostravy  

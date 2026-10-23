@@ -2,6 +2,7 @@
 title: Ktož jsú boží bojovníci
 obdobi: nejstarsi
 wikipedie: "Ktož jsú boží bojovníci"
+youtube: FhPy0TdNu9E
 ---
 
 Ktož jsú boží bojovníci  

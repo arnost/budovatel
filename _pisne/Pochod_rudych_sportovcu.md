@@ -3,6 +3,7 @@ title: Pochod rudých sportovců
 obdobi: mezivalecne
 music: Vít Nejedlý
 text: Jan Dolina
+youtube: TxsWGaEiCTU
 ---
 
 1. sloka:  

@@ -3,6 +3,7 @@ title: Hej, Slované
 obdobi: obrozeni
 wikipedie: "Hej, Slované"
 text: Samo Tomášik
+youtube: h1Pw7xekOcE
 ---
 
 Hej, Slované, ještě naše slovanská řeč žije,  

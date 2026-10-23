@@ -3,6 +3,7 @@ title: Dělostřelecká
 obdobi: mezivalecne
 music: Vít Nejedlý
 text: J. Mareš
+youtube: PcmdMZFNIP0
 ---
 
 1. Pěchota naše jde směle vpřed,  

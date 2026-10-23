@@ -1,6 +1,7 @@
 ---
 title: Rovnost chceme
 obdobi: obrozeni
+youtube: vxS2Sk3GpaI
 ---
 
 Rovnost chceme, to pro všechny lidi,  

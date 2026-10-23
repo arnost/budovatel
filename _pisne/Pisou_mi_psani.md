@@ -2,6 +2,7 @@
 title: Píšou mi psaní
 obdobi: delnicke
 text: Fráňa Šrámek
+youtube: rnc8XIGvjw4
 ---
 
 Píšou mi psaní  

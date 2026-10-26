@@ -243,3 +243,51 @@
 [[redirects]]
   from = "/img/Soudruh%20Rajtora%20vypravuje%20o%20sv%C3%A9m%20z%C3%A1jezdu%20do%20Sov%C4%9Btsk%C3%A9ho%20svazu.jpg"
   to = "/img/obrazky/Soudruh_Rajtora_vypravuje_o_svem_zajezdu_do_Sovetskeho_svazu.jpg"
+
+# Cache v prohlížeči (výchozí Netlify je max-age=0, tj. ověřovat každý soubor při každé návštěvě):
+# grafika vzhledu a knihovna galerie se nemění, ostatní obrázky a noty se mohou přegenerovat, proto jen na den.
+# Cesty se nesmí překrývat (např. /img/*), Netlify by hodnoty obou pravidel spojil.
+[[headers]]
+  for = "/img/vzhled/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+[[headers]]
+  for = "/unitegallery/*"
+  [headers.values]
+    Cache-Control = "public, max-age=2592000"
+
+[[headers]]
+  for = "/img/galerie/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/img/nahledy/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/img/obrazky/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/img/pisne/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/img/poezie/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/img/state/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"
+
+[[headers]]
+  for = "/noty/*"
+  [headers.values]
+    Cache-Control = "public, max-age=86400"

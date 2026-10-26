@@ -30,12 +30,14 @@
 <meta property="og:url" content="{{ page.url | downcase | absolute_url }}">
 <meta property="og:image" content="{{ '/img/vzhled/iwan2.jpg' | absolute_url }}">
 <meta name="twitter:card" content="summary">
+{% if page.galery %}
 <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
 <script type='text/javascript' src='/unitegallery/js/unitegallery.min.js'></script>
 
 <link rel='stylesheet' href='/unitegallery/css/unite-gallery.css' type='text/css' />
 <script type='text/javascript' src='/unitegallery/themes/default/ug-theme-default.js'></script>
 <link rel='stylesheet' href='/unitegallery/themes/default/ug-theme-default.css' type='text/css' />
+{% endif %}
 <style>
     .tlacitko img + img, .tlacitko:hover img { display: none; }
     .tlacitko:hover img + img { display: inline; }

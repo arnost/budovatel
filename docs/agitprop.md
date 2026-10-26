@@ -16,6 +16,12 @@ asi 2 000 příspěvků na ~100 stránkách po 20, starší stránky jsou na odk
 - 20. 10. 2026 – obrázky: Bílá kniha 1968 (ID 1071117511, popisky 1071117515) → `_obrazky/K_udalostem_v_ceskoslovensku.md`.
 - 21. 10. 2026 – obrázky: Nepřítel vesnice – kulak Jiří Čermák (ID 1070280992) → `_obrazky/Nepritel_vesnice.md`.
 - 22. 10. 2026 – obrázky: Dar republice, Brněnský kraj k IX. sjezdu KSČ (ID 1074558646, …650, …655) → `_obrazky/Dar_republice.md`.
+- 26. 10. 2026 – obrázky: Mosilana (ID 1070184536) → `_obrazky/Holka_z_mosilany.md`; plakáty z UPM (ID 1072395355) přidány do `_obrazky/Volby.md`.
+- Prověřeno a zatím ne: 1069088390 (i.nahraj.to, obrázky už neexistují); 1070201019 (závodní časopis Kordy Litvínov, podle data
+  „středa 8. května“ z roku 1957 – anonymní texty chráněné do konce 2027); 1071182118 (aféra Pištorovy básně Lapkové 1969 –
+  chráněno, lze nanejvýš napsat stať vlastními slovy); 1066280345 (Lenin a děti, sovětští malíři, 3 z 5 obrázků mrtvé);
+  1065627970 (čínské obrazy, současní malíři); 1072385111 (Mateřídouška 1951–52, ilustrátoři neznámí/chránění);
+  1074483880 (jen nabídka svázaných ročníků).
 - Všechny textové příspěvky delší než 300 znaků a krátké básně jsou prověřené (stav k 20. 10. 2026).
 
 ## Obrázky – nejzajímavější kandidáti na galerie

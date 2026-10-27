@@ -66,6 +66,6 @@ Rusky:
 
 Припев
 
-*Píseň Rusko složil Anatolij Novikov na slova Sergeje Alymova krátce po válce (ruská Wikipedie ji v článku o skladateli datuje rokem 1946, v soupisu jeho písní rokem 1947). Pro sbor s harmonikou ji upravil J. Pauer.*
+*Píseň Rusko složil Anatolij Novikov (1896–1984), autor více než 600 písní včetně Smugljanky, na slova Sergeje Alymova krátce po válce (ruská Wikipedie ji v článku o skladateli datuje rokem 1946, v soupisu jeho písní rokem 1947). Básník Alymov (1892–1948) byl za carismu vyhnán na Sibiř, utekl do Číny a léta žil v Mandžusku; na začátku 30. let prošel táborem na stavbě Bělomořského kanálu, odkud byl předčasně propuštěn, a pak psal hlavně texty vlasteneckých písní. Pro sbor s harmonikou ji upravil J. Pauer.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

@@ -78,6 +78,6 @@ Rusky:
 Не забыта, жива,  
 Хоть давно отгремела гроза.  
 
-*Baladu o kozačce, která padla v partyzánských bojích občanské války, složil Matvej Blantěr na slova Sergeje Alymova. Pro sbor a harmoniku ji upravil J. Kapr; poslední tři verše každé sloky se zpívají dvakrát.*
+*Baladu o kozačce, která padla v partyzánských bojích občanské války, složil Matvej Blantěr (1903–1990), autor Kaťuše, na slova Sergeje Alymova (1892–1948). Pro sbor a harmoniku ji upravil J. Kapr; poslední tři verše každé sloky se zpívají dvakrát.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

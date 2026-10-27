@@ -86,6 +86,6 @@ Rusky:
 О тебе, моё сердце,  
 Я забыть не могу.  
 
-*Píseň vojáka z pohraniční stráže, který myslí na svou dívku, napsal leningradský skladatel Georgij Nosov na slova básníka Alexandra Čurkina, s nímž složil většinu svých písní. Pro tenorové sólo, mužský sbor a harmoniku ji upravil J. Kapr.*
+*Píseň vojáka z pohraniční stráže, který myslí na svou dívku, napsal leningradský skladatel Georgij Nosov (1911–1970) na slova básníka Alexandra Čurkina (1903–1971), s nímž složil většinu svých písní. Nosov za války vedl soubor písní a tanců 23. armády Leningradského frontu, Čurkin je autorem textu slavné písně Вечер на рейде (1941). Pro tenorové sólo, mužský sbor a harmoniku ji upravil J. Kapr.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

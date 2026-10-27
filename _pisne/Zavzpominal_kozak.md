@@ -63,6 +63,6 @@ Rusky:
 Трава и вода для лихого коня.  
 Припев  
 
-*Hudbu složil Konstantin Listov, autor známé válečné písně V zemljance (1942), slova napsal Alexandr Žarov. Pro sólo (baryton), mužský sbor a klavír ji upravil K. K. Chvalovský.*
+*Hudbu složil Konstantin Listov (1900–1983), autor známé válečné písně V zemljance (1942) a později Sevastopolského valčíku, slova napsal Alexandr Žarov (1904–1984), autor pionýrské hymny Vzvějtes kostrami, sinije noči. Listov a Žarov spolu po válce napsali více písní; o poválečném vzniku svědčí i text, v němž kozák vzpomíná na boje u Varšavy a v Berlíně. Pro sólo (baryton), mužský sbor a klavír ji upravil K. K. Chvalovský.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

@@ -80,6 +80,6 @@ Rusky:
 Как колхозницы их звали  
 Погостить.  
 
-*Hudbu složil L. Bakalov na slova básníka a textaře písní Jakova Švedova (1905–1984). Pro mužský sbor ji upravil J. Foltýn.*
+*Hudbu složil Leonid Bakalov na slova básníka a textaře Jakova Švedova (1905–1984), původně dělníka moskevských metalurgických závodů, za války frontového dopisovatele a autora písní Smugljanka a nové verze Orljonka z roku 1936. Pro mužský sbor ji upravil J. Foltýn.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

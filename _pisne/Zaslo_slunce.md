@@ -48,6 +48,6 @@ Rusky:
 Верность Сталину родному  
 Сквозь огонь ведёт на подвиги солдата.  
 
-*Píseň o vojácích vracejících se z války složil Matvej Blanter na slova Alexandra Kovalenkova v roce 1948. Pro mužský sbor ji upravil M. Munclinger; zpívá se za tichého doprovodu bubínku a ve třetí sloce nad sborem zní sólový tenor.*
+*Píseň o vojácích vracejících se z války složil Matvej Blanter (1903–1990), autor Kaťuše, na slova Alexandra Kovalenkova (1911–1971) v roce 1948. Kovalenkov byl za války dopisovatelem frontových novin na Karelském frontě; po Stalinově smrti byl na měsíc zatčen a později rehabilitován, pak vyučoval veršování na Literárním institutu M. Gorkého. Pro mužský sbor ji upravil M. Munclinger; zpívá se za tichého doprovodu bubínku a ve třetí sloce nad sborem zní sólový tenor.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

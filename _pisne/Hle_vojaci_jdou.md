@@ -68,6 +68,6 @@ Rusky:
 Где родные леса  
 Да широкая нива.  
 
-*Slova napsal Michail Lvovskij za války v roce 1943 pro frontový soubor, který je zpíval na jinou melodii; hudbu, s níž se píseň proslavila, k nim složil Kirill Molčanov až po válce, nejpozději v roce 1947. Pro sbor a harmoniku ji upravil J. Matěj.*
+*Slova napsal Michail Lvovskij (1919–1994) v roce 1943 jako voják na frontě pro amatérský soubor Veselý desant, který píseň zpíval na jinou melodii a s refrénem o mandžuské stepi a ohlašoval ji jako „starou vojenskou píseň“. Po válce se text dostal ke Kirillu Molčanovovi (1922–1982), který refrén vypustil a složil novou melodii; píseň zaregistroval v listopadu 1947. První gramofonovou desku nazpívala v roce 1948 Anna Charitonova s orchestrem leningradského rozhlasu, píseň pak zazněla mimo jiné v dokumentu Romana Karmena Velká vlastenecká (1965). Lvovskij se o nové melodii dozvěděl až z rozhlasu. Pro sbor a harmoniku ji upravil J. Matěj.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

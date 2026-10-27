@@ -86,6 +86,6 @@ Rusky:
 О героях переправы,  
 О победе за Днепром.  
 
-*Píseň sovětského skladatele Davida Salimana-Vladimirova (1901–1992) na slova M. Lapirova vypráví o tom, jak Rudá armáda na podzim 1943 překročila Dněpr, a o obklíčení Němců u Korsuně. Doprovod pro harmoniku upravil Jan Kapr.*
+*Píseň sovětského skladatele Davida Salimana-Vladimirova (1901–1992) na slova M. Lapirova vypráví o tom, jak Rudá armáda na podzim 1943 překročila Dněpr, a o obklíčení Němců u Korsuně. Saliman-Vladimirov, rodák z Oděsy a žák Reinholda Glièra, psal hlavně pochody a skladby pro dechovku; jeho Jakutský vítězný pochod zazněl 24. června 1945 na přehlídce vítězství na Rudém náměstí. Doprovod pro harmoniku upravil Jan Kapr.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

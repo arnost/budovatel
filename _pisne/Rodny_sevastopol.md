@@ -64,6 +64,6 @@ Rusky:
 
 Припев  
 
-*Píseň o Sevastopolu, hrdinném městě obléhaném za války, složil v roce 1946 Valentin Makarov, za války sám příslušník Černomořského loďstva, na slova Sergeje Alymova; v roce 1950 za ni spolu s dalšími písněmi dostal Stalinovu cenu. Pro sólo a mužský sbor ji upravil M. Munclinger.*
+*Píseň o Sevastopolu, hrdinném městě obléhaném za války, složil v roce 1946 Valentin Makarov (1908–1952), za války sám příslušník Černomořského loďstva, na slova Sergeje Alymova (1892–1948), který v letech 1940–1942 v Sevastopolu spolupracoval s loďstvem; v roce 1950 za ni spolu s dalšími písněmi dostal Stalinovu cenu. Pro sólo a mužský sbor ji upravil M. Munclinger.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

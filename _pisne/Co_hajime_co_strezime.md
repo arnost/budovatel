@@ -58,6 +58,6 @@ Rusky:
 Всё, что нам доверил наш родной народ,  
 Армия достойно, с честью сбережёт!  
 
-*Píseň složil Pavel Akulenko na slova Jakova Švedova, s nímž napsal i další vojenské písně, například Píseň mladých vojáků. Pro sólo, mužský sbor a klavír ji upravil K. K. Chvalovský.*
+*Píseň složil Pavel Akulenko na slova Jakova Švedova, s nímž napsal i další vojenské písně, například Píseň mladých vojáků. Švedov (1905–1984), původně dělník a dopisovatel závodních novin, prošel válkou jako frontový zpravodaj a je autorem textů známých písní Smugljanka a Orljonok. Pro sólo, mužský sbor a klavír ji upravil K. K. Chvalovský.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

@@ -68,6 +68,6 @@ Rusky:
 
 (4. = 1.)
 
-*Píseň o dívce, která čeká na svého milého letce, složil sovětský skladatel Vano Muradeli na slova A. Salnikova. Pro sólo, sbor a harmoniku ji upravil K. K. Chvalovský.*
+*Píseň o dívce, která čeká na svého milého letce, složil sovětský skladatel Vano Muradeli (1908–1970), rodák ze Stalinova Gori, na slova A. Salnikova, s nímž spolupracoval i jindy. Muradeli byl v únoru 1948 usnesením ÚV VKS(b) o jeho opeře Velké přátelství spolu s Prokofjevem a Šostakovičem odsouzen jako „formalista“; rehabilitován byl až v roce 1958 a o rok později složil známý Buchenwaldský zvon. Pro sólo, sbor a harmoniku ji upravil K. K. Chvalovský.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

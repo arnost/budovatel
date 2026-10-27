@@ -64,6 +64,6 @@ Rusky:
 Врагу опять  
 Нарушить светлый твой покой.  
 
-*Píseň o lásce k rodné zemi složil sovětský skladatel Valentin Kručinin (1892–1970) na slova O. Fadějevové, český text napsal Milan Kundera. Pro sólo, sbor a harmoniku ji upravil K. K. Chvalovský.*
+*Píseň o lásce k rodné zemi složil sovětský skladatel Valentin Kručinin (1892–1970), autor operet a pochodů a suit pro dechovou hudbu, na slova O. Fadějevové. Český text napsal podle sborníku Milan Kundera (1929–2023), tehdy začínající básník, který do literatury vstoupil v roce 1945 překlady Majakovského; jiný doklad tohoto překladu se nepodařilo najít. Pro sólo, sbor a harmoniku ji upravil K. K. Chvalovský.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

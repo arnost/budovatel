@@ -104,6 +104,6 @@ Rusky:
 
 Припев
 
-*Píseň složil Boris Terentěv, za války skladatel písní pro Severní loďstvo, na slova Michaila Ruděrmana, s nímž po válce napsal i další vojenské písně. Pro sólo baryton, mužský sbor a harmoniku ji upravil J. Matěj.*
+*Píseň složil Boris Terentěv (1913–1989), za války skladatel písní pro Severní loďstvo, na slova Michaila Ruděrmana (1905–1984), s nímž po válce napsal i další vojenské písně (Старшина, Я море люблю). Ruděrman se proslavil hlavně textem slavné Tačanky z roku 1937. Terentěv byl po válce činovníkem Svazu sovětských skladatelů a psal i opery a operety. Pro sólo baryton, mužský sbor a harmoniku ji upravil J. Matěj.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

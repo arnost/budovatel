@@ -80,6 +80,6 @@ Rusky:
 
 Припев  
 
-*Píseň oslavuje sovětského zkušebního pilota Valerije Čkalova (1904–1938), který v červnu 1937 se svou posádkou poprvé přeletěl bez mezipřistání z Moskvy přes severní pól do Ameriky. Hudbu složil David Saliman-Vladimirov na slova D. Sedycha, pro sbor a klavír ji upravil K. K. Chvalovský.*
+*Píseň oslavuje sovětského zkušebního pilota Valerije Čkalova (1904–1938), který v červnu 1937 se svou posádkou poprvé přeletěl bez mezipřistání z Moskvy přes severní pól do Ameriky (do Vancouveru ve státě Washington). Čkalov zahynul 15. prosince 1938 při prvním zkušebním letu nové stíhačky I-180, takže píseň, která o něm mluví jako o hrdinovi, jenž „vešel do nesmrtelnosti“, vznikla až po jeho smrti. Hudbu složil David Saliman-Vladimirov (1901–1992), oděský rodák a pozdější národní umělec Jakutské ASSR, na slova D. Sedycha, pro sbor a klavír ji upravil K. K. Chvalovský.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

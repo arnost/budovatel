@@ -61,6 +61,6 @@ Rusky:
 Врага всегда и всюду побеждать.  
 Припев  
 
-*Hudbu složil P. Akulenko, slova napsal básník Sergej Alymov (1892–1948). Pro mužský sbor ji upravil J. Foltýn.*
+*Hudbu složil Pavel Akulenko, slova napsal básník Sergej Alymov (1892–1948), který před revolucí utekl z vyhnanství do Číny, dlouho žil v Charbinu, na počátku třicátých let prošel táborem na stavbě Bělomořského kanálu a po návratu psal hlavně vlastenecké písně (upravil i text známé partyzánské Po dolinam i po vzgorjam). Zahynul při autonehodě v dubnu 1948, text tedy vznikl nejpozději tehdy. Pro mužský sbor ji upravil J. Foltýn.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

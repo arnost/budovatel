@@ -118,6 +118,6 @@ draga duša moja,
 rekao Kosta, joj, rekao Kosta,  
 da je kola dosta.
 
-*Partyzánská píseň z Jugoslávie ke kolu, kruhovému tanci; zpívá se zpočátku mírně a s každou další slokou rychleji. Úvodní sloka vyzývá k roztočení kozaračkého kola (podle hory Kozary), ostatní oslavují maršála Tita, boj za osvobození a proti fašismu a padlé i živé bojovníky, jedna se hlásí k bratřím z Gradišky. Dvě sloky posílají přes Tita pozdrav Rudé armádě a Stalinovi.*
+*Partyzánská píseň z Jugoslávie ke kolu, kruhovému tanci; zpívá se zpočátku mírně a s každou další slokou rychleji. Úvodní sloka vyzývá k roztočení kozaračkého kola (podle hory Kozary), ostatní oslavují maršála Tita, boj za osvobození a proti fašismu a padlé i živé bojovníky, jedna se hlásí k bratřím z Gradišky. Dvě sloky posílají přes Tita pozdrav Rudé armádě a Stalinovi. Zpěvník vyšel v roce 1948 krátce před roztržkou Tita se Stalinem; poté písně oslavující Tita z československých zpěvníků vymizely.*
 
 *Noty a text podle zpěvníku Zpíváme 1948: hymny, písně vlastenecké a revoluční (1948).*

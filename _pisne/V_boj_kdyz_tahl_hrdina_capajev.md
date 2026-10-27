@@ -39,6 +39,8 @@ býval zvyklý v čele jít.
 Командир герой герой Чапаяеб  
 был все время впереди
 
+*Ruský text s nápěvem otiskl pod názvem Čapajevská i zpěvník Zpíváme 1948: hymny, písně vlastenecké a revoluční (1948).*
+
 Ačkoliv byla píseň ve své době poměrně populární, dnes jde velmi špatně dohledat i na ruskojazyčném internetu. Zdá se, ze že zcela vytlačila píseň [Гулял по Уралу Чапаев - герой](https://www.youtube.com/watch?v=Dz0JqmZRIcw)
 
 Nicméně "Komandíra", si  píská zedník v písničce [Zednická](/pisen.phtml/zednicka)

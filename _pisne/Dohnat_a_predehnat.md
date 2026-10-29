@@ -5,19 +5,19 @@ music: Josef Stanislav
 text: Franta Němec
 ---
 
-1. sloka:  
+*1. sloka:*  
 Po věky v práci kletbu jsme a otrokáře znali,  
 my proklínali jsme ji jen, když v okovech jsme mřeli.  
 Však Říjen práce okovy strašlivou zdrtil váhou  
 a otrok poznal sílu svou a práce tvářnost pravou.  
 
-2. sloka:  
+*2. sloka:*  
 Nám vždy se smáli, že zhyne práce, kde otroci si vládnou,  
 však z práce oni stvořili věc hrdinnou a slavnou.  
 Ty starý světe, výzvu slyš, přes hory pláně moří,  
 že otroci i bez pánů svět nový, lepší stvoří!  
 
-3. sloka:  
+*3. sloka:*  
 Ten krásnější svět, jejž budujem, starému hrdě praví:  
 Jdem dohnat tě a předehnat a nic nás nezastaví!  
 My zúčtovali s otroctvím, my zúčtujem i s hladem,  

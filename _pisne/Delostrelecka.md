@@ -6,7 +6,7 @@ text: J. Mareš
 youtube: PcmdMZFNIP0
 ---
 
-1. Pěchota naše jde směle vpřed,  
+1. Pěchota naše jde směle vpřed,  
 za ní děl mocných železný sled.  
 Pěšáků život chrání náš pot,  
 na jejich cestě smetem každý DOT.  
@@ -19,14 +19,14 @@ V dunění svém zvěstuje všem,
 v dunění svém zvěstuje všem,  
 že my už jdem', že my už jdem'.  
 
-2. Do tanku pyšně si Němec sed',  
+2. Do tanku pyšně si Němec sed',  
 na tanku projet chtěl celý svět,  
 kanony naše houknou mu „stop!“,  
 zůstane Frici pancéřový hrob.  
 
 *Refrén*
 
-3. Zrak máme bystrý, napjatý sluch,  
+3. Zrak máme bystrý, napjatý sluch,  
 od hnědých supů čistíme vzduch.  
 Ve stálém střehu neznáme klid,  
 než poslední srazíme Messerschmidt!  

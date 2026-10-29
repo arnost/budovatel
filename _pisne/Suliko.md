@@ -25,3 +25,5 @@ K růži nachýlen nad kalich,
 v tichém háji bříz ospalých  
 slavík trylkoval nad květem,  
 jako by chtěl ríct: já to jsem!  
+
+*Noty podle zpěvníku Die Klingende Brücke (list č. 1660).*

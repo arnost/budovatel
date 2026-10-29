@@ -6,7 +6,7 @@ text: L. Führenberg
 youtube: z3BY-RsOGsw
 ---
 
-1. sloka:  
+*1. sloka:*  
 Slyš sovětské země dělnický vzkaz,  
 kde stroje továren nezahálí,  
 nových měst kde bouřlivý vzrůst,  
@@ -24,7 +24,7 @@ Buď připraven, až přijde den,
 kdy dělnická ruka bohatství světu dá,  
 věčný mír a práci všem.  
 
-2. sloka (dopěv z roku 1945):  
+2. sloka (dopěv z roku 1945):  
 Slyš, sovětská země, náš vřelý dík,  
 že pomohlas, když boj se smrti blížil,  
 na slovanské výspě když stál  

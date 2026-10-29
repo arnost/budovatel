@@ -24,6 +24,8 @@ github_username:  arnost
 
 # Build settings
 markdown: kramdown
+kramdown:
+  smart_quotes: ["lsquo", "rsquo", "bdquo", "ldquo"]  # české dvojité uvozovky „…“
 
 
 collections:

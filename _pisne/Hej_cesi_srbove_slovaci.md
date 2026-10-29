@@ -44,3 +44,5 @@ v celém národě červenou.
 *Republikánská píseň českých radikálů z roku 1848, která vyzývá k solidaritě s bojujícími Maďary a Italy; měšťanské zpěvníky ji nešířily a zachovala se jen v rukopisném zpěvníku pardubického sládka Jiříčka.*
 
 *Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+
+*Noty podle nápěvu písně Ve jarmu, co tak dlouho hyne v Českém revolučním zpěvníku (Karbusický, Vanický, 1953).*

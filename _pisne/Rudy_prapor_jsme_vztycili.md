@@ -24,3 +24,5 @@ mstící se komunardi!
 *Zpívá se na nápěv písně [Ať tyran má své pochopy](/pisen.phtml/at_tyran_ma_sve_pochopy). Komunistická mládež ji za první republiky zpívala při vztyčování vlajky na průkopnických táborech.*
 
 *Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+
+*Noty podle nápěvu písně Ať tyran má své pochopy v Českém revolučním zpěvníku (Karbusický, Vanický, 1953).*

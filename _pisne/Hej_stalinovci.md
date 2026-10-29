@@ -8,7 +8,7 @@ text: Miloslav Zachata
 
    
 
-1. sloka   
+*1. sloka:*  
 Každý z nás musí být u své práce,   
 nikdo nesmí lenivět,    
 proto vás voláme:    
@@ -31,7 +31,7 @@ do rachoty zvesela. (jen zvesela)
 
    
 
-2. sloka   
+*2. sloka:*  
 My o všech světových plánech víme,   
 jimž by válka přišla vhod.    
 My bez bázně na ně odpovíme

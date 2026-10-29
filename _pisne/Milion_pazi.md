@@ -6,7 +6,7 @@ youtube: MSsajMR5Do8
 
 
 
-1. sloka  
+*1. sloka:*  
 Milion paží v tmách se vzpjalo,   
 červený kohout v střechy vlít!   
 Oč tisíc let nás okrádalo,   
@@ -31,7 +31,7 @@ Za Sovdepii!
   
 
 
-2. sloka  
+*2. sloka:*  
 Až všecka kola stanou v děse,  
 proletář v ulici se zjev!  
 Pak strojů pán ať zapřáhne se,  
@@ -55,7 +55,7 @@ Za Sovdepii!
 
   
 
-3. sloka  
+*3. sloka:*  
 My nechcem' bohů, ani pánů,  
 nechceme pouta státu znát!  
 My chceme dáti v slunka žáru  
@@ -79,7 +79,7 @@ Za Sovdepii!
 
   
 
-4. sloka  
+*4. sloka:*  
 Tož do ulic, rebelů voje!  
 Tož do ulic, kdo's proletář!  
 Dělníče, sbírej síly svoje  

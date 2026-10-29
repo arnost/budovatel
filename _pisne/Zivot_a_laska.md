@@ -5,7 +5,7 @@ music: Josef Stanislav
 text: Franta Němec
 ---
 
-1. sloka:  
+*1. sloka:*  
 Když život tvrdý jest,  
 může, kdo miluje,  
 do vřavy bitevní  
@@ -23,7 +23,7 @@ nežli jim nést smí víc,
 ze všech víc jednoho  
 může mít rád.  
 
-2. sloka:  
+*2. sloka:*  
 Láska je prudký cit,  
 jenž může znásobit  
 síly, jež člověka  

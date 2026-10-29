@@ -6,7 +6,7 @@ text: E. F. Burian
 youtube: ltZQlvC1dFs
 ---
 
-1. sloka:  
+*1. sloka:*  
 Na celém světě v pochodu  
 za práci, chléb a svobodu  
 rudý prapor se zvedá výš.  
@@ -21,7 +21,7 @@ za nový a krásnější svět!
 První máj do boje vždy veď  
 za nový a krásnější svět!  
 
-2. sloka:  
+*2. sloka:*  
 Jeden z nás nesmí zůstat stát  
 dříve než padne starý řád.  
 Pak budem moci vystavět  

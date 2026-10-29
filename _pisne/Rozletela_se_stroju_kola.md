@@ -3,7 +3,7 @@ title: Rozletěla se strojů kola
 obdobi: mezivalecne
 ---
 
-1. Rozletěla se strojů kola  
+1. Rozletěla se strojů kola  
 a divná píseň zaznívá,  
 proletář proletáře volá  
 a v srdci radost zachvívá.  
@@ -21,7 +21,7 @@ za slzy matek opuštěných,
 za generace vyřazených,  
 za nový, lepší řád! :|  
 
-2. Základy jsou už položeny,  
+2. Základy jsou už položeny,  
 však nutno dále pracovat,  
 řady tu stojí připraveny  
 a odhodlány v boj se dát.  

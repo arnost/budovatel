@@ -6,7 +6,7 @@ text: Jan Dolina
 youtube: TxsWGaEiCTU
 ---
 
-1. sloka:  
+*1. sloka:*  
 Když rudý prapor zbarvený krví  
 na žerdi v modro dne se povznese,  
 dělnický sportsman, z dělníků prvý,  
@@ -16,7 +16,7 @@ za četou četa, řada za řadou,
 milion paží, milion pěstí,  
 budeme obrovitou armádou.  
 
-2. sloka:  
+*2. sloka:*  
 My světa bahno a světa špínu  
 setřesem jedním mocným náporem,  
 svět bude čistý v krvavém stínu  
@@ -26,7 +26,7 @@ svět krve, olova a oceli,
 bude svět práce, snění a dálek,  
 svět štěstí s růžemi a pocely.  
 
-3. sloka:  
+*3. sloka:*  
 Za chléb a práci, za světa štěstí  
 milion mužů mužně pohne se,  
 milion paží, milion pěstí,  

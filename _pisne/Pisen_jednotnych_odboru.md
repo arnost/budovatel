@@ -5,7 +5,7 @@ music: Josef Stanislav
 text: J. Pelc
 ---
 
-1. Pracující lid se v pochod dává,  
+1. Pracující lid se v pochod dává,  
 ve skutečnost promění svůj sen,  
 vybojuje všechna svoje práva,  
 nad světem vládnout smí práce jen.  
@@ -19,7 +19,7 @@ Z práce nám vzejde jitro, v kterém
 zpátečníkům dojde dech.  
 Jednotné odbory, cíl pracujících všech.  
 
-2. Až se naše ruce v jedno spojí,  
+2. Až se naše ruce v jedno spojí,  
 z mozolů se zrodí nový svět;  
 vítězně nad všemi stanem boji,  
 plody nám přinese práce květ.  

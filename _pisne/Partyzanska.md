@@ -53,3 +53,5 @@ až tam blízko oceánu
 partyzán jak vítěz stál. :|
 
 [Zdroj:Revoluční písně ](https://web.archive.org/web/20200817012047/http://revolucnipisne.blog.cz/0908/po-dolinam-i-po-vzgorjam-partyzanska)
+
+*Noty podle nápěvu písně Po dolinam i po vzgorjam (sovětský zpěvník, sken na a-pesni.org).*

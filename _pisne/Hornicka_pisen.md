@@ -5,7 +5,7 @@ music: Jaroslav Teklý
 text: Modrá
 ---
 
-1. sloka:  
+*1. sloka:*  
 Šachetní vozík s kolejí spad,  
 kola mu zvolna ujídá rez,  
 na haldě v kamení horník mladý  
@@ -19,7 +19,7 @@ zpíváme píseň, při které klece zůstanou klidně stát.
 Až píseň dozní, vozík se zvedne, klec šachet našich zafárá,  
 dá uhlí sílu, ruch do všech paží, kahance práce budou plát.  
 
-2. sloka:  
+*2. sloka:*  
 Hučí a hučí siréna krajem,  
 kopáči uhlí ulicí jdou,  
 to není siréna, to píseň zní  

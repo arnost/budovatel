@@ -3,7 +3,7 @@ title: Sloužíme straně
 obdobi: budovatelske
 ---
 
-1. sloka:  
+*1. sloka:*  
 Byl tenkrát únor,  
 starému světu  
 řekli jsme jednou pro vždy dost,  
@@ -17,7 +17,7 @@ jsme její velká opora,
 rozkvetlé stráně,  
 střežíme odkaz února :|
 
-2. sloka:  
+*2. sloka:*  
 Čas už slouží jen  
 mozku a dlaním,  
 jenom se kolem rozhlédni,  

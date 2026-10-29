@@ -5,19 +5,19 @@ music: Karel Reiner
 text: Jan Noha
 ---
 
-1. sloka:  
+*1. sloka:*  
 Už nastal čas, kdy tiše zrají plody,  
 kdy černá zem se v chleba promění,  
 vy naposled jste zřeli rudé slunce,  
 života slunce oknem vězení.  
 
-2. sloka:  
+*2. sloka:*  
 Vy naposled jste zřeli oblak bílý,  
 ve větru plul po nebi bez hranic.  
 Na tvrdou zem pak slunce, věčně rudé,  
 kreslilo dlouhé stíny šibenic.  
 
-3. sloka:  
+*3. sloka:*  
 Jsou myšlenky i síly věčně živé,  
 pro něž je člověk schopen všechno dát,  
 životy vaše, Sallyi a Fürste,  

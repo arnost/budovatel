@@ -39,3 +39,5 @@ kdo padl čestně, padl rád.
 *Jedna z prvních komunistických písní z počátku dvacátých let, autor není známý. Opěvuje Sovětský svaz a jeho rudou hvězdu nad celým světem a zpívá se na nápěv písně [Rudý prapor](/pisen.phtml/rudy_prapor).*
 
 *Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+
+*Zpívá se na nápěv Rudého praporu; noty podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

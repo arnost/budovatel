@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Širé lány jsou pod Stalingradem"
-        composer = "V. Makarov"
-        poet = "J. Dolmatovskij, český text F. Soukup"
+        composer = "Valentin Makarov"
+        poet = "Jevgenij Dolmatovskij, český text F. Soukup"
 }
 
 melody =  \relative c' {

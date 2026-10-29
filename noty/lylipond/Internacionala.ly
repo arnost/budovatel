@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Internacionála"
-        composer = "P. Degeyter"
-	poet = "E. Pottier"
+        composer = "Pierre Degeyter"
+	poet = "Eugène Pottier"
 }
 
 melody =  \relative c' {

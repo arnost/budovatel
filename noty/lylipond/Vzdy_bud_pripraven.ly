@@ -2,7 +2,7 @@
 \header {
         title = "Vždy buď připraven"
         composer = "Děškin"
-        poet = "A. Žarov, český text Josef Urban"
+        poet = "Alexandr Žarov, český text Josef Urban"
 }
 
 melody =  \relative c'' {

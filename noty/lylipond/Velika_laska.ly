@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Veliká láska"
-        composer = "V. Kručinin"
+        composer = "Valentin Kručinin"
         poet = "O. Fadějevová, český text M. Kundera"
 }
 

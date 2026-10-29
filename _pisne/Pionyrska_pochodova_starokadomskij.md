@@ -1,8 +1,8 @@
 ---
 title: Pionýrská pochodová
 obdobi: budovatelske
-music: M. Starokadomskij
-text: S. Michalkov
+music: Michail Starokadomskij
+text: Sergej Michalkov
 preklad: Ludvík Kundera
 ---
 

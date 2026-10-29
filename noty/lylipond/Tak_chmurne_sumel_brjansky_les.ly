@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Tak chmurně šuměl Brjanský les"
-        composer = "S. Kac"
-        poet = "A. Sofronov, český text J. Holečková"
+        composer = "Sigizmund Kac"
+        poet = "Anatolij Sofronov, český text Jelena Holečková"
 }
 
 melody = \fixed c' {

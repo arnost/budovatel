@@ -2,7 +2,7 @@
 \header {
         title = "Válka! Válka!"
         composer = "Bedřich Smetana"
-        poet = "J. J. Kolár"
+        poet = "Josef Jiří Kolár"
 }
 
 melody =  \relative c'' {

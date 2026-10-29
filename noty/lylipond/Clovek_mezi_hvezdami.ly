@@ -1,7 +1,7 @@
 \version "2.20.0"
 \header {
         title = "Člověk mezi hvězdami"
-        composer = "Z. Marat"
+        composer = "Zdeněk Marat"
 	poet = "J. Fijezová"
 }
 

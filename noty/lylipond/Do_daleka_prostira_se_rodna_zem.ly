@@ -2,7 +2,7 @@
 \header {
         title = "Do daleka prostírá se rodná zem"
         composer = "L. Bakalov"
-        poet = "J. Švedov, český text M. Kubr"
+        poet = "Jakov Švedov, český text M. Kubr"
 }
 
 melody =  \relative c' {

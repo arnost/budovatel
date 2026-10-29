@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Se zpěvem a smíchem"
-        composer = "J. Stanislav"
+        composer = "Josef Stanislav"
 	poet = "O. Rambousková"
 }
 

@@ -2,7 +2,7 @@
 \header {
         title = "Píseň mladých vojáků"
         composer = "P. Akulenko"
-        poet = "J. Švedov, český text K. Bednář"
+        poet = "Jakov Švedov, český text Kamil Bednář"
 }
 
 melody =  \relative c'' {

@@ -1,7 +1,7 @@
 ---
 title: Píseň jednotných odborů
 obdobi: budovatelske
-music: J. Stanislav
+music: Josef Stanislav
 text: J. Pelc
 ---
 

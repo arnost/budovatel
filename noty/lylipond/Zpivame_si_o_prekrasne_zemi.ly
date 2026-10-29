@@ -2,7 +2,7 @@
 \header {
         title = "Zpíváme si o překrásné zemi"
         composer = "Jan Seidel"
-        poet = "K. M. Walló, Bedřich Bobek"
+        poet = "Karel Michal Walló, Bedřich Bobek"
 }
 
 melody =  \relative c' {

@@ -1,8 +1,8 @@
 ---
 title: Letadlo
 obdobi: budovatelske
-music: M. Rauchverger
-text: O. Vysotská
+music: Michail Rauchverger
+text: Olga Vysotská
 preklad: O. Bárta
 ---
 

@@ -2,7 +2,7 @@
 title: Co hájíme, co střežíme
 obdobi: budovatelske
 music: P. Akulenko
-text: J. Švedov
+text: Jakov Švedov
 preklad: L. Kubišta
 ---
 

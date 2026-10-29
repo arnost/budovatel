@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Májová"
-        composer = "P. Kadosa"
+        composer = "Pál Kadosa"
         poet = "I. Raics, český text A. Hostomská"
 }
 

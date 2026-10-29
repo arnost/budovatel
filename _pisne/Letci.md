@@ -2,7 +2,7 @@
 title: Letci
 obdobi: budovatelske
 music: A. Alexandrov
-text: O. Vysotská
+text: Olga Vysotská
 preklad: Ludvík Kundera
 ---
 

@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Sovětští vojáci"
-        composer = "M. Krasev"
-        poet = "M. Krasev a S. Baruzdin, český text O. Bárta"
+        composer = "Michail Krasev"
+        poet = "Michail Krasev a Sergej Baruzdin, český text O. Bárta"
 }
 
 melody = \relative c'' {

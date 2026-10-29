@@ -1,9 +1,9 @@
 ---
 title: Tak chmurně šuměl Brjanský les
 obdobi: mezivalecne
-music: S. Kac
-text: A. Sofronov
-preklad: J. Holečková
+music: Sigizmund Kac
+text: Anatolij Sofronov
+preklad: Jelena Holečková
 ---
 
 Tak chmurně šuměl Brjanský les,  

@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Pionýrská pochodová"
-        composer = "M. Starokadomskij"
-        poet = "S. Michalkov, český text Ludvík Kundera"
+        composer = "Michail Starokadomskij"
+        poet = "Sergej Michalkov, český text Ludvík Kundera"
 }
 
 melody =  \relative c' {

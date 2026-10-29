@@ -1,8 +1,8 @@
 ---
 title: Rusko
 obdobi: budovatelske
-music: A. Novikov
-text: S. Alymov
+music: Anatolij Novikov
+text: Sergej Alymov
 preklad: J. Milde
 ---
 

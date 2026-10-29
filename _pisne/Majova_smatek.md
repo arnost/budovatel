@@ -1,7 +1,7 @@
 ---
 title: Májová
 obdobi: budovatelske
-music: M. Smatek
+music: Miloš Smatek
 text: K. Baroch
 ---
 

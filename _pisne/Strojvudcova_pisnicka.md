@@ -1,7 +1,7 @@
 ---
 title: Strojvůdcova písnička
 obdobi: budovatelske
-music: M. Starokadomskij
+music: Michail Starokadomskij
 text: A. Vvedenskij
 preklad: O. Bárta
 ---

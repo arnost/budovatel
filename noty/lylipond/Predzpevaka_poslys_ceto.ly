@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Předzpěváka poslyš, četo"
-        composer = "V. Kručinin"
+        composer = "Valentin Kručinin"
         poet = "M. Borodovskij, český text L. Kubišta"
 }
 

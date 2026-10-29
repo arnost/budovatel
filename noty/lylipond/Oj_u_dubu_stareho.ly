@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Oj, u dubu starého"
-        composer = "S. Kac"
-        poet = "A. Sofronov, český text L. Kubišta"
+        composer = "Sigizmund Kac"
+        poet = "Anatolij Sofronov, český text L. Kubišta"
 }
 
 melody =  \relative c' {

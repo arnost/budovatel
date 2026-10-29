@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Píseň letce"
-        composer = "M. Jordanskij"
-        poet = "V. Majakovskij, český text Karel Tachovský"
+        composer = "Michail Jordanskij"
+        poet = "Vladimir Majakovskij, český text Karel Tachovský"
 }
 
 melody =  \relative c' {

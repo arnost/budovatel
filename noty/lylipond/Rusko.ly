@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Rusko"
-        composer = "A. Novikov"
-        poet = "S. Alymov, český text J. Milde"
+        composer = "Anatolij Novikov"
+        poet = "Sergej Alymov, český text J. Milde"
 }
 
 melody =  \relative c'' {

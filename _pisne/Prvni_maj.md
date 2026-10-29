@@ -1,8 +1,8 @@
 ---
 title: První máj
 obdobi: budovatelske
-music: D. Kabalevskij
-text: O. Vysotská
+music: Dmitrij Kabalevskij
+text: Olga Vysotská
 preklad: Ludvík Kundera
 ---
 

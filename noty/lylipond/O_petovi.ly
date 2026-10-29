@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "O Péťovi"
-        composer = "D. Kabalevskij"
+        composer = "Dmitrij Kabalevskij"
         poet = "N. Gal, český text L. Kubišta"
 }
 

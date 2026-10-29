@@ -1,7 +1,7 @@
 ---
 title: Slunce vstává nad Táborem
 obdobi: obrozeni
-text: J. B. Pichl
+text: Josef Bojislav Pichl
 ---
 
 Slunce vstává nad Táborem,  

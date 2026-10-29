@@ -2,8 +2,8 @@
 \header {
         title = "Hrej, harmoniko"
         subtitle = "Častuška"
-        composer = "V. Makarov"
-        poet = "S. Alymov, český text L. Kubišta"
+        composer = "Valentin Makarov"
+        poet = "Sergej Alymov, český text L. Kubišta"
 }
 
 melody =  \relative c'' {

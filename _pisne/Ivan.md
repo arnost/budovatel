@@ -1,8 +1,8 @@
 ---
 title: Ivan
 obdobi: budovatelske
-music: K. Konvalinka
-text: K. Kalláb
+music: Karel Konvalinka
+text: Karel Kalláb
 ---
 
 Ivan, Ivan, vzbudil ho skřivan.  

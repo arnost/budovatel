@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Dal příkaz soudruh Stalin"
-        composer = "M. Krasev"
-        poet = "S. Michalkov, český text Ludvík Kundera"
+        composer = "Michail Krasev"
+        poet = "Sergej Michalkov, český text Ludvík Kundera"
 }
 
 melody = \relative c' {

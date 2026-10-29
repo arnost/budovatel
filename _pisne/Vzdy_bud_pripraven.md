@@ -2,7 +2,7 @@
 title: Vždy buď připraven
 obdobi: mezivalecne
 music: Děškin
-text: A. Žarov
+text: Alexandr Žarov
 preklad: Josef Urban
 ---
 

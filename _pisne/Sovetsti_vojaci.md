@@ -1,10 +1,10 @@
 ---
 title: Sovětští vojáci
 obdobi: budovatelske
-music: M. Krasev
+music: Michail Krasev
 text:
-  - M. Krasev
-  - S. Baruzdin
+  - Michail Krasev
+  - Sergej Baruzdin
 preklad: O. Bárta
 ---
 

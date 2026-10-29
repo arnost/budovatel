@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Stavíme domy"
-        composer = "F. Zrno"
+        composer = "Felix Zrno"
         poet = "V. Merhautová"
 }
 

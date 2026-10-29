@@ -2,7 +2,7 @@
 \header {
         title = "Pionýrský šátek"
         composer = "Alois Šebestík"
-        poet = "J. Alda"
+        poet = "Jan Alda"
 }
 
 melody =  \relative c'' {

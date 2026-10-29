@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Ivan"
-        composer = "K. Konvalinka"
-        poet = "K. Kalláb"
+        composer = "Karel Konvalinka"
+        poet = "Karel Kalláb"
 }
 
 melody =  \relative c'' {

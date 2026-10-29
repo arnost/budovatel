@@ -1,7 +1,7 @@
 ---
 title: Veliká láska
 obdobi: budovatelske
-music: V. Kručinin
+music: Valentin Kručinin
 text: O. Fadějevová
 preklad: Milan Kundera
 ---

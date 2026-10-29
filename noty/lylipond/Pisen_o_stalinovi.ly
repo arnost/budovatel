@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Píseň o Stalinovi"
-        composer = "M. Blantěr"
+        composer = "Matvej Blantěr"
 	poet = "A. Surkov"
 }
 

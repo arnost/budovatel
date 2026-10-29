@@ -2,8 +2,8 @@
 title: Internacionála
 obdobi: delnicke
 wikipedie: "Internacionála (píseň)"
-music:  P. Degeyter
-text: E. Pottier
+music:  Pierre Degeyter
+text: Eugène Pottier
 preklad:
   - A. Macek
   - J. Skalák

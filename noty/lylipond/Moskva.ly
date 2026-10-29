@@ -1,8 +1,8 @@
 \version "2.20.0"
 \header {
         title = "Moskva" 
-        composer = "Dan. a Dm. Pokrass" 
-	poet = "V. Lebeděv-Kumač" 
+        composer = "Dan. a Dmitrij Pokrass" 
+	poet = "Vasilij Lebeděv-Kumač" 
 }
 
 melody =  \relative c'' {        

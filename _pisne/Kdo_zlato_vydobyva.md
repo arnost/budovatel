@@ -2,7 +2,7 @@
 title: Kdo zlato vydobývá?
 obdobi: delnicke
 text: J. Most
-preklad: J. B. Pecka
+preklad: Josef Boleslav Pecka
 ---
 
 Kdo zlato vydobývá,  

@@ -2,8 +2,8 @@
 title: Pěj, soudruhu
 obdobi: budovatelske
 music: Z. Kompanějec
-text: L. Ošanin
-preklad: K. Bednář
+text: Lev Ošanin
+preklad: Kamil Bednář
 ---
 
 Pěj, soudruhu, zpívej o Kachovce,  

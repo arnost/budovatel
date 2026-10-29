@@ -1,8 +1,8 @@
 ---
 title: Tramvaj
 obdobi: budovatelske
-music: M. Jordanskij
-text: O. Vysotská
+music: Michail Jordanskij
+text: Olga Vysotská
 preklad: O. Bárta
 ---
 

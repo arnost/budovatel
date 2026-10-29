@@ -1,7 +1,7 @@
 ---
 title: Předzpěváka poslyš, četo
 obdobi: budovatelske
-music: V. Kručinin
+music: Valentin Kručinin
 text: M. Borodovskij
 preklad: L. Kubišta
 ---

@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Pochod demokratické mládeže"
-        composer = "A. Novikov"
+        composer = "Anatolij Novikov"
 	poet = "L. Olšanin"
 }
 

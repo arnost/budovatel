@@ -1,7 +1,7 @@
 ---
 title: Májová
 obdobi: budovatelske
-music: P. Kadosa
+music: Pál Kadosa
 text: István Raics
 preklad: Anna Hostomská
 ---

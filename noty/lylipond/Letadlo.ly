@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Letadlo"
-        composer = "M. Rauchverger"
-        poet = "O. Vysotská, český text O. Bárta"
+        composer = "Michail Rauchverger"
+        poet = "Olga Vysotská, český text O. Bárta"
 }
 
 melody =  \relative c' {

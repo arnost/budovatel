@@ -1,7 +1,7 @@
 ---
 title: Příroda nám káže
 obdobi: delnicke
-text: J. B. Pecka
+text: Josef Boleslav Pecka
 ---
 
 Příroda nám káže  

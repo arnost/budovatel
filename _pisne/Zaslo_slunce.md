@@ -1,8 +1,8 @@
 ---
 title: Zašlo slunce
 obdobi: budovatelske
-music: M. Blantěr
-text: A. Kovalenkov
+music: Matvej Blantěr
+text: Alexandr Kovalenkov
 preklad: L. Kubišta
 ---
 

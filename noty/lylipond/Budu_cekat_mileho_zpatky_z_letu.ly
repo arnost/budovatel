@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Budu čekat milého zpátky z letu"
-        composer = "V. Muradeli"
+        composer = "Vano Muradeli"
         poet = "A. Salnikov, český text M. Kubr"
 }
 

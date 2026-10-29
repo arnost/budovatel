@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Příroda nám káže"
-        poet = "J. B. Pecka"
+        poet = "Josef Boleslav Pecka"
 }
 
 melody =  \relative c'' {

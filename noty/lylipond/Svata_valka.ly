@@ -2,7 +2,7 @@
 \header {
         title = "Svatá válka" 
         composer = "A. V. Alexandrov" 
-	poet = "V. Lebeděv-Kumač" 
+	poet = "Vasilij Lebeděv-Kumač" 
 }
 
 melody =  \relative c' {        

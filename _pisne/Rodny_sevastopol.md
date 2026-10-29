@@ -1,9 +1,9 @@
 ---
 title: Rodný Sevastopol
 obdobi: budovatelske
-music: V. Makarov
-text: S. Alymov
-preklad: K. Bednář
+music: Valentin Makarov
+text: Sergej Alymov
+preklad: Kamil Bednář
 ---
 
 Již nad Krymem svítání červánkem hoří,  

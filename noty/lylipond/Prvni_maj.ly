@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "První máj"
-        composer = "D. Kabalevskij"
-        poet = "O. Vysotská, český text Ludvík Kundera"
+        composer = "Dmitrij Kabalevskij"
+        poet = "Olga Vysotská, český text Ludvík Kundera"
 }
 
 melody =  \relative c' {

@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Píseň o hrdinech dněprovské přepravy"
-        composer = "D. Saliman-Vladimirov"
-        poet = "M. Lapirov, český text K. Bednář"
+        composer = "David Saliman-Vladimirov"
+        poet = "M. Lapirov, český text Kamil Bednář"
 }
 
 melody =  \relative c' {

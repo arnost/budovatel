@@ -1,7 +1,7 @@
 ---
 title: Dohnat a předehnat
 obdobi: mezivalecne
-music: J. Stanislav
+music: Josef Stanislav
 text: Franta Němec
 ---
 

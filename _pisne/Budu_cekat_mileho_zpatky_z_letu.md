@@ -1,7 +1,7 @@
 ---
 title: Budu čekat milého zpátky z letu
 obdobi: budovatelske
-music: V. Muradeli
+music: Vano Muradeli
 text: A. Salnikov
 preklad: M. Kubr
 ---

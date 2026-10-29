@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Píseň o Leninovi"
-        composer = "Z. Leviná"
-        poet = "T. Spendiarová, český text J. Holečková"
+        composer = "Zara Leviná"
+        poet = "Taťjana Spendiarová, český text Jelena Holečková"
 }
 
 melody =  \relative c' {

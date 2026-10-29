@@ -1,8 +1,8 @@
 ---
 title: Loučení
 obdobi: mezivalecne
-music: Dm. Pokrass
-text: M. Isakovskij
+music: Dmitrij Pokrass
+text: Michail Isakovskij
 preklad: S. Machonin
 ---
 

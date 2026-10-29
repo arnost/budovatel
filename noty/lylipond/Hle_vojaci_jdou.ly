@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Hle, vojáci jdou"
-        composer = "K. Molčanov"
-        poet = "M. Lvovskij, český text J. Milde"
+        composer = "Kirill Molčanov"
+        poet = "Michail Lvovskij, český text J. Milde"
 }
 
 melody =  \relative c' {

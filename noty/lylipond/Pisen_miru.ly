@@ -2,7 +2,7 @@
 \header {
         title = "Píseň míru"
         composer = "D. Šostakovič"
-	poet = "J. Dolmatovskij"
+	poet = "Jevgenij Dolmatovskij"
 }
 
 PrvniHlas = {        

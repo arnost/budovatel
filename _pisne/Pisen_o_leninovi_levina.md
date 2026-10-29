@@ -1,9 +1,9 @@
 ---
 title: Píseň o Leninovi
 obdobi: budovatelske
-music: Z. Leviná
-text: T. Spendiarová
-preklad: J. Holečková
+music: Zara Leviná
+text: Taťjana Spendiarová
+preklad: Jelena Holečková
 ---
 
 Duben v plášti z květů chodí, leden zlý je, drsný zas.  

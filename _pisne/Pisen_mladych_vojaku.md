@@ -2,8 +2,8 @@
 title: Píseň mladých vojáků
 obdobi: budovatelske
 music: P. Akulenko
-text: J. Švedov
-preklad: K. Bednář
+text: Jakov Švedov
+preklad: Kamil Bednář
 ---
 
 V obilí se cesta k škole stáčí,  

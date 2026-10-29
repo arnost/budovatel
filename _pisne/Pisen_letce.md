@@ -1,8 +1,8 @@
 ---
 title: Píseň letce
 obdobi: budovatelske
-music: M. Jordanskij
-text: V. Majakovskij
+music: Michail Jordanskij
+text: Vladimir Majakovskij
 preklad: Karel Tachovský
 ---
 

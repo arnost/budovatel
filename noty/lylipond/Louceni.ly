@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Loučení"
-        composer = "Dm. Pokrass"
-        poet = "M. Isakovskij, český text S. Machonin"
+        composer = "Dmitrij Pokrass"
+        poet = "Michail Isakovskij, český text S. Machonin"
 }
 
 melody = \fixed c' {

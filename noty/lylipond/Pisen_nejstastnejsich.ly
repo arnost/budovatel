@@ -2,7 +2,7 @@
 \header {
         title = "Píseň nejšťastnějších"
         composer = "A. Alexandrov"
-        poet = "N. Sakonská, český text K. Tachovský"
+        poet = "Nina Sakonská, český text K. Tachovský"
 }
 
 melody = \relative c'' {

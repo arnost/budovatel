@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Zašlo slunce"
-        composer = "M. Blantěr"
-        poet = "A. Kovalenkov, český text L. Kubišta"
+        composer = "Matvej Blantěr"
+        poet = "Alexandr Kovalenkov, český text L. Kubišta"
 }
 
 melody =  \relative c' {

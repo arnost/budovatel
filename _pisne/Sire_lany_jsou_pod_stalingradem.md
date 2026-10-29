@@ -1,8 +1,8 @@
 ---
 title: Širé lány jsou pod Stalingradem
 obdobi: budovatelske
-music: V. Makarov
-text: J. Dolmatovskij
+music: Valentin Makarov
+text: Jevgenij Dolmatovskij
 preklad: F. Soukup
 ---
 

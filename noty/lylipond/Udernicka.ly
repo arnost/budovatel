@@ -2,7 +2,7 @@
 \header {
         title = "Údernická" 
         composer = "M. Barvík" 
-	poet = "Dr. K. M. Walló" 
+	poet = "Dr. Karel Michal Walló" 
 }
 
 piskanii =  \relative c''{

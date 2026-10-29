@@ -1,8 +1,8 @@
 ---
 title: Mladá rota
 obdobi: budovatelske
-music: B. Terentěv
-text: M. Ruděrman
+music: Boris Terentěv
+text: Michail Ruděrman
 preklad: M. Kubr
 ---
 

@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Kdo zlato vydobývá?"
-        poet = "J. Most, překlad J. B. Pecka"
+        poet = "J. Most, překlad Josef Boleslav Pecka"
 }
 
 melody =  \relative c' {

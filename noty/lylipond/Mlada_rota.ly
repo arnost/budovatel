@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Mladá rota"
-        composer = "B. Terentěv"
-        poet = "M. Ruděrman, český text M. Kubr"
+        composer = "Boris Terentěv"
+        poet = "Michail Ruděrman, český text M. Kubr"
 }
 
 melody =  \relative c' {

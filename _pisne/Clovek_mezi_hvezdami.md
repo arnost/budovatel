@@ -1,7 +1,7 @@
 ---
 title: Člověk mezi hvězdami
 obdobi: sedesata
-music: Z. Marat
+music: Zdeněk Marat
 text: J. Fijezová
 ---
 

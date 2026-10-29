@@ -2,7 +2,7 @@
 title: Leninův prapor
 obdobi: budovatelske
 music: Jan Kapr
-text: K. M. Walló
+text: Karel Michal Walló
 ---
 
 Už dosti válek, dosti bídy,  

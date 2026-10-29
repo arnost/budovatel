@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Píseň o Čkalovu"
-        composer = "D. Saliman-Vladimirov"
+        composer = "David Saliman-Vladimirov"
         poet = "D. Sedych, český text J. Sládek"
 }
 

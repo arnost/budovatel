@@ -1,8 +1,8 @@
 ---
 title: Oj, u dubu starého
 obdobi: mezivalecne
-music: S. Kac
-text: A. Sofronov
+music: Sigizmund Kac
+text: Anatolij Sofronov
 preklad: L. Kubišta
 ---
 

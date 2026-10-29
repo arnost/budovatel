@@ -2,7 +2,7 @@
 title: Píseň nejšťastnějších
 obdobi: budovatelske
 music: A. Alexandrov
-text: N. Sakonská
+text: Nina Sakonská
 preklad: Karel Tachovský
 ---
 

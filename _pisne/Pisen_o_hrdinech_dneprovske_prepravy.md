@@ -1,9 +1,9 @@
 ---
 title: Píseň o hrdinech dněprovské přepravy
 obdobi: budovatelske
-music: D. Saliman-Vladimirov
+music: David Saliman-Vladimirov
 text: M. Lapirov
-preklad: K. Bednář
+preklad: Kamil Bednář
 ---
 
 Chlapci bojovníci zrána  

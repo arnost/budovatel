@@ -1,8 +1,8 @@
 ---
 title: Píseň o kozačce
 obdobi: budovatelske
-music: M. Blantěr
-text: S. Alymov
+music: Matvej Blantěr
+text: Sergej Alymov
 preklad: L. Kubišta
 ---
 

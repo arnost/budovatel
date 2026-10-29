@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Rodný Sevastopol"
-        composer = "V. Makarov"
-        poet = "S. Alymov, český text K. Bednář"
+        composer = "Valentin Makarov"
+        poet = "Sergej Alymov, český text Kamil Bednář"
 }
 
 melody =  \relative c' {

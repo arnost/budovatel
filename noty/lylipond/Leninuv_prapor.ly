@@ -2,7 +2,7 @@
 \header {
         title = "Leninův prapor"
         composer = "Jan Kapr"
-        poet = "K. M. Walló"
+        poet = "Karel Michal Walló"
 }
 
 melody =  \relative c' {

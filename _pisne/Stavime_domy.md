@@ -1,7 +1,7 @@
 ---
 title: Stavíme domy
 obdobi: budovatelske
-music: F. Zrno
+music: Felix Zrno
 text: V. Merhautová
 ---
 

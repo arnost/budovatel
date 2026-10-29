@@ -3,7 +3,7 @@ title: Zpíváme si o překrásné zemi
 obdobi: budovatelske
 music: Jan Seidel
 text:
-  - K. M. Walló
+  - Karel Michal Walló
   - Bedřich Bobek
 ---
 

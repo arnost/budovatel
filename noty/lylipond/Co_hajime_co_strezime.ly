@@ -2,7 +2,7 @@
 \header {
         title = "Co hájíme, co střežíme"
         composer = "P. Akulenko"
-        poet = "J. Švedov, český text L. Kubišta"
+        poet = "Jakov Švedov, český text L. Kubišta"
 }
 
 melody =  \relative c'' {

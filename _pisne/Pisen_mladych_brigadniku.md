@@ -2,7 +2,7 @@
 title: Píseň mladých brigádníků
 obdobi: budovatelske
 music:  Miroslav Barvík
-text: K. M. Walló
+text: Karel Michal Walló
 youtube: h7e7ltLyrts
 ---
 

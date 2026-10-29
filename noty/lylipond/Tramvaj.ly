@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Tramvaj"
-        composer = "M. Jordanskij"
-        poet = "O. Vysotská, český text O. Bárta"
+        composer = "Michail Jordanskij"
+        poet = "Olga Vysotská, český text O. Bárta"
 }
 
 melody =  \relative c' {

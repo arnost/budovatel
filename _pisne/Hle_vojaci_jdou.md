@@ -1,8 +1,8 @@
 ---
 title: Hle, vojáci jdou
 obdobi: budovatelske
-music: K. Molčanov
-text: M. Lvovskij
+music: Kirill Molčanov
+text: Michail Lvovskij
 preklad: J. Milde
 ---
 

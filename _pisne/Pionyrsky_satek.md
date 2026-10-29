@@ -2,7 +2,7 @@
 title: Pionýrský šátek
 obdobi: budovatelske
 music: Alois Šebestík
-text: J. Alda
+text: Jan Alda
 ---
 
 Na pionýrský šátek  

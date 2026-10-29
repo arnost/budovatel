@@ -2,7 +2,7 @@
 \header {
         title = "Pochod stalinského letectva"
         composer = "P. Akulenko"
-        poet = "S. Alymov, český text J. Sládek"
+        poet = "Sergej Alymov, český text J. Sládek"
 }
 
 melody =  \relative c'' {

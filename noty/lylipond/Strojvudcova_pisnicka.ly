@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Strojvůdcova písnička"
-        composer = "M. Starokadomskij"
+        composer = "Michail Starokadomskij"
         poet = "A. Vvedenskij, český text O. Bárta"
 }
 

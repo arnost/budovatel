@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Májová"
-        composer = "M. Smatek"
+        composer = "Miloš Smatek"
         poet = "K. Baroch"
 }
 

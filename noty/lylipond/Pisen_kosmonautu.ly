@@ -1,7 +1,7 @@
 \version "2.20.0"
 \header {
         title = "Píseň kosmonautů"
-        composer = "M. Blantěr"
+        composer = "Matvej Blantěr"
 	poet = "J. Fuchs"
 }
 

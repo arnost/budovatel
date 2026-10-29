@@ -1,7 +1,7 @@
 \version "2.20.0"
 \header {
         title = "Zpátky ni krok" 
-        composer = "J. Stanislav" 
+        composer = "Josef Stanislav" 
 	poet = "O. Rambousková-Nejedlý " 
 }
 

@@ -1,8 +1,8 @@
 ---
 title: Dal příkaz soudruh Stalin
 obdobi: budovatelske
-music: M. Krasev
-text: S. Michalkov
+music: Michail Krasev
+text: Sergej Michalkov
 preklad: Ludvík Kundera
 ---
 

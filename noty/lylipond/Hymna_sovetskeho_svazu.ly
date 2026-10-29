@@ -2,7 +2,7 @@
 \header {
         title = "Hymna sovětského svazu" 
         composer = "A. V. Alexandrov" 
-	poet = "S. Michalkov, El-Registan" 
+	poet = "Sergej Michalkov, El-Registan" 
 }
 
 melody =  \relative c' {

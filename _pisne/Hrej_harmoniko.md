@@ -1,8 +1,8 @@
 ---
 title: Hrej, harmoniko
 obdobi: budovatelske
-music: V. Makarov
-text: S. Alymov
+music: Valentin Makarov
+text: Sergej Alymov
 preklad: L. Kubišta
 ---
 

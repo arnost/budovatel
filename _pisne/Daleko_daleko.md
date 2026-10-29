@@ -3,7 +3,7 @@ title: Daleko, daleko
 obdobi: budovatelske
 music: G. Nosov
 text: A. Čurkin
-preklad: J. Holečková
+preklad: Jelena Holečková
 ---
 
 Daleko, daleko,  

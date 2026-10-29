@@ -1,8 +1,8 @@
 ---
 title: Zavzpomínal kozák
 obdobi: budovatelske
-music: K. Listov
-text: A. Žarov
+music: Konstantin Listov
+text: Alexandr Žarov
 preklad: L. Kubišta
 ---
 

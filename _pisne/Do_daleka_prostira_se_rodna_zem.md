@@ -2,7 +2,7 @@
 title: Do daleka prostírá se rodná zem
 obdobi: budovatelske
 music: L. Bakalov
-text: J. Švedov
+text: Jakov Švedov
 preklad: M. Kubr
 ---
 

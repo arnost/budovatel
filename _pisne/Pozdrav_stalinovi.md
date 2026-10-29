@@ -2,7 +2,7 @@
 title: Pozdrav Stalinovi
 obdobi: budovatelske
 music: Jan Kapr
-text: K. M. Walló
+text: Karel Michal Walló
 ---
 
 Zdravíme Vaše čelo smělé,  

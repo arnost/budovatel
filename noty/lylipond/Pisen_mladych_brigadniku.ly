@@ -2,7 +2,7 @@
 \header {
         title = "Píseň mladých brigádníků"
         composer = "Miroslav Barvík"
-        poet = "K. M. Walló"
+        poet = "Karel Michal Walló"
 }
 
 melody =  \relative c' {

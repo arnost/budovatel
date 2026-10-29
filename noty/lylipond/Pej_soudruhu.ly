@@ -2,7 +2,7 @@
 \header {
         title = "Pěj, soudruhu"
         composer = "Z. Kompanějec"
-        poet = "L. Ošanin, český text K. Bednář"
+        poet = "Lev Ošanin, český text Kamil Bednář"
 }
 
 melody =  \relative c' {

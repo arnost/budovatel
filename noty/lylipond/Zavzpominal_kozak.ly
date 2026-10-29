@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Zavzpomínal kozák"
-        composer = "K. Listov"
-        poet = "A. Žarov, český text L. Kubišta"
+        composer = "Konstantin Listov"
+        poet = "Alexandr Žarov, český text L. Kubišta"
 }
 
 melody =  \relative c' {

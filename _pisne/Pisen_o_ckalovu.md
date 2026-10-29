@@ -1,7 +1,7 @@
 ---
 title: Píseň o Čkalovu
 obdobi: budovatelske
-music: D. Saliman-Vladimirov
+music: David Saliman-Vladimirov
 text: D. Sedych
 preklad: J. Sládek
 ---

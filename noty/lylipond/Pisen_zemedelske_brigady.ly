@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Píseň zemědělské brigády"
-        composer = "J. Stanislav"
+        composer = "Josef Stanislav"
         poet = "František Kubr"
 }
 

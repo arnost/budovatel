@@ -2,7 +2,7 @@
 \header {
         title = "Daleko, daleko"
         composer = "G. Nosov"
-        poet = "A. Čurkin, český text J. Holečková"
+        poet = "A. Čurkin, český text Jelena Holečková"
 }
 
 melody =  \relative c'' {

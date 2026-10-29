@@ -1,7 +1,7 @@
 ---
 title: O Péťovi
 obdobi: budovatelske
-music: D. Kabalevskij
+music: Dmitrij Kabalevskij
 text: N. Gal
 preklad: L. Kubišta
 ---

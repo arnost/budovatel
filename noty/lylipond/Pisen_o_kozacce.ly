@@ -1,8 +1,8 @@
 \version "2.24.0"
 \header {
         title = "Píseň o kozačce"
-        composer = "M. Blantěr"
-        poet = "S. Alymov, český text L. Kubišta"
+        composer = "Matvej Blantěr"
+        poet = "Sergej Alymov, český text L. Kubišta"
 }
 
 melody = \fixed c' {

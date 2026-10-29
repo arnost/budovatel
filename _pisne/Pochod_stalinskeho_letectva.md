@@ -2,7 +2,7 @@
 title: Pochod stalinského letectva
 obdobi: budovatelske
 music: P. Akulenko
-text: S. Alymov
+text: Sergej Alymov
 preklad: J. Sládek
 ---
 

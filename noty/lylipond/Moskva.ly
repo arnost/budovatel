@@ -1,7 +1,7 @@
 \version "2.20.0"
 \header {
         title = "Moskva" 
-        composer = "Dan. a DM. Pokrass" 
+        composer = "Dan. a Dm. Pokrass" 
 	poet = "V. Lebeděv-Kumač" 
 }
 

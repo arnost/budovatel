@@ -3,7 +3,7 @@ title: Pionýrská pochodová
 obdobi: budovatelske
 music: M. Starokadomskij
 text: S. Michalkov
-preklad: L. Kundera
+preklad: Ludvík Kundera
 ---
 
 Před námi rudá plá hvězda,  

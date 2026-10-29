@@ -3,7 +3,7 @@ title: Letci
 obdobi: budovatelske
 music: A. Alexandrov
 text: O. Vysotská
-preklad: L. Kundera
+preklad: Ludvík Kundera
 ---
 
 Hledí letci s výšin  

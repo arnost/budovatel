@@ -2,7 +2,7 @@
 \header {
         title = "Letci"
         composer = "A. Alexandrov"
-        poet = "O. Vysotská, český text L. Kundera"
+        poet = "O. Vysotská, český text Ludvík Kundera"
 }
 
 melody =  \relative c' {

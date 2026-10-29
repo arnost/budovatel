@@ -1,6 +1,6 @@
 ---
 title: Zpěv míru
-autor: Vítěslav Nezval
+autor: Vítězslav Nezval
 ---
 
 Aby si přes panický strach,  

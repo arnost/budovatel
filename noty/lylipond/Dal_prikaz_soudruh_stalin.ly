@@ -2,7 +2,7 @@
 \header {
         title = "Dal příkaz soudruh Stalin"
         composer = "M. Krasev"
-        poet = "S. Michalkov, český text L. Kundera"
+        poet = "S. Michalkov, český text Ludvík Kundera"
 }
 
 melody = \relative c' {

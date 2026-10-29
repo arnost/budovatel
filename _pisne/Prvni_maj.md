@@ -3,7 +3,7 @@ title: První máj
 obdobi: budovatelske
 music: D. Kabalevskij
 text: O. Vysotská
-preklad: L. Kundera
+preklad: Ludvík Kundera
 ---
 
 Slunce svítí do všech tváří,  

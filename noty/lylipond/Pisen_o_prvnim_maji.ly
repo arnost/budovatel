@@ -2,7 +2,7 @@
 \header {
         title = "Píseň o Prvním máji"
         composer = "Fr. A. Kypta"
-        poet = "K. Bradáč"
+        poet = "Karel Bradáč"
 }
 
 melody =  \relative c' {

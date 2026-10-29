@@ -2,7 +2,7 @@
 \header {
         title = "Pionýrská pochodová"
         composer = "M. Starokadomskij"
-        poet = "S. Michalkov, český text L. Kundera"
+        poet = "S. Michalkov, český text Ludvík Kundera"
 }
 
 melody =  \relative c' {

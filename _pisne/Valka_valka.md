@@ -80,3 +80,5 @@ svornost! svornost! český sbor!
 *Kolárovu píseň, kterou kolem roku 1848 nadšeně zpívala mládež, proslavilo hlavně zhudebnění Bedřicha Smetany. „Válkou“ se tu myslí válka občanská; zpěvník z roku 1953 doporučuje místo ní zpívat „Sláva! Sláva!“.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+
+*Školní Zpěvník pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955) ji otiskl pod názvem Píseň svobody, rovnou se slovy „Sláva! Sláva!“, v A dur a s poznámkou, že ji Smetana zhudebnil roku 1848 jako barikádní revoluční píseň.*

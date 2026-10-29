@@ -1,0 +1,19 @@
+---
+title: O duševní kráse
+autor: J. Kononěnková
+vydal: SNPL, Praha
+rok: "1961"
+---
+
+Dobrých lidí je na světě mnoho. A v komunistické společnosti budou
+všichni lidé dobří, budou mít vysokou komunistickou morálku, budou
+silní, smělí a optimističtí. Práce jim bude potěšením a láska k
+člověku smyslem jejich života a činnosti.
+
+A dnes je takových lidí dost.... Vede je hluboká víra ve vítězství
+komunismu, duševní krása, láska k vlasti, k svému lidu, ke každému
+pracujícímu člověku.
+
+Spějeme ke komunismu. Pro přechod ke komunistickému uspořádání života
+je jako vzduch, jako voda zapotřebí vysoké úrovně uvědomělosti každého
+člověka. Tomu nás učí naše komunistická strana...

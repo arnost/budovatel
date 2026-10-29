@@ -1,0 +1,16 @@
+---
+title: Sbírka matematických příkladů s brannými náměty
+autor: Jeroným Kudláček
+vydal: Komenium, Praha
+rok: "1981"
+---
+
+Detonací bomby byl vyhlouben trychtýř tvaru kužele o průměru 5m a hloubce 2,5 m. Kolik m3 země
+bylo vyhozeno?
+
+Určete energii střely vypálené ze samopalu vz.58 ve
+vzdálenosti 400m od zbraně.
+
+Při nočním leteckém útoku na město M vybuchují granáty ve výši v km (v=5km) nad zemí. Jak
+daleko budou viditelné tyto rozprasky ze země, předpokládáme-li že Země je koule o poloměru R
+(R=6378km)?

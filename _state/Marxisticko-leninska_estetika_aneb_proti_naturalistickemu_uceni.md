@@ -1,0 +1,63 @@
+---
+title: Marxisticko-leninská estetika aneb proti naturalistickému učení
+autor: A. I. Burov
+vydal: Rovnost v r.1951
+---
+
+*(zpracoval zíval)*
+
+*Formalismus a naturalismus jsou úhlavními nepřáteli
+socialistického realismu, umělecké metody našeho umění.*
+
+*Formalismus v umění je názorným projevem rozkladu buržoazní
+kultury v epoše imperialismu, o kterém psal Lenin. Formalismus je
+odpornou propagandou nenáviasti k člověku, amorálnosti, lživosti,
+cynismu, zvířeckých instinktů a blábolení choromyslných, propagandou,
+kterou různým způsobem provádějí četné formalistické školy, kubisté,
+expresionisté, surrealisté atd.*
+
+*Tento arcireakční ideový obsah formalismu úplně rozložil
+umělecký obraz, zlikvidoval uměleckou formu a zavedl umění do slepé
+uličky a hniloby. Příčinou nenávisti formalismu k pravdivému zobrazení
+skutečnosti je pudový strach imperialistické buržoazie, předurčené
+dějinami k záhubě, ze zákonů vývoje objektivního světa, jakož i snaha
+buržoazie využít umění k svým hnusným cílům a přeměnit je v prostředek
+ke klamání a ohlupování mas.*
+
+*Při plnění svých nízkých cílů formalističtí umělci
+kapitalistických zemí hojně používají prostředků naturalismu...*
+
+*Naturalismus je skrytý antirealismus. Touto jeho zvláštností je
+určena i specifičnost boje proti němu.*
+
+*Náš stranický tisk zásadně zhodnotil naturalismus jako
+antirealistický a protilidový směr v u mění.*
+
+*"Musíme prohlásit přímo," řekl soudruh Ždanov, "že celá řada
+děl současných skladatelů je natolik přesycena naturalistickými zvuky,
+že připomíná, promiňte mi to přirovnání, buď vrtačku, nebo hudební
+zabiják."* (poznámka: **co to "hudební zabiják"???**)
+
+*Dekadentní spisovatelé typu F.Sologuba, L.Andrejeva a
+Arcybaševa vystoupili s odporným kázáním o živočišnosti člověka a
+pokoušeli se odvrátit masy od účasti na revolučním boji, vychovat v
+nich sociální cynismus a zkaziti je politicky i mravně.*
+
+*Úkolem dnešních dekadentů všeho druhu , kteří si činí i
+nečiní nárok na to, aby byli nazýváni "realisty", je přeměnit člověka
+ve zvíře, postavit ho na všechny čtyři a veštvat jej do nové světové
+války.*
+
+*Ve Francii se na toto thema specialisují zrádci
+francouzského lidu A.Gide, Sartre, Pichon aj. Už dlouho hanobí slavné
+činy a tradici hrdinů hnutí odporu.*
+
+*V Anglii se zabývají propagandou zrady cynik a pornograf
+Castler, fašizující skeptik Aldous Huxley, aldington aj.*
+
+A nyní přijde "bomba" v podobě geniální definice soudruha
+Stalina: ***"Roku 1932 na besedě se spisovateli definoval soudruh
+Stalun uměleckou metodu sovětského umění jako socialistický
+realismus. Tato geniální definice (???) měla rozhodující význam pro
+další rozvoj sovětského umění. Antirealistům všeho druhu...byla
+zasazena zdrcující rána."***

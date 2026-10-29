@@ -1,7 +1,7 @@
 ---
 title: Vojenská píseň
-obdobi: normalizacni
-text: Jaromír Nohavica
+obdobi: budovatelske
+text: Jaromír Nohavica st.
 ---
 
 Před námi hory zjevily se.  
@@ -18,3 +18,5 @@ My došli s písničkou až k cíli
 a mysleli, že nedojdem.  
 Když víš, kde hledat pramen síly,  
 vyhráno je už před bojem.  
+
+*Báseň vyšla už v roce 1954 v almanachu Rozlet: Almanach nových autorů (sv. 1, s. 78), rok po narození písničkáře Jaromíra Nohavici; autorem je tedy nejspíš jeho otec, Jaromír Nohavica starší.*

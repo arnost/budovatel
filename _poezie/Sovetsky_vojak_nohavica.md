@@ -20,4 +20,4 @@ do kola rychle šel,
 abych mu – myslím si –  
 do očí neviděl.
 
-*Vyšlo v almanachu začínajících autorů Rozlet (Mladá fronta, 1954, s. 77). Autor je otec písničkáře Jaromíra Nohavici; ve stejném almanachu vyšla i jeho [Vojenská píseň](/pisen.phtml/vojenska_pisen).*
+*Vyšlo v almanachu začínajících autorů Rozlet (Mladá fronta, 1954, s. 77). Autor je otec písničkáře Jaromíra Nohavici; ve stejném almanachu vyšla i jeho [Vojenská píseň](/poezie.phtml/vojenska_pisen).*

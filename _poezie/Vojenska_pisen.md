@@ -1,7 +1,8 @@
 ---
 title: Vojenská píseň
-obdobi: budovatelske
-text: Jaromír Nohavica st.
+autor: Jaromír Nohavica st.
+vydal: Rozlet
+rok: "1954"
 ---
 
 Před námi hory zjevily se.  

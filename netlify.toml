@@ -1,5 +1,9 @@
 # Básně přesunuté ze sekce písní (říjen 2026)
 [[redirects]]
+  from = "/pisen.phtml/vojenska_pisen"
+  to = "/poezie.phtml/vojenska_pisen"
+
+[[redirects]]
   from = "/pisen.phtml/pisen_o_setkani"
   to = "/poezie.phtml/pisen_o_setkani"
 

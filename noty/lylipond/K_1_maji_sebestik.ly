@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "K 1. máji"
-        composer = "Al. Šebestík"
+        composer = "Alois Šebestík"
         poet = "Z. Horal"
 }
 

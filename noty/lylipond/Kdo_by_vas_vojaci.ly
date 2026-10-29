@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Kdo by vás vojáci"
-        composer = "Al. Šebestík"
+        composer = "Alois Šebestík"
 }
 #(set-global-staff-size 16)
 

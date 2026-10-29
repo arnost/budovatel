@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Píseň továrny"
-        composer = "Al. Šebestík"
+        composer = "Alois Šebestík"
         poet = "O. Bárta"
 }
 

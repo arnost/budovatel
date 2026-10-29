@@ -1,7 +1,7 @@
 ---
 title: Píseň továrny
 obdobi: budovatelske
-music: Al. Šebestík
+music: Alois Šebestík
 text: O. Bárta
 ---
 
@@ -19,6 +19,6 @@ města i vlaky,
 |: až budeš veliký,  
 pomůžeš taky. :|  
 
-*Píseň složil Al. Šebestík na slova O. Bárty, autora českých textů několika sovětských dětských písní v tomto zpěvníku. V obsahu zpěvníku je uvedena pod názvem Píseň pětiletky.*
+*Píseň složil Alois Šebestík na slova O. Bárty, autora českých textů několika sovětských dětských písní v tomto zpěvníku. V obsahu zpěvníku je uvedena pod názvem Píseň pětiletky.*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

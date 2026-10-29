@@ -1,7 +1,7 @@
 ---
 title: Pionýrský šátek
 obdobi: budovatelske
-music: Al. Šebestík
+music: Alois Šebestík
 text: J. Alda
 ---
 
@@ -23,6 +23,6 @@ kdo budují svou zem.
 
 Refrén
 
-*Píseň složil Al. Šebestík na slova Jana Aldy, což byl pseudonym básníka, překladatele a novináře Alexandra Hořejšího (1901–1970), bratra básníka Jindřicha Hořejšího.*
+*Píseň složil Alois Šebestík na slova Jana Aldy, což byl pseudonym básníka, překladatele a novináře Alexandra Hořejšího (1901–1970), bratra básníka Jindřicha Hořejšího.*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

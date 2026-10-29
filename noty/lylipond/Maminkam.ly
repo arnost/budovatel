@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Maminkám"
-        composer = "Al. Šebestík"
+        composer = "Alois Šebestík"
         poet = "Z. Horal"
 }
 

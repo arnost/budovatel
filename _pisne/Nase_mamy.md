@@ -1,7 +1,7 @@
 ---
 title: Naše mámy
 obdobi: budovatelske
-music: Al. Šebestík
+music: Alois Šebestík
 text: Jiří V. Svoboda
 ---
 
@@ -40,6 +40,6 @@ a v něm máma průvodčí je
 v tmavomodré čapce.  
 Refrén  
 
-*Píseň o maminkách, které pracují jako traktoristky, zednice, listonošky, soustružnice i průvodčí, složil Al. Šebestík na slova básníka a překladatele Jiřího Václava Svobody (1924–1981). Svoboda psal hlavně poezii pro děti, v letech 1951–1962 byl šéfredaktorem dětského časopisu Mateřídouška a překládal z ruštiny, především Samuila Maršaka; budovatelskou poezii pro děti vydal například ve sbírce A to je ta krásná země (1952).*
+*Píseň o maminkách, které pracují jako traktoristky, zednice, listonošky, soustružnice i průvodčí, složil Alois Šebestík na slova básníka a překladatele Jiřího Václava Svobody (1924–1981). Svoboda psal hlavně poezii pro děti, v letech 1951–1962 byl šéfredaktorem dětského časopisu Mateřídouška a překládal z ruštiny, především Samuila Maršaka; budovatelskou poezii pro děti vydal například ve sbírce A to je ta krásná země (1952).*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

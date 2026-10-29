@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Pionýrský šátek"
-        composer = "Al. Šebestík"
+        composer = "Alois Šebestík"
         poet = "J. Alda"
 }
 

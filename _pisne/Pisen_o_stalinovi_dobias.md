@@ -31,6 +31,6 @@ Stalin volnost, Stalin radost,
 Stalin vzor proletářů třídy,  
 jemu sláva, ej!  
 
-*Hymnickou píseň složil Václav Dobiáš na slova polského básníka K. I. Gałczyńského, která do češtiny převedl Jan Pilař. Nezaměňovat s [Písní o Stalinovi](/pisen.phtml/pisen_o_stalinovi) od M. Blantěra. Konstanty Ildefons Gałczyński (1905–1953) psal po válce také verše v duchu socialistického realismu; Jan Pilař (1917–1996) se jako překladatel z polštiny věnoval hlavně jeho poezii. Píseň o Stalinovi uvádí česká Wikipedie mezi typickými Dobiášovými budovatelskými písněmi vedle Pojďte s námi na brigádu.*
+*Nezaměňovat s [Písní o Stalinovi](/pisen.phtml/pisen_o_stalinovi) od M. Blantěra. Konstanty Ildefons Gałczyński (1905–1953) psal po válce také verše v duchu socialistického realismu; Jan Pilař (1917–1996) se jako překladatel z polštiny věnoval hlavně jeho poezii. Píseň o Stalinovi uvádí česká Wikipedie mezi typickými Dobiášovými budovatelskými písněmi vedle Pojďte s námi na brigádu.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

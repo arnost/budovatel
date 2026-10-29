@@ -27,6 +27,6 @@ Taratatáta taratatáta taratatáta.
 Vpřed! Za nový, svobodný, krásnější svět!  
 Za nový, svobodný, krásnější svět!  
 
-*Oblíbená píseň Míly Krause (Gracián) na slova Karla Jiráčka (El-Car), kterou předváděla El-Carova agitační skupina i s pohybovým doprovodem. Tiskem vyšla v roce 1935 ve sborníku Proletářské písně; sborovou úpravu udělal Josef Stanislav. Karel Jiráček (1900–1989), jehož pseudonym El-Car je přesmyčkou jména Karel, byl textař a dělnický divadelník, který s vlastní agitační skupinou připravoval revue a pásma pro levicové akce.*
+*Píseň Míly Krause (Gracián) předváděla El-Carova agitační skupina i s pohybovým doprovodem. Tiskem vyšla v roce 1935 ve sborníku Proletářské písně. Karel Jiráček (1900–1989), jehož pseudonym El-Car je přesmyčkou jména Karel, byl textař a dělnický divadelník, který s vlastní agitační skupinou připravoval revue a pásma pro levicové akce.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

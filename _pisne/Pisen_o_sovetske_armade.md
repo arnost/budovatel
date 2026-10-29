@@ -100,6 +100,6 @@ Rusky:
 
 Припев
 
-*Píseň složil Alexandr Vasiljevič Alexandrov (1883–1946), spoluzakladatel a vedoucí souboru písní a tanců Rudé armády, na slova oděského rodáka, básníka a válečného zpravodaje Osipa Kolyčeva (1904–1973) k 25. výročí Rudé armády; poprvé zazněla v únoru 1943 ve filmovém koncertu natočeném k tomuto výročí a v Rusku je známá podle refrénu jako „Несокрушимая и легендарная“. Text se později upravoval (ruská Wikipedie uvádí verze z let 1943, 1945 a 1977). Alexandrovův soubor jí dodnes zahajuje svá vystoupení a v sovětské televizi jí začínal pořad Служу Советскому Союзу. Pro mužský sbor a harmoniku ji upravil M. Munclinger.*
+*Píseň složil Alexandr Vasiljevič Alexandrov (1883–1946), spoluzakladatel a vedoucí souboru písní a tanců Rudé armády, na slova oděského rodáka, básníka a válečného zpravodaje Osipa Kolyčeva (1904–1973) k 25. výročí Rudé armády; poprvé zazněla v únoru 1943 ve filmovém koncertu natočeném k tomuto výročí a v Rusku je známá podle refrénu jako „Несокрушимая и легендарная“. Text se později upravoval (ruská Wikipedie uvádí verze z let 1943, 1945 a 1977). Alexandrovův soubor jí dodnes zahajuje svá vystoupení a v sovětské televizi jí začínal pořad Служу Советскому Союзу.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

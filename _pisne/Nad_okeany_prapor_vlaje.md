@@ -36,7 +36,7 @@ dnes počíná se teprv žíti,
 kdo padl čestně, padl rád.  
 *Refrén*
 
-*Jedna z prvních komunistických písní z počátku dvacátých let, autor není známý. Opěvuje Sovětský svaz a jeho rudou hvězdu nad celým světem a zpívá se na nápěv písně [Rudý prapor](/pisen.phtml/rudy_prapor).*
+*Jedna z prvních komunistických písní z počátku dvacátých let, autor není známý. Zpívá se na nápěv písně [Rudý prapor](/pisen.phtml/rudy_prapor).*
 
 *Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
 

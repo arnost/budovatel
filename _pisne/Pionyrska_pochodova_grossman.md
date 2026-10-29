@@ -20,6 +20,4 @@ K lepším zítřkům a k slunci blíž!
 Ať náš prapor svobody a míru  
 vlaje stále výš a ještě výš!  
 
-*Pochodovou píseň pro pionýry složil S. Grossman na slova B. Novotného; bližší údaje o autorech se nepodařilo ověřit.*
-
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

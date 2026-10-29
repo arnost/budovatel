@@ -78,6 +78,6 @@ Rusky:
 
 Припев
 
-*Píseň složil Pavel Akulenko na slova Jakova Švedova (1905–1984), autora textů Smugljanky a Orljonku; zpívají ji mladí vojáci, kteří válku znají jen z vyprávění. Pro sóla a mužský sbor ji upravil M. Munclinger.*
+*Textař Jakov Švedov (1905–1984) je autorem textů Smugljanky a Orljonku.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

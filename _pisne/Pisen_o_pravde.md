@@ -166,6 +166,6 @@ daj nám na věčné časy
 s sebú bydlo, na tě zřiece  
 a tě s anjely chválece!“  
 
-*Alegorická satira o Pravdě, kterou nikdo nechce přijmout – ani papež a kardinálové, ani páni, mniši či měšťané, protože všichni utiskují chudé. Vznikla v letech 1400–1409, patrně v okruhu Mistra Jana Husa; text i nápěv zachoval Jistebnický kancionál.*
+*Píseň vznikla v letech 1400–1409, patrně v okruhu Mistra Jana Husa; text i nápěv zachoval Jistebnický kancionál.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

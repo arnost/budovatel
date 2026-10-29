@@ -32,6 +32,6 @@ prasknou a spadnou v jeden ráz!
 
 *Refrén*
 
-*Píseň komunistické mládeže z konce třicátých let, jejíž autor není znám; zpívali v ní mladí o věrnosti krvi, kterou dělnická třída prolila. Tiskem poprvé vyšla až v tomto zpěvníku.*
+*Píseň komunistické mládeže z konce třicátých let, jejíž autor není znám. Tiskem poprvé vyšla až v tomto zpěvníku.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

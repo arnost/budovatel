@@ -24,6 +24,6 @@ zajistí nám blaho, mír,
 s nimi půjde v novém roce  
 pionýrka, pionýr.  
 
-*Prostá pionýrská píseň Boleslava Vomáčky (1887–1965), který psal mnoho písní pro mládež, vybízí děti k poctivé práci a učení. Slova „první“ a „druhý“ v první sloce se podle zpěvníku mohou měnit podle roku pětiletky.*
+*Boleslav Vomáčka (1887–1965) psal mnoho písní pro mládež. Slova „první“ a „druhý“ v první sloce se podle zpěvníku mohou měnit podle roku pětiletky.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -31,6 +31,6 @@ O kolik srdcí víc a hlav!
 
 *Refrén*
 
-*Hymnická píseň Ludvíka Podéšťa oslavuje obyčejný pracovní den, který přináší radost z budování a z vykonané práce. Ludvík Podéšť (1921–1968) je vedle Víta Nejedlého a Radima Drejsla pokládán za klasika budovatelské písně; v letech 1953–1956 vedl Armádní umělecký soubor Víta Nejedlého a psal i operety, filmovou hudbu a populární písně, např. Babičko, nauč mě charleston.*
+*Ludvík Podéšť (1921–1968) je vedle Víta Nejedlého a Radima Drejsla pokládán za klasika budovatelské písně; v letech 1953–1956 vedl Armádní umělecký soubor Víta Nejedlého a psal i operety, filmovou hudbu a populární písně, např. Babičko, nauč mě charleston.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

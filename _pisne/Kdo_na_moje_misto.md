@@ -25,6 +25,6 @@ Tak málo krve mám a ještě mi teče z úst.
 Až bude nade mnou tráva růst, až budu hnít,  
 kdo místo mne na stráž, kdo zdvihne můj štít?
 
-*Bezručovu báseň zhudebnil Jan Urban; píseň vyšla roku 1923 v Proletářských zpěvech, lístkovém sborníku písní a sborů pro dělnické pěvce. Báseň ze Slezských písní poslal Bezruč redaktoru Času Janu Herbenovi v únoru 1899; její úvodní verše narážejí na chrlení krve, které tehdy autora trápilo kvůli tuberkulóze.*
+*Píseň vyšla roku 1923 v Proletářských zpěvech, lístkovém sborníku písní a sborů pro dělnické pěvce. Báseň ze Slezských písní poslal Bezruč redaktoru Času Janu Herbenovi v únoru 1899; její úvodní verše narážejí na chrlení krve, které tehdy autora trápilo kvůli tuberkulóze.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -76,6 +76,6 @@ Rusky:
 Учись владеть конём.»  
 Припев  
 
-*Píseň o starém budjonnovci, který synovi připomíná boje občanské války i tažení až do Berlína, složil R. Cheif na slova básníka Solomona Fogelsona (1910–1994). Fogelson byl za války režisérem a hercem divadla Baltského loďstva a později psal texty písní k filmům Небесный тихоход a Человек-амфибия. Pro mužský sbor s harmonikou ji upravil M. Munclinger.*
+*Autor textu Solomon Fogelson (1910–1994) byl za války režisérem a hercem divadla Baltského loďstva a později psal texty písní k filmům Небесный тихоход a Человек-амфибия.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

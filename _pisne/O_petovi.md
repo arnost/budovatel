@@ -69,6 +69,6 @@ pěkně zazpíváme!
 To je přece správná věc:  
 pěkně zazpíváme!  
 
-*Žertovnou píseň o líném pionýru Péťovi, kterou vždy začíná zpívat jeden a dvojverší „To je přece správná věc“ (nebo „Copak je to správná věc“) přebírají všichni, složil Dmitrij Kabalevskij (1904–1987). Kabalevskij, žák Nikolaje Mjaskovského a profesor moskevské konzervatoře, je autorem oper Colas Breugnon a Tarasova rodina i hudby k filmu Odvážná školačka; hodně psal pro děti, zvlášť pionýrské sbory, a zabýval se hudební výchovou na školách. Text napsal N. Gal, česky jej přebásnil L. Kubišta.*
+*Dmitrij Kabalevskij (1904–1987), žák Nikolaje Mjaskovského a profesor moskevské konzervatoře, je autorem oper Colas Breugnon a Tarasova rodina i hudby k filmu Odvážná školačka; hodně psal pro děti, zvlášť pionýrské sbory, a zabýval se hudební výchovou na školách.*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

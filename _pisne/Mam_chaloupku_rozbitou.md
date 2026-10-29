@@ -23,6 +23,6 @@ Je to na tom světě tak,
 má se člověk mnohem hůř –  
 než při lenošení!
 
-*Píseň na nápěv lidové „Roztrhané chalupy“ zlidověla v Podkrkonoší a posmívá se tomu, jak kapitalistický řád „podle zákona“ bere pracujícím výsledky jejich práce. Zpěvník ji otiskl podle rukopisného záznamu z počátku 90. let 19. století.*
+*Píseň na nápěv lidové „Roztrhané chalupy“ zlidověla v Podkrkonoší. Zpěvník ji otiskl podle rukopisného záznamu z počátku 90. let 19. století.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -58,6 +58,6 @@ Rusky:
 И стояли молча трактористы,  
 А в степи заря цвела.  
 
-*Baladu o námořnících padlých v bojích u Stalingradu složil v roce 1948 Valentin Makarov na slova básníka a válečného zpravodaje Jevgenije Dolmatovského (1915–1994); spolu s Rodným Sevastopolem a cyklem Солнечная дорога za ni Makarov dostal v roce 1950 Stalinovu cenu. Makarov (1908–1952) prošel válkou u Černomořského loďstva a zemřel ve 44 letech. Pro mužský sbor ji upravil M. Munclinger.*
+*Baladu o námořnících padlých v bojích u Stalingradu složil v roce 1948 Valentin Makarov na slova básníka a válečného zpravodaje Jevgenije Dolmatovského (1915–1994); spolu s Rodným Sevastopolem a cyklem Солнечная дорога za ni Makarov dostal v roce 1950 Stalinovu cenu. Makarov (1908–1952) prošel válkou u Černomořského loďstva a zemřel ve 44 letech.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

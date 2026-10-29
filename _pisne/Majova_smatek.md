@@ -27,6 +27,6 @@ svorná práce v ráj zemi naši promění!
 
 Refrén
 
-*Hudbu složil Miloš Smatek (1895–1974, původním jménem Miroslav Jan Smeták), který studoval ve Vídni kontrabas a skladbu, po roce 1919 hrál v České filharmonii a byl kapelníkem pražských kabaretů a operetních scén a od roku 1932 skládal hudbu k filmům; napsal také operu Čachtická paní (1931). O autorovi slov K. Barochovi se nepodařilo nic zjistit.*
+*Hudbu složil Miloš Smatek (1895–1974, původním jménem Miroslav Jan Smeták), který studoval ve Vídni kontrabas a skladbu, po roce 1919 hrál v České filharmonii a byl kapelníkem pražských kabaretů a operetních scén a od roku 1932 skládal hudbu k filmům; napsal také operu Čachtická paní (1931).*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

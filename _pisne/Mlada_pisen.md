@@ -33,6 +33,6 @@ přidej též paži svoji,
 ať pomůže nám k cíli blíž,  
 k cíli blíž!  
 
-*Svižná mládežnická píseň, kterou si mnoho mládežnických souborů lidové tvořivosti zvolilo za znělku svých programů. Skladatel Jan Kapr (1914–1988) byl v té době jedním z nejprominentnějších autorů budovatelských písní: v roce 1953 dostal Státní cenu „za bohatou tvorbu v oblasti budovatelských písní z roku 1952“, v 60. letech se však obrátil k moderním kompozičním směrům. Autorka textu Anna Hostomská (1907–1995) byla dlouholetá redaktorka Československého rozhlasu a popularizátorka opery.*
+*Mnoho mládežnických souborů lidové tvořivosti si píseň zvolilo za znělku svých programů. Skladatel Jan Kapr (1914–1988) byl v té době jedním z nejprominentnějších autorů budovatelských písní: v roce 1953 dostal Státní cenu „za bohatou tvorbu v oblasti budovatelských písní z roku 1952“, v 60. letech se však obrátil k moderním kompozičním směrům. Autorka textu Anna Hostomská (1907–1995) byla dlouholetá redaktorka Československého rozhlasu a popularizátorka opery.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

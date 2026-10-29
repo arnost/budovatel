@@ -10,6 +10,6 @@ ze všech letí pozdrav dětí jak bílé holubičky.
 Za to, že má táta práci, za to, že si můžem hrát,  
 chcem Vám, pane presidente, písničkou poděkovat.
 
-*Dětské poděkování prezidentovi složil Alois Šebestík na slova Z. Horala; píseň má ve zpěvníku jedinou sloku. Jméno prezidenta text neuvádí – v době vydání zpěvníku (1955) byl prezidentem Antonín Zápotocký.*
+*Jméno prezidenta text neuvádí – v době vydání zpěvníku (1955) byl prezidentem Antonín Zápotocký.*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

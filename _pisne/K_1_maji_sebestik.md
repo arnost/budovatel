@@ -30,6 +30,4 @@ a začalo teple hřát.
 
 Refrén
 
-*Dětskou prvomájovou píseň složil Alois Šebestík na slova Z. Horala, autorů písní Maminkám a Písnička panu presidentovi ze stejného zpěvníku. Sloka v A dur se ptá slunce, co se to děje, refrén v D dur odpovídá: jdeme přivítat máj, aby stále vlál prapor míru.*
-
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

@@ -20,6 +20,6 @@ půjde za mír s námi bojovat!
 
 *Znovu od začátku:* My stavíme, stavíme nový svět...
 
-*Píseň Jiřího Pauera o radosti z budování a z práce pro mír; ve zpěvníku je zapsaná dvojhlasně, druhý hlas opakuje slova po prvním. Brzy ji zařadila do repertoáru řada souborů lidové tvořivosti. Jiří Pauer (1919–2007) pocházel z hornické rodiny z Libušína; později byl uměleckým ředitelem České filharmonie (1958–1980) a ředitelem Národního divadla (1979–1989), roku 1979 byl jmenován národním umělcem.*
+*Brzy ji zařadila do repertoáru řada souborů lidové tvořivosti. Jiří Pauer (1919–2007) pocházel z hornické rodiny z Libušína; později byl uměleckým ředitelem České filharmonie (1958–1980) a ředitelem Národního divadla (1979–1989), roku 1979 byl jmenován národním umělcem.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

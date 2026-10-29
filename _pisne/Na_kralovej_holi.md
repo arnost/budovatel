@@ -27,5 +27,5 @@ Boh do krivdy hromom a my zas guľami.
 Medzi nás, šuhaji, medzi nás a Boh dá:  
 Bude Slovák ešte, čím býval inohdá.  
 
-*Slovenská zbojnická píseň, v níž se zbojníci zastávají nejen chudých, ale i práv slovenského národa. Zpěvník ji přebírá ze sbírky Ludvíka Kuby Slovanstvo ve svých zpěvech.*  
+*Zpěvník ji přebírá ze sbírky Ludvíka Kuby Slovanstvo ve svých zpěvech.*  
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

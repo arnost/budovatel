@@ -50,6 +50,6 @@ budiž tvému jménu čest,
 chvála na věky věkoma!  
 Po nepřátelském atd.  
 
-*Husitská píseň k uvítání bojovníků vracejících se z vítězné bitvy a k díkůvzdání za vítězství; vznikla pravděpodobně v okruhu táborského kněze Jana Čapka a je zapsána v Jistebnickém kancionálu.*
+*Husitská píseň vznikla pravděpodobně v okruhu táborského kněze Jana Čapka a je zapsána v Jistebnickém kancionálu.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

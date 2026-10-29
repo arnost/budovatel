@@ -84,6 +84,6 @@ Rusky:
 
 Припев  
 
-*Vojenskou častušku složil V. Makarov na slova básníka Sergeje Alymova (1892–1948), účastníka Velké vlastenecké války, který zahynul při autonehodě v dubnu 1948; text o poraženém Hitlerovi a „podněcovatelích války“ tak vznikl v letech 1945–1948. Pro sóla, sbor a harmoniku ji upravil K. K. Chvalovský.*
+*Slova napsal básník Sergej Alymov (1892–1948), účastník Velké vlastenecké války, který zahynul při autonehodě v dubnu 1948; text o poraženém Hitlerovi a „podněcovatelích války“ tak vznikl v letech 1945–1948.*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

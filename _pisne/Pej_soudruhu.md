@@ -58,6 +58,6 @@ Rusky:
 Ведь недаром с каждым поколеньем  
 Сила нашей юности растёт.  
 
-*Hudbu složil Zinovij Kompanějec (1902–1987), slova napsal Lev Ošanin (1912–1996), jeden z nejznámějších sovětských textařů (Dorogi, 1945), nositel Stalinovy ceny za rok 1950. Úvodní verš odkazuje na populární Píseň o Kachovce I. Dunajevského a M. Svetlova z filmu Tři soudruzi (1935). Píseň vzpomíná na boje u Kachovky v roce 1920 a na válku, která začala v roce 1941. Pro sólo, dvojzpěv, mužský sbor a klavír ji upravil K. K. Chvalovský.*
+*Hudbu složil Zinovij Kompanějec (1902–1987), slova napsal Lev Ošanin (1912–1996), jeden z nejznámějších sovětských textařů (Dorogi, 1945), nositel Stalinovy ceny za rok 1950. Úvodní verš odkazuje na populární Píseň o Kachovce I. Dunajevského a M. Svetlova z filmu Tři soudruzi (1935).*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

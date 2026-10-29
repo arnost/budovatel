@@ -148,5 +148,5 @@ bychom tvé pravdy
 mohli uhájiti,  
 mnichy zervati.  
 
-*Píseň o pánu z Kunštátu Bočkovi, který se mnichům krutě vysmál za to, že farář nechtěl pohřbít jeho rychtáře. Nápěv byl rozšířen už od 16. století a zpívaly se na něj i církevní písně; zpěvník ji přebírá ze sbírky Čeňka Holase České národní písně a tance.*  
+*Nápěv byl rozšířen už od 16. století a zpívaly se na něj i církevní písně; zpěvník ji přebírá ze sbírky Čeňka Holase České národní písně a tance.*  
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

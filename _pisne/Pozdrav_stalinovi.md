@@ -21,6 +21,6 @@ Vše, co je velké a co je krásné,
 Vás, Vás, Vás, milovaný Staline.  
 Vás!  
 
-*Kaprova píseň na slova K. M. Wallóa uzavírá dokumentární film Rok stalinské epochy; zdraví Stalina jako strůjce velkých staveb komunismu. Dokument Rok stalinské epochy (1951) natočil sám Walló jako režisér a scenárista. Karel Michal Walló (1914–1990), vlastním jménem Ladislav Walló, byl básník, filmový režisér a hlavně zakladatel českého dabingu; populární je například jeho dabingový překlad Mrazíka.*
+*Píseň uzavírá dokumentární film Rok stalinské epochy. Dokument Rok stalinské epochy (1951) natočil sám Walló jako režisér a scenárista. Karel Michal Walló (1914–1990), vlastním jménem Ladislav Walló, byl básník, filmový režisér a hlavně zakladatel českého dabingu; populární je například jeho dabingový překlad Mrazíka.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

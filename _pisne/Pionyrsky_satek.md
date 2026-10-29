@@ -23,6 +23,6 @@ kdo budují svou zem.
 
 Refrén
 
-*Píseň složil Alois Šebestík na slova Jana Aldy, což byl pseudonym básníka, překladatele a novináře Alexandra Hořejšího (1901–1970), bratra básníka Jindřicha Hořejšího.*
+*Jan Alda byl pseudonym básníka, překladatele a novináře Alexandra Hořejšího (1901–1970), bratra básníka Jindřicha Hořejšího.*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

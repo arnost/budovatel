@@ -23,5 +23,5 @@ može ít sprobovat,
 šak mu budú drábi  
 na zádech bubnovat.  
 
-*Lidová píseň z Velké o robotě; i když mluví o těžké dřině, její pevná a zpěvná melodie se jí nepoddává.*  
+*Lidová píseň z Velké.*  
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -112,6 +112,6 @@ Rusky:
 Сталин нас ведёт к победам!  
 Припев  
 
-*Pochodovou píseň složil sovětský skladatel Valentin Kručinin (1892–1970) na slova M. Borodovského. Kručinin, rodák z Rostova na Donu, psal operety, filmovou hudbu a hlavně pochody a suity pro dechovou hudbu (šest vojenských suit z let 1936–1953). Pro mužský sbor s harmonikou ji upravil J. Matěj.*
+*Sovětský skladatel Valentin Kručinin (1892–1970), rodák z Rostova na Donu, psal operety, filmovou hudbu a hlavně pochody a suity pro dechovou hudbu (šest vojenských suit z let 1936–1953).*
 
 *Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*

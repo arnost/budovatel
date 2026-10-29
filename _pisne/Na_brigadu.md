@@ -23,6 +23,4 @@ na zahrádce zavoní.
 
 Refrén
 
-*Píseň o školní brigádě na úpravě hřiště a zahrady složil Alois Šebestík, autor i další písně tohoto zpěvníku, Naše mámy, na slova O. Bárty, který do zpěvníku přeložil také ruské písně Sovětští vojáci a Strojvůdcova písnička. V taktech, kde zpěv odpočívá, je v notách nástrojová fanfára.*
-
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

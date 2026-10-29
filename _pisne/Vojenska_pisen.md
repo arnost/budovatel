@@ -19,4 +19,4 @@ a mysleli, že nedojdem.
 Když víš, kde hledat pramen síly,  
 vyhráno je už před bojem.  
 
-*Báseň vyšla už v roce 1954 v almanachu Rozlet: Almanach nových autorů (sv. 1, s. 78), rok po narození písničkáře Jaromíra Nohavici; autorem je tedy nejspíš jeho otec, Jaromír Nohavica starší.*
+*Báseň vyšla pod názvem Vojenská píseň v roce 1954 v almanachu začínajících autorů Rozlet (Mladá fronta, s. 78), podepsaná Jaromír Nohavica; ve stejném sborníku má i básně Sovětský voják a Posvítili si. Písničkář Jaromír Nohavica se narodil teprve v roce 1953, autorem je tedy jeho otec.*

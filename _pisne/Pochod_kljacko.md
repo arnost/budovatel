@@ -2,7 +2,7 @@
 title: Pochod
 obdobi: budovatelske
 music: S. V. Kljačko
-text: J. Urban
+text: Josef Urban
 ---
 
 Ráz, dva, levá! Ráz, dva, levá!  
@@ -15,6 +15,6 @@ Pro vlast pracovat chcem, všechny cíl nás jeden spoj,
 a vlast když zavolá, směle půjdem za ni v boj. Ej!  
 Ráz, dva, levá! Ráz, dva, levá!
 
-*Školní pochod složil S. V. Kljačko, slova napsal J. Urban, nejspíš Josef Urban, který v 50. letech přebásnil řadu sovětských masových písní.*
+*Školní pochod složil S. V. Kljačko, slova napsal Josef Urban, který v 50. letech přebásnil řadu sovětských masových písní.*
 
 *Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

@@ -2,7 +2,7 @@
 \header {
         title = "Pochod"
         composer = "S. V. Kljačko"
-        poet = "J. Urban"
+        poet = "Josef Urban"
 }
 
 melody = \relative c'' {

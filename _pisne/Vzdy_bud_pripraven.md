@@ -3,7 +3,7 @@ title: Vždy buď připraven
 obdobi: mezivalecne
 music: Děškin
 text: A. Žarov
-preklad: J. Urban
+preklad: Josef Urban
 ---
 
 Zaplápolejte,  

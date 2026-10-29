@@ -1,7 +1,8 @@
 ---
 title: Píseň o setkání
-obdobi: budovatelske
-text: Pavel Kohout
+autor: Pavel Kohout
+vydal: Dikobraz
+rok: "1953"
 ---
 
 Je to dojemná i bohatýrská píseň  
@@ -42,3 +43,5 @@ sblížili nás navěky svým životem,
 spojili nás navěky i smrtí.
 
 *Báseň reaguje na smrt J. V. Stalina (5. března 1953) a Klementa Gottwalda, který zemřel 14. března 1953, tři dny po návratu ze Stalinova pohřbu v Moskvě.*
+
+*Báseň k úmrtí Stalina a Gottwalda v březnu 1953 otiskl časopis Dikobraz (1953, č. 12).*

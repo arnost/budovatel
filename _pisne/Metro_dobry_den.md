@@ -1,7 +1,7 @@
 ---
 title: Metro, dobrý den
 obdobi: normalizacni
-music: Jiří Schelinger
+music: Black Sabbath
 text: František Ringo Čech
 youtube: xXgNmmVzLBI
 ---

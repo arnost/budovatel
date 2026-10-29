@@ -1,3 +1,12 @@
+# Básně přesunuté ze sekce písní (říjen 2026)
+[[redirects]]
+  from = "/pisen.phtml/pisen_o_setkani"
+  to = "/poezie.phtml/pisen_o_setkani"
+
+[[redirects]]
+  from = "/pisen.phtml/zednicka"
+  to = "/poezie.phtml/zednicka"
+
 # Stare adresy prejmenovanych souboru (mezera v nazvu)
 [[redirects]]
   from = "/poezie.phtml/Zacina_novy-den"

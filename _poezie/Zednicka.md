@@ -1,7 +1,8 @@
 ---
 title: Zednická
-obdobi: budovatelske
-text: Karel Biňovec
+autor: Karel Biňovec
+vydal: Ukazovatel našich úspěchů a nedostatků
+rok: "1954"
 ---
 
   

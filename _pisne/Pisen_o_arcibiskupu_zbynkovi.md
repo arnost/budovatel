@@ -54,7 +54,7 @@ plémě české poctivé,
 nelze, by bylo bludné,  
 všecky země pějí.  
 
-*Píseň míří proti pražskému arcibiskupovi Zbyňku Zajícovi z Hasenburka, který nesplnil dohodu s králem Václavem IV. z roku 1411 o očištění Čech z pověsti kacířství; vznikla ještě téhož roku, kdy Zbyněk v září zemřel. Zachovala se v Jistebnickém kancionálu.*
+*Píseň míří proti pražskému arcibiskupovi Zbyňku Zajícovi z Hasenburka, který nesplnil dohodu s králem Václavem IV. z roku 1411 o očištění Čech z pověsti kacířství; vznikla ještě téhož roku, kdy Zbyněk v září zemřel. Zachovala se v Jistebnickém kancionálu. Zbyněk Zajíc z Hazmburka (asi 1376–1411) byl pražským arcibiskupem od roku 1403; v červenci 1410 dal na dvoře svého malostranského paláce spálit Viklefovy spisy a Husa dal do klatby, a když se ani po smíru s králem necítil v Praze bezpečný, odjel do Uher a cestou zemřel v Prešpurku (Bratislavě).*
 
 *Refrén 2. sloky ve zpěvníku doplnil Zdeněk Nejedlý podle 3. sloky; verš „rci, ať Hus ti káže“ je v rukopise nesrozumitelný („ať húsky káží“).*
 

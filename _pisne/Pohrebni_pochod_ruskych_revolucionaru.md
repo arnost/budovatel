@@ -47,6 +47,8 @@ za ni zazní vám pozdrav ,,Práci čest!''
 Jan Urban sice uvádí inicály autora V. G. Archangelskij, ale z ruských zdrojů je jasné, že se jedná o A. Archangelského, což byl pseudonym básníka Antona Aleksandroviče Amosova, viz výše a tež [zde](https://web.archive.org/web/20241207230046/https://writers.aonb.ru/amosov-a.a.html), jehož biografie je poměrně chudá.*
 
 
+*Podle ruské Wikipedie složil Amosov text v 70. letech 19. století ze dvou svých básní a zpíval se na nápěv písně „Не бил барабан перед смутным полком…“, kterou ve 30. letech 19. století složil Alexandr Varlamov. Píseň zněla na pohřbech obětí revoluce 1905 a byla zakázána, desky s ní se pašovaly ze zahraničí; legálně ji poprvé zpívali 23. března 1917 v Petrohradě na pohřbu obětí únorové revoluce. V letech 1918–1932 hrály její melodii kuranty Spasské věže Kremlu, zazní v hudbě Edmunda Meisela k Eisensteinovu Křižníku Potěmkinovi a Šostakovič ji použil ve třetí větě své 11. symfonie.*
+
 **Вы жертвою пали**
 
   

@@ -40,3 +40,5 @@ Teď je teprv spokojen
 a co dodat více?  
 On je vzorný družstevník,  
 selka družstevnice.
+
+*Hudbu složil pražský skladatel, hudební redaktor a pedagog Jiří Válek (1923–2005).*

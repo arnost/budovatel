@@ -4,6 +4,7 @@ obdobi: sedesata
 music: Jaromír Hnilička
 text: Pavel Pácl
 youtube: eF5HZUFUdKA
+wikipedie: "Pozdrav astronautovi"
 ---
 
 *Ostrava, 12.dubna 1961  
@@ -38,3 +39,5 @@ Já to tak zazpívat nedovedu,
 trémou se třese mi dneska hlas.  
 Máte prý, majore, dvacet sedum  
 a svět je mladý podle vás.
+
+*Píseň, známá též jako Pozdrav astronautovi nebo Dobrý den, majore Gagarine, vznikla ještě v den letu Jurije Gagarina: text napsal ostravský rozhlasový redaktor Pavel Pácl asi za dvě hodiny, hudbu Jaromír Hnilička (1932–2016), trumpetista Bromova orchestru, a téhož dne ji vysílalo ostravské studio Československého rozhlasu. Deska Supraphonu byla natočena o tři dny později. Píseň byla populární i v Sovětském svazu a pomohla přijetí jazzu ve východním bloku; Hnilička se po okupaci v srpnu 1968 zřekl autorských práv a Brom se k ní na stará kolena nerad hlásil. V roce 2007 ji Jan Vyčítal přetextoval na „Dobrý den, prapore hvězd a pruhů“ na podporu amerického radaru v Brdech.*

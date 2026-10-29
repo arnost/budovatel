@@ -46,6 +46,6 @@ do boje povedou nás! :|
 
 \* Často se zpívalo také „to Rakousko zpuchřelé“.
 
-*Text napsal právník Jindřich Štemberka na podzim 1893, kdy policie zatýkala omladináře; melodii si vypůjčil z jihočeské studentské písně „Když jsem já šel tou putimskou branou“. Píseň pak zlidověla mezi dělníky, kteří si její text po svém upravili.*
+*Text napsal právník Jindřich Štemberka na podzim 1893, kdy policie zatýkala omladináře; melodii si vypůjčil z jihočeské studentské písně „Když jsem já šel tou putimskou branou“. Píseň pak zlidověla mezi dělníky, kteří si její text po svém upravili. Štemberka (1867–1926) se jako student zapojil do pokrokového studentského hnutí; později byl advokátem v Rychnově nad Kněžnou, v roce 1908 poslancem Českého zemského sněmu a propagátorem turistiky v Orlických horách.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

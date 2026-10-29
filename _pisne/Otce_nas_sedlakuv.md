@@ -88,5 +88,5 @@ od zlého.
 Dej, Bože, v biči stálost  
 a po smrti v nebi radosť. Amen.  
 
-*Selská parodie modlitby Otčenáš (latinsky Pater noster rusticorum), obžaloba vrchnosti, která vznikla kolem roku 1775 v době selského povstání; tuto verzi zapsal F. J. Vavák. Zpěvník ji otiskuje bez nápěvu.*  
+*Selská parodie modlitby Otčenáš (latinsky Pater noster rusticorum), obžaloba vrchnosti, která vznikla kolem roku 1775 v době selského povstání; tuto verzi zapsal F. J. Vavák. Zpěvník ji otiskuje bez nápěvu. Povstání na jaře 1775 předcházely neúrody let 1769–1770, hladomor s více než 250 tisíci obětí a pověst o „zlatém patentu“, jímž měl panovník poddané osvobodit; vzbouřence sjednocovalo takzvané selské guberno rychtáře Antonína Nývlta ze Rtyně v Podkrkonoší. František Jan Vavák (1741–1816) byl rychtář v Milčicích u Nymburka, písmák a kronikář, jehož paměti z let 1770–1816 vyšly knižně až od roku 1910.*  
 *Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

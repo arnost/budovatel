@@ -36,6 +36,6 @@ stáda zbabělá fašistických hord:
 poznají naše svaly i pěsti,  
 poznají všichni, co je rudý sport.  
 
-*Pochod vznikl v roce 1934 pro Federaci proletářské tělovýchovy, původně jako součást manifestačního vystoupení rudých sportovců.*
+*Pochod vznikl v roce 1934 pro Federaci proletářské tělovýchovy, původně jako součást manifestačního vystoupení rudých sportovců. Federace proletářské tělovýchovy byla komunistická tělovýchovná organizace, která působila v letech 1926–1938 a po Mnichovu byla rozpuštěna spolu s KSČ. Skladatel Vít Nejedlý (1912–1945), syn Zdeňka Nejedlého, navštívil v roce 1934 Sovětský svaz; za války vedl hudební četu československé brigády v SSSR, z níž vznikl Armádní umělecký soubor, a zemřel na tyfus v době bojů o Dukelský průsmyk.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

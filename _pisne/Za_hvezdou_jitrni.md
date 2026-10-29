@@ -28,7 +28,8 @@ a tížila nás tíhou svou
 *Původně populární lidová píseň, která to dotáhla až na oficiální hymnu Tirol: [Zu Mantua in Banden](https://en.wikipedia.org/wiki/Zu_Mantua_in_Banden)
 v roce 1907 byla přetextována A. Eildermann na verzi [Dem_Morgenrot_entgegen](https://de.wikipedia.org/wiki/Dem_Morgenrot_entgegen) а stala se neoficilní hymnou demokratická mládeže
 Konečně roku 1922 je opatřil ruským textem a názvem [Молодая гвардия](https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D1%8F_%D0%B3%D0%B2%D0%B0%D1%80%D0%B4%D0%B8%D1%8F_(%D0%BF%D0%B5%D1%81%D0%BD%D1%8F)) Alexander Iljitsch Besymenski
-O historii ruské verze, například o tom, že měla být pr svůj neproletářský původ zakázána se lze dočíst [zde](http://a-pesni.org/drugije/molgvard.htm)*
+O historii ruské verze, například o tom, že měla být pr svůj neproletářský původ zakázána se lze dočíst [zde](http://a-pesni.org/drugije/molgvard.htm).
+Brémský učitel a sociální demokrat Heinrich Eildermann (1879–1955) napsal text pod názvem Lied der Jugend a poprvé ho otiskl roku 1910 v časopise Arbeiter-Jugend pod pseudonymem Heinrich Arnulf. Nápěv Leopolda Knebelsbergera (1814–1869) je od roku 1948 tyrolskou zemskou hymnou; když v roce 2004 zazněl s Eildermannovým textem na oslavě SPÖ, následovalo trestní oznámení podle zákona o ochraně hymny, který tyrolský zemský sněm poté zmírnil.*
 
 
 Dem Morgenrot entgegen,   

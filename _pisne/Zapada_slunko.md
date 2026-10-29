@@ -24,6 +24,6 @@ pomstěn až bude Komuny hrob: :|
 |: až volnost všude, zrádců nebude,  
 až dělník více nebude rob! :|
 
-*Text napsal stříbrník Norbert Zoula začátkem 70. let 19. století pod dojmem bojů Pařížské komuny; zpívá se na nápěv černohorské vlastenecké písně „Onamo, onamo“ a mezi dělníky patřila k nejoblíbenějším.*
+*Text napsal stříbrník Norbert Zoula začátkem 70. let 19. století pod dojmem bojů Pařížské komuny; zpívá se na nápěv černohorské vlastenecké písně „Onamo, onamo“ a mezi dělníky patřila k nejoblíbenějším. Zoula (1854?–1886) se roku 1878 zúčastnil ustavujícího sjezdu sociální demokracie v Břevnově, byl opakovaně vyšetřován a vězněn a nakonec odešel do USA, kde v Chicagu redigoval časopis Budoucnost; nejznámější z jeho textů je Vězeňská. Slova písně Onamo, ’namo! napsal černohorský kníže Nikola I. Petrović-Njegoš a v letech 1910–1918 byla královskou hymnou Černé Hory.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

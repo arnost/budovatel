@@ -31,3 +31,5 @@ K hlavní své zkoušce teď vzhůru studenti,
 mužně bojujte za mír ve světě!
 
 *Vůle přátel, věrných přátel...*
+
+*Mezinárodní svaz studentstva měl sídlo v Praze. Text hymny napsal podle ruské Wikipedie Lev Ošanin a hudba Vano Muradeliho byla v roce 1951 oceněna Stalinovou cenou. Česká Wikipedie uvádí jako autora českých slov V. Šárovce.*

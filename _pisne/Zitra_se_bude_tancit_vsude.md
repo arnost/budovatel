@@ -52,3 +52,5 @@ láskou chcem hory přenášet,
 Sláva!
 
 R.
+
+*Píseň zazněla ve stejnojmenném propagandistickém filmu Vladimíra Vlčka podle scénáře Pavla Kohouta o mladých svazácích z tanečního souboru, který měl premiéru 24. října 1952; Kohout se od filmu později distancoval. Pěvecky se ve filmu proslavila Jiřina Mikulenková z Československého státního souboru písní a tanců. Ludvík Podéšť (1921–1968) je spolu s Vítem Nejedlým a Radimem Drejslem počítán ke klasikům budovatelské písně, v letech 1953–1956 vedl Armádní umělecký soubor Víta Nejedlého.*

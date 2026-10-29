@@ -43,3 +43,5 @@ těch dnů kdy zněl ten refréééén
 Mám chuť žít   
 Mám chuť žít  
 Mám chuť žít  
+
+*Olympic vydal píseň v roce 1975 na singlu s písní Pojď blíž, pojď k nám.*

@@ -84,3 +84,5 @@ včerejší dni na shledání,
 spějme vítat nový den.
 
 *Refrén:*
+
+*Originál Москва майская (Utro krasit nežnym světom…) napsali bratři Dmitrij (1899–1978) a Daniil (1905–1954) Pokrassové na slova Vasilije Lebeděva-Kumače (1898–1949) v roce 1937, podle ruské Wikipedie pro film Двадцатый май. Píseň se stala ústřední hudbou sovětských oslav 1. máje a dodnes se hraje při slavnostech města Moskvy. V 60. letech byly z některých písní bratří Pokrassů vypuštěny zmínky o Stalinovi, jakou obsahuje i 3. sloka českého překladu.*

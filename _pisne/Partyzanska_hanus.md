@@ -19,6 +19,6 @@ prsia vypni, slávu sej!
 My sľubujeme, železní chlapci,  
 udatnosť, hrdosť našej vlasti.  
 
-*Jan Hanuš píseň o slovenských partyzánech zkomponoval v létě 1945 na anonymní text vojáka československých jednotek v SSSR jako součást své montáže „Lví stopou“ pro Armádní umělecký soubor Víta Nejedlého; později získala ocenění v soutěži ROH „Zpíváme ve dvouletce“.*
+*Jan Hanuš píseň o slovenských partyzánech zkomponoval v létě 1945 na anonymní text vojáka československých jednotek v SSSR jako součást své montáže „Lví stopou“ pro Armádní umělecký soubor Víta Nejedlého; později získala ocenění v soutěži ROH „Zpíváme ve dvouletce“. Jan Hanuš (1915–2004) se později proslavil hlavně symfoniemi, operami a duchovní hudbou a jako hudební redaktor se podílel na kritických vydáních děl Dvořáka, Fibicha a Janáčka.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -47,4 +47,4 @@ Uvádí se, že píseň zkomponoval Andreas Leonhardt, další verzi upravil v r
 
 zdroj [Sv. Sidonie](https://drobnostisv-sidonie.webnode.cz/news/budovatelske-pisne-meho-mladi/)
 
-*Noty a 2. sloka podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953), podle něhož píseň složil Norbert Zoula koncem roku 1881 ve vězení pro povzbuzení spoluvězňů, na nápěv lidové vojenské písně „Alou, páni muzikanti“.*
+*Noty a 2. sloka podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953), podle něhož píseň složil Norbert Zoula koncem roku 1881 ve vězení pro povzbuzení spoluvězňů, na nápěv lidové vojenské písně „Alou, páni muzikanti“. Norbert Zoula (1854–1886) byl sociálně demokratický novinář, příznivec anarchismu; po propuštění z vězení odešel v roce 1883 do USA, v Chicagu vydával list Budoucnost a zemřel v Kalifornii na tuberkulózu, kterou se nakazil ve vězení. Píseň proslavil zvláště román Antonína Zápotockého Vstanou noví bojovníci (zfilmovaný roku 1950), jehož název cituje její verš.*

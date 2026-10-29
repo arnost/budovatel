@@ -33,3 +33,5 @@ v družstvu pole obděláme,
 sami si to požehná me,   
 v družstvu pole obděláme,   
 sami si to požehná me.
+
+*Jaromír Podešva (1927–2000) byl brněnský hudební skladatel a pedagog.*

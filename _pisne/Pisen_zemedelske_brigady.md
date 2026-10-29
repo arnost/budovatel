@@ -38,6 +38,6 @@ urodil se nám chléb.
 
 *Refrén*
 
-*Píseň vznikla roku 1947 a pro svou zpěvnost a optimismus se rychle ujala v souborech lidové tvořivosti.*
+*Píseň vznikla roku 1947 a pro svou zpěvnost a optimismus se rychle ujala v souborech lidové tvořivosti. Textař František Kubr (1905–1958) byl za první republiky jedním z hlavních organizátorů dělnického ochotnického divadla a od roku 1935 sekretářem Svazu dělnických divadelních ochotníků; skladatel Josef Stanislav (1897–1971) se po roce 1948 věnoval hlavně masovým písním a kantátám.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

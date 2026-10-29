@@ -22,3 +22,5 @@ A výška volá i světy vzdálené,
 kdo dálky zdolá pro štěstí země své?  
 Jde kosmonaut a všechny hvězdy mléčné dráhy zná,  
 v něm září věčná síla lidu vítězná.
+
+*Originálem je zřejmě Марш космонавтов skladatele Semjona Zaslavského (1910–1978) na slova Michaila Pljackovského (1935–1991); podle ruské Wikipedie to byla Pljackovského první profesionální píseň, později napsal texty mnoha populárních sovětských písní.*

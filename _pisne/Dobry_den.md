@@ -36,3 +36,5 @@ Nám už nejsou domovem jen kasárna a les,
 Jakoupak si zazpíváme dnes?
 
 refrén
+
+*Ludvík Podéšť (1921–1968), skladatel, dirigent a hudební redaktor, patří spolu s Radimem Drejslem a Vítem Nejedlým ke klasikům budovatelské písně počátku 50. let.*

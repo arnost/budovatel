@@ -42,6 +42,6 @@ Ten práce sen dnes plnit jdem.
 Vy příkladem, jak bohatství zemi dát,  
 věčný mír a život všem!  
 
-*Autoři napsali píseň v roce 1933 na palubě sovětské lodi cestou domů z návštěvy SSSR, jejíž dojmy chtěli předat českým dělníkům. Poprvé vyšla ve sborníku Proletářské písně (1935), druhá sloka vznikla úpravou textu v roce 1945.*
+*Autoři napsali píseň v roce 1933 na palubě sovětské lodi cestou domů z návštěvy SSSR, jejíž dojmy chtěli předat českým dělníkům. Poprvé vyšla ve sborníku Proletářské písně (1935), druhá sloka vznikla úpravou textu v roce 1945. Josef Stanislav (1897–1971) v téže době komponoval i pantomimy se sovětskou tematikou (Hlasy nad tajgou a Turksib, obě 1933).*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

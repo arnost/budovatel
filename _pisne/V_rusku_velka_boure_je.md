@@ -56,7 +56,7 @@ car se roztrh' na kusy.
 Kdo chce nyní carem být,  
 musí šňupat dynamit!
 
-*Anarchisticko-revoluční píseň z počátku 80. let 19. století ukazuje, jak silně u nás zapůsobilo ruské revoluční hnutí; hrála svou roli ještě za ruské revoluce roku 1905. První takt každé sloky se zpíval zadržovaně s důrazem na každou slabiku a zpěv obvykle končil zvoláním „Ať žije revoluce!“*
+*Anarchisticko-revoluční píseň z počátku 80. let 19. století ukazuje, jak silně u nás zapůsobilo ruské revoluční hnutí; hrála svou roli ještě za ruské revoluce roku 1905. První takt každé sloky se zpíval zadržovaně s důrazem na každou slabiku a zpěv obvykle končil zvoláním „Ať žije revoluce!“ Sloky připomínají skutečné události let 1878–1879: Věra Zasuličová v lednu 1878 postřelila petrohradského gubernátora Fjodora Trepova, šéfa četnictva Nikolaje Mezencova zabil téhož roku Sergej Kravčinskij, narodnika Ivana Kovalského v srpnu 1878 popravili v Oděse a charkovského gubernátora knížete Dmitrije Kropotkina zastřelil v únoru 1879 Grigorij Goldenberg.*
 
 V první sloce se častěji zpívalo „je už celá pitomá“, poslední verš 9. sloky se zpíval také „zbudují vám občinu“ nebo „svobodu“.
 

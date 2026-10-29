@@ -28,3 +28,5 @@ V socialismu plnit plány,
 to slibujem a dokážem!
 
 (poslední sloku zpívat rychleji)
+
+*Hudbu složil brněnský skladatel a hudební kritik Miroslav Barvík (1919–1998), text Karel Michal Walló (1914–1990), vlastním jménem Ladislav Walló, režisér, spisovatel a překladatel, považovaný za zakladatelskou osobnost českého dabingu.*

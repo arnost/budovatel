@@ -29,3 +29,5 @@ Za socialismus, za lepší svět,
 je do práce čas.
 
 *Refrén:*
+
+*Hudbu složil dirigent a skladatel Jan Tausinger (1921–1980), syn českého emigranta, narozený v rumunském městě Piatra Neamț.*

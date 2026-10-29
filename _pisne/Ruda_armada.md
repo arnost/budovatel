@@ -30,3 +30,5 @@ s námi si zazpívej do kroku
 pěst Rudé armády hovoří.
 
 *Refrén:*
+
+*Česká verze sovětské písně „Красная Армия всех сильней“ („Bílá armáda, černý baron…“). Podle ruské Wikipedie ji v roce 1920 pro vojska Kyjevského vojenského okruhu napsali skladatel Samuil Pokrass (1897–1939) a básník Pavel Grigorjev, vlastním jménem Gorinštejn (1895–1961), jako ohlas na útok Wrangelovy armády z Krymu. Tiskem vyšla až roku 1925 pod různými názvy (mj. „Od tajgy k britským mořím“), ustálený název má od roku 1937 a autory určil muzikolog A. V. Šilov až v 50. letech, což někteří zpochybňují. V cizině je známá jako „Pochod Rudé armády“.*

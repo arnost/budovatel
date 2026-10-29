@@ -35,6 +35,6 @@ nestaví domy, staví mír!
 Náš zedník cihlu k cihle klade,  
 píská si při tom "Komandír"...
 
-*otištěno v časopise Ukazovatel našich úspěchů a nedostatků, list pracujících národního podniku Vodní stavby, Sezimovo Ústí, 1954*
+*otištěno v časopise Ukazovatel našich úspěchů a nedostatků, list pracujících národního podniku Vodní stavby, Sezimovo Ústí, 1954. Autor Karel Biňovec (1924–1991) byl spisovatel, novinář a režisér; v roce 1968 řídil ostravský rozhlas, roku 1969 byl vyloučen z KSČ a stal se zakázaným autorem, signatářem Charty 77 a po roce 1990 poslancem České národní rady.*
 
 "Komandíra", kterou si zedník píská je píseň [V boj když táhle hrdina Čapajev](/pisen.phtml/v_boj_kdyz_tahl_hrdina_capajev)

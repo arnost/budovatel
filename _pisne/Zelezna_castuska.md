@@ -22,3 +22,5 @@ Dejte pozor, magnáti
 v zemi shnilých svobod:  
 Dnes to žhavé železo  
 poteče vám do bot.  
+
+*Text napsal ostravský spisovatel a překladatel z polštiny Erich Sojka (1922–1997), hudbu Rudolf Kubín (1909–1973), ostravský violoncellista a skladatel, který po válce vedl Hornický umělecký soubor a složil řadu hornických písní a častušek.*

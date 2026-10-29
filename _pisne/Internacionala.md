@@ -79,3 +79,5 @@ rozdmýchejme výheň. Kujme železo, dokud je žhavé.
  
 Internacionálu v podání ,,posledního křesťana" M. C. Putny si mužete
 vyslechnout [zde](/noty/mp3/internacionala-putna.mp3)
+
+*Eugène Pottier (1816–1887) napsal text v roce 1871 po potlačení Pařížské komuny, vydán byl roku 1887. Hudbu složil Pierre Degeyter v Lille o rok později; píseň vyšla bez jeho jména, protože mu hrozila ztráta práce. Od amsterdamského sjezdu II. internacionály v roce 1904 je hymnou mezinárodního dělnického hnutí a do roku 1944 byla i hymnou SSSR. Český překlad pořídili novinář Antonín Macek (1872–1923) a pozdější senátor Josef Skalák (1874–1968); pátou sloku, kterou francouzské soudy považovaly za výzvu ke vzpouře ve vojsku, většina překladů vynechává.*

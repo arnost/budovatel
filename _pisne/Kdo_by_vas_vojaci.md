@@ -17,3 +17,5 @@ nemohl nám rozbít svými bombami.
 Proto vás, vojáci všechen lid  
 miluje, vždyť vy jste jeho tvrz a štít,  
 vždyť vy jste jeho tvrz a štít.
+
+*Básník a překladatel Jan Alda (1901–1970) se jmenoval vlastním jménem Alexandr Hořejší, jeho bratrem byl básník Jindřich Hořejší.*

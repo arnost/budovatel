@@ -62,3 +62,5 @@ a nádherný svět budovat začíná.
 Здоровья, сил и многих лет.  
 За Вами к светлым временам  
 Идем путем побед!
+
+*Píseň zpívá sbor ve finále sovětského filmu Pád Berlína (Падение Берлина, režie Michail Čiaureli, premiéra 21. ledna 1950), k němuž složil hudbu Šostakovič, rok předtím obviněný z formalismu; slova napsal Jevgenij Dolmatovskij. Film je jedním z nejvýraznějších projevů Stalinova kultu, jeho tvůrci včetně Šostakoviče dostali Stalinovu cenu I. stupně a v Karlových Varech získal Křišťálový glóbus. Po XX. sjezdu KSSS, kde jej Chruščov ve svém projevu výslovně zesměšnil, na desítky let zmizel z kin.*

@@ -33,6 +33,6 @@ ať zahřmí salvy děl,
 za slávu naší rodné strany,  
 za Gottwalda vpřed! :|  
 
-*Bojový pochod složil Radim Drejsl roku 1951 pro Armádní umělecký soubor Víta Nejedlého, jehož byl uměleckým vedoucím; zpívá se v něm o oddanosti vojáků vrchnímu veliteli Gottwaldovi.*
+*Bojový pochod složil Radim Drejsl roku 1951 pro Armádní umělecký soubor Víta Nejedlého, jehož byl uměleckým vedoucím; zpívá se v něm o oddanosti vojáků vrchnímu veliteli Gottwaldovi. Drejsl (1923–1953) se stal uměleckým vedoucím souboru v prosinci 1949, ještě jako student AMU, a soubor zprofesionalizoval. Zemřel v dubnu 1953, dva dny po návratu ze zájezdu do SSSR; oficiálně šlo o sebevraždu, rodina a přátelé ale mluvili o vraždě, což se nikdy nepotvrdilo.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

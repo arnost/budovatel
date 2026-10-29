@@ -31,3 +31,5 @@ Zahrajem pak do kvapíku,
 až kulomet zaštěká,  
 |:kdo sáhne na republiku,  
 pozná nás už zdaleka.:|
+
+*Václav Dobiáš (1909–1978) patřil po roce 1948 k nejaktivnějším autorům budovatelských písní a byl poslancem Národního shromáždění za KSČ. Básník František Halas (1901–1949), po válce předseda Syndikátu českých spisovatelů, zemřel v říjnu 1949, píseň tedy vznikla nejpozději tehdy.*

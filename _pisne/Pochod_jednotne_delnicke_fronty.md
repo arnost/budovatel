@@ -32,4 +32,6 @@ zněl dělníků veselý smích.
 
 *Refrén:*
 
+*Text napsal František Kubr (1905–1958), organizátor dělnického ochotnického divadla a od roku 1935 sekretář Svazu DDOČ, hudbu Vít Nejedlý (1912–1945), syn Zdeňka Nejedlého, který za války emigroval do SSSR, vedl hudební četu 1. čs. brigády a v lednu 1945 zemřel na tyfus; po něm byl pojmenován Armádní umělecký soubor.*
+
 *Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*

@@ -21,6 +21,6 @@ nový se rodí svět,
 otevři oči a nastav uši,  
 jdi dopředu a nikdy zpět.  
 
-*Pochodovou píseň napsal Jiří Pauer už v roce 1944, svým duchem — oslavou svobodné země a vírou v lepší život — však patří k písním z doby hned po osvobození v roce 1945.*
+*Pochodovou píseň napsal Jiří Pauer už v roce 1944, svým duchem — oslavou svobodné země a vírou v lepší život — však patří k písním z doby hned po osvobození v roce 1945. Jiří Pauer (1919–2007), syn hornické rodiny z Libušína, tehdy učil na národních školách a soukromě studoval skladbu; později patřil k nejvlivnějším hudebním funkcionářům – byl šéfem opery Národního divadla, uměleckým ředitelem České filharmonie (1958–1980) a v letech 1979–1989 ředitelem Národního divadla.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

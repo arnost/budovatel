@@ -42,6 +42,6 @@ Na válku míří naše kladiva.
 
 *Refrén*
 
-*Karel Reiner a Václav Sýkora ji napsali počátkem září 1950, krátce po vypuknutí korejské války, na podporu korejského lidu; poprvé vyšla v deníku Práce 24. září 1950.*
+*Karel Reiner a Václav Sýkora ji napsali počátkem září 1950, krátce po vypuknutí korejské války, na podporu korejského lidu; poprvé vyšla v deníku Práce 24. září 1950. Skladatel Karel Reiner (1910–1979) prošel za války Terezínem, Osvětimí a táborem Kaufering a na konci války utekl z pochodu smrti.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

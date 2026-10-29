@@ -40,3 +40,5 @@ Lide sovětský jsme spolu v boji svém
 lásku o to větší nikdo nerozdrtí  
 sblížili nás navěky svým životem,  
 spojili nás navěky i smrtí.
+
+*Báseň reaguje na smrt J. V. Stalina (5. března 1953) a Klementa Gottwalda, který zemřel 14. března 1953, tři dny po návratu ze Stalinova pohřbu v Moskvě.*

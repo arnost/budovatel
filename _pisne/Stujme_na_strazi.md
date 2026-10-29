@@ -26,6 +26,6 @@ stůjme na stráži, v ruce zbraň.
 
 *Refrén*
 
-*Pochod Sboru národní bezpečnosti napsali Karel Reiner a Jaroslav Pokorný v roce 1951 – zavázali se k němu při první soutěži lidové umělecké tvořivosti v SNB a Pohraniční stráži.*
+*Pochod Sboru národní bezpečnosti napsali Karel Reiner a Jaroslav Pokorný v roce 1951 – zavázali se k němu při první soutěži lidové umělecké tvořivosti v SNB a Pohraniční stráži. Karel Reiner (1910–1979) přežil za války Terezín, Osvětim i Kaufering a unikl z pochodu smrti; koncem 40. let byl obviněn z formalismu, v 50. letech psal hlavně masové písně a roku 1967 se stal zasloužilým umělcem.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

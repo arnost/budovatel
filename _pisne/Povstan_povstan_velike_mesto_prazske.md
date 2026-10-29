@@ -55,6 +55,6 @@ nade všecky bohy Bohu velikému,
 prosiec, ať dá mier a pokoj lidu českému  
 Amen.  
 
-*Bojová husitská píseň proti králi Zikmundovi, nazývanému v ní babylonským králem. Vznikla zřejmě hned na počátku husitských bouří v Praze pod vlivem kázání Jana Želivského a zachovala se v Jistebnickém kancionálu.*
+*Bojová husitská píseň proti králi Zikmundovi, nazývanému v ní babylonským králem. Vznikla zřejmě hned na počátku husitských bouří v Praze pod vlivem kázání Jana Želivského a zachovala se v Jistebnickém kancionálu. Podle české Wikipedie ji nejspíš složili novoměstští Pražané před polovinou května 1420 jako výzvu Starému Městu (tehdy zvanému Veliké město pražské), které ještě se Zikmundem vyjednávalo, aby se přidalo k ozbrojenému odporu. Do moderní notace ji první přepsal varhaník a skladatel Josef Adolf Bergmann (1822–1901).*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

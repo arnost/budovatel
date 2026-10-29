@@ -1,6 +1,7 @@
 ---
 title: Milion
 obdobi: budovatelske
+wikipedie: "Hudba z Marsu"
 music: Jiří Sternwald
 text:
   - Vratislav Blažek
@@ -30,3 +31,5 @@ třeba milion,
 milion, milion,  
 milion, milion,  
 může nás hrát třeba milion.
+
+*Píseň zazněla ve filmové hudební komedii Jána Kadára a Elmara Klose Hudba z Marsu (premiéra 27. května 1955) o závodním orchestru nábytkářského podniku, kde ji zpívali Oldřich Nový a Josef Bek. Scénář filmu napsali režiséři spolu s Vratislavem Blažkem (1925–1973), pozdějším autorem scénáře muzikálu Starci na chmelu; Blažek v srpnu 1968 emigroval do Západního Německa a zemřel v Mnichově.*

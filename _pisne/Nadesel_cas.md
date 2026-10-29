@@ -23,3 +23,5 @@ Nadešel čas, teď pracující,
 v jednotné fronťe jdem. 
 Nadešel čas. Je třeba říci: 
 naše je tahle zem.
+
+*Básník S. K. Neumann (1875–1947), od roku 1945 národní umělec, zemřel v červnu 1947. Ludvík Podéšť (1921–1968) byl skladatel a dirigent, v letech 1953–1956 vedl Armádní umělecký soubor Víta Nejedlého.*

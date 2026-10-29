@@ -54,4 +54,6 @@ právo každému, kdo ví,
 První Máj ať je svátek bílý,  
 družnosti a nadějí.
 
+*Text napsal básník Josef Hora (1891–1945), který byl in memoriam jako první jmenován národním umělcem; hudbu složil Jan Seidel (1908–1998).*
+
 *Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*

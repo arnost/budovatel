@@ -48,6 +48,6 @@ pro štěstí dětí jdeme všichni vpřed.
 
 *Refrén* (Za věrnost věrnost, lásku za lásku…)
 
-*Píseň vznikla v roce 1951 pro Měsíc československo-sovětského přátelství; skladatel za ni o rok později dostal cenu Osvobození Brna.*
+*Píseň vznikla v roce 1951 pro Měsíc československo-sovětského přátelství; skladatel za ni o rok později dostal cenu Osvobození Brna. Ludvík Podéšť (1921–1968) byl tehdy hudebním referentem brněnského rozhlasu a psal i operety a filmové písně; autor textu Stanislav Zvoníček (1920–1982) byl za války členem písecké komunistické odbojové skupiny a později se stal filmovým kritikem a historikem.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -31,6 +31,6 @@ na počest vítězství,
 |: má země slaví svátek  
 velikého přátelství! :|  
 
-*Píseň vznikla k 35. výročí Říjnové revoluce jako závazek k XIX. sjezdu sovětské komunistické strany (1952) a autoři ji věnovali československo-sovětskému přátelství.*
+*Píseň vznikla k 35. výročí Říjnové revoluce jako závazek k XIX. sjezdu sovětské komunistické strany (1952) a autoři ji věnovali československo-sovětskému přátelství. Rudolf Kubín (1909–1973) byl ostravský violoncellista, skladatel a rozhlasový režisér, autor první české rozhlasové opery Letní noc (1931) a hornické operety Děvčátko z kolonie (1942); po válce vedl Hornický umělecký soubor a psal hornické a masové písně.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

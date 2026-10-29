@@ -41,6 +41,6 @@ to chce každý pionýr!
 Pionýři, pionýři,  
 jako orli vpřed!  
 
-*Píseň Jiřího Strniště na slova Jana Trefulky zvítězila v roce 1952 v soutěži tehdejšího MIO.*
+*Píseň Jiřího Strniště na slova Jana Trefulky zvítězila v roce 1952 v soutěži tehdejšího MIO. Dirigent a skladatel Jiří Strniště (1914–1991) byl v té době dramaturgem Československého státního filmu. Textař Jan Trefulka (1929–2012) byl jako student spolu s Milanem Kunderou vyloučen z KSČ kvůli soukromému dopisu, v němž se posmíval stranickému tajemníkovi (Kundera příhodu zpracoval v Žertu); po roce 1968 nesměl publikovat a podepsal Chartu 77.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

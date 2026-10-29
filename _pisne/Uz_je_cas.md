@@ -55,3 +55,5 @@ prakem na gotický chrám
 co víc mám říct
 
 R 2x
+
+*Píseň skupiny Olympic, zpívá ji Petr Janda. Natočena byla v dubnu 1974 v Československém rozhlase a vyšla na B-straně singlu Samá voda, přihořívá (Supraphon 1974); jiná nahrávka zazněla v televizním filmu Metronom (1974). Anglickou verzi It's High Time skupina vydala na LP Overhead (1978).*

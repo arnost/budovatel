@@ -36,6 +36,6 @@ O jeden máj je náš cíl blíž!
 Rudý prapor se zvedá výš!  
 O jeden máj je náš cíl blíž!  
 
-*Burianův pochod patří k písním, které dělníci za první republiky zpívali na prvomájových průvodech a shromážděních, kde se demonstrovalo za práva dělnické třídy a proti nastupujícímu fašismu.*
+*Burianův pochod patří k písním, které dělníci za první republiky zpívali na prvomájových průvodech a shromážděních, kde se demonstrovalo za práva dělnické třídy a proti nastupujícímu fašismu. Emil František Burian (1904–1959) založil roku 1933 levicové divadlo D 34; v roce 1941 ho gestapo zatklo přímo v divadle a válku přežil v koncentračních táborech, 3. května 1945 se zachránil z lodi Cap Arcona po náletu britského letectva. Roku 1954 byl jmenován národním umělcem.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

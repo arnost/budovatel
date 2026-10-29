@@ -32,3 +32,5 @@ A kráča smelo hrdo vpred
 s červenou zástavou už celý svet!  
 Hej, hej, slnko vychodí:  
 za štestie pracujúcich Strana sa borí!
+
+*Bartolomej Urbanec (1918–1983) byl slovenský skladatel a dirigent, mimo jiné dirigent SĽUKu a v letech 1953–1954 rozhlasového symfonického orchestru v Bratislavě. Motiv této písně sloužil jako znělka bratislavského studia Československého rozhlasu.*

@@ -15,6 +15,6 @@ ten milostpán špaček srdce rozdělí!
 Vrabec mžoural očkem, tvrdil nakonec,  
 |: že je špaček pravý český vlastenec. :|
 
-*Satirická písnička zesměšňující měšťácké vlastenčení; vyšla v časopise Kohoutek (ročník I., č. 9).*
+*Satirická písnička zesměšňující měšťácké vlastenčení; vyšla v časopise Kohoutek (ročník I., č. 9). Autor textu Jan Hostáň (1898–1982) byl levicový spisovatel a pedagog, za první republiky psal hlavně do levicových listů jako Proletkult, Rudé právo či Rudé květy a po roce 1945 přispíval do dětského časopisu Mateřídouška.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

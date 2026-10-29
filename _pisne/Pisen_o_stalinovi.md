@@ -40,3 +40,5 @@ V zemi naší hojnosti jsou zřídla,
 k její slávě písně budou znít.
 
 *Refrén:*
+
+*Originál „Песня о Сталине“ („На просторах Родины чудесной…“) složil v roce 1937 Matvej Blantěr (1903–1990), autor Kaťuše, na slova básníka Alexeje Surkova (1899–1983), pozdějšího dvojnásobného laureáta Stalinovy ceny.*

@@ -37,3 +37,4 @@ Už jsem řek, metro je můj těla a srdce lék,
 metro je vše, metro je dříč,           
 tak metro, dobrý den.
 
+*Skladba A National Acrobat vyšla v roce 1973 na albu Sabbath Bloody Sabbath. Jiří Schelinger (1951–1981) nahrál českou verzi se skupinou Františka Ringo Čecha na album Nemám hlas jako zvon; text oslavuje pražské metro, jehož první úsek byl otevřen 9. května 1974.*

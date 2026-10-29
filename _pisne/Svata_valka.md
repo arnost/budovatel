@@ -115,3 +115,5 @@ S fašístskoj síloj temnuju,
 S prokljátuju ordój.
 
 *Refrén:*
+
+*Text Vasilije Lebeděva-Kumače otiskly Izvestija 24. června 1941, dva dny po německém přepadení Sovětského svazu, a Alexandr Alexandrov (1883–1946) k němu během dvou dnů složil hudbu. Už 27. června píseň provázela vojáky odjíždějící z moskevského Běloruského nádraží a od poloviny října 1941, kdy se fronta přiblížila k Moskvě, ji rozhlas vysílal každý den. Dodnes patří ke stálému repertoáru Alexandrovců a zazněla v řadě filmů, například v Ozerovově epopeji Boj o Moskvu.*

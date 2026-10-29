@@ -1,7 +1,6 @@
 ---
 title: Na Královej holi
 obdobi: selske
-wikipedie: "Na Kráľovej holi"
 ---
 
 Na Kráľovej holi jasná vatra svieti,  

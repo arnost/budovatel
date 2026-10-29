@@ -23,6 +23,6 @@ píseň bouří tmou, naše kroky jdou a s námi všechen lid!
 Soudruzi, do boje jak pramen k ústí řek,  
 píseň bouří tmou, naše kroky jdou, to kráčí nový svět!  
 
-*Pochod složil Jan Kapr v roce 1949 pro film Nové Československo, který byl v roce 1951 oceněn Stalinovou cenou. Tento text Miroslava Kroha se s pochodem ujal mezi vojáky i v souborech lidové tvořivosti.*
+*Pochod složil Jan Kapr v roce 1949 pro film Nové Československo, který byl v roce 1951 oceněn Stalinovou cenou. Tento text Miroslava Kroha se s pochodem ujal mezi vojáky i v souborech lidové tvořivosti. Dokument Nové Československo (premiéra 1950) natočil v sovětsko-československé koprodukci režisér Vasilij Běljajev s Vladimírem Vlčkem; Stalinovu cenu druhého stupně dostal celý tvůrčí kolektiv včetně Kapra.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

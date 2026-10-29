@@ -50,4 +50,6 @@ dneska, chlapci, to je jiná,
 dnes děláme pro sebe.  
 *Refrén:*
 
+*Václav Dobiáš (1909–1978) patřil po roce 1948 k hlavním skladatelům budovatelských písní a byl i poslancem za KSČ; Budujeme stojí v jeho díle vedle písní jako Pojďte s námi na brigádu nebo Píseň o Stalinovi. Od roku 1950 učil skladbu na AMU. Básník František Halas (1901–1949) zemřel už rok po únorovém převratu.*
+
 *Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*

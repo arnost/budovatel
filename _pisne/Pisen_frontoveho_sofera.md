@@ -40,6 +40,8 @@ kam nás vedla cesta frontová.
 Píseň samotná vznikla až po válce, na společenskou objednávku v roce 1947,viz  [historie písně](https://song-story.ru/pesenka-frontovogo-shofera/)
 
  
+*Podle ruské Wikipedie napsali Boris Laskin (1914–1983) a Naum Labkovskij (1908–1989) text jako doplněk k postavě šoféra Minutky, kterého hrál Mark Bernes ve filmu Великий перелом (1945); Bernes byl také prvním zpěvákem písně. Hudbu složil Boris Mokrousov (1909–1968), nositel Stalinovy ceny z roku 1948. Laskin napsal i texty známých písní Tři tankisté a Pochod tankistů.*
+
 **Песенка фронтового шофёра**
 
 Чеpез гоpы, pеки и долины,  

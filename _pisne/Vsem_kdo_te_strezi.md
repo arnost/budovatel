@@ -23,3 +23,5 @@ to všechny byty vybílí zářivé svítaní
 
 Pak teprv oni do skříní stejnokroj skládají,  
 zatím co město s předsíní loudá se k tramvajím.  
+
+*Píseň nazpíval v roce 1980 Pavel Bartoň (vlastním jménem Jiří Šeda, nar. 1950), který předtím zpíval v Armádním uměleckém souboru.*

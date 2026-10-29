@@ -26,6 +26,6 @@ aby nigdy děti
 nepoznaly vojnu,  
 aby mohly šťastně žiť.  
 
-*Píseň složila lidová zpěvačka a básnířka Jiřina Mikulenková po smrti Klementa Gottwalda v březnu 1953; vedle smutku vyjadřuje i slib pokračovat v jeho díle.*
+*Píseň složila lidová zpěvačka a básnířka Jiřina Mikulenková po smrti Klementa Gottwalda v březnu 1953; vedle smutku vyjadřuje i slib pokračovat v jeho díle. Jiřina Mikulenková z Valašska zpívala od počátku v Brněnském rozhlasovém orchestru lidových nástrojů (BROLN), založeném roku 1952.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

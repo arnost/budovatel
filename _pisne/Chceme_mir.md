@@ -37,6 +37,6 @@ výš na svých ramenou.
 
 *Refrén*
 
-*Mládežnická píseň z roku 1952, kterou zpěvník uvádí jako příklad nových písní o boji za mír.*
+*Mládežnická píseň z roku 1952, kterou zpěvník uvádí jako příklad nových písní o boji za mír. Autor textu Karel Šiktanc (1928–2021) se později stal významným básníkem a autorem pohádek pro děti.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -30,3 +30,5 @@ Jednoho rána, jejda, jemine,
 poletíme ke hvězdám.
 
 *Refrén:*
+
+*Textař Erich Sojka (1922–1997) byl spisovatel a překladatel z polštiny, nositel ceny polského PEN klubu (1975) a in memoriam Ceny Františka Filipovského za dabing (1997).*

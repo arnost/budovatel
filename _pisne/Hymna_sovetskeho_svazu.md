@@ -121,3 +121,5 @@ Nas k toržestvú kommunízma ved'ót.)
 
 Výpravnou stránku o pohnuté historii této slavné písně naleznete
 [zde](https://web.archive.org/web/20060111081956/http://www.funet.fi:80/pub/culture/russian/html_pages/soviet.html)
+
+*Hymna vznikla v druhé polovině roku 1943 v soutěži pod Stalinovým dohledem; nahradila Internacionálu, která byla do té doby sovětskou hymnou. Melodii Alexandra Alexandrova používala od roku 1938 jako svou hymnu strana, slova napsali váleční zpravodajové Sergej Michalkov (1913–2009) a El-Registan (vl. jm. Gabriel Urekljan, 1899–1945). Poprvé zazněla 1. ledna 1944, oficiálně platila od 15. března 1944. Po Stalinově smrti se hrála jen bez slov, až v roce 1977 Michalkov text upravil a Stalina z něj vypustil. Melodii s novými Michalkovovými slovy používá od roku 2001 Ruská federace.*

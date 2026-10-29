@@ -31,3 +31,5 @@ a když jeden snad nestačí,
 druhý mu hned pomáhá.  
 
 *Seče se Vltava = přesekává, přetíná se přehradami.*
+
+*Svatopluk Havelka (1925–2009) sloužil tři roky vojenské služby v Armádním uměleckém souboru Víta Nejedlého. Josef Brukner (1932–2015) psal hlavně poezii pro děti a verše k obrázkovým knížkám Josefa Lady; po podpisu petice za propuštění politických vězňů nesměl publikovat a živil se jako varhaník, kostelník nebo topič.*

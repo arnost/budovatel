@@ -83,6 +83,6 @@ Nech žije Stalin!
 Nech žije Sovietsky sväz!  
 (svetový mier!)  
 
-*Kantátu zkomponoval Miroslav Barvík pod dojmem básně Fera Citovského jako ohlas na americkou intervenci v Koreji; ve zpěvníku je otištěna celá jako střídání sóla a sboru.*
+*Kantátu zkomponoval Miroslav Barvík pod dojmem básně Fera Citovského jako ohlas na americkou intervenci v Koreji; ve zpěvníku je otištěna celá jako střídání sóla a sboru. Kantáta pochází z roku 1950. Miroslav Barvík (1919–1998) byl v letech 1949–1953 generálním tajemníkem Svazu československých skladatelů a podílel se na vyřazování moderní hudby z repertoáru; po roce 1968 ho vyloučili z KSČ a odvolali z místa ředitele brněnské opery.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

@@ -29,3 +29,5 @@ Neskloní se z nás nikdo, nechceme žíti v poutech,
 mladogvardějské rudé prapory ať vlají.
 
 *Refrén:*
+
+*Píseň mladogvardějců pochází z opery Mladá garda ukrajinského skladatele Julije Mejtuse (1903–1997) podle Fadějevova románu o odboji komsomolců v Krasnodonu. Libreto napsal Andrij Malyško, ruský překlad Michail Isakovskij. Opera měla premiéru v Kyjevě 7. listopadu 1947 a v roce 1951 za ni Mejtus dostal Stalinovu cenu. Jako první divadlo mimo SSSR ji uvedlo Státní divadlo v Brně 20. prosince 1951 v překladu Rudolfa Vonáska, v lednu 1952 následovalo Národní divadlo.*

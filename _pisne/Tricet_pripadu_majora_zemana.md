@@ -42,4 +42,4 @@ Růže pro Zemana (1973)
 Vražda na zámku (1989) - nerealizovaný díl  
 Návrat majora Zemana (2000) - připravovaný celovečerní film
 
-
+*Seriál natočila v letech 1974–1979 Ústřední redakce armády, bezpečnosti a brannosti Československé televize k 30. výročí SNB, za spolupráce ministerstva vnitra; režíroval Jiří Sequens a Jana Zemana hrál Vladimír Brabec. Skutečné kriminální případy jsou v něm často zasazeny do smyšlených politických souvislostí, proto bývá označován za propagandistický. Po roce 1989 ho Česká televize znovu vysílala až v letech 1999–2000, doplněný dokumentárním pořadem Třicet návratů, který díly konfrontoval s historickou skutečností. Hudbu složil Zdeněk Liška (1922–1983), skladatel především filmové hudby.*

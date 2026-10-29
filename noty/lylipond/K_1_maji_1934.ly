@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "K 1. máji 1934"
-        composer = "Ervín Schulhof"
+        composer = "Ervín Schulhoff"
         poet = "Jan Dolina"
 }
 

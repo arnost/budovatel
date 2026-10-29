@@ -28,3 +28,5 @@ bráním rodnou zemi krasavici.
 *5. sloka:*  
 Lidé drazí lidé, jenom bděte,  
 ať nám naše země kvete.
+
+*Básník Vilém Závada (1905–1982) pocházel z rodiny valcíře vítkovických hutí; podepsal Májové poselství kulturních pracovníků (1946), výzvu Kupředu, zpátky ni krok! (1948) i Antichartu (1977). Václav Dobiáš (1909–1978) patřil po roce 1948 k nejaktivnějším autorům budovatelských písní a byl poslancem Národního shromáždění za KSČ.*

@@ -89,6 +89,6 @@ by lid volně kráčel dál:
 |: pro tento posvátný účel  
 stal se ze mne sociál! :|
 
-*Uvědomovací píseň Leopolda Kochmanna, patrně z roku 1879, se mezi dělníky hodně rozšířila; vedle tohoto nápěvu se zpívala také na melodii „Až se bude suchá lípa“. Opakování druhé půlky sloky lze vynechat.*
+*Uvědomovací píseň Leopolda Kochmanna, patrně z roku 1879, se mezi dělníky hodně rozšířila; vedle tohoto nápěvu se zpívala také na melodii „Až se bude suchá lípa“. Opakování druhé půlky sloky lze vynechat. Leopold Kochmann patřil k dělnickým autorům, kteří v osmdesátých letech 19. století před pronásledováním odešli do Spojených států (podle české Wikipedie, heslo J. B. Pecka).*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

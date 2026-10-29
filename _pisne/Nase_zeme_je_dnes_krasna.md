@@ -26,3 +26,5 @@ pro lásku žijem i pro radost,
 máme síly k boji dost.
 
 *Refrén:*
+
+*Textař Jaromír Hořec (1921–2009, vlastním jménem Halbhuber) byl básník a novinář, rodák z Chustu na Podkarpatské Rusi.*

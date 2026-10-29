@@ -30,4 +30,6 @@ ani před bojem.
 
 *refren*  
 
+*Radim Drejsl (1923–1953) zařadil píseň mezi své vojenské písně; od prosince 1949 byl uměleckým vedoucím Armádního uměleckého souboru a spolu s Vítem Nejedlým a Ludvíkem Podéštěm patří ke klasikům budovatelské písně počátku 50. let. Zemřel v dubnu 1953, dva dny po návratu ze zájezdu do Moskvy a Leningradu; vyšetřování konstatovalo sebevraždu, část rodiny a přátel to však zpochybňovala. Textař Miloslav Zachata (1925–1970) se později stal televizním režisérem a scenáristou.*
+
 *Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*

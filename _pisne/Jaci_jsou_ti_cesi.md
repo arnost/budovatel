@@ -28,3 +28,5 @@ jedenáctou přidá,
 |:nechoďte k nám páni,  
 budete tu biti,  
 budete tu biti!:|
+
+*Jan Tausinger (1921–1980) se narodil v Rumunsku v rodině českého emigranta, v letech 1971–1976 řídil Státní konzervatoř v Praze a pak hudební vysílání Československého rozhlasu.*

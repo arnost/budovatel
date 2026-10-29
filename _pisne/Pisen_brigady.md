@@ -49,6 +49,8 @@ Tento typ "dobrovolných" brigád měl řešit neutěšenou situaci v zeměděls
 [zde](http://a-pesni.org/drugije/povstretchn.htm)*
 
 
+*Píseň složil Dmitrij Šostakovič na verše Borise Kornilova pro film Fridricha Ermlera a Sergeje Jutkeviče Встречный (Protiplán), který byl uveden v roce 1932 k 15. výročí Říjnové revoluce; film líčí leningradské dělníky, kteří plní takzvaný protiplán, tedy závazek nad rámec státem stanoveného plánu. Patřila k prvním sovětským masovým písním a proslavila oba autory po celém Sovětském svazu. Básník Boris Kornilov (1907–1938) byl v listopadu 1937 zatčen a v únoru 1938 zastřelen, píseň se pak tiskla se „slovy lidovými“; rehabilitován byl v roce 1957. V USA vyšla v roce 1942 s anglickým textem Harolda Romea jako United Nations on the March a v červenci 1945 zazněla v San Francisku při zakládání OSN.*
+
 **ПЕСНЯ О ВСТРЕЧНОМ**
 Из кинофильма "Встречный"
 

@@ -29,6 +29,6 @@ ten s námi ten zápas vyhraje.
 
 *Refrén*
 
-*Pochodová píseň Jana Kapra na slova Františka Kožíka získala první cenu v soutěži Státního úřadu pro tělesnou výchovu a sport o nejlepší pochodovou píseň pro mládež.*
+*Pochodová píseň Jana Kapra na slova Františka Kožíka získala první cenu v soutěži Státního úřadu pro tělesnou výchovu a sport o nejlepší pochodovou píseň pro mládež. Jan Kapr (1914–1988) dostal roku 1953 státní cenu za budovatelské písně z předchozího roku; po okupaci v roce 1968 vrátil Stalinovu cenu i stranickou legitimaci a jeho skladby se pak nehrály. František Kožík (1909–1997) je známý hlavně jako autor životopisných románů (Největší z pierotů o Deburauovi aj.).*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

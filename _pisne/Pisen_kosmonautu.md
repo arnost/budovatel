@@ -22,3 +22,5 @@ Svět je míč zdobený lidskou prací,
 veselý, jediný, kulatý.
 
 *Refrén:*
+
+*Matvej Blantěr (1903–1990), autor Kaťuše, složil podle ruské Wikipedie Píseň kosmonautů (Песня космонавтов) v roce 1962 na slova Vladimira Dychovičného a M. Slobodského.*

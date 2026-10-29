@@ -35,3 +35,5 @@ půjde dál naše vlast do zítřka svobodná,
 směle dále až do bran komunismu.
 
 *Refrén:*
+
+*Film Встреча на Эльбе (Setkání na Labi) natočil Grigorij Alexandrov v roce 1949; navazuje na setkání sovětských a amerických vojsk na Labi v dubnu 1945 a líčí počátky studené války v rozděleném německém městě. S více než 24 miliony diváků byl nejnavštěvovanějším filmem roku v SSSR a jeho tvůrci dostali v roce 1950 Stalinovu cenu. Šostakovič k němu složil hudbu (op. 80) v roce 1948. Jevgenij Dolmatovskij (1915–1994) byl válečný zpravodaj a autor slov mnoha známých sovětských písní, překladatel Ilja Bart (1910–1973) novinář a básník, účastník španělské občanské války.*

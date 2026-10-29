@@ -21,3 +21,5 @@ Kde i slunce je jen jedna z mnoha hvězd.
 Odpovídá na dotazy ze země měkkou       
 zpěvnou ruskou řečí...      
 Jeho jméno je člověk.
+
+*Zdeněk Marat (1931–2016) byl pianista, skladatel, aranžér a dirigent, autor zhruba 400 písní, muzikálů a filmové hudby.*

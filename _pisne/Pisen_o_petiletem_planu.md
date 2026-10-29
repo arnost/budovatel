@@ -43,6 +43,6 @@ znáte ho z obrázků — s trubkou sovětský pionýr.
 Jeho hlas na tisíce střepů starý řád rozmetá,  
 dnes jenom my — však zítra celičká planeta.  
 
-*Píseň oslavuje úspěchy prvních sovětských pětiletek, na které se se zájmem dívali dělníci po celém světě; Rudé právo ji otisklo 13. srpna 1933.*
+*Píseň oslavuje úspěchy prvních sovětských pětiletek, na které se se zájmem dívali dělníci po celém světě; Rudé právo ji otisklo 13. srpna 1933. Skladatel Alois Hába (1893–1973) je znám hlavně jako světový průkopník mikrotonální (čtvrttónové) hudby.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

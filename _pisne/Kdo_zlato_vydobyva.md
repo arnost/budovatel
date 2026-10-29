@@ -41,6 +41,6 @@ byť nepřítel i u děl stál!
 |: Jen tak, mužové práce,  
 zvítězí proletář! :|
 
-*Českou podobu německé socialistické písně Johanna Mosta vytvořil J. B. Pecka; píseň v dělnickém hnutí zlidověla a v 90. letech 19. století ji mnozí zpívali jako dělnickou hymnu.*
+*Českou podobu německé socialistické písně Johanna Mosta vytvořil J. B. Pecka; píseň v dělnickém hnutí zlidověla a v 90. letech 19. století ji mnozí zpívali jako dělnickou hymnu. Most (1846–1906) ji podle německé Wikipedie napsal ve vídeňském vězení, kam se dostal po dělnické demonstraci z prosince 1869 a odsouzení za velezradu; text byl z vězení propašován a „Wer schafft das Gold zu Tage?“ patří dodnes k nejzpívanějším německým dělnickým písním. Most později přešel k anarchismu a zemřel v USA.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

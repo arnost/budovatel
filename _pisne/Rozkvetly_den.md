@@ -37,4 +37,4 @@ tisícem věcí život rozkvétá
 a rozvíjí se, rozvíjí se v nás,   
 tisícem věcí život rozkvétá a rozvíjí se v~nás.
 
-
+*Radim Drejsl (1923–1953) patří s Vítem Nejedlým a Ludvíkem Podéštěm ke klasikům budovatelské písně, jeho nejznámější skladbou je ale právě nepolitický Rozkvetlý den. Zemřel v dubnu 1953, dva dny po návratu ze zájezdu skladatelů do SSSR; podle oficiální verze šlo o sebevraždu, rodina a přátelé ji zpochybňovali. Textař Miloslav Zachata (1925–1970) byl později televizní režisér a scenárista.*

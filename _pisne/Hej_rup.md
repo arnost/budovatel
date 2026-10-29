@@ -31,6 +31,6 @@ Hej rup! Chceme práci! Hej rup, hej-rupáci!
 Hej rup! Hej rup! Chceme žít!  
 Hej rup! Hej rup! Hej rup! Hej rup!  
 
-*Píseň Jaroslava Ježka na slova Voskovce a Wericha pochází z repertoáru Osvobozeného divadla, které ve třicátých letech až do okupace reagovalo svými revuemi a písněmi na politické dění.*
+*Píseň Jaroslava Ježka na slova Voskovce a Wericha pochází z repertoáru Osvobozeného divadla, které ve třicátých letech až do okupace reagovalo svými revuemi a písněmi na politické dění. Zpívali ji všichni herci jako finále hry Kat a blázen, satirické fantazie z imaginárního Mexika, která měla premiéru 19. října 1934. Stejný název nese i film Martina Friče z téhož roku, v němž Voskovec a Werich hrají nezaměstnané, kteří si založí družstvo; podle filmu se od roku 1936 jmenoval i levicový týdeník Hej rup, který vydával komunistický Svaz mladých. Jaroslav Ježek (1906–1942) zemřel v americkém exilu v New Yorku.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

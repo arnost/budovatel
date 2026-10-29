@@ -33,3 +33,5 @@ svobodnou bude naše zem
 a krásnou.
 
 *Refrén:*
+
+*Arthur Honegger (1892–1955) složil píseň Jeunesse v roce 1937 pro Fédération musicale populaire, hudební sdružení blízké francouzské Lidové frontě, jejíž úspěch píseň oslavuje. Text napsal Paul Vaillant-Couturier (1892–1937), spoluzakladatel Francouzské komunistické strany a šéfredaktor listu L’Humanité, který zemřel v říjnu téhož roku. První nahrávku pořídil v únoru 1938 sbor Chorale de la jeunesse s orchestrem Rogera Désormièra pro firmu Le Chant du Monde.*

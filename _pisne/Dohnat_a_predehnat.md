@@ -23,6 +23,6 @@ Jdem dohnat tě a předehnat a nic nás nezastaví!
 My zúčtovali s otroctvím, my zúčtujem i s hladem,  
 chcem v každém z nás otroka zabít navždy řádem novým.  
 
-*Píseň pochází z revoluční revue „Dohnat a předehnat“ (1934). Zpívala se současně s [Písní o rudém tisku](/pisen.phtml/pisen_o_rudem_tisku): střídavě sloka jedné a sloka druhé písně, poslední sloka pak obě písně najednou.*
+*Píseň pochází z revoluční revue „Dohnat a předehnat“ (1934; podle české Wikipedie, článku o El-Carovi, šlo o agitační revue v režii Františka Spitzera z roku 1932). Zpívala se současně s [Písní o rudém tisku](/pisen.phtml/pisen_o_rudem_tisku): střídavě sloka jedné a sloka druhé písně, poslední sloka pak obě písně najednou.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

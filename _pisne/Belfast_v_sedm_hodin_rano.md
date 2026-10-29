@@ -23,3 +23,5 @@ strach a křeč jsou z jejich světa a život je hrou s tisíci zvraty.
 A to je Belfast v sedm hodin ráno.  
 
 A to je Belfast v sedm hodin ráno.
+
+*Hudbu složil zpěvák a skladatel Petr Hannig (1946–2025), text Jan Krůta (nar. 1946), který musel v roce 1970 z politických důvodů odejít ze školství, pak pracoval v redakcích dětských časopisů a Mladého světa a napsal přes 1300 písňových textů, mimo jiné pro Dalibora Jandu (Hurikán).*

@@ -49,3 +49,5 @@ Jako hráz se potýká
 s vodou kdž se žene;  
 ze Stalina jedna zeď  
 všichni povstaneme.
+
+*Text napsal Erik Adolf Saudek (1904–1963), známý hlavně jako překladatel Shakespeara.*

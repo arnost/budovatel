@@ -77,7 +77,7 @@ chraňte vlast a Čechů slávu.
 Nepřátelům na odpor,  
 svornost! svornost! český sbor!
 
-*Kolárovu píseň, kterou kolem roku 1848 nadšeně zpívala mládež, proslavilo hlavně zhudebnění Bedřicha Smetany. „Válkou“ se tu myslí válka občanská; zpěvník z roku 1953 doporučuje místo ní zpívat „Sláva! Sláva!“.*
+*Kolárovu píseň, kterou kolem roku 1848 nadšeně zpívala mládež, proslavilo hlavně zhudebnění Bedřicha Smetany. „Válkou“ se tu myslí válka občanská; zpěvník z roku 1953 doporučuje místo ní zpívat „Sláva! Sláva!“. Herec, režisér a překladatel Josef Jiří Kolár (1812–1896) napsal báseň v revolučním roce 1848 pod názvem Píseň svobody; nejprve vyšla na letácích a se Smetanovou hudbou ji pak zpívaly dobrovolnické oddíly a studentská legie.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
 

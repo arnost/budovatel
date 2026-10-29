@@ -28,6 +28,6 @@ otžeň vše zlé,
 svatý Václave.  
 Kyrieleison.  
 
-*Píseň vznikla nejspíš na konci 13. století, v době bídy za braniborské okupace; už zmínka z roku 1368 o ní mluví jako o staré písni, nejstarší zápis nápěvu pochází z roku 1473.*
+*Píseň vznikla nejspíš na konci 13. století, v době bídy za braniborské okupace; už zmínka z roku 1368 o ní mluví jako o staré písni, nejstarší zápis nápěvu pochází z roku 1473. Ona zmínka z roku 1368 v kronice Beneše Krabice z Weitmile zároveň obsahuje nejstarší zápis textu (tři sloky); další sloky přibyly později a dnešní podobu dostal chorál zřejmě v 18.–19. století. Po vzniku Československa se uvažovalo, že by se stal státní hymnou; zazněl při korunovacích českých králů i na pohřbech T. G. Masaryka a Václava Havla.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

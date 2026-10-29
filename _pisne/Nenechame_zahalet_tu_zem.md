@@ -27,4 +27,6 @@ nedáme ji spát už ani na chvíli.
 S traktory jí život přivezem -   
 půjdem si k ní pro chléb, obilí.
 
+*Miloš Konvalinka (1919–2000) byl dirigent, skladatel a rozhlasový pracovník, zemřel v Brně.*
+
 ![](/img/pisne/pisnicka.png)

@@ -41,6 +41,6 @@ a v srdci lásku všech,
 tehdy ji pro tebe  
 teprv mám rád.  
 
-*Jedna z prvních písní Josefa Stanislava; vyšla ještě pod pseudonymem K. Boj, který skladatel tehdy používal.*
+*Jedna z prvních písní Josefa Stanislava; vyšla ještě pod pseudonymem K. Boj, který skladatel tehdy používal. Pseudonym vznikl z jeho trampské přezdívky Kerry Boy. Josef Stanislav (1897–1971) vstoupil do KSČ roku 1931 a byl sbormistrem několika dělnických pěveckých spolků; po roce 1948 se stal profesorem AMU a ředitelem Ústavu pro etnografii a folkloristiku ČSAV.*
 
 *Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*

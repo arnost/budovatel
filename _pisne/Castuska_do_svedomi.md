@@ -81,5 +81,4 @@ a při tom radostně žít!
 *>při opakování:*      
 všichni chcem radostně žít.
 
-
-
+*Ludvík Podéšť (1921–1968) a Vlastimil Pantůček spolupracovali i na brněnských operetách Když se Anička vdávala (1950) a Slepice a kostelník (1951), k nimž Pantůček psal libreta.*

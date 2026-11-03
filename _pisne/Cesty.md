@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Anatolij Novikov
 text: Lev Ošanin
 preklad: L. Kubišta
+youtube: kCP-VM_SSkw
 ---
 
 Ej, vy cesty,  

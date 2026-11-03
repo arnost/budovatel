@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: A. V. Alexandrov
 text: O. Kolyčev
 preklad: Josef Urban
+youtube: sTq8el1wt_A
 ---
 
 Vlak za vlakem již se šine,  

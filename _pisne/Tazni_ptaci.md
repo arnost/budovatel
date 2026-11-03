@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Vasilij Solovjov-Sedoj
 text: Alexej Faťjanov
 preklad: L. Kubišta
+youtube: BKcEsMtUR9c
 ---
 
 My jsme jak tažní ptáci, my piloti,  

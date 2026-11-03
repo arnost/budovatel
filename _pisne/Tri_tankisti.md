@@ -6,6 +6,7 @@ music:
   - Dmitrij Pokrass
 text: B. Laskin
 preklad: Jelena Holečková
+youtube: aMeLNPkhSbA
 ---
 
 Mračno nízké nad hranicí vázne,  

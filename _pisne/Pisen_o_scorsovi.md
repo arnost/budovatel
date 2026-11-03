@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Matvej Blantěr
 text: Michail Golodnyj
 preklad: L. Kubišta
+youtube: KkWGniix6fg
 ---
 
 Podle řeky šel oddíl, z velké dálky šel.  

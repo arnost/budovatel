@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Nikolaj Krjukov
 text: Jevgenij Dolmatovskij
 preklad: Josef Urban
+youtube: 4Zz63VqWt7g
 ---
 
 V boj když má ze Sibiře hoch jít,  

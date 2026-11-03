@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Matvej Blantěr
 text: Michail Svetlov
 preklad: L. Kubišta
+youtube: FCjn_imlKKI
 ---
 
 Z plukovního děla  

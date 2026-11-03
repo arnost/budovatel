@@ -2,6 +2,7 @@
 title: Krasnyj partizan
 obdobi: mezivalecne
 preklad: Josef Urban
+youtube: f9JbMlVFBCw
 ---
 
 V čistom polje, polje pod rakitoj,  

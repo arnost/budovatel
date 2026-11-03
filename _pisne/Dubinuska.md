@@ -5,6 +5,7 @@ text:
   - Vasilij Bogdanov
   - Alexandr Olchin
 preklad: Josef Urban
+youtube: 0sQf69RVa4Q
 ---
 
 Mnoho písní jsem dřív doma slýchával znít,  

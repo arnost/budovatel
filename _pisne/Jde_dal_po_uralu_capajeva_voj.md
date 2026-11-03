@@ -1,6 +1,7 @@
 ---
 title: Jde dál po Uralu Čapajeva voj
 obdobi: mezivalecne
+youtube: grkIbBE5zRE
 ---
 
 Jde dál po Uralu Čapajeva voj,  

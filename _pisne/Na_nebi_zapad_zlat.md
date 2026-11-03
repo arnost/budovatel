@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Mark Fradkin
 text: Jevgenij Dolmatovskij
 preklad: L. Kubišta
+youtube: MuNmSY__YE4
 ---
 
 Na nebi západ zlát,  

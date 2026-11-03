@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Wanda Zieleńczyk
 text: Wanda Zieleńczyk
 preklad: Erich Sojka
+youtube: _MR-YdtTdN8
 ---
 
 Z vypálených jdem vsí,  

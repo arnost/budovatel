@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Vasilij Solovjov-Sedoj
 text: A. Čurkin
 preklad: L. Kubišta
+youtube: hzxwjYDbYj0
 ---
 
 K rodnému Donu jel z dálky  

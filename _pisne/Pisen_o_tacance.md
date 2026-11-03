@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Konstantin Listov
 text: Michail Ruděrman
 preklad: Josef Urban
+youtube: MHk0XBVt8to
 ---
 
 Zvíře s cesty rychle sbíhá,  

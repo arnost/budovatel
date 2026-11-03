@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Z. Kompanějec
 text: Lev Ošanin
 preklad: L. Kubišta
+youtube: zRZqKAXZrlc
 ---
 
 Letí koně bujní, a letí polem pustým,  

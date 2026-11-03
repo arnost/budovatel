@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Anatolij Novikov
 text: Sergej Alymov
 preklad: L. Kubišta
+youtube: UTk_QfN9Bp8
 ---
 
 U studánky tři panenky klekly si,  

@@ -2,6 +2,7 @@
 title: Hej, ty pole širé
 obdobi: mezivalecne
 preklad: Josef Urban
+youtube: IOSnbFTXcrQ
 ---
 
 Hej, ty pole širé, pole zelenavé, hej!  

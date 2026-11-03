@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Vladimir Zacharov
 text: Michail Isakovskij
 preklad: Josef Urban
+youtube: -zYqq4NG5xc
 ---
 
 Moří dálí, země souší,  

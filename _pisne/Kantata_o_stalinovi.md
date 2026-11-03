@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: A. V. Alexandrov
 text: M. Injuškin
 preklad: Josef Urban
+youtube: 4iQfpRCq0i8
 ---
 
 Až z dálavy širé tam výš nad hor prahem,  

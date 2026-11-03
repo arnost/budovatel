@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Vasilij Solovjov-Sedoj
 text: Alexandr Galič
 preklad: Josef Urban
+youtube: 598t-jlgcSQ
 ---
 
 Tóny trubky znějí, každý vstává,  

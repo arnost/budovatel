@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Anatolij Novikov
 text: Viktor Gusev
 preklad: L. Kubišta
+youtube: HXyp7-TYAqE
 ---
 
 Já vám, kamarádi, povím (jen krátce!)  

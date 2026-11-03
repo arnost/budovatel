@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: V. Bělyj
 text: A. Surkov
 preklad: Jelena Holečková
+youtube: 13jQYvax08s
 ---
 
 V mračnech zem s oblohou splývá,  

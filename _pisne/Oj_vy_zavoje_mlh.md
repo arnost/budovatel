@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Vladimir Zacharov
 text: Michail Isakovskij
 preklad: Josef Urban
+youtube: H3Cz0pggxWE
 ---
 
 Oj, vy závoje mlh z rodných lánů,  

@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Vasilij Solovjov-Sedoj
 text: S. Fogelson
 preklad: Josef Urban
+youtube: f0LhwkRutm0
 ---
 
 Teď v noci deštivé, deštivé, deštivé,  

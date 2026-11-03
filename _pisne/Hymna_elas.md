@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Nikos Tsakonas
 text: Sofia Mavroidi-Papadaki
 preklad: Josef Urban
+youtube: 1X3CA7w_nIQ
 ---
 
 Teď pušky váha rámě tíží,  

@@ -7,6 +7,7 @@ text:
   - Rudolf Greinz
   - Jevgenija Studenská
 preklad: Jelena Holečková
+youtube: nPTIAtGzD94
 ---
 
 Teď, soudruzi, nahoru, na místa svá,  

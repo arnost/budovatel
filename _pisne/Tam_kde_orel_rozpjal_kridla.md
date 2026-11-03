@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Anatolij Novikov
 text: Sergej Alymov
 preklad: L. Kubišta
+youtube: fxXkiGiCrl0
 ---
 
 *Píseň 129. Orlovské divise.*

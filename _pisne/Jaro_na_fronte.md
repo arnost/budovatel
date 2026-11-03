@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Vasilij Solovjov-Sedoj
 text: Alexej Faťjanov
 preklad: Josef Urban
+youtube: VzAXizl0MYk
 ---
 
 *Refrén:*  

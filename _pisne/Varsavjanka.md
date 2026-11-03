@@ -4,6 +4,7 @@ obdobi: delnicke
 wikipedie: "Varšavjanka (1905)"
 text: Wacław Święcicki
 preklad: Erich Sojka
+youtube: eE86ZafpqqM
 ---
 
 Směle jen vzneseme prapor náš výše,  

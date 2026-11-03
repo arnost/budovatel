@@ -4,6 +4,7 @@ obdobi: obrozeni
 music: M. Jordanovskij
 text: Michail Lermontov
 preklad: Bohumil Mathesius
+youtube: Ai5Zh6fJpUI
 ---
 
 Řekněte, strýčku šedobradý,  

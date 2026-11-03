@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Matvej Blantěr
 text: Jevgenij Dolmatovskij
 preklad: Josef Urban
+youtube: TNFP9aYgjCQ
 ---
 
 My pochodem šli v širou dál,  

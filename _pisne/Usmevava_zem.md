@@ -33,6 +33,4 @@ my postavili usměvavou zem.
 
 *Refrén*
 
-*Harry Macourek (1923–1992) byl dirigent a skladatel, později autor hudby k filmům Dobří holubi se vracejí a Poklad hraběte Chamaré a k dětskému seriálu Spadla z oblakov.*
-
 *Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*

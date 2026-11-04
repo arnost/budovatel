@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Isaak Dunajevskij
 text: Vasilij Lebeděv-Kumač
 preklad: J. Černý
+youtube: EiH3JSSmlss
 ---
 
 V širou dál od Moskvy k Sachalinu,  

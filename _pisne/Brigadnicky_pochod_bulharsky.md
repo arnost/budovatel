@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Asen Karastojanov
 text: Ivan Burin
 preklad: Vlastimil Školaudy
+youtube: vUCTuSOcEe4
 ---
 
 Již vzhůru mládí této země,  

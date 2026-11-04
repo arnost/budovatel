@@ -1,7 +1,7 @@
 ---
 title: Chceme mír!
 obdobi: budovatelske
-music: Karel Macourek
+music: Harry Macourek
 text: Karel Šiktanc
 ---
 

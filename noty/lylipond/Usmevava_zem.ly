@@ -2,7 +2,7 @@
 \header {
         title = "Usměvavá zem"
         subtitle = "(Mládežnická)"
-        composer = "H. Macourek"
+        composer = "Harry Macourek"
         poet = "Václav Sýkora"
 }
 

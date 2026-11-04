@@ -1,7 +1,7 @@
 \version "2.24.0"
 \header {
         title = "Chceme mír!"
-        composer = "Karel Macourek"
+        composer = "Harry Macourek"
         poet = "Karel Šiktanc"
 }
 

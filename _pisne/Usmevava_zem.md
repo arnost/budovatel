@@ -1,7 +1,7 @@
 ---
 title: Usměvavá zem
 obdobi: budovatelske
-music: H. Macourek
+music: Harry Macourek
 text: Václav Sýkora
 ---
 
@@ -32,5 +32,7 @@ My splnili jsme, co jsme slibovali,
 my postavili usměvavou zem.  
 
 *Refrén*
+
+*Harry Macourek (1923–1992), vlastním jménem Karel Macourek, v té době sloužil jako četař v estrádním souboru Julia Fučíka; píseň s textem Václava Sýkory otiskla i Směna v květnu 1951. Se stejnojmenným filmem z roku 1952, k němuž psal hudbu Jiří Srnka, nesouvisí.*
 
 *Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*

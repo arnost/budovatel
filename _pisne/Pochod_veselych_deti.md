@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Isaak Dunajevskij
 text: Vasilij Lebeděv-Kumač
 preklad: Jan Noha
+youtube: 5UaaK5tvZHI
 ---
 
 Lehko je u srdce s radostnou písní,  

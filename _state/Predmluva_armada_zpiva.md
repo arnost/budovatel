@@ -56,6 +56,8 @@ Ale zločin pokračuje. Fašismus ožil v imperialistické Americe, v Západním
 
 Tyto dvě hlavní okolnosti — účinná bojovnost písně přímo na frontách občanské i Velké vlastenecké války a na druhé straně její neporazitelný optimismus a radostné sebevědomí, s nímž oslavuje práci a sjednocuje národy v boji za mír, tyto okolnosti byly organisačním záplanem při uspořádání armádního zpěvníku. Porazit nepřítele a zajistit mír — to je smysl práce a života všech pokrokových lidí. A to je taky úkol každé lidové armády.
 
+<p align="center"><a href="/img/state/armada_zpiva_prace_a_mir.jpg"><img src="/img/state/armada_zpiva_prace_a_mir_nahled.jpg" width="400" height="623" alt="Předěl oddílu Práce a mír: dělníci a vojáci s prapory před hutěmi a symbolem pětiletky"></a><br><small>Předěl oddílu Práce a mír, kresba Jiří Mikula</small></p>
+
 Bylo radostné vybírat a střádat materiál. Ve zpěvníku najdete i naše písně a v skrovném výběru písničky všech lidových demokracií. Ty všechny jsou odrazem nových dějin, které nastoupilo lidově demokratické Československo, Bulharsko, Polsko, Albánie, Maďarsko, Rumunsko, Demokratická republika německá a lidově demokratická Čína.
 
 Do sborníku jsem nezařadil národní písně všech jmenovaných zemí. Udělám to ve zvláštním svazku.

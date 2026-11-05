@@ -53,4 +53,6 @@ Az embert nem sujtja lánc már
 És lábunk a holnapba lép.  
 Mert munkából …
 
+*Autory uvádíme podle zpěvníku, který připisuje hudbu Istvánu Raicsovi a maďarský text Ferenci Szabóovi. Databáze musicanet je u této dvojice uvádí obráceně (hudba Ferenc Szabó, text István Raics), což by odpovídalo tomu, že Raics byl především básník a textař; ověřit se to nepodařilo.*
+
 *Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*

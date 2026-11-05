@@ -4,6 +4,8 @@ vydal: Zpíváme 1948
 rok: "1948"
 ---
 
+<a href="/img/state/zpivame_1948.jpg"><img src="/img/state/zpivame_1948_nahled.jpg" width="300" height="520" alt="Obálka zpěvníku Zpíváme 1948" align="right" hspace="10"></a>
+
 *Zpěvník Zpíváme 1948: hymny, písně vlastenecké a revoluční vydalo na jaře 1948, krátce po únorovém převratu, kulturně propagační oddělení sekretariátu ÚV KSČ. Měl 71 stran a stál 15 Kčs; obálku nakreslil B. Němec a vytiskla jej tiskárna Svoboda v Praze. Jméno sestavovatele ani náklad zpěvník neuvádí a nemá ani předmluvu. Digitalizovaný je v [České digitální knihovně](https://www.ceskadigitalniknihovna.cz/uuid/uuid:fb333f30-8bc5-11eb-9d20-005056827e51) (přístupný po přihlášení).*
 
 Skutečnou recenzi zpěvník v dobovém tisku nedostal; jeho stopy jsou spíš stranické pokyny a krátká oznámení.

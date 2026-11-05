@@ -56,7 +56,7 @@ Ale zločin pokračuje. Fašismus ožil v imperialistické Americe, v Západním
 
 Tyto dvě hlavní okolnosti — účinná bojovnost písně přímo na frontách občanské i Velké vlastenecké války a na druhé straně její neporazitelný optimismus a radostné sebevědomí, s nímž oslavuje práci a sjednocuje národy v boji za mír, tyto okolnosti byly organisačním záplanem při uspořádání armádního zpěvníku. Porazit nepřítele a zajistit mír — to je smysl práce a života všech pokrokových lidí. A to je taky úkol každé lidové armády.
 
-<p align="center"><a href="/img/state/armada_zpiva_prace_a_mir.jpg"><img src="/img/state/armada_zpiva_prace_a_mir_nahled.jpg" width="400" height="623" alt="Předěl oddílu Práce a mír: dělníci a vojáci s prapory před hutěmi a symbolem pětiletky"></a><br><small>Předěl oddílu Práce a mír, kresba Jiří Mikula</small></p>
+<p align="center"><a href="/img/state/armada_zpiva_prace_a_mir.jpg"><img src="/img/state/armada_zpiva_prace_a_mir_nahled.jpg" width="400" height="617" alt="Předěl oddílu Práce a mír: dělníci a vojáci s prapory před hutěmi a symbolem pětiletky"></a><br><small>Předěl oddílu Práce a mír, kresba Jiří Mikula</small></p>
 
 Bylo radostné vybírat a střádat materiál. Ve zpěvníku najdete i naše písně a v skrovném výběru písničky všech lidových demokracií. Ty všechny jsou odrazem nových dějin, které nastoupilo lidově demokratické Československo, Bulharsko, Polsko, Albánie, Maďarsko, Rumunsko, Demokratická republika německá a lidově demokratická Čína.
 
@@ -67,3 +67,5 @@ A teď už nezbývá než se dát do zpěvu. Při těchto písních zapomeneme n
 A ať učí nenávisti i lásce. Nenávisti k těm, kteří kazí svět a nechtějí slyšet píseň míru. Lásce k těm, kteří ho svýma rukama stavějí a chrání.
 
 <p align="right"><i>V Praze v prosinci 1950<br>Milan Horák</i></p>
+
+*Na konci zpěvníku je ještě vzpomínka A. V. Alexandrova [Stalin nás učí rozumět písni](/state.phtml/stalin_nas_uci_rozumet_pisni).*

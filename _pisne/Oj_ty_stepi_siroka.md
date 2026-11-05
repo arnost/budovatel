@@ -2,6 +2,7 @@
 title: Oj, ty stepi široká
 obdobi: mezivalecne
 preklad: L. Kubišta
+youtube: 7LQbxm11YTE
 ---
 
 Oj, ty stepi široká, stepi daleká.  

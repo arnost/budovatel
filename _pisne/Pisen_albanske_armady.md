@@ -3,6 +3,7 @@ title: Píseň albánské armády
 obdobi: mezivalecne
 music: Dhora Leka
 preklad: Josef Urban
+youtube: Xh3ZGrYX4ZE
 ---
 
 Hle, vlajka svobody se zdvíhá  

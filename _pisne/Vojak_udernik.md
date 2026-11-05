@@ -3,6 +3,7 @@ title: Voják úderník
 obdobi: budovatelske
 music: Radim Drejsl
 text: Radim Drejsl
+youtube: J3cEF7UwUrM
 ---
 
 Jenda byl úderníkem, plán plnil  

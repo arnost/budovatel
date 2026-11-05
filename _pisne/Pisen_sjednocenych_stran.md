@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Andrzej Panufnik
 text: Leopold Lewin
 preklad: Erich Sojka
+youtube: f2RLQtZyfKM
 ---
 
 Ten jehož srdce se neulekne,  

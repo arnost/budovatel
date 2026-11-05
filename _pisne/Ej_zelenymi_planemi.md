@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Vladimir Zacharov
 text: Michail Isakovskij
 preklad: Pavel Kohout
+youtube: LJNcGBV65yg
 ---
 
 Ech, zelenými pláněmi  

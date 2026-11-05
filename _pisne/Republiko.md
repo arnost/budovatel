@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Georgi Dimitrov
 text: Krum Penev
 preklad: Josef Urban
+youtube: HiLzPlOt4D8
 ---
 
 Již poroby útlak se zřítil,  

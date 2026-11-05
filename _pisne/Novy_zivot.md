@@ -2,6 +2,7 @@
 title: Nový život
 obdobi: budovatelske
 preklad: Vilém Závada
+youtube: cNXUK8-8wUI
 ---
 
 Náš nový život musí být jiný,  

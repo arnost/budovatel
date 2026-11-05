@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Isaak Dunajevskij
 text: Vasilij Lebeděv-Kumač
 preklad: Josef Urban
+youtube: K3Ht3g92XaY
 ---
 
 *(Z filmu „Brankář“)*

@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: B. Mokrousov
 text: Sergej Alymov
 preklad: Pavel Kohout
+youtube: uhsFVQMezGM
 ---
 
 Jsou-li krásné mladé květy v máji,  

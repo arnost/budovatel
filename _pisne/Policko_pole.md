@@ -5,6 +5,7 @@ wikipedie: "Poljuško pole"
 music: Lev Knipper
 text: Viktor Gusev
 preklad: Josef Urban
+youtube: qNBSetc9nNQ
 ---
 
 Ech, políčko, ech, pole,  

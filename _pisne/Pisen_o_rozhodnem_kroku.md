@@ -3,6 +3,7 @@ title: Píseň o rozhodném kroku
 obdobi: budovatelske
 music: Jan Seidel
 text: Jarmil Sekera
+youtube: Zll5Tpaj08k
 ---
 
 Zpíváme píseň o rozhodném kroku,  

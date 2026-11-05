@@ -1,6 +1,8 @@
 ---
 title: Stalin v nás
 autor: Michal Sedloň
+vydal: Rudé právo
+rok: "1953"
 ---
 
 Bolest nás proťala přeostrou čepelí:  

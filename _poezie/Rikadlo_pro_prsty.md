@@ -2,6 +2,7 @@
 title: Řikadlo pro prsty 
 autor: Neznámý
 vydal: Ohníček, čtení pro dělnické děti, 1928, Federace proletářské tělovýchovy
+rok: "1928"
 ---
 
 V Rusku, tam je dobře braši:  

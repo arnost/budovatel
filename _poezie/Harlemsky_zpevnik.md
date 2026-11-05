@@ -1,6 +1,8 @@
 ---
 title: Harlemský zpěvník
 autor: Langston Hughes
+vydal: Harlemský zpěvník
+rok: "1963"
 ---
 
 *okomentoval taťouch*

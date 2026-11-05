@@ -1,6 +1,8 @@
 ---
 title: Je třeba
 autor: Vlastimil Školaudy
+vydal: Hlas doby
+rok: "1950"
 ---
 
 Choroboplodná ložiska  

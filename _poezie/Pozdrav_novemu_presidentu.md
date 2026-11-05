@@ -2,6 +2,7 @@
 title: Pozdrav novému presidentu
 autor: Ilja Bart
 vydal: Práce, list Revolučního odborového hnutí, 18. 7. 1953
+rok: "1953"
 ---
 
 První den jara… Slunce v tiché modři plane.    

@@ -1,5 +1,7 @@
 ---
 title: Jak mne osvobodila Rudá armáda
+vydal: Jak mě osvobodila Rudá armáda
+rok: "1950"
 ---
 
 **Tak to začalo**

@@ -1,6 +1,7 @@
 ---
 title: K XV. sjezdu KSČ
 autor: Neznámý
+rok: "1976"
 ---
 
 Buď pozdraven, Ty XV. náš sjezde,  

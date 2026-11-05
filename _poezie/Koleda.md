@@ -1,6 +1,8 @@
 ---
 title: Koleda
 autor: Oldřich Kryštofek
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 Za to, že tolik dárků mám,  

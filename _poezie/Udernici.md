@@ -1,6 +1,8 @@
 ---
 title: Úderníci
 autor: Czeslaw Janczarski
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 *Z polštiny přeložil Oldřich Kryštofek.*

@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Matvej Blantěr
 text: Alexandr Kovalenkov
 preklad: L. Kubišta
+youtube: xJ8SisdvrAE
 ---
 
 Zašlo slunce za pahorky,  

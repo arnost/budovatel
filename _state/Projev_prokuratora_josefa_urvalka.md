@@ -1,5 +1,7 @@
 ---
 title: Projev prokurátora Josefa Urválka
+vydal: Rudé právo
+rok: "1952"
 
 ---
 

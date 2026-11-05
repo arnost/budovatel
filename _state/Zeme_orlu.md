@@ -1,6 +1,7 @@
 ---
 title: Země orlů
 vydal: Zápisnik Pionýrských Novin 1953-54
+rok: "1953"
 ---
 
 V západní části balkánskeho poloostrova se rozprostírá malá, starobylá země - Albánie.

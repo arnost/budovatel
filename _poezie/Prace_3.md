@@ -1,6 +1,8 @@
 ---
 title: Práce
 autor: Alois Mach
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 Zvoň a klepej kladívečko  

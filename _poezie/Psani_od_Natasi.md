@@ -2,6 +2,7 @@
 title: Psaní od Nataši 
 autor: Libuše Pamětnická
 vydal: Vedoucí pionýrů, 1.4.1955
+rok: "1955"
 ---
 
 Přišlo mi psaní přes sedmery hory,  

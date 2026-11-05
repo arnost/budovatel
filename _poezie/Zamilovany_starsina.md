@@ -1,6 +1,8 @@
 ---
 title: Zamilovaný staršina
 autor: Pavel Kohout
+vydal: Tři knihy veršů
+rok: "1955"
 ---
 
 *in: Tři knihy veršů*

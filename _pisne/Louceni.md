@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Dmitrij Pokrass
 text: Michail Isakovskij
 preklad: S. Machonin
+youtube: zaH2Q_AXkdU
 ---
 
 Přišel rozkaz, on na západ,  

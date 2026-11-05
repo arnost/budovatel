@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: V. Bělyj
 text:  I. Frenkel
 preklad: Josef Urban
+youtube: oAi-wsf444s
 ---
 
 Boháči chtí, aby vzplál války žár,  

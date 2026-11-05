@@ -1,6 +1,8 @@
 ---
 title: Anti-Gide
 autor: S. K. Neumann
+vydal: Anti-Gide neboli optimismus bez pověr a ilusí
+rok: "1937"
 ---
 
 Kdo se cítí v Sovětském svazu nesvobodným? Žalostné trosky

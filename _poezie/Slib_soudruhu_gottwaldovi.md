@@ -2,6 +2,7 @@
 title: Slib soudruhu Gottwaldovi
 autor: Ilja Bart
 vydal: Práce, list Revolučního odborového hnutí, 18. 7. 1953
+rok: "1953"
 ---
 
 Dnes odešel nám soudruh Gottwald za Stalinem  

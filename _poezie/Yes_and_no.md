@@ -1,6 +1,8 @@
 ---
 title: Yes and no
 autor: Jiří Taufer
+vydal: Tvorba
+rok: "1978"
 ---
 
 Ne,  

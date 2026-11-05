@@ -1,6 +1,7 @@
 ---
 title: První máj 1947
 autor: S. K. Neumann
+rok: "1947"
 ---
 
 Nemohl nám a nesměl nikdo už zabránit v pochodu,  

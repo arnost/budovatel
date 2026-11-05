@@ -1,6 +1,7 @@
 ---
 title: Jak získám Fučíkův odznak
 vydal: Sekr. ústř. výb. ČSM, 1950, Praha
+rok: "1950"
 ---
 
 

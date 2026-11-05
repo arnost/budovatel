@@ -2,6 +2,7 @@
 title: Dívenka z korejského souboru
 autor: Ivo Štuka
 vydal: Práce, list Revolučního odborového hnutí, 18. 7. 1953
+rok: "1953"
 ---
 
 Voňavou nocí rychlík letí.  

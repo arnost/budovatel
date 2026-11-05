@@ -1,5 +1,6 @@
 ---
 title: Stručné dějiny revoluční činnosti soudruha KIM IR SENA
+rok: "1970"
 ---
 
 *(Zpracoval zival)*  

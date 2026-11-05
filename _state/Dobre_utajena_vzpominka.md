@@ -1,5 +1,7 @@
 ---
 title: Dobře utajená vzpomínka
+vydal: Pod pokličkou
+rok: "1999"
 ---
 
 *Z mých vzpomínek na prezidenta republiky s. K. Gottwalda.

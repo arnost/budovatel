@@ -1,6 +1,7 @@
 ---
 title: Slyšíš, starý světe?
 autor: Martin Gazda  
+rok: "1950"
 ---
 
 *Věnováno příslušníkům Národní bezpečnosti.*

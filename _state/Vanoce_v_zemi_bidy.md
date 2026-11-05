@@ -1,5 +1,7 @@
 ---
 title: Vánoce v zemi bídy
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 *Ještě neslaví vánoce a Nový rok všechny děti tak, jak je slavíme

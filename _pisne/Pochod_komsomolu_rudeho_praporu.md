@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Herman Žukovskyj
 text: Oleksa Juščenko
 preklad: Jelena Holečková
+youtube: ne4X2pTDUko
 ---
 
 Slunce laskavě nám svítí,  

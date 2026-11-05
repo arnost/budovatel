@@ -3,6 +3,7 @@ title: Vpřed směle soudruzi spějme
 obdobi: delnicke
 music: L. P. Radin
 text: Josef Urban
+youtube: K60k-ueAb4I
 ---
 
 *Revoluční tradicionál*

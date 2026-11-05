@@ -3,6 +3,7 @@ title: Píseň o Prvním máji
 obdobi: budovatelske
 music: Fr. A. Kypta
 text: Karel Bradáč
+youtube: -Hr-_1nPg-U
 ---
 
 Nad náměstí i nad ulice  

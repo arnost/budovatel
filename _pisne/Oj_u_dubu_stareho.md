@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Sigizmund Kac
 text: Anatolij Sofronov
 preklad: L. Kubišta
+youtube: Tx70lf4opHQ
 ---
 
 Oj, u dubu starého u studánky v podlesí  

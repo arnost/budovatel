@@ -1,6 +1,8 @@
 ---
 title: Na kulturní brigádě
 autor: Eva Konvalinková
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 *dopisovatelka časopisu Mateřídouška*

@@ -1,6 +1,8 @@
 ---
 title: Říjnová revoluce
 autor: Jan Noha
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 Rodiče moji neměli kde bydlet.  

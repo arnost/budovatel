@@ -2,6 +2,7 @@
 title: Matka měst 
 autor: Neznámý
 vydal: Ohníček, čtení pro dělnické děti, 1928, Federace proletářské tělovýchovy
+rok: "1928"
 ---
 
 V Praze jsou paláce z mramoru,   

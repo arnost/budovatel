@@ -2,6 +2,8 @@
 title: Sedmý listopad v Moskvě
 autor: J. Samuil Maršak
 youtube: XPLFKU8qRB0
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 *přeložil Jiří V. Svoboda*

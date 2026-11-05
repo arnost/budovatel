@@ -2,6 +2,7 @@
 title: Boj s Dněprem
 autor:  J. Samuil Maršak
 vydal: Krásný den (SNDK, Praha, 1956)
+rok: "1956"
 ---
 
 Řekl člověk Dněpru: "Hleď,  

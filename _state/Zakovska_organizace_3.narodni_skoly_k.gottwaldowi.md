@@ -1,5 +1,7 @@
 ---
 title: Milý pane prezidente!
+vydal: Pod pokličkou
+rok: "1999"
 ---
 
 

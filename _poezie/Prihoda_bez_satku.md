@@ -1,6 +1,8 @@
 ---
 title: Příhoda bez šátku
 autor: Erich Sojka
+vydal: Za rudým praporem
+rok: "1961"
 ---
 
 *Sborník Za rudým praporem, 1961*

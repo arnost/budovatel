@@ -5,6 +5,7 @@ music: Karol Elbert
 text:
   - Otto Kaušitz
   - Jarko Elen
+youtube: DyPWNThQ95M
 ---
 
 Hurá! Hurá! Je doba nových dní!  

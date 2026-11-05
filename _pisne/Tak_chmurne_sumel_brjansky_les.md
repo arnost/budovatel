@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Sigizmund Kac
 text: Anatolij Sofronov
 preklad: Jelena Holečková
+youtube: _jRK7cgns5w
 ---
 
 Tak chmurně šuměl Brjanský les,  

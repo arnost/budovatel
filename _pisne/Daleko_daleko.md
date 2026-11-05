@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: G. Nosov
 text: A. Čurkin
 preklad: Jelena Holečková
+youtube: 0olqrOEaif4
 ---
 
 Daleko, daleko,  

@@ -2,6 +2,7 @@
 title: Crvena zvjezda
 obdobi: mezivalecne
 text: Vladimir Nazor
+youtube: tebQGMYR9MA
 ---
 
 S Dona, s Volge i s Urala  

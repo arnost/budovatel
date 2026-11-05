@@ -1,5 +1,7 @@
 ---
 title: Přehlídka jede
+vydal: Albatros
+rok: "1974"
 ---
 
 <TABLE ALIGN=CENTER BORDER=0 CELLSPACING=10 CELLPADDING=10><TR>

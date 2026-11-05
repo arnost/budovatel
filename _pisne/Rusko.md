@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Anatolij Novikov
 text: Sergej Alymov
 preklad: J. Milde
+youtube: _K92_rvRUog
 ---
 
 Kde bys našel v celém světě  

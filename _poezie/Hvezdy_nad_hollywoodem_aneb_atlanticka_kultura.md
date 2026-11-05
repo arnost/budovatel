@@ -1,6 +1,8 @@
 ---
 title: Hvězdy nad Hollywoodem aneb Atlantická kultura
 autor: Karel Bradáč
+vydal: O velkou věc
+rok: "1950"
 ---
 
 *na stránce HUMOR\*SATIRA Románových novinek č. 33 - "O velkou věc" nakl. Práce, 1950*

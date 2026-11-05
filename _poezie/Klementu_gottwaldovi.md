@@ -1,6 +1,8 @@
 ---
 title: Klementu Gottwaldovi
 autor: Martin Gazda
+vydal: Práce
+rok: "1949"
 ---
 
 *(\* 23.11.1896)*

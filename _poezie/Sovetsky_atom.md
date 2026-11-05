@@ -1,5 +1,7 @@
 ---
 title: Sovětský atom
+vydal: Mladá fronta
+rok: "1951"
 ---
 
 Nedávno jsme svoje síli,  

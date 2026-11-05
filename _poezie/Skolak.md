@@ -1,6 +1,8 @@
 ---
 title: Školák
 autor: Nikolaj Dirozo
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 *přeložil Jiří V. Svoboda*

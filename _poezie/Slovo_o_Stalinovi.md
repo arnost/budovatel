@@ -1,6 +1,7 @@
 ---
 title: Slovo o Stalinovi
 autor: Władysław Broniewski
+rok: "1952"
 ---
 "Revoluce - lokomotiva dějin..."  
 Strojvůdcům jejím sláva!    

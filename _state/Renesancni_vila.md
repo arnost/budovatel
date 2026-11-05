@@ -1,6 +1,8 @@
 ---
 title: Renesanční vila
 autor: Jožka Jabůrková
+vydal: Rozsevačka
+rok: "1931"
 ---
 
 Stojí na pokraji Stromovky, vyzývajíc procovskou nádherou údiv kolemjdoucích. Dělníci, zaměstnaní na její stavbě, vypravují pravé pohádky o přepychu, který je uvnitř. Zlacené kliky, ručně tepané zábradlí, statisícové gobelíny, staré několik století. »Malá mušle na mytí rukou stojí jen 900 Kč, jedno okno 1200 Kč,« s pýchou vy- právějí páni hlídací společnosti, kteří neustále střeží renesanční vilu Fritze Petschka, uhlobarona a majitele mosteckých dolů.

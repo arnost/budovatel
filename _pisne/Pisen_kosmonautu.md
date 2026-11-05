@@ -3,6 +3,7 @@ title: Píseň kosmonautů
 obdobi: sedesata
 music: Matvej Blantěr
 text:  J. Fuchs
+youtube: h8NRMtpJ1c0
 ---
 
 Kosmonaut z modravé výšky vidí  

@@ -1,6 +1,7 @@
 ---
 title: Otwarte okna
 obdobi: budovatelske
+youtube: gyz-PhYjohU
 ---
 
 Z fabryk na pola, ze wsi do miast,  

@@ -2,6 +2,7 @@
 title: Rudá hvězdička 
 autor: oddíl Rudých průkopníků
 vydal: Vedoucí pionýrů, 1.2.1955
+rok: "1955"
 ---
 
 Na pouť z Ruska vydala se   

@@ -2,6 +2,7 @@
 title: Rád by dělník pracoval 
 autor: kolektiv soudruha Krosnáře
 vydal: Vedoucí pionýrů, 1.2.1955
+rok: "1955"
 ---
 
 Rád by dělník pracoval,   

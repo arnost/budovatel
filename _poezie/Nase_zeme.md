@@ -1,6 +1,8 @@
 ---
 title: Naše země
 autor: Karel Šiktanc
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 Mám rád svou rodnou zemi,  

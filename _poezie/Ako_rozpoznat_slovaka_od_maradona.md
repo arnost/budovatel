@@ -2,6 +2,7 @@
 title: Ako rozpoznať Slováka od maďaróna 
 autor: Josefina Marečková
 vydal: Kdo vládne na Slovensku? (Praha, Kočí, 1924)
+rok: "1924"
 ---
 
 Slovák pravý je jednoduchý,  

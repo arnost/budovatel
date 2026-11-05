@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: P. Akulenko
 text: Jakov Švedov
 preklad: Kamil Bednář
+youtube: 9y2ARhQmfGg
 ---
 
 V obilí se cesta k škole stáčí,  

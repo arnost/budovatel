@@ -1,6 +1,7 @@
 ---
 title: Rudá armáda
 obdobi: mezivalecne
+youtube: PbD2ftzNLTc
 ---
 
 *1. sloka:*  

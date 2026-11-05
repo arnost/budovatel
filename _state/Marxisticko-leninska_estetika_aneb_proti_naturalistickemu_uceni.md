@@ -2,6 +2,7 @@
 title: Marxisticko-leninská estetika aneb proti naturalistickému učení
 autor: A. I. Burov
 vydal: Rovnost v r.1951
+rok: "1951"
 ---
 
 *(zpracoval zíval)*

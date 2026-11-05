@@ -3,6 +3,7 @@ title: Dva sokoli
 obdobi: mezivalecne
 music: E. Jurevič
 preklad: Jelena Holečková
+youtube: hMF5C1xL1JM
 ---
 
 Na zeleném doubku,  

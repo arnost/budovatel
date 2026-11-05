@@ -2,6 +2,7 @@
 title: Kytička 
 autor: M. Červenka
 vydal: Vedoucí pionýrů, 1.4.1955
+rok: "1955"
 ---
 
 Rozkvetlá louka zlatým medem voní,  

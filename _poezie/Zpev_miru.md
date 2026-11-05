@@ -1,6 +1,7 @@
 ---
 title: Zpěv míru
 autor: Vítězslav Nezval
+rok: "1950"
 ---
 
 Aby si přes panický strach,  

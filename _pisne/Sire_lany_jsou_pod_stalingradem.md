@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Valentin Makarov
 text: Jevgenij Dolmatovskij
 preklad: F. Soukup
+youtube: qOPfRBvfZ9s
 ---
 
 Širé lány jsou pod Stalingradem,  

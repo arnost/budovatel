@@ -1,6 +1,8 @@
 ---
 title: Prostý příběh
 autor: Pavel Kohout
+vydal: Dikobraz
+rok: "1951"
 ---
 
 Celý náš příběh prostý byl  

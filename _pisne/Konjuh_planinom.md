@@ -2,6 +2,7 @@
 title: Konjuh planinom
 obdobi: mezivalecne
 text: Miloš Popović Đurin
+youtube: FSf26kBPA2E
 ---
 
 Konjuh planinom vjetar šumi, bruji.  

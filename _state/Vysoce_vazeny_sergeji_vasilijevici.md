@@ -1,5 +1,6 @@
 ---
 title: Vysoce vážený Sergeji Vasilijeviči.
+rok: "1958"
 ---
 
 

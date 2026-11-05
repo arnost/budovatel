@@ -1,6 +1,7 @@
 ---
 title:  Třicet let bojů za českou socialistickou poezii
 autor: Ladislav Štoll
+rok: "1950"
 ---
 
 *Citace s poznámkami (zpracoval zival)*  

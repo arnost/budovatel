@@ -1,6 +1,8 @@
 ---
 title: Krmička vepřů
 autor: Michal Sedloň 
+vydal: Práce zpívá
+rok: "1949"
 ---
 
 Tak, jak mi pusa narostla  

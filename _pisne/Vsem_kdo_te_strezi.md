@@ -3,6 +3,7 @@ title: Všem, kdo Tě střeží
 obdobi: normalizacni
 music: Jaroslav Uhlíř
 text: Miroslav Černý
+youtube: e15quxRqFMs
 ---
 
 Ulice zvolna vychládá, odchází další den,  

@@ -1,6 +1,8 @@
 ---
 title: Díky bojovníku
 autor: kolektiv autorů
+vydal: Dík bojovníku
+rok: "1945"
 ---
 
 K sedmdesátinám soudruha St.K.Neumanna vyšel v r.1945 sborník

@@ -1,6 +1,8 @@
 ---
 title: V únoru 1948
 autor: Jiří V. Svoboda
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 Nepřišel táta celý den,  

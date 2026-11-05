@@ -1,6 +1,8 @@
 ---
 title: Lenin
 autor: J. Samuil Maršak
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 

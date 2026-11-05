@@ -1,6 +1,8 @@
 ---
 title: Děti svobodné Číny
 autor: Ivan Nikitič Kožedub
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 *Trojnásobný Hrdina SSSR, Ivan Nikitič Kožedub.*

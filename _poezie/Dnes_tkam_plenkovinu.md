@@ -1,6 +1,8 @@
 ---
 title: Dnes tkám plenkovinu
 autor: Anna Banovská
+vydal: Nový život
+rok: "1949"
 ---
 
 Dnes tkám plenkovinu.  

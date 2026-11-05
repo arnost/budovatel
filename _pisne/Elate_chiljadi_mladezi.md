@@ -1,6 +1,7 @@
 ---
 title: Elate chiljadi mladeži
 obdobi: budovatelske
+youtube: Q56quVfQ6VQ
 ---
 
 Elate chiljadi mladeži  

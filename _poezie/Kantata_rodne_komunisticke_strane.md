@@ -1,6 +1,8 @@
 ---
 title: Kantáta rodné komunistické straně
 autor: Pavel Kohout
+vydal: Verše a písně z let 1945-1952
+rok: "1952"
 ---
 
 *(kráceno)*

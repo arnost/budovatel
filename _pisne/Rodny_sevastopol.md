@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Valentin Makarov
 text: Sergej Alymov
 preklad: Kamil Bednář
+youtube: A8n3Jjjj38Y
 ---
 
 Již nad Krymem svítání červánkem hoří,  

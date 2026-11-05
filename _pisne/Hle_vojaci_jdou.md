@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Kirill Molčanov
 text: Michail Lvovskij
 preklad: J. Milde
+youtube: gPEaFnOkcJE
 ---
 
 Hle, vojáci tam jdou,  

@@ -1,6 +1,8 @@
 ---
 title: Těžko je psát dnes fantazie
 autor: Karel Bradáč
+vydal: Dikobraz
+rok: "1959"
 ---
 
 Těžko je psát dnes fantazie.  

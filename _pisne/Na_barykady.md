@@ -1,6 +1,7 @@
 ---
 title: Na barykady
 obdobi: delnicke
+youtube: bTDgUSeSfv4
 ---
 
 Na barykady, ludu roboczy,  

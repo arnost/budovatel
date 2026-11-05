@@ -1,5 +1,7 @@
 ---
 title: Leninská pravda
+vydal: Kamenný chlapec
+rok: "1952"
 ---
 
 *Sovětská pohádka z Bílé Rusi*  

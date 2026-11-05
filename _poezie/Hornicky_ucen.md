@@ -1,6 +1,7 @@
 ---
 title: Hornický učeň
 autor: Milan Beránek
+rok: "1951"
 ---
 
 *Milan Beránek, 14 let, Jihlava.*

@@ -1,6 +1,8 @@
 ---
 title: Váš přítel
 autor: Ralph Parve
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 I povídka se dětem z košířské školy líbila, ale některé měly také své

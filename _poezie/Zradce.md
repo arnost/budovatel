@@ -1,6 +1,7 @@
 ---
 title: Zrádce
 vydal: Literární noviny č. 44/1952
+rok: "1952"
 ---
 
 Číhá zrádce v zahraničí   

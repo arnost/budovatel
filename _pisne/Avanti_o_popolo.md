@@ -2,6 +2,7 @@
 title: Avanti o popolo
 obdobi: delnicke
 wikipedie: "Bandiera rossa"
+youtube: hAXoGxLx6yk
 ---
 
 Avanti o popolo, alla riscossa!  

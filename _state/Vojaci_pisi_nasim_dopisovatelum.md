@@ -1,5 +1,7 @@
 ---
 title: Vojáci píší naším dopisovatelům
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 *Mezi naše dopisovatele patří také II. národní škola v

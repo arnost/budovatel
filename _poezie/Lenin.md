@@ -2,6 +2,7 @@
 title: Lenin 
 autor: Širaz Hovhannes
 vydal: Praha-Moskva, revue pro kulturní a hospodářskou spolupráci ČSR a SSSR, ročník I., 1951, z armenštiny přeložil Jaromír Jedlička
+rok: "1951"
 ---
 
 S vesmírem tvoje duše jednoho dne měřila   

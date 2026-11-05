@@ -2,6 +2,7 @@
 title: Smutek proměníme v sílu
 autor: Václav Pánek
 vydal: Rudé právo, 17. 3. 1953, roč. 33, č. 75, s. 4.
+rok: "1953"
 ---
 
 Obrazy malé mám, veliký bol,   

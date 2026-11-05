@@ -1,6 +1,8 @@
 ---
 title: Viděla jsem Stalina
 autor: Jarmila Glazarová
+vydal: Rudé právo
+rok: "1949"
 ---
 
 V ty dny jsme prožívali dobu, kterou Rusové nazývají "kanun prazdnika" - předvečer svátku. Byl to předvečer s přípravou a balením dárků s rozechvěním lásky a snahy, způsobit radost člověku milovanému. Stalinovo jméno zní naším ovzduším, jak hlasy zvonů. Slyšíme je ve vzrušených slovech básníků i ve věcných přednáškách referátů, a obojí stejně nám sdělují jeho dějinnou velikost, genialitu a lidskou blízkost, laskavost a prostotu. A jestliže toto jméno nyní stále zní a my je vdechujeme spolu se vzduchem své země, tu není možno nevzpomínat, když už člověka potkalo štěstí, vidět Stalina ve skutečnosti.

@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Z. Kompanějec
 text: Lev Ošanin
 preklad: Kamil Bednář
+youtube: lnQQo4D2rJ8
 ---
 
 Pěj, soudruhu, zpívej o Kachovce,  

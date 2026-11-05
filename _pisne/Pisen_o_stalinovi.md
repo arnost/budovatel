@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: Matvej Blantěr
 text:  A. Surkov
 preklad: Josef Urban
+youtube: uwnO7mko-5Y
 ---
 
 *1. sloka:*  

@@ -1,6 +1,8 @@
 ---
 title: Veselý ruch
 autor: Alois Mach
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 V kovárně měch hučí,  

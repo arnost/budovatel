@@ -1,6 +1,8 @@
 ---
 title: Jako táta
 autor: Jan Blažej
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 Náš táta nosí montérky;  

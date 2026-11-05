@@ -1,5 +1,7 @@
 ---
 title: Tank číslo 23
+vydal: Krásná a slavná
+rok: "1961"
 ---
 Vyrobili mě na Uralu z tvrdé sibiřské oceli. Když jsem sjížděl z pásu, nasedli do mne dělníci ve vojenských stejnokrojích a vyjeli jsme na ulici. Děti nám mávaly na šťastnou cestu, staří vojáci na mne házeli stříbrné mince na šťastný návrat. Projel jsem velkou sovětskou zemi. Bojoval jsem u Orla, probil jsem se až do Berlína. 
 Už jsme oslavovali mir a ja odpočíval, když tu přišel rozkaz, abychom spěchali na pomoc Praze. Byla to zlá cesta. V Krušných horách stály záseky a překážky, šplhal jsem se cestami, kudy steží projde človek. Fašisté kladli zoufalý odpor, ale nás nezastavili. Moje osádka několik dní a nocí vůbec nespala, nejedla, ani na umytí neměla čas. Když jsme si proklestili cestu horami, byli jsme už v Čechách. Jak mě tu vítali!

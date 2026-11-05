@@ -1,5 +1,6 @@
 ---
 title: Every U down
+rok: "cca 2001"
 ---
 
 *Ukázka současné americké poezie.*

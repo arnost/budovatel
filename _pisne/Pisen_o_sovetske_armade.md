@@ -4,6 +4,7 @@ obdobi: mezivalecne
 music: A. V. Alexandrov
 text: O. Kolyčev
 preklad: H. Vrbová
+youtube: cYb8hGt7PN4
 ---
 
 Nad tebou se jak prapory vznáší  

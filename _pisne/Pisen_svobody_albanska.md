@@ -3,6 +3,7 @@ title: Píseň svobody
 obdobi: mezivalecne
 music: Dhora Leka
 preklad: Erich Sojka
+youtube: _nTD4psIEJM
 ---
 
 Mládež volá Albanii,  

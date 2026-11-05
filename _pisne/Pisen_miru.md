@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Dmitrij Šostakovič
 text:  Jevgenij Dolmatovskij
 preklad: Ilja Bart
+youtube: RpxXBTzSOS0
 ---
 
 *Píseň z filmu ,,Setkání na Labi''.*

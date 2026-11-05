@@ -1,6 +1,8 @@
 ---
 title: Černé děti
 autor: Karel Šiktanc
+vydal: Mateřídouška
+rok: "1951"
 ---
 
 Na rovníku na plantážích,  

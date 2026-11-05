@@ -1,5 +1,7 @@
 ---
 title: Mao o atomové pumě
+vydal: Jaro Číny
+rok: "1954"
 ---
 
 Dopisovatelé všech zemí se rozhodli dovědět se, co si Mao myslí o

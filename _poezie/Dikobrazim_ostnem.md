@@ -1,6 +1,8 @@
 ---
 title: Dikobrazím ostnem
 autor: Karel Bradáč
+vydal: Dikobrazím ostnem
+rok: "1954"
 ---
 
 Vybrali a okomentovali zíval a taťouch.

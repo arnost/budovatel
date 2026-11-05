@@ -1,6 +1,7 @@
 ---
 title: Buďte takoví, jako byl Pavlík
 autor: Vitalij Gubarev
+rok: "1952"
 ---
 
 *matka Pavlíka Morozova*>

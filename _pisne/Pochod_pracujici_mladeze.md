@@ -3,6 +3,7 @@ title: Pochod pracující mládeže
 obdobi: budovatelske
 music: Jan Kapr
 text: Miroslav Kroh
+youtube: Rcty7sihM-g
 ---
 
 Letí světem, letí píseň,  

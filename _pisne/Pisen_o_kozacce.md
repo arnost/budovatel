@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Matvej Blantěr
 text: Sergej Alymov
 preklad: L. Kubišta
+youtube: zdpNiy7aj9Q
 ---
 
 Po stepi vánek lét,  

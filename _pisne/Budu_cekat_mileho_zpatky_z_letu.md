@@ -4,6 +4,7 @@ obdobi: budovatelske
 music: Vano Muradeli
 text: A. Salnikov
 preklad: M. Kubr
+youtube: MXHsLlhCzKE
 ---
 
 Milý mně odletěl  

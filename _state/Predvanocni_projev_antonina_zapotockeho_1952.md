@@ -1,5 +1,6 @@
 ---
 title: Předvánoční projev Antonína Zápotockého 1952
+rok: "1952"
 ---
 
 Chtěl bych dnes ve svém předvánočním projevu promluvit k těm, kteří se

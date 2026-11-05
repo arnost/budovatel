@@ -2,6 +2,7 @@
 title: Gottwalduv úsměv
 autor: Otto Ježek
 vydal: Mladá fronta, 14. 6. 1951
+rok: "1951"
 ---
 
 Když jsme si v dílně pověsili  

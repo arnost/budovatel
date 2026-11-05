@@ -2,6 +2,7 @@
 title: Kam patříme? 
 autor: Neznámý
 vydal: Ohníček, čtení pro dělnické děti, 1928, Federace proletářské tělovýchovy
+rok: "1928"
 ---
 
 Továrník, měšťák - byrokrat  

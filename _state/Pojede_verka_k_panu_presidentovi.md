@@ -1,5 +1,7 @@
 ---
 title: Pojede Věrka k panu presidentovi?
+vydal: Mateřídouška
+rok: "1950"
 ---
 
 Naše dopisovatelka, Věrka Košářová ze IV. tř. střední školy na Kladně,

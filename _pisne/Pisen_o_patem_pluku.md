@@ -2,6 +2,7 @@
 title: Píseň o pátém pluku
 obdobi: mezivalecne
 preklad: Josef Urban
+youtube: KzoGrAEg-94
 ---
 
 Naše strana komunistů,  

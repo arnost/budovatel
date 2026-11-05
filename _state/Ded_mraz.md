@@ -1,5 +1,6 @@
 ---
 title: Děd Mráz
+rok: "1953"
 ---
 
 *Sborník pro 1.-4. třídu osmiletých škol, vyd. Svaz

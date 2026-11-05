@@ -1,6 +1,8 @@
 ---
 title: Idiot hudby
 autor: Milan Kundera
+vydal: Kniha smíchu a zapomnění
+rok: "1981"
 ---
 
 Když jsem šel s tatínkem asi rok před jeho smrtí na obvyklou procházku kolem bloku domů, z každého rohu zněly písně. Oč byli lidé smutnější, o to víc jim tlampače hrály. Vyzývaly okupovanou zemi, aby zapomněla na trpkost dějin a oddala se radosti ze života. Tatínek se zastavil, zadíval se nahoru k přístroji, z něhož se ozýval hluk, a já jsem cítil, že mi chce sdělit něco velice důležitého. Usilovně se soustředil, aby se mu podařilo vyslovit, co měl na mysli, a pak pomalu a s námahou říkal: "Blbost hudby."

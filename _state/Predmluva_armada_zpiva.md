@@ -68,4 +68,4 @@ A ať učí nenávisti i lásce. Nenávisti k těm, kteří kazí svět a necht�
 
 <p align="right"><i>V Praze v prosinci 1950<br>Milan Horák</i></p>
 
-*Na konci zpěvníku je ještě vzpomínka A. V. Alexandrova [Stalin nás učí rozumět písni](/state.phtml/stalin_nas_uci_rozumet_pisni).*
+*Na konci zpěvníku je ještě vzpomínka A. V. Alexandrova [Stalin nás učí rozumět písni](/state.phtml/soudruh_stalin_nas_uci_rozumet_pisni).*

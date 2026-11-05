@@ -1,7 +1,7 @@
 ---
 title: Soudruh Stalin nás učí rozumět písni
 autor: A. V. Alexandrov
-vydal: Pravda, 19. prosince
+vydal: Pravda
 rok: "1939"
 ---
 
@@ -126,3 +126,4 @@ světnicích, při odechu, za výcviku a na podiích Soutěže tvořivosti.
 A ať učí nenávisti i lásce. Nenávisti k těm, kteří kazí svět a nechtějí slyšet píseň míru.
 Lásce k těm, kteří ho svýma rukama stavějí a chrání.
 
+*Český překlad vyšel také na konci zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

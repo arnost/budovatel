@@ -29,4 +29,4 @@ z nej svitne šťastie do chalúp!
 
 *Zdenek Cón (1919–1995), rodák z Vídně, působil v letech 1946–1953 v košickém studiu rozhlasu a pak jako redaktor estrádní a operetní redakce v Bratislavě; jeho nejznámější skladbou je tango Nečakaj ma už nikdy (1946). Textař Jarko Elen žil v letech 1895–1978.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

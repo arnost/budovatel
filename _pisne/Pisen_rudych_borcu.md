@@ -35,4 +35,4 @@ ráz, ráz, ráz, ráz! :|
 
 *Jan Urban ji složil na text S. K. Neumanna jako jednu z prvních u nás vědomě psaných masových písní; poprvé vyšla v lístkovém sborníku Proletářské zpěvy v Praze roku 1923. Stanislav Kostka Neumann (1875–1947) byl v listopadu 1945 jmenován národním umělcem.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -37,4 +37,4 @@ nezradit v bojích, neustoupit!
 
 *Píseň vznikla krátce po Stalinově smrti v březnu 1953; podle zpěvníku ji složil pražský typograf.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

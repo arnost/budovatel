@@ -17,4 +17,4 @@ našej päťročnici zdar,
 a volaj s nami nadšene  
 našej päťročnici zdar!  
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

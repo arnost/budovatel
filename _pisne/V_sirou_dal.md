@@ -85,4 +85,4 @@ Rusky:
 
 *Píseň o vlasti („Широка страна моя родная…“) napsali Dunajevskij s Lebeděvem-Kumačem pro film Cirkus (1936); podle vyprávění na ní pracovali půl roku a vybrali až šestatřicátou verzi. Od roku 1939 sloužily její první takty jako znělka Všesvazového rozhlasu.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

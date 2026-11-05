@@ -22,4 +22,4 @@ půjde za mír s námi bojovat!
 
 *Brzy ji zařadila do repertoáru řada souborů lidové tvořivosti. Jiří Pauer (1919–2007) pocházel z hornické rodiny z Libušína; později byl uměleckým ředitelem České filharmonie (1958–1980) a ředitelem Národního divadla (1979–1989), roku 1979 byl jmenován národním umělcem.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

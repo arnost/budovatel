@@ -57,4 +57,4 @@ ty budeš má otčina. :|
 
 *Píseň složil neznámý socialista v době pronásledování v 80. letech 19. století na motivy vystěhovalecké písně „Tam pod těmi Krkonoši“; mluví o vztahu proletářů k vlasti, z níž byli socialisté vypovídáni a za prací často odcházeli až za moře. V jedné variantě se jako refrén ustálilo: „Až se jednou svět obrátí, s kapitály, potentáty, ó pak budeš, ó vlasti má, budeš Čechů otčina!“*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

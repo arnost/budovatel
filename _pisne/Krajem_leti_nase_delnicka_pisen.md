@@ -45,6 +45,6 @@ písničkou rozkvete celá naše zem.
 
 *Text vznikl v polovině třicátých let na nápěv Dunajevského „Pochodu veselých dětí“; mladí v něm snili o socialistické budoucnosti své země podle sovětského vzoru, v době, kdy tu byl ještě milion nezaměstnaných.*
 
-*Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953), který noty neuvádí.*
+*Text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953), který noty neuvádí.*
 
 *Zpívá se na nápěv Pochodu veselých chlapců Isaaka Dunajevského (1934); noty podle sovětského zpěvníku (sken na a-pesni.org).*

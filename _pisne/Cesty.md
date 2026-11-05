@@ -114,4 +114,4 @@ Rusky:
 
 *Píseň vznikla na podzim 1945 pro pásmo „Vítězné jaro“ (Весна победная), které k 7. listopadu připravil režisér Sergej Jutkevič se Souborem písní a tanců vojsk NKVD; skladatel s básníkem si z předloženého seznamu témat vybrali píseň-zamyšlení s pracovním názvem „Za klapotu kol“. Prvním interpretem byl sólista souboru Ivan Šmeljov, po úspěšné premiéře ji autoři ještě měsíc upravovali. V ruštině je známa podle prvního verše jako „Эх, дороги…“.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

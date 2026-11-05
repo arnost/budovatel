@@ -24,4 +24,4 @@ može ít sprobovat,
 na zádech bubnovat.  
 
 *Lidová píseň z Velké.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -28,4 +28,4 @@ plody nám přinese práce květ.
 
 *Josef Stanislav složil píseň k I. všeodborovému sjezdu, který se konal v Praze v roce 1946. Klavírista a skladatel Josef Stanislav (1897–1971) byl komunistou od roku 1931, v dělnickém hnutí vystupoval pod přezdívkou Kerry Boy (čti Karel Boj) a hned po válce pracoval ve vedení Revolučního odborového hnutí; napsal i Píseň uhelných brigád nebo Gottwaldovu Ostravu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

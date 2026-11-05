@@ -46,4 +46,4 @@ my vládci světa budujem'.
 
 *Jan Kapr ji složil v roce 1951 na slova K. M. Wallóa jako hlavní dělnickou píseň pro připravovaný film Botostroj (podle stejnojmenného románu T. Svatopluka z roku 1933 o poměrech v Baťových závodech). Kapr (1914–1988) dostal roku 1951 Stalinovu cenu a roku 1953 státní cenu za budovatelské písně; po srpnu 1968 na protest proti okupaci Stalinovu cenu i stranickou legitimaci vrátil a jeho díla se pak nehrála. K. M. Walló (1914–1990) je považován za zakladatele českého dabingu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

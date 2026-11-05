@@ -149,4 +149,4 @@ mohli uhájiti,
 mnichy zervati.  
 
 *Nápěv byl rozšířen už od 16. století a zpívaly se na něj i církevní písně; zpěvník ji přebírá ze sbírky Čeňka Holase České národní písně a tance.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

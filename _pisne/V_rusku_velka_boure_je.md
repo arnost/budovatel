@@ -60,4 +60,4 @@ musí šňupat dynamit!
 
 V první sloce se častěji zpívalo „je už celá pitomá“, poslední verš 9. sloky se zpíval také „zbudují vám občinu“ nebo „svobodu“.
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

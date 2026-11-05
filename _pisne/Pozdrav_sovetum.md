@@ -27,4 +27,4 @@ spojeni – síla jsme jediná.
 
 *Píseň Jana Kapra vznikla pro Měsíc československo-sovětského přátelství jako poděkování sovětským přátelům. Miloslav Zachata (1925–1970) otextoval v padesátých letech několik budovatelských písní, později se stal televizním režisérem (seriál Tři chlapi v chalupě, záznam hry Těžká Barbora s Werichem a Horníčkem); zemřel na leukémii ve 45 letech.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

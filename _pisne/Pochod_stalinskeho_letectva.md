@@ -63,4 +63,4 @@ Rusky:
 
 *Slova napsal básník Sergej Alymov (1892–1948), který před revolucí utekl z vyhnanství do Číny, dlouho žil v Charbinu, na počátku třicátých let prošel táborem na stavbě Bělomořského kanálu a po návratu psal hlavně vlastenecké písně (upravil i text známé partyzánské Po dolinam i po vzgorjam). Zahynul při autonehodě v dubnu 1948, text tedy vznikl nejpozději tehdy.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

@@ -47,4 +47,4 @@ Píseň Le drapeau rouge byla složena ve vypjatých podzimních dnech roku 1870
 [Sv. Sidonie in Budovatelské písně mého mládí](https://drobnostisv-sidonie.webnode.cz/news/budovatelske-pisne-meho-mladi/)
 
 
-*Noty podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953), kde je píseň pod názvem „Pryč s tyrany a zrádci všemi“ v překladu Běly Krapkové.*
+*Noty podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953), kde je píseň pod názvem „Pryč s tyrany a zrádci všemi“ v překladu Běly Krapkové.*

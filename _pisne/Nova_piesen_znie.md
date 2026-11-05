@@ -28,4 +28,4 @@ tejto piesne z práce zrodenej,
 naše dlhé neprehľadné šiky  
 pri nej pôjdu budovať ďalej!  
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

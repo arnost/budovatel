@@ -17,4 +17,4 @@ Vrabec mžoural očkem, tvrdil nakonec,
 
 *Satirická písnička zesměšňující měšťácké vlastenčení; vyšla v časopise Kohoutek (ročník I., č. 9). Autor textu Jan Hostáň (1898–1982) byl levicový spisovatel a pedagog, za první republiky psal hlavně do levicových listů jako Proletkult, Rudé právo či Rudé květy a po roce 1945 přispíval do dětského časopisu Mateřídouška.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

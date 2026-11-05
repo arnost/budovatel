@@ -64,4 +64,4 @@ Rusky:
 
 *Zpěvník ji uvádí jako ruskou národní píseň, ve skutečnosti však slova i hudbu napsal roku 1860 Ivan Petrovič Larionov (1830–1889) pro ochotnické divadelní představení v Saratově. Rozšířila se díky sboru Dmitrije Agreněva-Slavjanského, světově proslulou ji udělalo zpracování A. V. Alexandrova pro jeho soubor.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

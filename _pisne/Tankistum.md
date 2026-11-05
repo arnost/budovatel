@@ -35,4 +35,4 @@ neleknem' se ran.
 
 *Píseň složil Radim Drejsl pro Armádní umělecký soubor Víta Nejedlého a rychle zdomácněla mezi vojáky. V soupisu Drejslova díla na české Wikipedii je uvedena pod názvem Sláva tankům. S Miroslavem Krohem napsal Drejsl i další vojenské písně a Kroh pro něj začal psát libreto opery o Janu Želivském, kterou po Drejslově smrti zhudebnil Miloš Vacek.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

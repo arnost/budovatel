@@ -25,4 +25,4 @@ než při lenošení!
 
 *Píseň na nápěv lidové „Roztrhané chalupy“ zlidověla v Podkrkonoší. Zpěvník ji otiskl podle rukopisného záznamu z počátku 90. let 19. století.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -139,4 +139,4 @@ Rusky:
 
 *129. střelecká divize Rudé armády osvobodila 4.–5. srpna 1943 Orel a ještě 5. srpna dostala čestný název „Orlovská“. Na počest dobytí města vznikla v roce 1943 tato píseň; Anatolij Novikov za ni (spolu s písněmi Vasja-Vasilok, Pět kulí a dalšími) dostal v roce 1946 Stalinovu cenu.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

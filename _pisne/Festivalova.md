@@ -42,4 +42,4 @@ Mírová fronta zvítězí! Zvítězí!
 
 *Píseň vznikla pro Světový festival mládeže a studentstva v Berlíně v roce 1951 a podle zpěvníku ji tehdy zpívaly nejen domácí soubory, ale i mládež v cizině. Václav Dobiáš (1909–1978) patřil k hlavním skladatelům budovatelských písní a byl i komunistickým poslancem; Pavel Kohout (nar. 1928) začínal jako budovatelský básník, později se s režimem rozešel, byl jedním z autorů Charty 77 a žil v rakouském exilu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

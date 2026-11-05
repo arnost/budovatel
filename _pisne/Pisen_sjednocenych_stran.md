@@ -68,4 +68,4 @@ do szczęścia proletariatu.
 
 *Leopold Lewin (1910–1995) byl polský básník a překladatel německé a ruské poezie. Andrzej Panufnik (1914–1991) byl po válce místopředsedou Svazu polských skladatelů; v roce 1954 emigroval do Velké Británie a zemřel v Londýně.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

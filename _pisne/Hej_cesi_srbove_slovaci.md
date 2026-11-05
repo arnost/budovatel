@@ -45,4 +45,4 @@ v celém národě červenou.
 
 *Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
 
-*Noty podle nápěvu písně Ve jarmu, co tak dlouho hyne v Českém revolučním zpěvníku (Karbusický, Vanický, 1953).*
+*Noty podle nápěvu písně Ve jarmu, co tak dlouho hyne v [Českém revolučním zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

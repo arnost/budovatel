@@ -39,4 +39,4 @@ výš na svých ramenou.
 
 *Mládežnická píseň z roku 1952. Autor textu Karel Šiktanc (1928–2021) se později stal významným básníkem a autorem pohádek pro děti.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

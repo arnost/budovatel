@@ -54,4 +54,4 @@ hájení vám ztíží!
 
 *Obrozeneckou píseň Sama Tomášika na nápěv polské mazurky zpívalo i dělnictvo jako „píseň svobody“, než si v 70. letech 19. století začalo na její melodii skládat vlastní texty – jedním z nich je verze J. B. Pecky z konce 70. let. Tomášik napsal první verzi jako „Hej, Slováci“ v roce 1834 při návštěvě Prahy, kde ho rozladilo, kolik je v ulicích slyšet němčiny; nápěv vychází z Mazurku Dąbrowskiego, dnešní polské hymny. Píseň se stala hymnou všeslovanského hnutí a slovanského Sokola, za války hymnou Slovenského státu a později státní hymnou socialistické Jugoslávie.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

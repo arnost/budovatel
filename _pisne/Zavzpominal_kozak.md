@@ -65,4 +65,4 @@ Rusky:
 
 *Hudbu složil Konstantin Listov (1900–1983), autor známé válečné písně V zemljance (1942) a později Sevastopolského valčíku, slova napsal Alexandr Žarov (1904–1984), autor pionýrské hymny Vzvějtes kostrami, sinije noči. Listov a Žarov spolu po válce napsali více písní; o poválečném vzniku svědčí i text, v němž kozák vzpomíná na boje u Varšavy a v Berlíně.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

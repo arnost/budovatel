@@ -55,4 +55,4 @@ voják a úderník.
 
 *V soupisu Drejslova díla na české Wikipedii je píseň uvedena s rokem vzniku 1950 a s textem Miroslava Kroha.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

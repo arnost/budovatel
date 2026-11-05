@@ -60,6 +60,6 @@ Rusky:
 
 *Pavel Akulenko napsal s Jakovem Švedovem i další vojenské písně, například Píseň mladých vojáků. Švedov (1905–1984), původně dělník a dopisovatel závodních novin, prošel válkou jako frontový zpravodaj a je autorem textů známých písní Smugljanka a Orljonok.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*
 
 *Jednohlasou verzi se stejným textem otiskl pod názvem Co náš voják brání i Zpěvník pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*

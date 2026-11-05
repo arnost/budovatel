@@ -50,4 +50,4 @@ Rusky:
 
 *Píseň složil Matvej Blanter (1903–1990), autor Kaťuše, na slova Alexandra Kovalenkova (1911–1971) v roce 1948. Kovalenkov byl za války dopisovatelem frontových novin na Karelském frontě; po Stalinově smrti byl na měsíc zatčen a později rehabilitován, pak vyučoval veršování na Literárním institutu M. Gorkého.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

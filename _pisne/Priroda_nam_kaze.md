@@ -65,4 +65,4 @@ a přitom se chlubí,
 
 *Píseň Josefa Boleslava Pecky ze 70. let 19. století patřila k nejoblíbenějším mezi dělníky a zpívala se v mnoha obměnách textu; s notami ji poprvé vydal Jan Urban ve zpěvníku Revoluční nápěvy (1921). Josef Boleslav Pecka (1849–1897) spoluzakládal roku 1878 českou sociální demokracii a byl několikrát vězněn, mimo jiné na 14 měsíců za skládání a šíření socialistických písní. Roku 1885 před pronásledováním odešel do Spojených států a zemřel v Chicagu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

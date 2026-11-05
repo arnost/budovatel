@@ -57,4 +57,4 @@ rolníci a bratři!
 
 *Píseň venkovské chudoby z okolí Prahy; v 90. letech 19. století vzniklo na tento nápěv mnoho variant, jimiž dělníci při agitaci na vesnicích bojovali za volební právo a získávali rolníky pro spojenectví s dělnickou třídou.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -48,4 +48,4 @@ Po refrénu sbor zpívá sloku znovu a končí zvoláním „hej!“. \* Podruh�
 
 *Náborová píseň z doby zakládání JZD, která měla přesvědčovat rolníky ke vstupu do družstev a ke kolektivnímu hospodaření. Jiří Pauer (1919–2007), původem z hornické rodiny a žák Aloise Háby a Pavla Bořkovce, byl později uměleckým ředitelem České filharmonie (1958–1980) a ředitelem Národního divadla (1979–1989).*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -16,4 +16,4 @@ Krleš, Krleš, Krleš.
 
 *Nejstarší dochovaná česká duchovní píseň, kterou lid zpíval i v bitvách jako píseň bojovou; nejstarší zápis pořídil roku 1397 mnich Jan z Holešova. Vznikla nejspíš na přelomu 10. a 11. století a poprvé je doložena roku 1055, kdy se zpívala při volbě knížete Spytihněva II.; Karel IV. ji zařadil do korunovačního řádu a Jan Hus ji dával zpívat v Betlémské kapli. Tradice, že ji složil svatý Vojtěch, není potvrzena.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -50,4 +50,4 @@ O lume nouă vom clădi.
 
 *Autorka rumunského textu Nina Cassian (1924–2014) byla básnířka, překladatelka a skladatelka; v roce 1985 odešla do Spojených států, kde dostala azyl a až do smrti žila v New Yorku.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

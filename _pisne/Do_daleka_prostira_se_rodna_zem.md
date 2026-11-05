@@ -82,4 +82,4 @@ Rusky:
 
 *Básník a textař Jakov Švedov (1905–1984) byl původně dělníkem moskevských metalurgických závodů, za války frontovým dopisovatelem a je autorem písní Smugljanka a nové verze Orljonka z roku 1936.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

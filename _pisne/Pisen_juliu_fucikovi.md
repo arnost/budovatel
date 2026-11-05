@@ -47,4 +47,4 @@ protože bdíme! My bdíme!
 
 *Píseň oslavující Julia Fučíka, autora Reportáže psané na oprátce, složil Alois Palouček, který vedl Soubor Julia Fučíka pražského závodu Auto-Praga. Autor textu Pavel Kohout (nar. 1928) začínal jako jeden z hlavních představitelů budovatelské poezie; později prošel vystřízlivěním, účastnil se pražského jara, podepsal Chartu 77 a v 70. letech byl donucen odejít do exilu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -20,4 +20,4 @@ he he hé he.
 
 Tato bojová píseň vznikla, když čínská lidová armáda překročila řeku Jang-ce-Kiang. Zpívá o jarním větru a o vítězství, které postupuje na jih. „Budeme všichni společně zpívat, náš hlas je silný“, zpívá se v písni.
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

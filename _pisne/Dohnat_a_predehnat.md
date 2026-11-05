@@ -25,4 +25,4 @@ chcem v každém z nás otroka zabít navždy řádem novým.
 
 *Píseň pochází z revoluční revue „Dohnat a předehnat“ (1934; podle české Wikipedie, článku o El-Carovi, šlo o agitační revue v režii Františka Spitzera z roku 1932). Zpívala se současně s [Písní o rudém tisku](/pisen.phtml/pisen_o_rudem_tisku): střídavě sloka jedné a sloka druhé písně, poslední sloka pak obě písně najednou.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -32,4 +32,4 @@ Fel brigád, rajta, álld meg helyed!
 
 *Endre Szervánszky (1911–1977) byl maďarský skladatel, za Honvédskou kantátu (1949) a další díla dvakrát dostal Kossuthovu cenu. Autor maďarského textu Tibor Méray (1924–2020) byl novinářem deníku Szabad Nép, po roce 1956 emigroval do Paříže a v exilu psal o maďarské revoluci.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

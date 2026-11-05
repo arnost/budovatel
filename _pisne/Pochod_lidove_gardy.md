@@ -47,4 +47,4 @@ z ręki lódowych mas.
 
 *Pochod Gwardie Ludowej (Lidové gardy), ozbrojené složky Polské dělnické strany, složila slova i nápěv v roce 1942 Wanda Zieleńczyk (1920–1943), členka odboje v řadách Gwardie Ludowej, na motivy lidových písní z Piotrkowska; zpěvník uvádí autora nápěvu jako neznámého. Původně se jmenoval „Píseň partyzánů“ (Pieśń partyzantów), poprvé vyšel 20. ledna 1943 v ilegálních novinách „Gwardzista“ a stal se hymnou Gwardie Ludowej. Autorku zatklo gestapo v červenci 1943 a v srpnu téhož roku byla zastřelena ve varšavské věznici Pawiak.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

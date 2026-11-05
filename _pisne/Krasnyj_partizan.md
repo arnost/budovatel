@@ -51,4 +51,4 @@ pochovaný rudý partyzán.:]
 
 *Noty a text podle zpěvníku Zpíváme 1948: hymny, písně vlastenecké a revoluční (1948).*
 
-*Český text Josefa Urbana podle zpěvníku Armáda zpívá (Naše vojsko, 1951), který jako autorku hudby i slov uvádí partyzánku A. Turkinovou, radiotelegrafistku Kovpakova oddílu.*
+*Český text Josefa Urbana podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951), který jako autorku hudby i slov uvádí partyzánku A. Turkinovou, radiotelegrafistku Kovpakova oddílu.*

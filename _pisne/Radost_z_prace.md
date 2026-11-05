@@ -25,4 +25,4 @@ len tak sa môžme dobre mať.
 
 *Text napsal pod pseudonymem Oto Ivančan slovenský libretista, textař a překladatel Otto Kaušitz (1909–1982), autor textů asi ke 150 písním a 30 operetních libret.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

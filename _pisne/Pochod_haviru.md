@@ -24,4 +24,4 @@ půjdeme směle vždy na přední stráž.
 
 *Pochod zvítězil na jaře 1948 v ostravské soutěži o novou hornickou píseň a pak se v mnoha různých úpravách rozšířil mezi horníky. Zbyněk Přecechtěl (1916–1996) byl korepetitorem v Burianově divadle D 41 a v březnu 1941 byl s Burianem zatčen kvůli baletu Pohádka o tanci; válku pak prožil převážně na Ostravsku a po osvobození byl hudebním režisérem ostravského rozhlasu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

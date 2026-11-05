@@ -69,4 +69,4 @@ Rusky:
 
 *Píseň vznikla v polovině 30. let; podle sovětského vydání z roku 1950 byl text zapsán v kyjevském závodě Leninská kovárna a zpíval se na ukrajinský lidový nápěv, ruská Wikipedie ho připisuje Michailu Isakovskému. Známější je zhudebnění Vladimira Zacharova, za které (spolu s dalšími písněmi) dostal v roce 1942 Stalinovu cenu. Zpívala ji Irma Jaunzem (1936) a Pjatnického sbor (1937).*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

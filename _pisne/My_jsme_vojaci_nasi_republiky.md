@@ -39,4 +39,4 @@ jak Husité bojovat,
 svorně půjdeme za pravdu se bít,  
 jak Husité chceme dál!  
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

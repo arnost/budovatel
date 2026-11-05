@@ -95,4 +95,4 @@ Rusky:
 
 *Bratři Pokrassové a Boris Laskin napsali píseň v roce 1939; podle legendy (kterou Laskin popíral) je inspiroval raport osádky tanku BT-7, která se v létě 1938 domáhala účasti v bojích u jezera Chasan, přečtený na XVIII. sjezdu strany. Poprvé ji zazpíval Nikolaj Krjučkov ve filmu Traktoristé (premiéra 3. července 1939) a stala se neoficiální hymnou sovětských pohraničních a tankových vojsk.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

@@ -73,4 +73,4 @@ Rusky:
 
 *Nikolaj Krjukov (1908–1961), od roku 1931 hudební vedoucí studia Mosfilm, napsal hudbu k barevnému hudebnímu filmu Ivana Pyrjeva Сказание о земле Сибирской (Mosfilm 1947), za který v roce 1948 dostal spolu s dalšími tvůrci filmu Stalinovu cenu I. stupně.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

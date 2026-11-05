@@ -27,4 +27,4 @@ ešče lepší bude.
 
 *Píseň s textem Anežky Gorlové z Boršic u Blatnice, sběratelky a upravovatelky lidových písní, která skládala nové písně o životě družstevní vesnice, se v souborech lidové tvořivosti velmi rozšířila.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

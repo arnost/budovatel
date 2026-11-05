@@ -84,4 +84,4 @@ Rusky:
 
 *Píseň oslavuje ruský křižník Varjag, který se v únoru 1904 v bitvě u Čemulpcha postavil přesile japonského loďstva a po těžkém poškození byl potopen vlastní posádkou. Německou báseň Der Warjag napsal rakouský básník Rudolf Greinz a otiskl ji mnichovský časopis Jugend, ruský překlad Jevgenije Studenské vyšel v dubnu 1904. Báseň zhudebnil vojenský hudebník Alexej Turiščev a píseň poprvé zazněla na slavnostní recepci, kterou car Mikuláš II. uspořádal pro posádky Varjagu a dělového člunu Korejec. Za první světové války se přestala zpívat třetí sloka o Japoncích a Greinzovo autorství se zamlčovalo.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

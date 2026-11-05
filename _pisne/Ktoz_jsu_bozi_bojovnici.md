@@ -63,4 +63,4 @@ Bóh pán náš! křikněte.
 
 *Nejznámější husitská píseň, bojová hymna husitských vojsk, v níž je v kostce obsažen i Žižkův vojenský řád; autor není jistě znám, od Zdeňka Nejedlého (1913) se obvykle připisuje táborskému knězi Janu Čapkovi. Nápěv později citoval Bedřich Smetana v symfonických básních Tábor a Blaník i v opeře Libuše, Václav Dobiáš ho roku 1952 upravil pro sólo, sbor a orchestr. Nápěv i text jsou podle nejstaršího zápisu v Jistebnickém kancionálu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

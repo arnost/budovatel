@@ -24,4 +24,4 @@ zmužile, hrdinsky,
 hnali ze země rytířsky.  
 
 *Nápěv pochází z počátku 17. století a píseň ukazuje, že husitská tradice zůstala v lidu živá po celou dobu pobělohorskou. Zpěvník bere nápěv a první sloku od Čeňka Holase, další sloky zapsal F. J. Vavák ve svých Pamětech.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

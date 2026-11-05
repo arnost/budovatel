@@ -26,4 +26,4 @@ Rusky:
 
 *Píseň o veliteli Rudé armády Vasiliji Čapajevovi (1887–1919), padlém v občanské válce, je datována rokem 1928; nápěv je lidový.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

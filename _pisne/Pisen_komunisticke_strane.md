@@ -47,4 +47,4 @@ Sláva! Sláva! Sláva!
 
 *Sborovou píseň napsali Vítězslav Nezval a Václav Dobiáš k třicátému výročí založení Komunistické strany Československa (1951). Václav Dobiáš (1909–1978) patřil k nejaktivnějším skladatelům budovatelských písní (Budujeme, Pojďte s námi na brigádu, Píseň o Stalinovi) a po roce 1948 vedl akční výbor Syndikátu českých skladatelů, který prováděl čistky mezi hudebníky. Básník Vítězslav Nezval (1900–1958), spoluzakladatel poetismu a vůdčí osobnost českého surrealismu, byl členem KSČ a národním umělcem.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

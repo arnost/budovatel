@@ -70,4 +70,4 @@ Rusky:
 
 *Píseň Прощание (podle prvního verše známá i jako Дан приказ ему на запад, také Прощальная комсомольская) složili bratři Pokrassové, zde uvedená pod jménem Dmitrije Pokrasse (1899–1978), který v letech 1932–1954 skládal společně s mladším bratrem Daniilem (1905–1954), na slova Michaila Isakovského (1900–1973), autora Kaťuše, v roce 1938. Rozšířila se hlavně v podání Leonida Utěsova.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

@@ -41,4 +41,4 @@ prací pro život.
 
 *Hudbu složil Vladimír Sommer (1921–1997), text Miloslav Zachata (1925–1970), pozdější televizní režisér, který v 50. letech otextoval několik budovatelských písní.*
 
-*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*
+*Noty porovnány s [Českým revolučním zpěvníkem](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

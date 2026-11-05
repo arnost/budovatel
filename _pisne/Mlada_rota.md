@@ -106,4 +106,4 @@ Rusky:
 
 *Boris Terentěv (1913–1989) byl za války skladatelem písní pro Severní loďstvo; s Michailem Ruděrmanem (1905–1984) po válce napsal i další vojenské písně (Старшина, Я море люблю). Ruděrman se proslavil hlavně textem slavné Tačanky z roku 1937. Terentěv byl po válce činovníkem Svazu sovětských skladatelů a psal i opery a operety.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

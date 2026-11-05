@@ -101,4 +101,4 @@ Rusky:
 
 *Píseň vznikla v roce 1934 pro hudební komedii Grigorije Alexandrova Veselí chlapci (Весёлые ребята), v níž ji zpíval Leonid Utěsov v hlavní roli. Na tentýž nápěv se u nás už ve třicátých letech zpívala [Krajem letí naše dělnická píseň](/pisen.phtml/krajem_leti_nase_delnicka_pisen).*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

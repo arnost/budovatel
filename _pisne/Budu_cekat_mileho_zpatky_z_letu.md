@@ -70,4 +70,4 @@ Rusky:
 
 *Sovětský skladatel Vano Muradeli (1908–1970), rodák ze Stalinova Gori, byl v únoru 1948 usnesením ÚV VKS(b) o jeho opeře Velké přátelství spolu s Prokofjevem a Šostakovičem odsouzen jako „formalista“; rehabilitován byl až v roce 1958 a o rok později složil známý Buchenwaldský zvon.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

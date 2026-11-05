@@ -66,4 +66,4 @@ Rusky:
 
 *Hudbu složil sovětský skladatel Valentin Kručinin (1892–1970), autor operet a pochodů a suit pro dechovou hudbu. Český text napsal podle sborníku Milan Kundera (1929–2023), tehdy začínající básník, který do literatury vstoupil v roce 1945 překlady Majakovského.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

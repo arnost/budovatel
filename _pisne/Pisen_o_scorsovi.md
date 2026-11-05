@@ -58,4 +58,4 @@ Rusky:
 
 *Píseň je věnována Nikolaji Ščorsovi, veliteli divize Rudé armády za občanské války. Text napsal v roce 1935 Michail Golodnyj (1903–1949), očitý svědek občanské války na Ukrajině (zpěvník jej mylně připisuje Michailu Isakovskému), Matvej Blantěr ho zhudebnil v roce 1936. Píseň zazněla ve filmu Alexandra Dovženka Ščors (1939) a za druhé světové války byla hymnou partyzánského oddílu Ščorsova jména v běloruských bažinách; zpívali ji i bojovníci interbrigád ve Španělsku.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

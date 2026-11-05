@@ -21,4 +21,4 @@ na parádu!
 
 *Píseň se ujala tak, že téměř zlidověla a soubory i zpěváci k ní vymýšleli spoustu vlastních slok. Václav Dobiáš (1909–1978) byl synem venkovského lidového muzikanta a sám hrál od dětství ve vesnické kapele. Po roce 1948 vedl akční výbor Syndikátu českých skladatelů, který prováděl čistky mezi skladateli, a roku 1963 se stal předsedou Svazu československých skladatelů.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

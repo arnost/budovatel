@@ -20,4 +20,4 @@ my jim za to postavíme
 
 *Dělnická předělávka Šrámkovy protirakouské písně stejného jména z roku 1921, kdy buržoazní tisk strašil „bolševickými hrůzami“ a dělníci se k bolševikům naschvál hlásili.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -27,4 +27,4 @@ My zvítězíme! To buď si jak buď!
 
 *Leopold Kochmann, jeden z prvních českých socialistů, napsal píseň k desátému výročí Pařížské komuny; melodii převzal z Haissovy písně o padlých u Hradce Králové „Kde že mám pevně pluh svůj zasaditi“. Celá píseň má 44 slok, zpěvník uvádí jen první čtyři.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

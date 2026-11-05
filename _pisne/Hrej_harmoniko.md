@@ -86,4 +86,4 @@ Rusky:
 
 *Slova napsal básník Sergej Alymov (1892–1948), účastník Velké vlastenecké války, který zahynul při autonehodě v dubnu 1948; text o poraženém Hitlerovi a „podněcovatelích války“ tak vznikl v letech 1945–1948.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

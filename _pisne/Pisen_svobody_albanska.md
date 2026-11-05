@@ -59,4 +59,4 @@ Thyhen prangat e robrisë.
 
 *Albánský název písně je Britma e çlirimit, podle prvního verše také Që nga gjokset djaloshare. Skladatelka Dhora Leka (1923–2006) psala partyzánské písně ve 40. letech jako příslušnice albánského odboje; v roce 1956 byla vyloučena ze strany a odsouzena k 25 letům vězení, propuštěna byla v roce 1963 a titul Lidová umělkyně dostala v roce 1992.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

@@ -45,4 +45,4 @@ dnes jenom my — však zítra celičká planeta.
 
 *Rudé právo píseň otisklo 13. srpna 1933. Skladatel Alois Hába (1893–1973) je znám hlavně jako světový průkopník mikrotonální (čtvrttónové) hudby.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

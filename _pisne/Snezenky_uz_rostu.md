@@ -28,4 +28,4 @@ aby mohly šťastně žiť.
 
 *Píseň složila lidová zpěvačka a básnířka Jiřina Mikulenková po smrti Klementa Gottwalda v březnu 1953. Jiřina Mikulenková z Valašska zpívala od počátku v Brněnském rozhlasovém orchestru lidových nástrojů (BROLN), založeném roku 1952.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

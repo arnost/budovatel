@@ -55,4 +55,4 @@ Bulharsky:
 
 *Hymna Bulharské lidové republiky od 14. února 1947 do 30. prosince 1950, od roku 1951 ji nahradila píseň Българийо мила. Autor bulharského textu se jmenoval Krum Penev, zpěvník ho chybně uvádí jako Krum Lenev.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

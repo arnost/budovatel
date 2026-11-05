@@ -78,4 +78,4 @@ Rusky:
 
 *Autor textu Solomon Fogelson (1910–1994) byl za války režisérem a hercem divadla Baltského loďstva a později psal texty písní k filmům Небесный тихоход a Человек-амфибия.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

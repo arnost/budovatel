@@ -80,4 +80,4 @@ Rusky:
 
 *Textař Jakov Švedov (1905–1984) je autorem textů Smugljanky a Orljonku.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

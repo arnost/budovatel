@@ -71,4 +71,4 @@ Milionom ludzi ku czci przekaże!
 
 *Polský text napsal Wacław Święcicki (1848–1900) v roce 1879, když byl za socialistickou činnost vězněn ve varšavské Citadele; poprvé vyšel roku 1883 v ilegálním časopise Proletariat. Nápěv částečně vychází z Pochodu zuávů, oblíbeného v povstání roku 1863; hudba bývá připisována Józefu Pławińskému. Název Varšavjanka se ustálil po prvomájové demonstraci roku 1905, proto se píseň v Polsku nazývá Varšavjanka roku 1905, na rozdíl od Varšavjanky z listopadového povstání 1831. Ruský text „Вихри враждебные веют над нами“ se tradičně připisuje Glebu Kržižanovskému, který ho napsal v roce 1897 v moskevské Butyrské věznici; masově se rozšířil za revoluce 1905. Melodií se inspirovala i anarchistická píseň A las barricadas ze španělské občanské války.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

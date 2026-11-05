@@ -23,4 +23,4 @@ Vás!
 
 *Píseň uzavírá dokumentární film Rok stalinské epochy. Dokument Rok stalinské epochy (1951) natočil sám Walló jako režisér a scenárista. Karel Michal Walló (1914–1990), vlastním jménem Ladislav Walló, byl básník, filmový režisér a hlavně zakladatel českého dabingu; populární je například jeho dabingový překlad Mrazíka.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

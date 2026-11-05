@@ -25,4 +25,4 @@ pro něž je člověk schopen všechno dát,
 
 *Reinerova a Nohova píseň protestovala proti popravě maďarských komunistů Imre Sallaie a Sándora Fürsta, které jmenuje třetí sloka. V Rudém právu vyšla 5. srpna 1933. Sallai a Fürst, vůdčí představitelé ilegální maďarské komunistické strany, byli podle maďarské Wikipedie neprávem obviněni z bombového atentátu na vlak u Biatorbágy a 29. července 1932 v Budapešti popraveni. Karel Reiner (1910–1979) byl žákem Aloise Háby a v letech 1934–1938 pianistou a skladatelem Burianova divadla D 34; básník Jan Noha (1908–1966) patřil k levicovým autorům, kteří vyrůstali v bídě.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

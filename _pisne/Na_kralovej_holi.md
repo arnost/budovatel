@@ -28,4 +28,4 @@ Medzi nás, šuhaji, medzi nás a Boh dá:
 Bude Slovák ešte, čím býval inohdá.  
 
 *Zpěvník ji přebírá ze sbírky Ludvíka Kuby Slovanstvo ve svých zpěvech.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

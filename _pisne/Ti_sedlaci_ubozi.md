@@ -29,4 +29,4 @@ přijmi je do nebe
 a pány ať čert veme!  
 
 *Protipanská píseň, kterou podle Václava Beneše Třebízského zpívali vzbouření sedláci, když roku 1775 táhli se zbraní na Prahu a žádali zrušení roboty. Zpěvník ji uvádí v sudém taktu se synkopami, ne v Erbenově úpravě do lichého taktu.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -60,4 +60,4 @@ Rusky:
 
 *Píseň z filmu Grigorije Alexandrova Встреча на Эльбе (Setkání na Labi), který byl s 24,2 miliony diváků nejnavštěvovanějším filmem roku 1949 v SSSR; jeho tvůrci dostali v roce 1950 Stalinovu cenu.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

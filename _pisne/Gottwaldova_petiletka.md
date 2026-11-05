@@ -26,4 +26,4 @@ pionýrka, pionýr.
 
 *Boleslav Vomáčka (1887–1965) psal mnoho písní pro mládež. Slova „první“ a „druhý“ v první sloce se podle zpěvníku mohou měnit podle roku pětiletky.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

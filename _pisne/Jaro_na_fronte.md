@@ -77,4 +77,4 @@ Rusky:
 
 *Píseň, známá v ruštině jako Соловьи, vznikla na konci roku 1944 v moskevském hotelu Moskva, kam přijel Alexej Faťjanov na desetidenní dovolenou, kterou dostal za boje o maďarský Székesfehérvár. Přivezl si dvě básně napsané na frontě (první verze této, původně nazvané Пришла и к нам на фронт весна, je z roku 1942) a Vasilij Solovjov-Sedoj k nim ještě téhož rána složil hudbu. Prvními interprety byli Georgij Vinogradov a Vladimir Bunčikov; skladatel píseň zařadil i do své operety Věrný přítel (Верный друг, 1945).*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

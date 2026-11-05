@@ -102,4 +102,4 @@ Rusky:
 
 *Pochod zazněl ve filmu Brankář (Vratar), který podle scénáře Lva Kassila natočil Semjon Timošenko v roce 1936 ve studiu Lenfilm; premiéru měl v lednu 1937. Lebeděv-Kumač napsal text přímo pro tento film.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

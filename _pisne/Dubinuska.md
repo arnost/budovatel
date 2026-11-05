@@ -60,4 +60,4 @@ Rusky:
 
 *Refrén vychází ze starých pracovních popěvků, jimiž si dřevorubci a později burlaci udávali rytmus při tahání. Autorskou píseň s tímto refrénem otiskl Vasilij Bogdanov roku 1865; nejrozšířenější revoluční verzi vytvořil v 80. letech 19. století advokát Alexandr Olchin a do Říjnové revoluce patřila Dubinuška k nejoblíbenějším písním ruského revolučního hnutí. Proslavil ji zpěvem Fjodor Šaljapin.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

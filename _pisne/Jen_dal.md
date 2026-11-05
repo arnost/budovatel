@@ -27,4 +27,4 @@ Věčně dál!
 
 *Otakar Jeremiáš ji na Nerudova slova složil na počátku dvacátých let do soutěže o novou československou hymnu. Hymnou zůstala „Kde domov můj“, Jeremiášova píseň se ale pro svůj optimismus dál zpívala. Nerudova báseň patří do jeho poslední, nedokončené sbírky Zpěvy páteční, kterou po básníkově smrti vydal v roce 1896 Jaroslav Vrchlický. Otakar Jeremiáš (1892–1962) později pořídil dodnes hranou orchestraci státní hymny.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

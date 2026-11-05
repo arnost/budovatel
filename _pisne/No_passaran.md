@@ -34,4 +34,4 @@ proletáři všech zemí, spojte se!
 
 *Píseň je z Burianovy básně Atomový mír (1950), kterou v témže roce také inscenoval. Heslo ¡No pasarán! („Neprojdou!“) proslavila 18. července 1936 za obléhání Madridu ve španělské občanské válce Dolores Ibárruri; Franco Madrid nakonec dobyl.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

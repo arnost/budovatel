@@ -88,4 +88,4 @@ Rusky:
 
 *Skladatel David Saliman-Vladimirov (1901–1992), rodák z Oděsy a žák Reinholda Glièra, psal hlavně pochody a skladby pro dechovku; jeho Jakutský vítězný pochod zazněl 24. června 1945 na přehlídce vítězství na Rudém náměstí.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

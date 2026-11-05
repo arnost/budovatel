@@ -10,4 +10,4 @@ Na poledne málo a k večeři nic:
 bude-li tak dlouho, půjdu odtud pryč.  
 
 *Česká lidová píseň, zpívala se na nápěv písně „Má zlatá mamičko“.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -39,4 +39,4 @@ když v stodole i v komoře
 není co nalézt.  
 
 *Selská píseň z jižních Čech ze 17. století (zapsaná před rokem 1680) o nevolnictví a robotě. Dochovala se v rukopisném sborníku Jiřího Košetického, kde má jedenáct slok.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -35,4 +35,4 @@ vždy bude domovem.
 
 *Josef Stanislav (1897–1971), klavírista a skladatel, po roce 1948 vlivný funkcionář hudebního života, napsal píseň v roce 1951.*
 
-*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*
+*Noty porovnány s [Českým revolučním zpěvníkem](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

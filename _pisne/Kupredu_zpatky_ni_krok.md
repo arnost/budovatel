@@ -51,4 +51,4 @@ pojďte s námi všichni zpívat, tancovat. :|
 
 *Píseň vznikla po únoru 1948 a podpořila výzvu prokomunistické kulturní inteligence Kupředu, zpátky ni krok!, otištěnou 25. února 1948; heslo, původně sokolské, použil Klement Gottwald na konci svého novoročního projevu k roku 1948. Fanfárový závěr refrénu se stal znělkou rozhlasových novin Československého rozhlasu. Jan Seidel (1908–1998), od roku 1945 umělecký ředitel Supraphonu a později šéf opery Národního divadla, výzvu sám podepsal a v roce 1951 dostal Státní cenu Klementa Gottwalda; v roce 1977 podepsal Antichartu. Bedřich Bobek (1895–1969) byl herec, rozhlasový hlasatel a textař.*
 
-*Noty a 3. sloka podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a 3. sloka podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

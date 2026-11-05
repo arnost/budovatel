@@ -54,4 +54,4 @@ Rusky:
 
 *Za tuto píseň (spolu s písněmi Заветный камень, О родной земле a Одинокая гармонь) dostal Boris Mokrousov (1909–1968) v roce 1948 Stalinovu cenu. Text patří vedle písní Вася-Василёк a Краснофлотский марш k nejznámějším dílům Sergeje Alymova (1892–1948), který zahynul při autonehodě v dubnu 1948.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

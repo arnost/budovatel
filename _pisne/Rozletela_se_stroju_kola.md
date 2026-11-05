@@ -34,4 +34,4 @@ prasknou a spadnou v jeden ráz!
 
 *Píseň komunistické mládeže z konce třicátých let, jejíž autor není znám. Tiskem poprvé vyšla až v tomto zpěvníku.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

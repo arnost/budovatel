@@ -43,4 +43,4 @@ k obraně zvednout svoji tvrdou pěst.
 
 *Jan Fadrhons (1910–1963) byl vojenský dirigent: po osvobození velel hudbě I. divize, od roku 1951 Hudbě Hradní stráže, později byl hlavním dirigentem souborů Armádního uměleckého souboru Víta Nejedlého a hlavním inspektorem vojenských hudeb. Jeho nejznámější skladby jsou pochody Trubač jízdy, Vesele krokem a Pochod samopalníků.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

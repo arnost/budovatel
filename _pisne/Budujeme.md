@@ -25,7 +25,7 @@ dnes děláme na sebe.
 
 *Refrén:*
 
-*V Českém revolučním zpěvníku (1953) má píseň tento text (slova František Halas):*
+*V [Českém revolučním zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (1953) má píseň tento text (slova František Halas):*
 
 1. Teď, když máme, co jsme chtěli,  
 do rachoty zvesela,  

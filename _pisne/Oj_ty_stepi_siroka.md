@@ -33,4 +33,4 @@ Rusky:
 
 *Píseň, dlouho pokládaná za národní, vznikla jako závěrečný sbor prvního jednání opery Pjotra Triodina Kníže Serebrjanyj, kterou roku 1923 v Moskvě uvedla Svobodná opera Sergeje Zimina. Triodin převzal nápěv z lidové písně „Oj, da ty, kalinuška“, zapsané roku 1904 v Penzenské gubernii. Brzy ji převzala Moskevská akademická kapela a Soubor písní Rudé armády A. V. Alexandrova a zpívá ji i sbor vojáků ve filmu Dny a noci (1944).*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

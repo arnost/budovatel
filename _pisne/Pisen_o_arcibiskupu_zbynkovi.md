@@ -58,4 +58,4 @@ všecky země pějí.
 
 *Refrén 2. sloky ve zpěvníku doplnil Zdeněk Nejedlý podle 3. sloky; verš „rci, ať Hus ti káže“ je v rukopise nesrozumitelný („ať húsky káží“).*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

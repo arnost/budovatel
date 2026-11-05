@@ -9,4 +9,4 @@ kdyby byl rychtář pes, kantor pes, šafář pes,
 byla by psů, psů, psů plnička ves.  
 
 *Protipanský popěvek z doby roboty, zpívaný na nápěv známé lidové písně „Já mám chaloupku bez došků“.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

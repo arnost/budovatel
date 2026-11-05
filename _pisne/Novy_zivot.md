@@ -40,4 +40,4 @@ des Lebens Dunkel auf immer bannt.
 Wenn wir uns alle die Hände geben,  
 kommt neues Leben auch in unser Land.  
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

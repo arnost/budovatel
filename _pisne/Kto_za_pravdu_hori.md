@@ -40,4 +40,4 @@ slávu zazvoní!
 
 *Píseň Karola Kuzmányho na slovenský nápěv přijalo za svou dělnické hnutí; zpívávala se hlavně na pohřbech padlých soudruhů. Báseň vyšla poprvé 4. dubna 1848 v příloze Slovenských národních novin Orol tatranský pod názvem „Sláva šlechetným“; vlastní slovenský nápěv k ní později složil Štefan Fajnor. Na Slovensku patřila vedle „Hej, Slováci“ a „Nad Tatrou sa blýska“ k neoficiálním národním hymnám, v Čechách se v 90. letech 19. století stala hymnou omladinářského hnutí.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

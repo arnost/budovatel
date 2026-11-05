@@ -70,4 +70,4 @@ Ukrajinsky:
 
 *Ukrajinský skladatel Herman Žukovskyj (1913–1976) byl autorem devíti oper (mj. Marina, 1939, a Od čistého srdce, 1951) a v roce 1950 obdržel Stalinovu cenu. Básník a novinář Oleksa Juščenko (1917–2008) byl od roku 1944 členem Svazu spisovatelů Ukrajiny.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

@@ -64,4 +64,4 @@ Sulmon kudo me trimëri.
 
 *Dhora Leka (1923–2006) se v roce 1942 přidala k albánskému odboji a složila většinu písní, které za války zpívali albánští partyzáni; v Národně osvobozenecké armádě dosáhla hodnosti kapitána.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

@@ -73,4 +73,4 @@ a nebo spolu padneme.
 
 *Pochod 1. československého armádního sboru v SSSR, známý také podle začátku jako Přes spáleniště. Text napsal Jan Mareš (1914–1986), osvětový důstojník a redaktor frontových novin Naše vojsko v SSSR; jako autora hudby uvádějí zpěvníky E. Tomana, česká Wikipedie rotného Ervína Traubmana – možná jde o tutéž osobu, která si po válce počeštila jméno, to se ale nepodařilo ověřit. Pochod nahrál na gramofonové desky Armádní umělecký soubor Víta Nejedlého a až do roku 1990 patřil k výcviku vojáků základní služby. Zazněl také při pohřbu prezidenta Ludvíka Svobody v roce 1979, když na Letenské pláni překládali rakev z dělové lafety do pohřebního vozu.*
 
-*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*
+*Noty porovnány s [Českým revolučním zpěvníkem](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

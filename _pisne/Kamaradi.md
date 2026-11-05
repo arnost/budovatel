@@ -76,4 +76,4 @@ Další úpravy se dočkala při vydáni z roku 2006 na [CD-Pionýrské a budova
 [Informace o verzích](https://drobnostisv-sidonie.webnode.cz/news/budovatelske-pisne-meho-mladi/)
 
 
-*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*
+*Noty porovnány s [Českým revolučním zpěvníkem](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

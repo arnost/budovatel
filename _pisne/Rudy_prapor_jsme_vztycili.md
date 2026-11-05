@@ -25,4 +25,4 @@ mstící se komunardi!
 
 *Text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
 
-*Noty podle nápěvu písně Ať tyran má své pochopy v Českém revolučním zpěvníku (Karbusický, Vanický, 1953).*
+*Noty podle nápěvu písně Ať tyran má své pochopy v [Českém revolučním zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

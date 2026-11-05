@@ -87,4 +87,4 @@ Rusky:
 
 *Píseň složil Vladimir Zacharov (1901–1956) na slova Michaila Isakovského v roce 1938. Zacharov byl od roku 1944 národním umělcem SSSR a třikrát dostal Stalinovu cenu (1942, 1946, 1952).*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

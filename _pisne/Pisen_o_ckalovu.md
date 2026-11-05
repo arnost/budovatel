@@ -82,4 +82,4 @@ Rusky:
 
 *Píseň oslavuje sovětského zkušebního pilota Valerije Čkalova (1904–1938), který v červnu 1937 se svou posádkou poprvé přeletěl bez mezipřistání z Moskvy přes severní pól do Ameriky (do Vancouveru ve státě Washington). Čkalov zahynul 15. prosince 1938 při prvním zkušebním letu nové stíhačky I-180, takže píseň, která o něm mluví jako o hrdinovi, jenž „vešel do nesmrtelnosti“, vznikla až po jeho smrti. Skladatel David Saliman-Vladimirov (1901–1992) byl oděský rodák a pozdější národní umělec Jakutské ASSR.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

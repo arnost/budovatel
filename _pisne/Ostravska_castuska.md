@@ -116,4 +116,4 @@ jako na Donbase.
 
 *Častuška, krátká vtipná píseň převzatá z ruské lidové tradice; tato byla v letech 1951–1952 velmi oblíbená. Podle české Wikipedie napsal Erich Sojka (1922–1997) text v roce 1952; rodák z Ostravy se později proslavil hlavně jako překladatel z polštiny (Mickiewiczův Pan Tadeáš) a autor filmových dabingů. Skladatel Ivan Růžička (1927–2014) byl v letech 1952–1953 korepetitorem Československého souboru písní a tanců, později dirigoval v Polsku a zemřel na Floridě.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

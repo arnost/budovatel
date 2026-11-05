@@ -25,4 +25,4 @@ preto prácou prispieva k mieru.
 
 *Alexander Moyzes ji složil roku 1949 jako op. 42.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

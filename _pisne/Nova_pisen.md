@@ -46,4 +46,4 @@ jen ho, jen ho, jen ho oběste!
 
 *Píseň z roku 1848, zpívaná na nápěv Vorlovy písně „Že peníze světem vládnou“, ukazuje, jak ostře se revoluce obracela proti šlechtě, církevní vrchnosti a úřednictvu. Předlohou byla píseň „Že peníze světem vládnou“, kterou složil kněz a skladatel Josef Vorel (1801–1874) na slova J. K. Chmelenského a která brzy zlidověla podobně jako jeho „Nad Berounkou pod Tetínem“.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

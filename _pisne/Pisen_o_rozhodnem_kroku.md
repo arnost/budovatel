@@ -24,4 +24,4 @@ Pochodem pochod, k vítěznému ránu,
 soudruzi vzhůru jdem a jdem a jdem,  
 jdem a jdem a jdem, jdem a jdem a jdem!  
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

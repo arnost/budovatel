@@ -27,4 +27,4 @@ kdo místo mne na stráž, kdo zdvihne můj štít?
 
 *Píseň vyšla roku 1923 v Proletářských zpěvech, lístkovém sborníku písní a sborů pro dělnické pěvce. Báseň ze Slezských písní poslal Bezruč redaktoru Času Janu Herbenovi v únoru 1899; její úvodní verše narážejí na chrlení krve, které tehdy autora trápilo kvůli tuberkulóze.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

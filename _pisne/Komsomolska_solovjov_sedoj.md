@@ -55,4 +55,4 @@ Rusky:
 
 *Píseň vznikla v roce 1947. Autor textu Alexandr Galič se později proslavil jako autor kritických písní, za které byl v roce 1972 vyloučen ze Svazu spisovatelů a v roce 1974 donucen emigrovat ze SSSR.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

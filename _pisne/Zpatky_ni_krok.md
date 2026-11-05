@@ -35,4 +35,4 @@ Již vzhůru, vzhůru soudruzi a zpátky ni krok.
 
 *Josef Stanislav (1897–1971) napsal píseň v roce 1952. Její název připomíná výzvu Kupředu, zpátky ni krok!, vydanou 25. února 1948 na podporu komunistického převratu, kterou Stanislav také podepsal.*
 
-*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*
+*Noty porovnány s [Českým revolučním zpěvníkem](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

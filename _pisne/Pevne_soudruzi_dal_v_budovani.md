@@ -52,4 +52,4 @@ Bulharsky:
 
 *Asen Karastojanov (1893–1976) byl bulharský skladatel, dirigent a od roku 1945 profesor Státní hudební akademie v Sofii, autor operet a po roce 1944 oblíbených masových písní. Básník Ivan Burin (vlastním jménem Ivan Trifonov Aleksiev, 1912–1991) za druhé světové války působil jako válečný spisovatel a v roce 1951 dostal Dimitrovovu cenu.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

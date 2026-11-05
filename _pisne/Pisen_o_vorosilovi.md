@@ -67,4 +67,4 @@ Rusky:
 
 *Píseň napsali Alexandr Vasiljevič Alexandrov a Osip Kolyčev v roce 1933 pro literárně-hudební skladbu Poéma o Caricynu, kterou Alexandrovův Soubor rudoarmějské písně oslavoval obranu Caricynu 10. armádou pod velením Klimenta Vorošilova v roce 1918; Vorošilov byl Alexandrovovým osobním přítelem. V Rusku je známá také jako Эшелонная (Ešelonová) nebo Боевая красногвардейская.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

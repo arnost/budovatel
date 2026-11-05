@@ -168,4 +168,4 @@ a tě s anjely chválece!“
 
 *Píseň vznikla v letech 1400–1409, patrně v okruhu Mistra Jana Husa; text i nápěv zachoval Jistebnický kancionál.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

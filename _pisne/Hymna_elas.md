@@ -38,4 +38,4 @@ jdou Řecka dítky se všech stran!
 
 *Hymna vznikla v březnu 1944 pro řeckou odbojovou armádu ELAS za okupace Řecka.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

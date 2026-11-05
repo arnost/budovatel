@@ -102,4 +102,4 @@ vládu a trůny rozmete.
 
 *Píseň (německy Lied der Arbeit) složil v roce 1867 vídeňský sbormistr Josef Scheu (1841–1904) na slova dělnického básníka Josefa Zapfa (1847–1902) pro dělnický vzdělávací spolek Gumpendorf; poprvé zazněla 29. srpna 1868 a dodnes je hymnou rakouské sociální demokracie. Český text napsal ve vězení sociálně demokratický novinář a básník František Hlaváček (1853–1937), který zemřel v USA; jiný překlad vydal v roce 1902 Svatopluk Čech. Za první republiky se píseň zpívala ve školách a podle české Wikipedie byla nejoblíbenější písní Tomáše Bati; po roce 1948 byla po Internacionále druhou nejvýznamnější písní KSČ.*
 
-*Noty porovnány s Českým revolučním zpěvníkem (Karbusický, Vanický, 1953).*
+*Noty porovnány s [Českým revolučním zpěvníkem](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

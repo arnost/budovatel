@@ -29,4 +29,4 @@ mladý je každý komunista!
 
 *Píseň vznikla ve spolupráci s brněnským souborem Radost při JAMU a rychle se rozšířila mezi soubory lidové tvořivosti. Podéšť (1921–1968) tehdy pracoval v brněnském rozhlase a vedle toho studoval hudební vědu na brněnské univerzitě; později převzal po Radimu Drejslovi vedení Armádního uměleckého souboru Víta Nejedlého a psal také filmovou a populární hudbu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

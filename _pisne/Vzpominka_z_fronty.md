@@ -51,4 +51,4 @@ Rusky:
 
 *Matvej Blantěr napsal píseň na verše Jevgenije Dolmatovského v roce 1942; za ni a další válečné písně dostal v roce 1946 Stalinovu cenu.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

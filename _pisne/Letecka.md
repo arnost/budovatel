@@ -75,4 +75,4 @@ Rusky:
 
 *Píseň napsali Vasilij Solovjov-Sedoj a Solomon Fogelson v roce 1945 pro film Semjona Timošenka o vojenských letcích Небесный тихоход (Lenfilm, v kinech od 1. dubna 1946), kde ji zpívají Nikolaj Krjučkov, Vasilij Merkurjev a Vasilij Neščiplenko. Spolu s dalšími třemi písněmi vynesla skladateli v roce 1947 Stalinovu cenu. Původní konec poslední sloky („и трижды плюнем через левое плечо“) nahradilo nakladatelství verzí „сперва разок, потом другой, потом ещё“, kterou otiskl i tento zpěvník.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

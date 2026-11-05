@@ -35,4 +35,4 @@ Ach! Ach!
 
 *Burian napsal píseň v duchu písní, které si dělníci zpívali při společných večerech u táborového ohně. Emil František Burian (1904–1959), básník, skladatel a režisér, založil v roce 1933 levicové divadlo D 34, jehož název se každou sezónu posouval o číslo.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

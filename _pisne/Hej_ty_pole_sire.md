@@ -37,4 +37,4 @@ zavzemat stranata, gradove, sela,
 Pesen za svoboda pel dnes naroda,  
 ech, Balkan, ty roden naš.
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

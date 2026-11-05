@@ -52,4 +52,4 @@ Po nepřátelském atd.
 
 *Husitská píseň vznikla pravděpodobně v okruhu táborského kněze Jana Čapka a je zapsána v Jistebnickém kancionálu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

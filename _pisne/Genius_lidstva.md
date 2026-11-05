@@ -28,4 +28,4 @@ ať necítíme poroby tíseň.
 
 *Leopold Kochmann napsal tento text na Žitkův nápěv obrozenecké písně „Vlasta ze růží uvila věnce“; zpěvník v něm slyší ohlas tehdejšího revolučního hnutí v Rusku, které čeští socialisté se zájmem sledovali.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

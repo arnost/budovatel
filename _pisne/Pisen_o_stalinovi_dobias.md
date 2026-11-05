@@ -33,4 +33,4 @@ jemu sláva, ej!
 
 *Nezaměňovat s [Písní o Stalinovi](/pisen.phtml/pisen_o_stalinovi) od M. Blantěra. Konstanty Ildefons Gałczyński (1905–1953) psal po válce také verše v duchu socialistického realismu; Jan Pilař (1917–1996) se jako překladatel z polštiny věnoval hlavně jeho poezii. Píseň o Stalinovi uvádí česká Wikipedie mezi typickými Dobiášovými budovatelskými písněmi vedle Pojďte s námi na brigádu.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -57,4 +57,4 @@ mocna jak Partia, silna jak życie.
 
 *Alfred Gradstein (1904–1954) patřil k hlavním tvůrcům polských masových písní; za ně dostal v roce 1948 dvě ceny v soutěži ministerstva kultury a v roce 1950 státní cenu (mj. za Píseň ZMP a Píseň o Varšavě). V letech 1948–1950 byl generálním tajemníkem Svazu polských skladatelů. Autor polského textu Stanisław Wygodzki (1907–1992) byl básník, prozaik a překladatel (mj. Brechta).*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

@@ -101,4 +101,4 @@ Rusky:
 
 *Tačanka je podle vysvětlivky zpěvníku „lehká bryčka s kulometem“. Píseň vznikla v roce 1937: Konstantin Listov, který za občanské války bojoval jako dobrovolník v jezdectvu Rudé armády u Caricynu a viděl tam vozku odvážet z bitvy na tačance kulometčíka prošpikovaného kulkami, si tento obraz vybavil při čtení básně Michaila Ruděrmana Tačanka, otištěné v Pravdě, a píseň složil okamžitě. Do repertoáru ji převzal Alexandrovův Soubor písní a tanců Sovětské armády; v pozdějších verzích se „konarmějská tačanka“ zpívala jako „priazovská“ a „komsomolská“ jako „ukrajinská“. Ve filmu Ajbolit-66 (1966) zpívají piráti její parodii.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

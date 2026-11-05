@@ -30,4 +30,4 @@ dělník zatnul pěstě!
 
 *Kladenská dělnická písnička ze začátku 20. století, ukázka české agitační častušky. Na Kladensku tehdy skládali posměšné písničky proti pánům hlavně za velkých stávek horníci Poch a Fiala; zda je i tahle jejich, se neví.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

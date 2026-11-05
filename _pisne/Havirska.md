@@ -39,4 +39,4 @@ narubat světlo z tmy.
 
 *Básník Miloš Vacík (1922–1999) byl za války vězněn pro odbojovou činnost, v letech 1958–1968 vedl kulturní rubriku Rudého práva a v roce 1970 byl z politických důvodů propuštěn ze Světa práce.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

@@ -43,4 +43,4 @@ Juž čas…
 
 *Anonymní píseň z revolučního roku 1848; její nápěv se zachoval v rukopisném zpěvníku pardubického sládka Jiříčka (Národní museum) a s notami ji poprvé otiskl až tento zpěvník. Na stejný nápěv se zpívala i píseň [Hej, Češi, Srbové, Slováci](/pisen.phtml/hej_cesi_srbove_slovaci).*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

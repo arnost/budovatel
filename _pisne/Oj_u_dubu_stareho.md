@@ -60,4 +60,4 @@ Rusky:
 
 *Kozáckou píseň složil Sigizmund Kac (1908–1984) na slova Anatolije Sofronova (1911–1990) koncem třicátých let – podle ruské Wikipedie v roce 1938, podle jiných pramenů už v roce 1937. Tatáž dvojice pak za války napsala partyzánskou píseň Tak chmurně šuměl Brjanský les; v roce 1950 dostal Kac za obě tyto a další tři písně Stalinovu cenu. Sofronov, za války dopisovatel Izvěstijí, byl v letech 1948–1953 tajemníkem Svazu sovětských spisovatelů.*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

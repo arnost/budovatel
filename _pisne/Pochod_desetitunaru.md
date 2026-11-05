@@ -28,4 +28,4 @@ zrychlit času běh.
 
 *Pochodovou píseň o hornících – desetitunařích věnoval Jan Kapr Aloisu Gavlasovi, který toto hnutí začal, a všem desetitunařům. Ostravský rodák Erich Sojka (1922–1997) se později proslavil jako překladatel z polštiny (Mickiewiczův Pan Tadeáš); v srpnu 1968 polsky přemlouval megafonem polské vojáky, aby se invaze neúčastnili, a pak řadu let nemohl pod svým jménem publikovat.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

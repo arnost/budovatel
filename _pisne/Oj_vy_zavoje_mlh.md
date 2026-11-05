@@ -61,4 +61,4 @@ Rusky:
 
 *Vladimir Zacharov (1901–1956), od roku 1931 hudební vedoucí Pjatnického ruského lidového sboru, složil píseň na slova Michaila Isakovského v roce 1942; při prvním provedení sborem v ní zpívala Valentina Klodnina. Podle vzpomínek spolubojovnice ji ráda zpívala odstřelovačka Roza Šaninová, kdykoli čistila svou zbraň.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

@@ -27,4 +27,4 @@ jdem v rudém pomsty plášti.
 
 *Revoluční píseň z anarchistického prostředí devadesátých let 19. století. Chromatický začátek refrénu se často zpíval zjednodušeně na opakovaném tónu fis, zpěvník k němu tiskne i tuto variantu. Na stejný nápěv zpívala za první republiky komunistická mládež píseň [Rudý prapor jsme vztyčili](/pisen.phtml/rudy_prapor_jsme_vztycili).*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

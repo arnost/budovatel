@@ -103,4 +103,4 @@ všecky věky, amen!
 
 *Píseň obžalovává kostnický koncil, který dal upálit Mistra Jana Husa, a vznikla pravděpodobně hned roku 1415. Rychle zlidověla a zpívala se i v kostele o Husově svátku; nápěv je lidový, tehdy rozšířený jako tzv. obecná nota.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

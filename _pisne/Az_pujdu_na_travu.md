@@ -45,4 +45,4 @@ s těma červenýma. :|
 
 *Lidová dělnická píseň z 80. let 19. století, známá v mnoha obměnách nápěvu i textu; pomáhala probouzet třídní uvědomění mezi dělnickými dívkami.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

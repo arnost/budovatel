@@ -75,4 +75,4 @@ Rusky:
 
 *Píseň zněla 22. června 1941, v den přepadení Sovětského svazu Německem, z reproduktorů na shromaždištích branců.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

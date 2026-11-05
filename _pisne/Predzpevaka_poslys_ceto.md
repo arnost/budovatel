@@ -114,4 +114,4 @@ Rusky:
 
 *Sovětský skladatel Valentin Kručinin (1892–1970), rodák z Rostova na Donu, psal operety, filmovou hudbu a hlavně pochody a suity pro dechovou hudbu (šest vojenských suit z let 1936–1953).*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

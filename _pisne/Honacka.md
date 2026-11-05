@@ -36,4 +36,4 @@ Bíte, bíte, doražte,
 *Bozikan = železný palcát, hák, rožeň, kolo = mučicí nástroje, kajdy = dudy, ništ = nic, těšinky = ručnice.*
 
 *Zbojnická píseň z Valašska namířená proti pánům, zapsaná před rokem 1694 ve čtvrtém dílu rukopisného sborníku Jiřího Košetického.*  
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

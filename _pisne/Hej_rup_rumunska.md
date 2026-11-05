@@ -47,4 +47,4 @@ Si niciun pas înapoi nu dăm
 Hei rup, hei rup, hei rup, bum  
 In lupta de brigadier.  
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

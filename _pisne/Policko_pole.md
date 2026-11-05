@@ -112,4 +112,4 @@ Rusky:
 
 *Píseň složil Lev Knipper v roce 1933 a slova k ní napsal Viktor Gusev; často bývá mylně považována za lidovou. Melodie se stala hlavním tématem první věty Knipperovy 4. symfonie Báseň o komsomolském vojákovi, poprvé provedené v únoru 1934 v Moskvě.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

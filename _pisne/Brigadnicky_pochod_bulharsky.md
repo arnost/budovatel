@@ -57,4 +57,4 @@ Bulharsky:
 
 *Bulharská brigádnická píseň z doby po roce 1944, kdy získaly oblibu masové písně skladatele a profesora sofijské hudební akademie Asena Karastojanova. Básník Ivan Burin (vlastním jménem Ivan Trifonov Aleksiev, 1912–1991) obdržel v roce 1951 Dimitrovovu cenu.*
 
-*Noty a text podle zpěvníku Armáda zpívá (Naše vojsko, 1951).*
+*Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

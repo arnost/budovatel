@@ -30,4 +30,4 @@ Vyšlo i v roce 2007 na kompilaci Supraphonu: [zde](https://web.archive.org/web/
 
 *Píseň zazněla ve filmu Veliká příležitost a Barvík ji složil jako dárek k IX. sjezdu KSČ (1949). Zpěvník ji uvádí pod názvem Pochod mladých brigádníků.*
 
-*Noty podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

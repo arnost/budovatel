@@ -88,4 +88,4 @@ Rusky:
 
 *Leningradský skladatel Georgij Nosov (1911–1970) složil většinu svých písní na slova básníka Alexandra Čurkina (1903–1971). Nosov za války vedl soubor písní a tanců 23. armády Leningradského frontu, Čurkin je autorem textu slavné písně Вечер на рейде (1941).*
 
-*Noty a text podle sborníku Sborové písně a tance Sovětské armády (1952).*
+*Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*

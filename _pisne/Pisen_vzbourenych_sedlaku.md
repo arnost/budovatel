@@ -39,4 +39,4 @@ zítřku na pomoc...
 
 *Báseň Jaroslava Vrchlického zhudebnil dělnický skladatel Míla Kraus; píseň vyšla tiskem v březnu 1936 ve třetím svazku Tiskových besed. Jaroslav Vrchlický (1853–1912) patřil k nejplodnějším českým básníkům a překladatelům konce 19. století.*
 
-*Noty a text podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953).*
+*Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

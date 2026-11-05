@@ -62,4 +62,4 @@ Rusky:
 
 *Noty a text podle sborníku [Sborové písně a tance Sovětské armády](/state.phtml/misto_uvodu_sborove_pisne_a_tance_sovetske_armady) (1952).*
 
-*Jednohlasou verzi se stejným textem otiskl pod názvem Co náš voják brání i Zpěvník pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Jednohlasou verzi se stejným textem otiskl pod názvem Co náš voják brání i [Zpěvník pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

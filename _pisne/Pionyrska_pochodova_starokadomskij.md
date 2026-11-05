@@ -86,4 +86,4 @@ Rusky:
 
 *Hudbu složil sovětský skladatel, varhaník a pedagog Michail Starokadomskij (1901–1954), profesor orchestrace na moskevské konzervatoři, který se ve 30. až 50. letech proslavil hlavně písněmi pro děti; v roce 1952 za ně dostal Stalinovu cenu. Slova napsal Sergej Michalkov (1913–2009), autor knih pro děti a textu sovětské i ruské hymny. Český text je od básníka a překladatele Ludvíka Kundery (1920–2010).*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

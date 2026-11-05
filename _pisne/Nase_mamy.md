@@ -42,4 +42,4 @@ Refrén
 
 *Básník a překladatel Jiří Václav Svoboda (1924–1981) psal hlavně poezii pro děti, v letech 1951–1962 byl šéfredaktorem dětského časopisu Mateřídouška a překládal z ruštiny, především Samuila Maršaka; budovatelskou poezii pro děti vydal například ve sbírce A to je ta krásná země (1952).*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

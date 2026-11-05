@@ -20,4 +20,4 @@ věčně vroucí upomínka kvete růží ohnivou.
 
 *Píseň vzpomíná na Lenina, který se narodil v dubnu (1870) a zemřel v lednu (1924). Hudbu složila sovětská pianistka a skladatelka Zara Levina (1906–1976), žačka Reinholda Glièra a Nikolaje Mjaskovského, autorka klavírních koncertů, více než dvou set romancí a písní pro děti; již jako absolventskou práci napsala Poému o Leninovi na slova Alexeje Surkova. Slova napsala básnířka a překladatelka Taťjana Spendiarová (1901–1990), dcera arménského skladatele Alexandra Spendiarova; Levina byla provdána za jejího bratrance, skladatele Nikolaje Čemberdžiho. Český text pořídila zpěvačka, pedagožka a překladatelka Jelena Holečková (1899–1980).*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

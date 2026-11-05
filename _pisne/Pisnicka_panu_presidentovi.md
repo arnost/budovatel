@@ -12,4 +12,4 @@ chcem Vám, pane presidente, písničkou poděkovat.
 
 *Jméno prezidenta text neuvádí – v době vydání zpěvníku (1955) byl prezidentem Antonín Zápotocký.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

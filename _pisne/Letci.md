@@ -38,4 +38,4 @@ Rusky:
 
 *Slova napsala sovětská básnířka Olga Vysotská (1903–1970), která psala verše, písňové texty, pohádky a hry pro děti; zpočátku pracovala jako vychovatelka v jeslích a její první knížka vyšla roku 1930. Na její texty skládali například Michail Starokadomskij a Dmitrij Kabalevskij.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

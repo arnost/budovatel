@@ -36,4 +36,4 @@ písniček zní.
 
 *Slova napsala ruská sovětská básnířka Nina Pavlovna Sakonská (vlastním jménem Antonina Pavlovna Sokolovská, 1896–1951), autorka knížek pro děti; její knížka o barvách z roku 1927, podle níž se malé děti učily barvy rozeznávat, vycházela mnohokrát znovu. Skladatele uvádí zpěvník jen jako A. Alexandrova – zda jde o Anatolije Nikolajeviče Alexandrova (1888–1982), který dlouho předsedal sekci dětské hudby Svazu sovětských skladatelů, nebo o autora sovětské hymny Alexandra Vasiljeviče Alexandrova, se nám ověřit nepodařilo.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

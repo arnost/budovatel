@@ -46,4 +46,4 @@ Rusky:
 
 *Hudbu složil sovětský skladatel Michail Jordanskij (Iordanskij, 1901–1990), který vystudoval skladbu na moskevské konzervatoři, v letech 1935–1941 vedl hudební část moskevského Státního divadla estrády pro děti a proslul hlavně dětskými písněmi, například Písničkou o čejce. Slova napsal básník Vladimir Majakovskij (1893–1930), zakladatel ruského futurismu, který psal i pro děti.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

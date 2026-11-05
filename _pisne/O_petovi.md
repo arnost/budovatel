@@ -71,4 +71,4 @@ pěkně zazpíváme!
 
 *Dmitrij Kabalevskij (1904–1987), žák Nikolaje Mjaskovského a profesor moskevské konzervatoře, je autorem oper Colas Breugnon a Tarasova rodina i hudby k filmu Odvážná školačka; hodně psal pro děti, zvlášť pionýrské sbory, a zabýval se hudební výchovou na školách.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

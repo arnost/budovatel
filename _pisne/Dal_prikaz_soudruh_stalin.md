@@ -28,4 +28,4 @@ fašisty – německé fašistické vojsko
 
 *Hudbu složil Michail Ivanovič Krasev (1897–1954), sovětský skladatel dětských oper a písní, nositel Stalinovy ceny (1950), slova napsal Sergej Vladimirovič Michalkov (1913–2009), spoluautor textu sovětské hymny, kterého nejvíc proslavily knížky pro děti. Český text napsal básník a překladatel Ludvík Kundera (1920–2010), bratranec Milana Kundery. Vysvětlivky ke slovům „rudí“ a „fašisty“ jsou převzaty ze zpěvníku.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

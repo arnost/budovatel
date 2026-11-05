@@ -22,4 +22,4 @@ Refrén
 
 *Hudbu složil Michail Leonidovič Starokadomskij (1901–1954), varhaník, skladatel a profesor instrumentace na moskevské konzervatoři, kterého proslavily hlavně písně pro děti, například Veselí cestovatelé („My jedem, jedem, jedem…“); roku 1952 za ně dostal Stalinovu cenu.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

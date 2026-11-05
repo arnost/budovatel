@@ -20,4 +20,4 @@ K lepším zítřkům a k slunci blíž!
 Ať náš prapor svobody a míru  
 vlaje stále výš a ještě výš!  
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

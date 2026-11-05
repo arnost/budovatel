@@ -17,4 +17,4 @@ opravdový dům postavit.
 
 *Hudbu složil Felix Zrno (1890–1981), pražský učitel, sbormistr pěveckých sborů Typografia a Pěveckého sdružení pražských učitelů a žák Vítězslava Nováka, který se po válce věnoval hudební výchově ve Výzkumném ústavu pedagogickém a na Pedagogické fakultě v Praze a sestavil řadu školních zpěvníků.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

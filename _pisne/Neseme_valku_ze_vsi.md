@@ -37,4 +37,4 @@ pro nás navždy bude.
 
 *Text Vlastimila Pantůčka obměňuje starý jarní zvyk vynášení smrti: slaměnou figuru Smrtky (Morany) vynášeli na jaře za zpěvu z vesnice a házeli ji do vody a do vsi pak přinášeli nové léto. Ludvík Podéšť (1921–1968) byl skladatel, dirigent a v letech 1953–1956 šéf Armádního uměleckého souboru Víta Nejedlého; spolu s Vítem Nejedlým a Radimem Drejslem je počítán ke klasikům budovatelské písně.*
 
-*Noty a text podle Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol (1955).*
+*Noty a text podle [Zpěvníku pro 1. až 5. postupný ročník všeobecně vzdělávacích škol](/state.phtml/uvod_zpevnik_pro_1_az_5_rocnik) (1955).*

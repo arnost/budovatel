@@ -36,7 +36,7 @@ Vám, padlým, přísaháme, že se nikdy nevzdáme,
 |: Krásná, krásná je naše rodná zem,  
 v našich řadách síla aby provždy byla, boj vyhrajem! :|
 
-Noty a 2.–4. sloka podle Českého revolučního zpěvníku (Karbusický, Vanický, 1953), který o písni píše, že vznikla
+Noty a 2.–4. sloka podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953), který o písni píše, že vznikla
 patrně mezi příslušníky SNB v době bojů proti banderovcům a její autoři nebyli zjištěni.
 
 1947 část 1 PP SNB byla v rámci akce „B" velena na Slovensko

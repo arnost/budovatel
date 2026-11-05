@@ -1,7 +1,7 @@
 ---
 title: Větší věnce prezidentovi
 vydal: Pod pokličkou
-rok: "1999"
+rok: "1951"
 ---
 
 *Záznam v kanceláři prezidenta republiky, 9. 5. 1951*

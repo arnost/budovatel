@@ -1,7 +1,7 @@
 ---
 title: Milý pane prezidente!
 vydal: Pod pokličkou
-rok: "1999"
+rok: "cca 1950"
 ---
 
 
@@ -29,6 +29,9 @@ zalíbí. Přejeme Vám, pane prezidente, abyste byl dlouho zdráv a mohl
 dále pracovati ku prospěchu nás všech.
 
 J.U. předseda R.O., vzdělavatel.
+
+*Dopis není datován; žáci jej psali po „týdnu vzorné práce“ k narozeninám prezidenta Gottwalda (23. listopadu), tedy v letech 1948–1952.*
+
 
 *Ze sborníku: Pod pokličkou, malá čítanka zajímavostí až kuriozit z
 archívů ÚV KSČ a Kanceláře prezidnta republiky. Sestavil Ota Kodym.*

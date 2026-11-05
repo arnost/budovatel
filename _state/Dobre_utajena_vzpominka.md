@@ -1,7 +1,7 @@
 ---
 title: Dobře utajená vzpomínka
 vydal: Pod pokličkou
-rok: "1999"
+rok: "cca 1950"
 ---
 
 *Z mých vzpomínek na prezidenta republiky s. K. Gottwalda.
@@ -75,6 +75,9 @@ bohatší. Končím-li zprávu slovem vítězství, uvědomuji si, že jej osud
 svázal s tímto překrásným lidským údělem po dlouhá léta. Věřím, že jeho
 veškeré další pokyny v budoucnosti budou stejně vítězné, aby vedl
 drahý český národ trvale k šťastnému cíli.
+
+*Vzpomínka nese jen údaj, že byla napsána na výzvu Kanceláře prezidenta republiky; podle zmínky o pionýrském šátku vznikla v letech 1949–1953, kdy byl Gottwald prezidentem a existovala pionýrská organizace.*
+
 
 *Ze sborníku: Pod pokličkou, malá čítanka zajímavostí až kuriozit z
 archívů ÚV KSČ a Kanceláře prezidenta republiky. Sestavil Ota Kodym.*

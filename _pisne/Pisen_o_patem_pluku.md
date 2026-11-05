@@ -31,4 +31,4 @@ slyší, jak si Pátý pluk do kroku zpívá.
 
 *Píseň ze španělské občanské války o Pátém pluku (Quinto Regimiento), který se podílel na obraně Madridu. Pátý pluk lidových milicí založila po vypuknutí války v červenci 1936 Komunistická strana Španělska se Sjednocenou socialistickou mládeží; od srpna do listopadu 1936 narostl ze 6 000 na 20 000 mužů a vyšli z něj velitelé lidové armády jako Modesto (Juan Guilloto León) a Enrique Líster. V lednu 1937 se rozplynul v nové Lidové armádě. Ve Španělsku se o něm zpívala hlavně píseň „El Quinto Regimiento“ („Con el quinto, quinto, quinto…“, též „El vito del Quinto Regimiento“) na nápěv andaluské lidové písně El vito, oblíbená i mezi civilním obyvatelstvem.*
 
-*Noty a text podle zpěvníku Zpíváme 1948: hymny, písně vlastenecké a revoluční (1948).*
+*Noty a text podle zpěvníku [Zpíváme 1948: hymny, písně vlastenecké a revoluční](/state.phtml/zpivame_1948_v_dobovem_tisku) (1948).*

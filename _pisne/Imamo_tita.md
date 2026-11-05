@@ -26,4 +26,4 @@ Volimo Velebit, volimo Goru
 
 *Píseň z Jugoslávie z let po druhé světové válce, kdy Jugoslávie usilovala o Istrii a Gorici a vedla s Itálií spor o Terst. Zpívá se v ní, že Jugoslávci mají Tita, svou armádu a Sovětský svaz za spojence, a refrén ujišťuje Istrii, že zůstane jejich. Další sloky vyznávají lásku ke Gorici, Istrii, Velebitu a Jadranu a zmiňují generály Koču (Popoviće) a Peka (Dapčeviće).*
 
-*Noty a text podle zpěvníku Zpíváme 1948: hymny, písně vlastenecké a revoluční (1948).*
+*Noty a text podle zpěvníku [Zpíváme 1948: hymny, písně vlastenecké a revoluční](/state.phtml/zpivame_1948_v_dobovem_tisku) (1948).*

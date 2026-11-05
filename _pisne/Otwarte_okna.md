@@ -25,4 +25,4 @@ Refrén: Otwarte okna...
 
 *V tisku uvedeno: Polská mládežnická — Jirzy Dargiel.*
 
-*Noty a text podle zpěvníku Zpíváme 1948: hymny, písně vlastenecké a revoluční (1948).*
+*Noty a text podle zpěvníku [Zpíváme 1948: hymny, písně vlastenecké a revoluční](/state.phtml/zpivame_1948_v_dobovem_tisku) (1948).*

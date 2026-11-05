@@ -49,6 +49,6 @@ pochovaný rudý partyzán.:]
 
 *Ruská píseň o rudém partyzánovi, který leží pohřben v širém poli pod vrbou, kde se v noci válí mlha. Dívka vzpomíná, jak hrdinu vyprovázela na cestu za slavnými činy, podala mu šavli a přivedla vraného koníka; padl zastřelený v boji do stepní trávy a za sověty a rodnou zemi dal svůj hrdinský život. Poslední sloka opakuje první a mrtvého jmenuje: byl to komsomolec.*
 
-*Noty a text podle zpěvníku Zpíváme 1948: hymny, písně vlastenecké a revoluční (1948).*
+*Noty a text podle zpěvníku [Zpíváme 1948: hymny, písně vlastenecké a revoluční](/state.phtml/zpivame_1948_v_dobovem_tisku) (1948).*
 
 *Český text Josefa Urbana podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951), který jako autorku hudby i slov uvádí partyzánku A. Turkinovou, radiotelegrafistku Kovpakova oddílu.*

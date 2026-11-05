@@ -1,6 +1,7 @@
 ---
 title: Milion paží
 obdobi: delnicke
+text: Fráňa Šrámek
 youtube: MSsajMR5Do8
 ---
 
@@ -101,5 +102,7 @@ A v boj, a v boj, a v boj.
 Za Sovdepii!  
 A v boj, a v boj, a v boj.  
 Za Sovdepii!
+
+*Píseň vychází z Šrámkovy básně Velká Stávka, kterou bez podpisu otiskl anarchistický list Práce 24. listopadu 1905 s poznámkou „k nápěvu internacionální anarchistické hymny“. Šrámkův text měl dvě sloky a refrén končící „nuž v boj za Anarchii!“; dělnické hnutí ho po roce 1917 přizpůsobilo – „Velkou Stávku“ nahradila „Revoluce“, „Anarchii“ „Sovdepie“ (sovětská republika) a přibyly další sloky. Původní znění otiskl sborník Fráňa Šrámek: V boj (1953).*
 
 *Noty porovnány s [Českým revolučním zpěvníkem](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

@@ -18,6 +18,6 @@ my jim za to postavíme
 
 \* Za Švehlovy vlády se zpívalo „Švehla vládne nad Hradem!“
 
-*Dělnická předělávka Šrámkovy protirakouské písně stejného jména z roku 1921, kdy buržoazní tisk strašil „bolševickými hrůzami“ a dělníci se k bolševikům naschvál hlásili.*
+*Dělnická předělávka Šrámkovy protirakouské písně stejného jména (otištěné v antimilitaristickém sborníku Modrý a rudý v červnu 1906: „My jsme hoši od Vltavy, císař pán nad Dunajem“) z roku 1921, kdy buržoazní tisk strašil „bolševickými hrůzami“ a dělníci se k bolševikům naschvál hlásili.*
 
 *Noty a text podle [Českého revolučního zpěvníku](/state.phtml/predmluva_cesky_revolucni_zpevnik) (Karbusický, Vanický, 1953).*

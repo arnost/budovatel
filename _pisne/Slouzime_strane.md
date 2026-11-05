@@ -10,7 +10,7 @@ starému světu
 |: nová třída pánem je tu,  
 nám teď patří budoucnost :|
 
-refren:  
+*Refrén:*  
 Na frontě práce sloužíme straně,  
 jsme její velká opora,  
 |: pro úsměv dětí,  
@@ -25,4 +25,4 @@ jenom se kolem rozhlédni,
 odhodláni,  
 jdem do bitvy poslední :|
 
-refren
+*Refrén:*  

@@ -11,7 +11,7 @@ již fašisti
 nebudou nám poroučet. 
 
      
-refren:   
+*Refrén:*  
 Je konec bídy,   
 je konec hladu,   
 je konec zlodějských světařádů,   
@@ -28,7 +28,7 @@ odhodit vše, co nás tíží,
 na cestě k pokroku.
 
      
-*refren*
+*Refrén:*  
      
 
 Kamarádi, snad již zítra  
@@ -37,7 +37,7 @@ ku předu za nová jitra,
 za srpy a kladiva.  
 
      
-*refren*
+*Refrén:*  
 
 Písničku ovšem krásně nazpíval Olympic se souborem Víta Nejedlého. [mp3](/noty/mp3/Olympik_kamaradi.mp3)
 

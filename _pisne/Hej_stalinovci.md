@@ -17,7 +17,7 @@ dělat lepší svět!
 
    
 
-refren   
+*Refrén:*  
 Hej Stalinovci do rachoty zvesela,   
 v práci se chceme dostat zemi do čela.   
 Nás spousta práce čeká,    
@@ -27,7 +27,7 @@ a my to dokážeme. Hej, Stalinovci,
 do rachoty zvesela. (jen zvesela)
 
    
-    refren
+*Refrén:*  
 
    
 

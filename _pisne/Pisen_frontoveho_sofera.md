@@ -15,7 +15,7 @@ vedli jsme své stroje
 v nové tuhé boje,    
 stále dál, vstříc cestám frontovým. 
 
-refren:    
+*Refrén:*  
 Frontová cesta do daleka     
 deštěm bomb srdce nám nepoleká.     
 |: Na smrt není pomyšlení,     
@@ -27,7 +27,7 @@ Den i noc se střídá,
 bdělý šofér hlídá,    
 kam vůz vedou pevná ramena.
 
-*refren*
+*Refrén:*  
 
 Civilistům bude třeba zdát se    
 tato píseň příliš citová,    
@@ -35,7 +35,7 @@ my však vždy vzpomenem,
 pokud živi budem,    
 kam nás vedla cesta frontová.
 
-*refren*
+*Refrén:*  
 
 Píseň samotná vznikla až po válce, na společenskou objednávku v roce 1947,viz  [historie písně](https://song-story.ru/pesenka-frontovogo-shofera/)
 

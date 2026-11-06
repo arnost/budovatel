@@ -5,10 +5,12 @@ description: Najděte budovatelskou nebo revoluční píseň podle melodie – z
 ---
 
 <h2 class="section__title">Hledání podle nápěvu</h2>
-<p>Zahrajte na klaviatuře začátek nápěvu, nebo jakoukoli jeho část, kterou si pamatujete (stačí 5–10 tónů).
+<p>Zahrajte na klaviatuře nebo zapískejte do mikrofonu začátek nápěvu, nebo jakoukoli jeho část, kterou si pamatujete (stačí 5–10 tónů).
 Na tónině nezáleží, hledá se podle vzdáleností mezi tóny. Když si nejste jisti přesnými tóny, zvolte
 <i>jen směr melodie</i>. Hledá se ve všech písních, které mají noty. Hledat podle slov můžete
 <a href="/hledat.html">tady</a>.</p>
+
+<p><input type="button" id="mikrofon" value="🎤 Zadat mikrofonem"> <span id="mik-stav"><small>Zapískejte nebo zahrajte nápěv pomalu, tón po tónu. Funguje nejlépe s pískáním nebo nástrojem.</small></span></p>
 
 <div id="klaviatura-obal"><div id="klaviatura"></div></div>
 
@@ -76,6 +78,69 @@ Na tónině nezáleží, hledá se podle vzdáleností mezi tóny. Když si nejs
     }
     kl.style.width = x + 'px';
 
+
+    // zadávání mikrofonem: odhad výšky tónu autokorelací, tón se zapíše, když chvíli drží stejnou výšku
+    var mik = null;
+    function vyska(buf, rate) {
+        var n = buf.length, rms = 0, i;
+        for (i = 0; i < n; i++) rms += buf[i] * buf[i];
+        if (Math.sqrt(rms / n) < 0.015) return 0;
+        var min = Math.floor(rate / 3200), max = Math.floor(rate / 70), nej = 0, nejK = 0, k;
+        var nul = 0; for (i = 0; i < n; i++) nul += buf[i] * buf[i];
+        var prah = 0, kor = [];
+        for (k = min; k <= max; k++) {
+            var c = 0;
+            for (i = 0; i < n - k; i++) c += buf[i] * buf[i + k];
+            kor[k] = c / nul;
+        }
+        for (k = min + 1; k < max; k++) {
+            if (kor[k] > 0.5 && kor[k] >= kor[k - 1] && kor[k] >= kor[k + 1]) { nejK = k; nej = kor[k]; break; }
+        }
+        if (!nejK) return 0;
+        var a = kor[nejK - 1], b = kor[nejK], c2 = kor[nejK + 1], posun = (a - c2) / (2 * (a - 2 * b + c2)) || 0;
+        return rate / (nejK + posun);
+    }
+    function mikStop() {
+        if (!mik) return;
+        mik.stream.getTracks().forEach(function (t) { t.stop(); });
+        cancelAnimationFrame(mik.raf);
+        mik = null;
+        document.getElementById('mikrofon').value = '🎤 Zadat mikrofonem';
+        document.getElementById('mik-stav').innerHTML = '<small>Mikrofon vypnut.</small>';
+    }
+    document.getElementById('mikrofon').onclick = function () {
+        if (mik) { mikStop(); return; }
+        var st = document.getElementById('mik-stav');
+        if (!navigator.mediaDevices || !navigator.mediaDevices.getUserMedia) { st.textContent = 'Prohlížeč neumí přístup k mikrofonu.'; return; }
+        navigator.mediaDevices.getUserMedia({audio: {echoCancellation: false, noiseSuppression: false, autoGainControl: false}}).then(function (stream) {
+            audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+            if (audio.resume) audio.resume();
+            var zdroj = audio.createMediaStreamSource(stream), an = audio.createAnalyser();
+            an.fftSize = 2048; zdroj.connect(an);
+            var buf = new Float32Array(an.fftSize), posledni = null, drzi = 0, ticho = 0, zapsano = false;
+            mik = {stream: stream};
+            document.getElementById('mikrofon').value = '⏹ Vypnout mikrofon';
+            st.innerHTML = '<small>Poslouchám… pískejte pomalu.</small>';
+            (function smycka() {
+                an.getFloatTimeDomainData(buf);
+                var f = vyska(buf, audio.sampleRate), m = f ? Math.round(69 + 12 * Math.log(f / 440) / Math.LN2) : 0;
+                if (m && m >= 36 && m <= 106) {
+                    ticho = 0;
+                    if (m === posledni) drzi++; else { posledni = m; drzi = 1; zapsano = false; }
+                    // tón drží asi 0,12 s; pískání je o oktávu i dvě výš, celý nápěv se posune o stejný počet oktáv do rozsahu klaviatury
+                    if (drzi >= 7 && !zapsano) {
+                        if (mik.posun === undefined) { mik.posun = 0; while (m + mik.posun > 72) mik.posun -= 12; while (m + mik.posun < 60) mik.posun += 12; }
+                        var z = m + mik.posun; while (z > DO) z -= 12; while (z < OD) z += 12;
+                        zadane.push(z); zapsano = true; obnov();
+                        var k = kl.querySelector('[data-m="' + z + '"]');
+                        if (k) { k.classList.add('on'); setTimeout(function () { k.classList.remove('on'); }, 150); }
+                    }
+                    st.innerHTML = '<small>Slyším: <b>' + jmeno(m) + '</b></small>';
+                } else if (++ticho > 6) { posledni = null; drzi = 0; zapsano = false; st.innerHTML = '<small>Poslouchám… pískejte pomalu.</small>'; }
+                mik.raf = requestAnimationFrame(smycka);
+            })();
+        }).catch(function () { st.textContent = 'K mikrofonu se nepodařilo připojit (je potřeba povolit přístup).'; });
+    };
     document.getElementById('prehrat').onclick = function () { zadane.forEach(function (m, i) { ton(m, i * 0.4, 0.38); }); };
     document.getElementById('zpet').onclick = function () { zadane.pop(); obnov(); };
     document.getElementById('smazat').onclick = function () { zadane = []; obnov(); };

@@ -1,0 +1,145 @@
+---
+layout: default
+title: Hledání podle nápěvu
+description: Najděte budovatelskou nebo revoluční píseň podle melodie – zahrajte začátek nápěvu na klaviatuře.
+---
+
+<h2 class="section__title">Hledání podle nápěvu</h2>
+<p>Zahrajte na klaviatuře začátek nápěvu, nebo jakoukoli jeho část, kterou si pamatujete (stačí 5–10 tónů).
+Na tónině nezáleží, hledá se podle vzdáleností mezi tóny. Když si nejste jisti přesnými tóny, zvolte
+<i>jen směr melodie</i>. Hledá se ve všech písních, které mají noty. Hledat podle slov můžete
+<a href="/hledat.html">tady</a>.</p>
+
+<div id="klaviatura-obal"><div id="klaviatura"></div></div>
+
+<p id="zadane"><span id="noty">Zatím žádné tóny.</span></p>
+<p>
+  <input type="button" id="prehrat" value="Přehrát">
+  <input type="button" id="zpet" value="Smazat poslední">
+  <input type="button" id="smazat" value="Smazat vše">
+  &nbsp; <label><input type="radio" name="rezim" value="melodie" checked> přesná melodie</label>
+  <label><input type="radio" name="rezim" value="kontura"> jen směr melodie (nahoru / dolů)</label>
+</p>
+<p id="stav"></p>
+<table border="0" cellpadding="6" cellspacing="0" width="100%" id="vysledky"></table>
+
+<style>
+#klaviatura-obal { overflow-x: auto; max-width: 100%; padding-bottom: 4px; }
+#klaviatura { position: relative; height: 140px; width: 610px; user-select: none; touch-action: manipulation; }
+#klaviatura .k { position: absolute; top: 0; box-sizing: border-box; border: 1px solid #555; border-radius: 0 0 4px 4px; cursor: pointer; }
+#klaviatura .b { width: 41px; height: 140px; background: #fff; z-index: 1; }
+#klaviatura .c { width: 26px; height: 88px; background: #222; z-index: 2; }
+#klaviatura .k.on { background: #c33; }
+#klaviatura .k span { position: absolute; bottom: 4px; width: 100%; text-align: center; font-size: 11px; color: #777; }
+#noty b { display: inline-block; min-width: 1.6em; }
+</style>
+
+<script>
+(function () {
+    var JMENA = ['c', 'cis', 'd', 'dis', 'e', 'f', 'fis', 'g', 'gis', 'a', 'b', 'h'];
+    var CERNE = {1: 1, 3: 1, 6: 1, 8: 1, 10: 1};
+    var OD = 55, DO = 84; // g – c3
+    var zadane = [], index = null, audio = null;
+
+    function esc(s) { return String(s || '').replace(/[&<>"]/g, function (c) { return {'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;'}[c]; }); }
+    function jmeno(m) { var o = Math.floor(m / 12) - 4, n = JMENA[m % 12]; return o < 0 ? n : n + (o > 0 ? Array(o + 1).join("'") : ''); }
+
+    function ton(m, kdy, delka) {
+        try {
+            audio = audio || new (window.AudioContext || window.webkitAudioContext)();
+            var t = audio.currentTime + (kdy || 0), o = audio.createOscillator(), g = audio.createGain();
+            o.type = 'triangle';
+            o.frequency.value = 440 * Math.pow(2, (m - 69) / 12);
+            g.gain.setValueAtTime(0.25, t);
+            g.gain.exponentialRampToValueAtTime(0.001, t + (delka || 0.5));
+            o.connect(g); g.connect(audio.destination);
+            o.start(t); o.stop(t + (delka || 0.5));
+        } catch (e) {}
+    }
+
+    // klaviatura
+    var kl = document.getElementById('klaviatura'), x = 0;
+    for (var m = OD; m <= DO; m++) {
+        var k = document.createElement('div'), cerna = CERNE[m % 12];
+        k.className = 'k ' + (cerna ? 'c' : 'b');
+        k.style.left = (cerna ? x - 13 : x) + 'px';
+        if (!cerna) { x += 41; if (m % 12 === 0) k.innerHTML = '<span>' + jmeno(m) + '</span>'; }
+        k.dataset.m = m;
+        k.addEventListener('pointerdown', function (e) {
+            e.preventDefault();
+            var m = +this.dataset.m, el = this;
+            ton(m); zadane.push(m); el.classList.add('on');
+            setTimeout(function () { el.classList.remove('on'); }, 150);
+            obnov();
+        });
+        kl.appendChild(k);
+    }
+    kl.style.width = x + 'px';
+
+    document.getElementById('prehrat').onclick = function () { zadane.forEach(function (m, i) { ton(m, i * 0.4, 0.38); }); };
+    document.getElementById('zpet').onclick = function () { zadane.pop(); obnov(); };
+    document.getElementById('smazat').onclick = function () { zadane = []; obnov(); };
+    Array.prototype.forEach.call(document.getElementsByName('rezim'), function (r) { r.onchange = hledej; });
+
+    function obnov() {
+        document.getElementById('noty').innerHTML = zadane.length ?
+            zadane.map(function (m) { return '<b>' + jmeno(m) + '</b>'; }).join(' ') : 'Zatím žádné tóny.';
+        hledej();
+    }
+
+    function intervaly(v) { var r = []; for (var i = 1; i < v.length; i++) r.push(v[i] - v[i - 1]); return r; }
+    function smer(d) { return d > 0 ? 1 : d < 0 ? -1 : 0; }
+
+    // přibližná shoda dotazu kdekoli v písni (semiglobální editační vzdálenost)
+    function shoda(q, s, kontura) {
+        var n = q.length, prev = new Array(n + 1), cur = new Array(n + 1), nej = Infinity, konec = 0;
+        for (var j = 0; j <= n; j++) prev[j] = j;
+        for (var i = 1; i <= s.length; i++) {
+            cur[0] = 0;
+            for (j = 1; j <= n; j++) {
+                var a = q[j - 1], b = s[i - 1], c;
+                if (kontura) c = smer(a) === smer(b) ? 0.15 * Math.min(Math.abs(a - b), 4) / 4 : 1;
+                else c = a === b ? 0 : (Math.abs(a - b) === 1 ? 0.5 : (smer(a) === smer(b) && Math.abs(a - b) <= 2 ? 0.75 : 1));
+                cur[j] = Math.min(prev[j - 1] + c, prev[j] + 1, cur[j - 1] + 1);
+            }
+            if (cur[n] < nej) { nej = cur[n]; konec = i; }
+            var t = prev; prev = cur; cur = t;
+        }
+        return {cena: nej, konec: konec};
+    }
+
+    function hledej() {
+        var stav = document.getElementById('stav'), tab = document.getElementById('vysledky');
+        if (zadane.length < 4) { stav.textContent = zadane.length ? 'Zadejte aspoň 4 tóny.' : ''; tab.innerHTML = ''; return; }
+        if (!index) {
+            stav.textContent = 'Načítám nápěvy…';
+            fetch('/napevy.json').then(function (r) { return r.json(); }).then(function (d) {
+                index = d.map(function (p) { return {p: p, iv: intervaly(p.v)}; });
+                hledej();
+            }).catch(function () { stav.textContent = 'Nápěvy se nepodařilo načíst.'; });
+            return;
+        }
+        var kontura = document.querySelector('input[name=rezim]:checked').value === 'kontura';
+        var q = intervaly(zadane);
+        var vys = index.map(function (x) {
+            var r = shoda(q, x.iv, kontura);
+            return {p: x.p, skore: 1 - r.cena / q.length, konec: r.konec};
+        }).filter(function (r) { return r.skore >= (kontura ? 0.75 : 0.6); });
+        vys.sort(function (a, b) { return b.skore - a.skore || a.konec - b.konec; });
+        vys = vys.slice(0, 25);
+        stav.textContent = vys.length ? 'Nejpodobnější nápěvy:' : 'Nic podobného jsme nenašli. Zkuste zadat jinou část melodie nebo zvolit „jen směr melodie“.';
+        tab.innerHTML = vys.map(function (r) {
+            var proc = Math.round(r.skore * 100), od = Math.max(0, r.konec - q.length);
+            return '<tr><td width="60" valign="top">' + proc + ' %</td><td><a href="' + esc(r.p.u) + '"><b>' + esc(r.p.t) + '</b></a>' +
+                (od > 0 ? ' <small>(uprostřed písně)</small>' : '') +
+                ' <input type="button" value="▶" title="Přehrát začátek shody" data-u="' + esc(r.p.u) + '" data-od="' + od + '" data-n="' + (q.length + 1) + '"></td></tr>';
+        }).join('');
+        Array.prototype.forEach.call(tab.querySelectorAll('input[type=button]'), function (b) {
+            b.onclick = function () {
+                var p = index.filter(function (x) { return x.p.u === b.dataset.u; })[0].p, od = +b.dataset.od, n = +b.dataset.n, t = 0;
+                for (var i = od; i < Math.min(p.v.length, od + n + 2); i++) { ton(p.v[i], t, Math.min(0.6, p.d[i] * 0.12)); t += p.d[i] * 0.13; }
+            };
+        });
+    }
+})();
+</script>

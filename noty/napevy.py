@@ -115,6 +115,41 @@ def main():
     with open('napevy.json', 'w', encoding='utf-8') as f:
         json.dump(vystup, f, ensure_ascii=False, separators=(',', ':'))
     print(f'napevy.json: {len(vystup)} písní')
+    stejny_napev(vystup)
+
+
+def podobnost(q, s):
+    """Jak dobře se úsek q (intervaly) vejde kamkoli do s: 1 = přesně, půltónová odchylka stojí půl chyby."""
+    n, prev, nej = len(q), list(range(len(q) + 1)), float('inf')
+    for b in s:
+        cur = [0] * (n + 1)
+        for j in range(1, n + 1):
+            a = q[j - 1]
+            c = 0 if a == b else (0.5 if abs(a - b) == 1 else 1)
+            cur[j] = min(prev[j - 1] + c, prev[j] + 1, cur[j - 1] + 1)
+        nej, prev = min(nej, cur[n]), cur
+    return 1 - nej / n
+
+
+def stejny_napev(pisne):
+    """Najde dvojice písní se stejným nápěvem (prvních 32 intervalů jedné se s malými odchylkami
+    najde ve druhé) a zapíše je do _data/stejny_napev.yml pro odkazy na stránkách písní."""
+    iv = [[p['v'][i] - p['v'][i - 1] for i in range(1, len(p['v']))] for p in pisne]
+    jm = [p['u'].rsplit('/', 1)[1] for p in pisne]
+    pary = {}
+    for i in range(len(pisne)):
+        q = iv[i][:14]
+        if len(q) < 14 or len(set(q)) < 3:
+            continue
+        for j in range(len(pisne)):
+            if i != j and podobnost(q, iv[j][:60]) >= 0.85 and podobnost(iv[i][:32], iv[j]) >= 0.8:
+                pary.setdefault(jm[i], set()).add(jm[j])
+                pary.setdefault(jm[j], set()).add(jm[i])
+    with open('_data/stejny_napev.yml', 'w', encoding='utf-8') as f:
+        f.write('# Generuje noty/napevy.py: písně, které se zpívají na stejný nápěv (podle MIDI).\n')
+        for k in sorted(pary):
+            f.write(f'{k}: [{", ".join(sorted(pary[k]))}]\n')
+    print(f'_data/stejny_napev.yml: {len(pary)} písní')
 
 
 if __name__ == '__main__':

@@ -28,6 +28,11 @@ období: <a href="/pisne.phtml/#{{ obdobi.id }}">{{ obdobi.nazev }}</a> ({{ obdo
         <td valign="top">
             {% include media.html %}
             {% assign zpevnik_id = page.id | split: "/" | last %}
+            {% assign napev_id = zpevnik_id | downcase %}{% assign stejne = site.data.stejny_napev[napev_id] %}
+            {% if stejne %}
+            <br/><br/>Na stejný nápěv se zpívá také:
+            {% for s in stejne %}{% for x in site.pisne %}{% assign xid = x.id | split: "/" | last | downcase %}{% if xid == s %}<a href="{{ x.url | downcase }}">{{ x.title }}</a>{% endif %}{% endfor %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+            {% endif %}
             {% if site.data.zpevnik[zpevnik_id] %}
             <br/><a href="/noty/pdf/Budovatel_zpevnik.pdf#page={{ site.data.zpevnik[zpevnik_id] }}">Ve zpěvníku</a> (str. {{ site.data.zpevnik[zpevnik_id] }})
             {% endif %}

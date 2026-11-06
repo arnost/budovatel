@@ -1,0 +1,13 @@
+# Generuje noty/napevy.py: písně, které se zpívají na stejný nápěv (podle MIDI).
+at_tyran_ma_sve_pochopy: [rudy_prapor_jsme_vztycili]
+brigadnicky_pochod_bulharsky: [elate_chiljadi_mladezi]
+elate_chiljadi_mladezi: [brigadnicky_pochod_bulharsky]
+hej_cesi_srbove_slovaci: [ve_jarmu_co_tak_dlouho_hyne]
+krajem_leti_nase_delnicka_pisen: [pochod_veselych_deti]
+nad_okeany_prapor_vlaje: [rudy_prapor]
+nase_zeme_je_dnes_krasna: [pisen_uderniku]
+pisen_uderniku: [nase_zeme_je_dnes_krasna]
+pochod_veselych_deti: [krajem_leti_nase_delnicka_pisen]
+rudy_prapor: [nad_okeany_prapor_vlaje]
+rudy_prapor_jsme_vztycili: [at_tyran_ma_sve_pochopy]
+ve_jarmu_co_tak_dlouho_hyne: [hej_cesi_srbove_slovaci]

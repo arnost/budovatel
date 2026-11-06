@@ -1,0 +1,337 @@
+# Generuje noty/napevy.py: takt a tónina z .ly, rozsah melodie z MIDI.
+armade_zdar: {takt: "4/4", tonina: "F dur", od: "d'", do: "fis''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 3}
+at_tyran_ma_sve_pochopy: {takt: "2/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 9}
+avanti_o_popolo: {takt: "2/4", tonina: "G dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+az_pujdu_na_travu: {takt: "3/4", tonina: "D dur", od: "e'", do: "fis''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 2}
+borodino: {takt: "2/4", tonina: "C dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -3}
+brigadnici: {takt: "4/4", tonina: "F dur", od: "f'", do: "c''", rozsah: "kvinta", pultony: 7, prvni: 0}
+brigadnicky_pochod: {takt: "4/4", tonina: "E dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+brigadnicky_pochod_bulharsky: {takt: "2/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 9}
+budu_cekat_mileho_zpatky_z_letu: {takt: "2/4", tonina: "d moll", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 3}
+budujeme: {takt: "4/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+byl_jest_v_kunstate: {takt: "2/4", tonina: "A dur", od: "fis'", do: "e''", rozsah: "malá septima", pultony: 10, prvni: 0}
+castuska_do_svedomi: {takt: "3/4", tonina: "D dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+cesty: {takt: "3/4", tonina: "F dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -7}
+chceme_mir: {takt: "4/4", tonina: "As dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+clovek_mezi_hvezdami: {takt: "4/4", tonina: "C dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+co_hajime_co_strezime: {takt: "2/4", tonina: "G dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+crvena_zvjezda: {takt: "4/4", tonina: "G dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -5}
+ctyri_z_tanku_a_pes: {takt: "4/4", tonina: "Es dur", od: "b", do: "c''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 3}
+dal_prikaz_soudruh_stalin: {takt: "2/4", tonina: "F dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: -5}
+daleko_daleko: {takt: "6/8", tonina: "D dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+delostrelecka: {takt: "4/4", tonina: "C dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: -2}
+dietky_v_hromadu_se_sendeme: {takt: "", tonina: "C dur", od: "c'", do: "g''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 2}
+dnes_prapor_nas: {takt: "2/4", tonina: "g moll", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 5}
+do_daleka_prostira_se_rodna_zem: {takt: "4/4", tonina: "As dur", od: "f'", do: "f''", rozsah: "oktáva", pultony: 12, prvni: 0}
+do_prace_jiz: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+dobre_je_ze_uz_neni_pana: {takt: "2/4", tonina: "A dur", od: "e'", do: "d''", rozsah: "malá septima", pultony: 10, prvni: 0}
+dohnat_a_predehnat: {takt: "2/2", tonina: "f moll", od: "f'", do: "f''", rozsah: "oktáva", pultony: 12, prvni: 1}
+drug_tito: {takt: "4/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+dubinuska: {takt: "2/4", tonina: "f moll", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 3}
+dva_sokoli: {takt: "4/4", tonina: "g moll", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 7}
+dyby_ta_robota: {takt: "3/4", tonina: "B dur", od: "f'", do: "d''", rozsah: "velká sexta", pultony: 9, prvni: 0}
+ej_vy_kone: {takt: "2/4", tonina: "g moll", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+ej_zelenymi_planemi: {takt: "4/4", tonina: "D dur", od: "d", do: "c''", rozsah: "oktáva a malá septima", pultony: 22, prvni: -5}
+elate_chiljadi_mladezi: {takt: "2/4", tonina: "Es dur", od: "b", do: "es''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 9}
+festivalova: {takt: "4/4", tonina: "D dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+genius_lidstva: {takt: "2/4", tonina: "F dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 2}
+gottwaldova_petiletka: {takt: "2/4", tonina: "B dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+granat: {takt: "2/4", tonina: "F dur", od: "c'", do: "es''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: -3}
+havirska: {takt: "4/4", tonina: "c moll", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 0}
+hej_cesi_srbove_slovaci: {takt: "6/8", tonina: "F dur", od: "c'", do: "g''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 9}
+hej_ivane_hej: {takt: "6/8", tonina: "G dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -3}
+hej_rup: {takt: "6/8", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+hej_rup_rumunska: {takt: "4/4", tonina: "c moll", od: "c'", do: "g''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 7}
+hej_slnko_vychodi: {takt: "2/4", tonina: "F dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 0}
+hej_slovane: {takt: "3/4", tonina: "D dur", od: "cis'", do: "d''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: 4}
+hej_stalinovci: {takt: "4/4", tonina: "F dur", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 0}
+hej_ty_pole_sire: {takt: "4/4", tonina: "e moll", od: "e'", do: "g''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: -7}
+hej_ty_pusko: {takt: "2/4", tonina: "D dur", od: "d'", do: "fis''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: -2}
+hlavu_vys: {takt: "6/8", tonina: "d moll", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -2}
+hle_vojaci_jdou: {takt: "4/4", tonina: "c moll", od: "c'", do: "as''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 2}
+honacka: {takt: "3/2", tonina: "G dur", od: "g'", do: "d''", rozsah: "kvinta", pultony: 7, prvni: -2}
+hornicka_pisen: {takt: "2/4", tonina: "a moll", od: "a", do: "fis''", rozsah: "oktáva a velká sexta", pultony: 21, prvni: -1}
+hospodine_pomiluj_ny: {takt: "", tonina: "C dur", od: "a'", do: "d''", rozsah: "kvarta", pultony: 5, prvni: 2}
+hrej_harmoniko: {takt: "4/8", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -3}
+hymn_polskich_partyzantow: {takt: "4/4", tonina: "c moll", od: "c'", do: "es''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 0}
+hymna_demokraticke_mladeze: {takt: "4/4", tonina: "A dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 0}
+hymna_elas: {takt: "4/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+hymna_sovetskeho_svazu: {takt: "4/4", tonina: "B dur", od: "b", do: "es''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+imamo_tita: {takt: "2/4", tonina: "C dur", od: "e'", do: "h'", rozsah: "kvinta", pultony: 7, prvni: 0}
+internacionala: {takt: "4/4", tonina: "G dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 5}
+ivan: {takt: "3/4", tonina: "F dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: -4}
+ja_jsem_hornik_a_kdo_je_vic: {takt: "4/4", tonina: "B dur", od: "e'", do: "a''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+jaci_jsou_ti_cesi: {takt: "2/4", tonina: "A dur", od: "e'", do: "a''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+jaro_na_fronte: {takt: "4/4", tonina: "b moll", od: "c'", do: "b''", rozsah: "oktáva a malá septima", pultony: 22, prvni: 0}
+jde_dal_po_uralu_capajeva_voj: {takt: "2/4", tonina: "B dur", od: "es'", do: "d''", rozsah: "velká septima", pultony: 11, prvni: 5}
+jde_frantik_kolem_zahradky: {takt: "", tonina: ""}
+jen_dal: {takt: "4/4", tonina: "D dur", od: "d'", do: "fis''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+jeste_nikdy_nebylo: {takt: "2/4", tonina: "D dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -1}
+jsou_li_krasne_mlade_kvety_v_maji: {takt: "4/4", tonina: "f moll", od: "f'", do: "f''", rozsah: "oktáva", pultony: 12, prvni: 7}
+k_1_maji_1934: {takt: "4/4", tonina: "E dur", od: "cis'", do: "e''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 3}
+k_1_maji_sebestik: {takt: "2/4", tonina: "A dur", od: "e'", do: "e''", rozsah: "oktáva", pultony: 12, prvni: -5}
+kalinka: {takt: "2/4", tonina: "g moll", od: "f'", do: "f''", rozsah: "oktáva", pultony: 12, prvni: 0}
+kamaradi: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+kantata_o_stalinovi: {takt: "4/4", tonina: "g moll", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+kde_je_jan_zizka: {takt: "4/4", tonina: "A dur", od: "f'", do: "d''", rozsah: "velká sexta", pultony: 9, prvni: 0}
+kdo_by_vas_vojaci: {takt: "2/4", tonina: "D dur"}
+kdo_na_moje_misto: {takt: "3/4", tonina: "G dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 3}
+kdo_zlato_vydobyva: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+kdyz_se_narod_prestal_bat: {takt: "3/4", tonina: "D dur", od: "e'", do: "e''", rozsah: "oktáva", pultony: 12, prvni: 1}
+komsomolska: {takt: "2/4", tonina: "As dur", od: "f'", do: "f''", rozsah: "oktáva", pultony: 12, prvni: 0}
+komsomolska_solovjov_sedoj: {takt: "2/4", tonina: "cis moll", od: "h", do: "fis''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 2}
+konjuh_planinom: {takt: "3/4", tonina: "d moll", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+kovarska: {takt: "4/4", tonina: "c moll", od: "g", do: "es''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: -5}
+krajem_leti_nase_delnicka_pisen: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 4}
+krasnyj_partizan: {takt: "4/4", tonina: "F dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: -2}
+kto_za_pravdu_hori: {takt: "2/4", tonina: "C dur", od: "e'", do: "f''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: -5}
+ktoz_jsu_bozi_bojovnici: {takt: "", tonina: "C dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+kupredu_kupredu: {takt: "2/4", tonina: "d moll", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 0}
+kupredu_zpatky_ni_krok: {takt: "4/4", tonina: "C dur", od: "b", do: "e''", rozsah: "oktáva a tritón", pultony: 18, prvni: 0}
+lakomec: {takt: "2/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+laska_za_lasku: {takt: "4/4", tonina: "D dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 1}
+leninuv_prapor: {takt: "4/4", tonina: "Es dur", od: "es'", do: "f''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+letadlo: {takt: "2/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+letci: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 5}
+letecka: {takt: "2/4", tonina: "C dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -7}
+lide_drazi_poslechnete: {takt: "2/4", tonina: "D dur", od: "d'", do: "h'", rozsah: "velká sexta", pultony: 9, prvni: 4}
+lidova_armada: {takt: "2/4", tonina: "G dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+louceni: {takt: "4/4", tonina: "d moll", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -3}
+majova: {takt: "2/4", tonina: "D dur", od: "cis'", do: "d''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: 0}
+majova_kadosa: {takt: "2/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 5}
+majova_smatek: {takt: "2/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 2}
+mam_chaloupku_rozbitou: {takt: "2/4", tonina: "G dur", od: "fis'", do: "e''", rozsah: "malá septima", pultony: 10, prvni: 0}
+maminkam: {takt: "2/4", tonina: "D dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: -2}
+manus_vojvoda: {takt: "4/4", tonina: "C dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: -1}
+mi_smo_mladi_skojevci: {takt: "3/4", tonina: "F dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+milion: {takt: "4/4", tonina: "C dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 3}
+milion_pazi: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+mlada_pisen: {takt: "4/4", tonina: "C dur", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 1}
+mlada_rota: {takt: "2/4", tonina: "D dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+mladi: {takt: "6/8", tonina: "C dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: -3}
+mlynar_mele: {takt: "2/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 5}
+moskva: {takt: "4/4", tonina: "As dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -2}
+my: {takt: "4/4", tonina: "Es dur", od: "g'", do: "e''", rozsah: "velká sexta", pultony: 9, prvni: 0}
+my_delnici: {takt: "2/4", tonina: "B dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+my_jsme_proletari: {takt: "2/4", tonina: "C dur", od: "e'", do: "d''", rozsah: "malá septima", pultony: 10, prvni: 0}
+my_jsme_sedlaci: {takt: "3/4", tonina: "F dur", od: "f'", do: "d''", rozsah: "velká sexta", pultony: 9, prvni: -2}
+my_jsme_vojaci_nasi_republiky: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+my_s_leninem_a_stalinem: {takt: "4/4", tonina: "F dur", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 5}
+my_to_vzdycky_vyhravali: {takt: "2/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+na_barykady: {takt: "4/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -5}
+na_brigadu: {takt: "2/4", tonina: "G dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -5}
+na_kralovej_holi: {takt: "2/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -5}
+na_lhoteckem_panstvi: {takt: "3/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+na_nas_to_ceka: {takt: "2/4", tonina: "B dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -3}
+na_nebi_zapad_zlat: {takt: "4/4", tonina: "F dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+na_pochod: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+na_pochod_mladezi: {takt: "4/4", tonina: "f moll", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+na_strazi_miru: {takt: "4/4", tonina: "C dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: -1}
+nad_okeany_prapor_vlaje: {takt: "4/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 9}
+nadesel_cas: {takt: "4/4", tonina: "C dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+narod_muzikantu: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 1}
+nas_ciel: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+nase_mamy: {takt: "2/4", tonina: "Es dur", od: "d'", do: "b''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 0}
+nase_zeme_je_dnes_krasna: {takt: "4/4", tonina: "F dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 5}
+neseme_valku_ze_vsi: {takt: "2/4", tonina: "G dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 0}
+nikdy_nezemreme: {takt: "4/4", tonina: "d moll", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 3}
+no_passaran: {takt: "2/2", tonina: "F dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 5}
+nova_piesen_znie: {takt: "4/4", tonina: "c moll", od: "c'", do: "es''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: -1}
+nova_pisen: {takt: "2/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+novy_je_den: {takt: "4/4", tonina: "Es dur", od: "b", do: "c''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+novy_zivot: {takt: "4/4", tonina: "A dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 5}
+o_katusi: {takt: "4/4", tonina: "D dur", od: "a", do: "h'", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 2}
+o_petovi: {takt: "2/4", tonina: "C dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 0}
+o_svolanie_konstanske: {takt: "4/4", tonina: "C dur", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 2}
+oj_ty_stepi_siroka: {takt: "3/4", tonina: "g moll", od: "g'", do: "g''", rozsah: "oktáva", pultony: 12, prvni: 2}
+oj_u_dubu_stareho: {takt: "3/4", tonina: "C dur", od: "e'", do: "a''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+oj_vy_zavoje_mlh: {takt: "4/4", tonina: "A dur", od: "e", do: "g''", rozsah: "27 půltónů", pultony: 27, prvni: 0}
+omladinarska: {takt: "2/4", tonina: "C dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+ostrava_smbs: {takt: "4/4", tonina: "B dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: -5}
+ostravska_castuska: {takt: "2/4", tonina: "D dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+otwarte_okna: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+partyzanska: {takt: "4/4", tonina: "f moll", od: "es'", do: "g''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 2}
+partyzanska_hanus: {takt: "4/4", tonina: "d moll", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 3}
+pej_soudruhu: {takt: "6/8", tonina: "G dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 7}
+pevne_soudruzi_dal_v_budovani: {takt: "4/4", tonina: "G dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+piesen_patrocnice: {takt: "2/4", tonina: "G dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+piesen_pracujucich: {takt: "2/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+pionyrska: {takt: "4/4", tonina: "fis moll", od: "cis'", do: "cis''", rozsah: "oktáva", pultony: 12, prvni: 2}
+pionyrska_pochodova_grossman: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+pionyrska_pochodova_starokadomskij: {takt: "2/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+pionyrsky_satek: {takt: "2/4", tonina: "D dur", od: "cis'", do: "d''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: -3}
+pisen_albanske_armady: {takt: "4/4", tonina: "F dur", od: "a", do: "f''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 0}
+pisen_brigady: {takt: "2/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+pisen_ceskych_sedlaku: {takt: "4/4", tonina: "F dur", od: "f'", do: "d''", rozsah: "velká sexta", pultony: 9, prvni: 0}
+pisen_frontoveho_sofera: {takt: "4/4", tonina: "C dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+pisen_jednotnych_odboru: {takt: "4/4", tonina: "c moll", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pisen_jednoty: {takt: "4/4", tonina: "a moll", od: "e'", do: "fis''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -4}
+pisen_juliu_fucikovi: {takt: "4/4", tonina: "F dur", od: "a", do: "a'''", rozsah: "36 půltónů", pultony: 36, prvni: 9}
+pisen_k_taborovemu_ohni: {takt: "4/4", tonina: "d moll", od: "c'", do: "as''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 0}
+pisen_komunisticke_strane: {takt: "2/2", tonina: "G dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+pisen_kosmonautu: {takt: "4/4", tonina: "F dur", od: "h", do: "f''", rozsah: "oktáva a tritón", pultony: 18, prvni: -1}
+pisen_krumpacu: {takt: "2/4", tonina: "C dur", od: "g'", do: "f''", rozsah: "malá septima", pultony: 10, prvni: 0}
+pisen_letce: {takt: "2/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 7}
+pisen_miru: {takt: "2/4", tonina: "D dur", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 0}
+pisen_mladych_brigadniku: {takt: "2/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 2}
+pisen_mladych_kozaku: {takt: "4/4", tonina: "d moll", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 2}
+pisen_mladych_vojaku: {takt: "2/4", tonina: "f moll", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -5}
+pisen_nejstastnejsich: {takt: "2/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pisen_o_arcibiskupu_zbynkovi: {takt: "", tonina: "C dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: -2}
+pisen_o_bratrstvi: {takt: "4/4", tonina: "G dur", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 0}
+pisen_o_ckalovu: {takt: "4/4", tonina: "D dur", od: "a", do: "g''", rozsah: "oktáva a malá septima", pultony: 22, prvni: 5}
+pisen_o_hrdinech_dneprovske_prepravy: {takt: "4/4", tonina: "F dur", od: "g", do: "as''", rozsah: "25 půltónů", pultony: 25, prvni: 0}
+pisen_o_kozacce: {takt: "4/4", tonina: "d moll", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 2}
+pisen_o_leninovi: {takt: "4/4", tonina: "C dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 5}
+pisen_o_leninovi_levina: {takt: "3/4", tonina: "a moll", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pisen_o_patem_pluku: {takt: "3/8", tonina: "g moll", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pisen_o_petiletem_planu: {takt: "4/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+pisen_o_pravde: {takt: "", tonina: "C dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -3}
+pisen_o_prvnim_maji: {takt: "4/4", tonina: "G dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 9}
+pisen_o_rozhodnem_kroku: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 5}
+pisen_o_rudem_tisku: {takt: "2/2", tonina: "f moll", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+pisen_o_scorsovi: {takt: "2/2", tonina: "e moll", od: "e'", do: "e''", rozsah: "oktáva", pultony: 12, prvni: -3}
+pisen_o_sovetske_armade: {takt: "4/4", tonina: "As dur", od: "c", do: "f'", rozsah: "oktáva a kvarta", pultony: 17, prvni: 1}
+pisen_o_stalinovi: {takt: "4/4", tonina: "C dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: -7}
+pisen_o_stalinovi_dobias: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 7}
+pisen_o_tacance: {takt: "4/4", tonina: "B dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 7}
+pisen_o_vlasti: {takt: "4/4", tonina: "As dur", od: "f'", do: "as''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 2}
+pisen_o_vorosilovi: {takt: "4/4", tonina: "B dur", od: "f'", do: "g''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+pisen_prace: {takt: "4/4", tonina: "F dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+pisen_rudych_borcu: {takt: "4/4", tonina: "G dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+pisen_sjednocenych_stran: {takt: "4/4", tonina: "e moll", od: "e'", do: "e''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pisen_smelych: {takt: "4/4", tonina: "d moll", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+pisen_svobody_albanska: {takt: "4/4", tonina: "d moll", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 3}
+pisen_tovarny: {takt: "2/4", tonina: "C dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: -3}
+pisen_uderniku: {takt: "4/4", tonina: "F dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 5}
+pisen_vzbourenych_sedlaku: {takt: "4/4", tonina: "D dur", od: "a", do: "h'", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -5}
+pisen_z_fronty_o_stalinovi: {takt: "2/4", tonina: "c moll", od: "c'", do: "es''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: -3}
+pisen_zemedelske_brigady: {takt: "2/4", tonina: "D dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: -3}
+pisnicka_panu_presidentovi: {takt: "2/4", tonina: "F dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pisnicka_petiletky: {takt: "4/4", tonina: "F dur", od: "c'", do: "es''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: -7}
+pisou_mi_psani: {takt: "2/4", tonina: "D dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pochod_1_maje: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+pochod_brigady: {takt: "4/4", tonina: "a moll", od: "e'", do: "h''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 3}
+pochod_desetitunaru: {takt: "4/4", tonina: "C dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 5}
+pochod_haviru: {takt: "4/4", tonina: "g moll", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -2}
+pochod_jednotne_delnicke_fronty: {takt: "4/4", tonina: "B dur", od: "d'", do: "es''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: -1}
+pochod_klementa_gottwalda: {takt: "4/4", tonina: "F dur", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 5}
+pochod_kljacko: {takt: "2/4", tonina: "A dur", od: "e'", do: "d''", rozsah: "malá septima", pultony: 10, prvni: 0}
+pochod_komsomolu_rudeho_praporu: {takt: "4/4", tonina: "e moll", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+pochod_kosmonautu: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -1}
+pochod_lidove_gardy: {takt: "4/4", tonina: "e moll", od: "e'", do: "e''", rozsah: "oktáva", pultony: 12, prvni: -7}
+pochod_pracujici_mladeze: {takt: "4/4", tonina: "Es dur", od: "b", do: "f''", rozsah: "oktáva a kvinta", pultony: 19, prvni: -3}
+pochod_prvni_uderne_brigady: {takt: "2/4", tonina: "d moll", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+pochod_rudych_namorniku: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+pochod_rudych_sportovcu: {takt: "4/4", tonina: "d moll", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 0}
+pochod_snb: {takt: "2/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+pochod_stalinskeho_letectva: {takt: "4/4", tonina: "As dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -4}
+pochod_veselych_deti: {takt: "4/4", tonina: "D dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 4}
+pod_prapory: {takt: "4/4", tonina: "F dur", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 2}
+podme_chlapci_aj_dievcata: {takt: "4/4", tonina: "D dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 5}
+pohrebni_pochod_ruskych_revolucionaru: {takt: "4/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 7}
+pojdte_s_nami_na_brigadu: {takt: "4/4", tonina: "F dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: -2}
+policko_pole: {takt: "4/4", tonina: "f moll", od: "es'", do: "f''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -4}
+povstan_povstan_velike_mesto_prazske: {takt: "4/4", tonina: "C dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+pozdrav_sovetum: {takt: "3/4", tonina: "G dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+pozdrav_stalinovi: {takt: "2/4", tonina: "B dur", od: "f'", do: "g''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+pozdrav_z_sssr: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+pratele: {takt: "4/4", tonina: "D dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: -7}
+predzpevaka_poslys_ceto: {takt: "4/4", tonina: "G dur", od: "e'", do: "a''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -7}
+priroda_nam_kaze: {takt: "4/4", tonina: "G dur", od: "g'", do: "e''", rozsah: "velká sexta", pultony: 9, prvni: 2}
+prisaha: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -3}
+proc_jsem_social: {takt: "3/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+prvni_maj: {takt: "2/4", tonina: "D dur", od: "d'", do: "h'", rozsah: "velká sexta", pultony: 9, prvni: 2}
+radost_z_prace: {takt: "2/2", tonina: "C dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+radost_zemedelce: {takt: "4/4", tonina: "Es dur", od: "es'", do: "f''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 2}
+republiko: {takt: "4/4", tonina: "G dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+rijnova: {takt: "2/4", tonina: "D dur", od: "d'", do: "h'", rozsah: "velká sexta", pultony: 9, prvni: 2}
+rodna_zeme: {takt: "4/4", tonina: "g moll", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+rodny_sevastopol: {takt: "4/4", tonina: "", od: "A", do: "f'", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 0}
+rovnost_chceme: {takt: "2/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -2}
+rozkvetly_den: {takt: "4/4", tonina: "Es dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 3}
+rozletela_se_stroju_kola: {takt: "2/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 2}
+ruda_armada: {takt: "2/4", tonina: "As dur", od: "c'", do: "es''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 0}
+rudy_prapor: {takt: "4/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 9}
+rudy_prapor_jsme_vztycili: {takt: "2/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 9}
+rudy_traktorista: {takt: "4/4", tonina: "F dur", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 3}
+ruky_prec_od_koreje: {takt: "2/4", tonina: "F dur", od: "d'", do: "fis''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+rusko: {takt: "4/4", tonina: "F dur", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -5}
+se_zpevem_a_smichem: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 2}
+septemvrijci: {takt: "4/4", tonina: "e moll", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+setkani_budonneho_s_kozaky: {takt: "2/4", tonina: "g moll", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 2}
+sibiran: {takt: "4/4", tonina: "G dur", od: "h", do: "g''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 0}
+sire_lany_jsou_pod_stalingradem: {takt: "4/4", tonina: "c moll", od: "c", do: "f'", rozsah: "oktáva a kvarta", pultony: 17, prvni: -5}
+slavny_den: {takt: "4/4", tonina: "E dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+slunce_vstava_nad_taborem: {takt: "2/4", tonina: "C dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+slunecny_den: {takt: "4/4", tonina: "F dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+smer_praha: {takt: "6/8", tonina: "B dur", od: "h", do: "g''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 0}
+snezenky_uz_rostu: {takt: "2/4", tonina: "E dur", od: "h", do: "h'", rozsah: "oktáva", pultony: 12, prvni: 5}
+soudruzi_my_jdem_s_vami: {takt: "6/8", tonina: "f moll", od: "cis'", do: "f''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: -4}
+soudruzi_vzhuru: {takt: "4/4", tonina: "D dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+soudruzko_koreo_bud_zdrava: {takt: "4/4", tonina: "a moll", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 0}
+sovetsti_vojaci: {takt: "2/4", tonina: "Es dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: -2}
+sportovni_pochod: {takt: "4/4", tonina: "As dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: -1}
+stalinuv_odkaz: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+stavime_domy: {takt: "4/4", tonina: "D dur", od: "d'", do: "h'", rozsah: "velká sexta", pultony: 9, prvni: 1}
+stavime_novy_svet_pauer: {takt: "2/4", tonina: "f moll", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 12}
+strojvudcova_pisnicka: {takt: "3/8", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 2}
+stujme_na_strazi: {takt: "4/4", tonina: "A dur", od: "a", do: "f''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: -3}
+suliko: {takt: "4/4", tonina: "C dur", od: "e'", do: "d''", rozsah: "malá septima", pultony: 10, prvni: 0}
+svata_valka: {takt: "3/4", tonina: "A dur", od: "a", do: "cis''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 5}
+svaty_vaclave: {takt: "", tonina: "C dur", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 2}
+ta_druzstevni_pracka: {takt: "3/4", tonina: "G dur", od: "fis'", do: "c''", rozsah: "tritón", pultony: 6, prvni: 0}
+tak_chmurne_sumel_brjansky_les: {takt: "3/4", tonina: "d moll", od: "d'", do: "es''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: -7}
+tam_kde_orel_rozpjal_kridla: {takt: "4/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+tankista_vasja: {takt: "3/4", tonina: "e moll", od: "h", do: "g''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: -5}
+tankistum: {takt: "4/4", tonina: "As dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 2}
+tazni_ptaci: {takt: "2/4", tonina: "G dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 2}
+ti_racicti_pani: {takt: "2/4", tonina: "G dur", od: "e'", do: "d''", rozsah: "malá septima", pultony: 10, prvni: 0}
+ti_sedlaci_ubozi: {takt: "2/4", tonina: "A dur", od: "e'", do: "fis''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+titovo_kolo: {takt: "2/4", tonina: "F dur", od: "f'", do: "d''", rozsah: "velká sexta", pultony: 9, prvni: 3}
+traktoristka: {takt: "2/4", tonina: "Es dur", od: "es'", do: "c''", rozsah: "velká sexta", pultony: 9, prvni: 0}
+tramvaj: {takt: "3/8", tonina: "D dur", od: "d'", do: "cis''", rozsah: "velká septima", pultony: 11, prvni: 4}
+tri_tankisti: {takt: "4/4", tonina: "D dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 2}
+u_studanky: {takt: "4/4", tonina: "C dur", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 1}
+udernicka: {takt: "2/4", tonina: "C dur", od: "d'", do: "a''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 0}
+usmevava_zem: {takt: "4/4", tonina: "Es dur", od: "b", do: "es''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+uz_vyslo_slnko: {takt: "2/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+v_boj_kdyz_tahl_hrdina_capajev: {takt: "2/4", tonina: "B dur", od: "c'", do: "d''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -1}
+v_boj_za_rodnou_zem: {takt: "2/4", tonina: "d moll", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: -4}
+v_rusku_velka_boure_je: {takt: "4/4", tonina: "C dur", od: "c'", do: "g''", rozsah: "oktáva a kvinta", pultony: 19, prvni: -5}
+v_sirou_dal: {takt: "4/4", tonina: "G dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+vahavy_sedlak: {takt: "2/4", tonina: "F dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 5}
+valka_valka: {takt: "4/4", tonina: "C dur", od: "e'", do: "f''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: -5}
+varjag: {takt: "4/4", tonina: "F dur", od: "c'", do: "e''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 3}
+varsavjanka: {takt: "4/4", tonina: "e moll", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+ve_jarmu_co_tak_dlouho_hyne: {takt: "6/8", tonina: "F dur", od: "c'", do: "g''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 9}
+velika_laska: {takt: "3/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: -2}
+velky_svatek: {takt: "2/4", tonina: "D dur", od: "h", do: "d''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 4}
+verni_sobe: {takt: "4/4", tonina: "a moll", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: -12}
+verte_nam: {takt: "4/4", tonina: "F dur", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 0}
+vesela_harmonika: {takt: "2/4", tonina: "D dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 4}
+vezenska: {takt: "3/4", tonina: "F dur", od: "f'", do: "d''", rozsah: "velká sexta", pultony: 9, prvni: 2}
+vlajka_mladi: {takt: "4/4", tonina: "F dur", od: "a", do: "f''", rozsah: "oktáva a malá sexta", pultony: 20, prvni: 2}
+vojak_udernik: {takt: "4/4", tonina: "C dur", od: "cis'", do: "g''", rozsah: "oktáva a tritón", pultony: 18, prvni: 0}
+vpred_smele_soudruzi_spejme: {takt: "4/4", tonina: "C dur", od: "e'", do: "f''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: -1}
+vsichni_jsme_mladi: {takt: "4/4", tonina: "D dur", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: -5}
+vzdy_bud_pripraven: {takt: "2/4", tonina: "G dur", od: "d'", do: "e''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 4}
+vzhuru_pionyri: {takt: "2/4", tonina: "D dur", od: "a", do: "d''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 1}
+vzpominka_z_fronty: {takt: "3/4", tonina: "e moll", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+za_gottwalda_vpred: {takt: "4/4", tonina: "B dur", od: "f'", do: "f''", rozsah: "oktáva", pultony: 12, prvni: 0}
+za_hvezdou_jitrni: {takt: "4/4", tonina: "G dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}
+zadny_clovek_neuveri: {takt: "2/4", tonina: "G dur", od: "fis'", do: "g''", rozsah: "oktáva a malá sekunda", pultony: 13, prvni: 2}
+zahradky_sadky: {takt: "2/4", tonina: "d moll", od: "d'", do: "f''", rozsah: "oktáva a malá tercie", pultony: 15, prvni: 3}
+zapada_slunko: {takt: "4/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 9}
+zaslo_slunce: {takt: "2/4", tonina: "c moll", od: "c'", do: "c''", rozsah: "oktáva", pultony: 12, prvni: 3}
+zavzpominal_kozak: {takt: "3/4", tonina: "G dur", od: "H", do: "g''", rozsah: "32 půltónů", pultony: 32, prvni: 0}
+zdravime_vitezstvi: {takt: "2/4", tonina: "A dur", od: "d'", do: "fis''", rozsah: "oktáva a velká tercie", pultony: 16, prvni: 0}
+zdvihni_se_vzhuru: {takt: "2/4", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: 2}
+zdvihni_se_zdvihni: {takt: "2/4", tonina: "D dur", od: "e'", do: "fis''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+zemedelska: {takt: "2/4", tonina: "g moll", od: "d'", do: "g''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 7}
+zitra: {takt: "4/4", tonina: "C dur", od: "h", do: "e''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 1}
+zitra_se_bude_tancit_vsude: {takt: "", tonina: "", od: "e'", do: "fis''", rozsah: "oktáva a velká sekunda", pultony: 14, prvni: 0}
+zivot_a_laska: {takt: "2/2", tonina: "G dur", od: "d'", do: "d''", rozsah: "oktáva", pultony: 12, prvni: -2}
+zpatky_ni_krok: {takt: "4/4", tonina: "D dur", od: "a", do: "e''", rozsah: "oktáva a kvinta", pultony: 19, prvni: 9}
+zpev_svobody: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 0}
+zpivame_si_o_prekrasne_zemi: {takt: "4/4", tonina: "F dur", od: "c'", do: "f''", rozsah: "oktáva a kvarta", pultony: 17, prvni: 5}

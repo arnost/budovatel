@@ -3,7 +3,8 @@
 
 Pro každou píseň s MIDI souborem v noty/midi/ uloží název, adresu a melodii jako dvě řady čísel:
 výšky tónů (MIDI čísla) a délky v šestnáctinách. Melodie se bere ze stopy hlasu (LilyPond ji
-pojmenovává „…:one“ apod.), u souborů bez pojmenované stopy z nejvyšších tónů ostatních stop.
+pojmenovává „…:one“ apod., orchestrální MIDI mají stopu „mel“), u souborů bez takové stopy z nejvyšších
+tónů ostatních stop.
 Repetice jsou v MIDI rozvinuté, takže stačí brát tóny po řadě. Spouštět z kořene repozitáře.
 """
 import glob, json, os, re, struct
@@ -69,7 +70,7 @@ def precti_midi(cesta):
 
 
 def melodie(div, stopy):
-    hlasy = [n for j, n in stopy if ':' in j and n]
+    hlasy = [n for j, n in stopy if (':' in j or j == 'mel' or j.startswith('Zp')) and n]
     if hlasy:
         noty = max(hlasy, key=len)
     else:
@@ -109,13 +110,15 @@ def main():
         if not div:
             continue
         v, d = melodie(div, stopy)
+        hlas = any((':' in j or j == 'mel' or j.startswith('Zp')) and n for j, n in stopy)
         if len(v) < 4:
             continue
-        vystup.append({'t': t.group(1) if t else jmeno, 'u': f'/pisen.phtml/{jmeno.lower()}', 'v': v, 'd': d})
+        vystup.append({'t': t.group(1) if t else jmeno, 'u': f'/pisen.phtml/{jmeno.lower()}', 'v': v, 'd': d, 'hlas': hlas})
     with open('napevy.json', 'w', encoding='utf-8') as f:
-        json.dump(vystup, f, ensure_ascii=False, separators=(',', ':'))
+        json.dump([{k: p[k] for k in 'tuvd'} for p in vystup], f, ensure_ascii=False, separators=(',', ':'))
     print(f'napevy.json: {len(vystup)} písní')
     stejny_napev(vystup)
+    analyza(vystup)
 
 
 def podobnost(q, s):
@@ -150,6 +153,61 @@ def stejny_napev(pisne):
         for k in sorted(pary):
             f.write(f'{k}: [{", ".join(sorted(pary[k]))}]\n')
     print(f'_data/stejny_napev.yml: {len(pary)} písní')
+
+
+JMENA = ['c', 'cis', 'd', 'es', 'e', 'f', 'fis', 'g', 'as', 'a', 'b', 'h']
+JMENA_KRIZKY = ['c', 'cis', 'd', 'dis', 'e', 'f', 'fis', 'g', 'gis', 'a', 'ais', 'h']
+KRIZKOVE = {'G dur', 'D dur', 'A dur', 'E dur', 'H dur', 'Fis dur', 'e moll', 'h moll', 'fis moll', 'cis moll', 'gis moll'}
+INTERVALY = ['prima', 'malá sekunda', 'velká sekunda', 'malá tercie', 'velká tercie', 'kvarta', 'tritón',
+             'kvinta', 'malá sexta', 'velká sexta', 'malá septima', 'velká septima', 'oktáva']
+# lilypondí (holandská) jména tónů -> česká
+LY_TONY = {'c': 'c', 'cis': 'cis', 'des': 'des', 'd': 'd', 'dis': 'dis', 'es': 'es', 'ees': 'es', 'e': 'e', 'f': 'f',
+           'fis': 'fis', 'ges': 'ges', 'g': 'g', 'gis': 'gis', 'as': 'as', 'aes': 'as', 'a': 'a', 'ais': 'ais',
+           'bes': 'b', 'b': 'h', 'ces': 'ces'}
+
+
+def jmeno_tonu(m, krizky=False):
+    """MIDI číslo -> české jméno s oktávou (c' = 60)."""
+    o = m // 12 - 4
+    n = (JMENA_KRIZKY if krizky else JMENA)[m % 12]
+    if o < 0:
+        return n.upper() if o == -1 else n
+    return n + "'" * o
+
+
+def nazev_intervalu(p):
+    if p <= 12:
+        return INTERVALY[p]
+    if p == 24:
+        return 'dvě oktávy'
+    return 'oktáva a ' + INTERVALY[p - 12] if p < 24 else f'{p} půltónů'
+
+
+def analyza(pisne):
+    """Takt, tónina a rozsah melodie každé písně do _data/analyza.yml (zobrazuje se u písně)."""
+    radky = ['# Generuje noty/napevy.py: takt a tónina z .ly, rozsah melodie z MIDI.']
+    for p in pisne:
+        jm = p['u'].rsplit('/', 1)[1]
+        ly = [f for f in glob.glob('noty/lylipond/*.ly') if os.path.basename(f)[:-3].lower() == jm]
+        takt = tonina = ''
+        if ly:
+            t = open(ly[0], encoding='utf-8').read()
+            m = re.search(r'\\time\s+(\d+/\d+)', t)
+            takt = m.group(1) if m else ''
+            m = re.search(r'\\key\s+([a-z]+)\s*\\(major|minor)', t)
+            if m and m.group(1) in LY_TONY:
+                ton = LY_TONY[m.group(1)]
+                tonina = (ton.capitalize() + ' dur') if m.group(2) == 'major' else (ton + ' moll')
+        if not p['hlas']:
+            # melodie poskládaná z nejvyšších tónů doprovodu: rozsah by neodpovídal zpěvu
+            radky.append(f'{jm}: {{takt: "{takt}", tonina: "{tonina}"}}')
+            continue
+        lo, hi = min(p['v']), max(p['v'])
+        radky.append(f'{jm}: {{takt: "{takt}", tonina: "{tonina}", od: "{jmeno_tonu(lo, tonina in KRIZKOVE)}", do: "{jmeno_tonu(hi, tonina in KRIZKOVE)}", '
+                     f'rozsah: "{nazev_intervalu(hi - lo)}", pultony: {hi - lo}, prvni: {p["v"][1] - p["v"][0]}}}')
+    with open('_data/analyza.yml', 'w', encoding='utf-8') as f:
+        f.write('\n'.join(radky) + '\n')
+    print(f'_data/analyza.yml: {len(radky) - 1} písní')
 
 
 if __name__ == '__main__':

@@ -19,6 +19,10 @@ Wikipedie: <a href="https://cs.wikipedia.org/wiki/{{ page.wikipedie | replace: "
 {% if obdobi %}
 období: <a href="/pisne.phtml/#{{ obdobi.id }}">{{ obdobi.nazev }}</a> ({{ obdobi.roky }})<br>
 {% endif %}
+{% assign analyza_id = page.id | split: "/" | last | downcase %}{% assign an = site.data.analyza[analyza_id] %}
+{% if an %}
+{% assign casti = "" | split: "" %}{% if an.takt != "" %}{% assign x = "takt " | append: an.takt %}{% assign casti = casti | push: x %}{% endif %}{% if an.tonina != "" %}{% assign casti = casti | push: an.tonina %}{% endif %}{% if an.od %}{% assign x = "rozsah " | append: an.od | append: "–" | append: an.do | append: " (" | append: an.rozsah | append: ")" %}{% assign casti = casti | push: x %}{% endif %}{% if casti.size > 0 %}nápěv: {{ casti | join: ", " }}<br>{% endif %}
+{% endif %}
 <br>
 <table class="sloupce" width="100%">
     <tr>

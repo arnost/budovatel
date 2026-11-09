@@ -22,4 +22,4 @@ všechno to, co na srdci mi leží.
 Podepsat ten článek může redakce –  
 na tom konečně už nezáleží!“
 
-*Dvě satirická epigramata otištěná pod společným nadpisem v almanachu začínajících autorů Rozlet (Mladá fronta, 1954, s. 121). Autor je otec písničkáře Jaromíra Nohavici.*
+*Dvě satirická epigramata otištěná pod společným nadpisem v almanachu začínajících autorů Rozlet (Mladá fronta, 1954, s. 121). Autorem je nejspíš otec písničkáře Jaromíra Nohavici.*

@@ -52,7 +52,7 @@
     a:visited { color: #382e62; }
     a:hover { color: #fff; }
     /* odkaz na kotvu (#autor) nesmí skončit pod pevnou hlavičkou */
-    html { scroll-padding-top: 50px; }
+    html { scroll-padding-top: 50px; -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
     /* hledací políčko laděné do barev stránky, aby nebilo do očí */
     .hledani { margin: 4px 0 12px; display: flex; max-width: 600px; }  /* na šířku sloupce / tabulky pod ním */
     .hledani input[type=search] { flex: 1; min-width: 0; }
@@ -64,7 +64,7 @@
     /* noty a přehrávače pod písní – v barvách stránky, na šířku hlavičky */
     .noty-pisne { width: 680px; max-width: 100%; margin: 36px 0 28px; padding-top: 6px; border-top: 1px solid #3f5878; }
     .noty-pisne p { margin: 26px 0 8px; }
-    .noty-papir { background: #e6e0cf; border: 1px solid #3f5878; padding: 14px 16px; }
+    .noty-papir { isolation: isolate; background: #e6e0cf; border: 1px solid #3f5878; padding: 14px 16px; }
     .noty-papir img { display: block; width: 100%; mix-blend-mode: multiply; }  /* bílý papír not dostane barvu starého papíru */
     .noty-pisne midi-player::part(control-panel) { background: #7590b2; border: 1px solid #3f5878; border-radius: 0; padding: 4px 6px; }
     .noty-pisne midi-player::part(play-button) { background: #4a6588; color: #fff; border-radius: 0; }

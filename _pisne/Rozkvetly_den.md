@@ -37,4 +37,4 @@ tisícem věcí život rozkvétá
 a rozvíjí se, rozvíjí se v nás,   
 tisícem věcí život rozkvétá a rozvíjí se v~nás.
 
-*Radim Drejsl (1923–1953) patří s Vítem Nejedlým a Ludvíkem Podéštěm ke klasikům budovatelské písně, jeho nejznámější skladbou je ale právě nepolitický Rozkvetlý den. Zemřel v dubnu 1953, dva dny po návratu ze zájezdu skladatelů do SSSR; podle oficiální verze šlo o sebevraždu, rodina a přátelé ji zpochybňovali. Textař Miloslav Zachata (1925–1970) byl později televizní režisér a scenárista.*
+*[Radim Drejsl](/state.phtml/radim_drejsl) napsal píseň v roce 1949 pro Lidový soubor konzervatoře. Refrén ho podle monografie Jiřího Válka napadl rovnou s vlastním politickým textem „Dál, jsme už dál, o dvacet procent nad normál a ještě tři stupínky a zesmutní mistr Churchill a Maršál“ (Maršál je Marshallův plán). Nepolitický text, podle kterého dostala píseň název, napsal po domluvě se skladatelem jeho spolužák Miloslav Zachata (1925–1970), později televizní režisér a scenárista.*

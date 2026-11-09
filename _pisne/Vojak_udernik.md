@@ -53,6 +53,6 @@ voják a úderník.
 
 *Refrén*
 
-*V soupisu Drejslova díla na české Wikipedii je píseň uvedena s rokem vzniku 1950 a s textem Miroslava Kroha.*
+*Zpěvník Armáda zpívá připisuje hudbu i slova Radimu Drejslovi, soupis díla v monografii Jiřího Válka (1956) i česká Wikipedie však uvádějí text Miroslava Kroha a rok vzniku 1950. Ještě v roce 1950 ji Armádní umělecký soubor natočil pro Armádní diskotéku se sólistou Iljou Doležalem. Více o skladateli: [Radim Drejsl](/state.phtml/radim_drejsl).*
 
 *Noty a text podle zpěvníku [Armáda zpívá](/state.phtml/predmluva_armada_zpiva) (Naše vojsko, 1951).*

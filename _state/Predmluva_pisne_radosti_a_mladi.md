@@ -36,4 +36,4 @@ Loni jsme vzpomínali desátého výročí osvobození Československé republik
 Praha v červnu 1956  
 Dr Jiří Válek
 
-*Drejslovy písně na budovatel.cz: [Armádě zdar](/pisen.phtml/armade_zdar), [Rozkvetlý den](/pisen.phtml/rozkvetly_den), [Tankistům](/pisen.phtml/tankistum), [Voják úderník](/pisen.phtml/vojak_udernik), [Za Gottwalda vpřed!](/pisen.phtml/za_gottwalda_vpred).*
+*Život a dílo podle Válkovy knihy shrnuje stať [Radim Drejsl](/state.phtml/radim_drejsl). Drejslovy písně na budovatel.cz: [Armádě zdar](/pisen.phtml/armade_zdar), [Rozkvetlý den](/pisen.phtml/rozkvetly_den), [Tankistům](/pisen.phtml/tankistum), [Voják úderník](/pisen.phtml/vojak_udernik), [Za Gottwalda vpřed!](/pisen.phtml/za_gottwalda_vpred).*

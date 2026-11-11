@@ -8,9 +8,9 @@ youtube: pMU1JB4RZnI
 
 Známo bylo u roty, že jsem ulejvák,  
 jednou tak a jednou tak, nerad chodil na cvičák.  
-*Sbor:* Pravdu má, pravdu má, až když přišel velitel.  
+*Sbor:* Pravdu má, pravdu má, nerad chodil na cvičák.  
 
-Když se ráno vstávalo, budíček zvučně zněl,  
+Když se ráno vstávalo, budíček krutě zněl,  
 já jsem vstával poslední, až když přišel velitel.  
 *Sbor:* Pravdu má, až když přišel velitel.  
 
@@ -28,13 +28,13 @@ Přišla doba vánoční, o které z nás každý snil,
 v rámci velké nadílky jsem dárky s psaním rozbalil.  
 *Sbor:* Nadílku vánoční, dárky s psaním rozbalil.  
 
-Pionýři píšou mi: „My ve tvých stopách jdem,  
-my chceme být v učení jak ty vzorným vojákem.“  
+Pionýři píšou tři: „My ve tvých stopách jdem,  
+my chceme býti v učení jak ty vzorným vojákem.“  
 *Sbor:* Jééé!  
 
-Že to psaní zabralo, celá rota poznala,  
+Že to psaní zabralo, rota poznala,  
 hned po svátcích vánočních nová éra nastala.  
-Místo jeho kavalce oku lahodí,  
+Místo jeho, kavalec, oku lahodí,  
 v morálce i výcviku s celou rotou závodí,  
 ze všech starých neřestí nic ho neláká,  
 je první v rotě kandidát na vzorného vojáka.  
